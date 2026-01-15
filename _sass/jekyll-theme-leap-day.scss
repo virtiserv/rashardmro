@@ -340,35 +340,40 @@ a small {
   text-align: center;
 }
 
+
+
 .tupperware > * {
+  display: block;
   border: 1px solid #c9ff23;
   border-radius: 1px;
   padding: 10px;
   flex-basis: 200px;
-  flex-shrink: 3;
-
-  flex-grow: 1;
+  flex-shrink:3;
+  flex-grow:1;
   overflow: hidden;
   width: fit-content;
   block-size: max-content;
   height: fit-content;
   align-items: flex-start;
   transition: all 300ms ease-in-out;
-
+  
   &:hover {
     flex-grow: 9.3;
+    
   }
 }
 
+
 .tupperware {
   display: flex;
-  flex-flow: row wrap;
+  flex-flow: row wrap; 
   padding: 1px;
   gap: 1px;
   height: auto;
 }
 
 .tupperware img {
+
 }
 
 .tupperware figcaption {
@@ -378,6 +383,8 @@ a small {
   padding: 3px;
   text-align: center;
 }
+
+
 
 .paginator {
   width: 90vw;

@@ -7,6 +7,10 @@ image: 0102619orig.webp
 author: "RashardKelly @nasa-jpl"
 ---
 
+
+[EDSNSMALLSATS](https://www.nasa.gov/smallspacecraft/edsn-mission/)
+@BLACKGIRLSCODE HI NiOR
+
 JET PROPULSION LABORATORY JPL GOLDSTONE TESTS [link](https://archive.org/details/C-1975-2390)
 
 ![goldstone](https://ia801208.us.archive.org/24/items/C-1975-2390/1975_02390.jpg)

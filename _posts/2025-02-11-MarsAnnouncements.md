@@ -1,10 +1,12 @@
 ---
 layout: post
 title: Mars_News
+categories: mars
 image: Mars_Perseverance_EAF_0002_0667110417_773ECV_N0010052EDLC00002_0010LUJ01.png
 ---
 
-[@blueorigin](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4) [@emit-sds @blackgirlscode archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4)
+[@blueorigin](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4)
+ [@emit-sds @blackgirlscode archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4](https://archive.org/details/commitmentmaintenance/0000000_VID_20251109_141641_311.mp4)
 @nasa-jpl @cisa the launch moved to Wednesday according to [@blueorigin @stateofcalifornia @cityoflosangeles](https://www.blueorigin.com/missions/ng-2)
 
 ```

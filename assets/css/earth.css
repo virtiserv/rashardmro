@@ -20,7 +20,8 @@ font-size: 1rem;
      /* background-image: url("https://fgbg.art/static/aof3_library-3f491fd56f7a36828c14e5b3c02c2327.gif"); AoF3 Library */
     /* background-image: url("https://fgbg.art/static/motw_downtown-cb25d556c94dde722c37d5cad1c924a6.gif"); dr wiley mvc */
     /* background: url(https://raw.githubusercontent.com/ricoThaka/ricothaka.github.io/master/assets/MOSHED-2024-3-4-13-41-24.jpg) no-repeat 0 0 fixed; */
-    background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; 
+     /* background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; */
+    background: url(https://web.archive.org/web/20250416050323/https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg)  no-repeat 0 0 fixed; 
     background-size: cover;
      line-height: 1.5;
      -webkit-background-size: cover;
@@ -66,7 +67,8 @@ padding: 0px;
 /* opera does not like 'margin:20px auto' */
 /* background: #666; */
 border: 1px solid white;
-background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_new_432.jpg) no-repeat 0 0 fixed;
+ /* background: url(https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg) no-repeat 0 0 fixed; */
+ background: url(https://web.archive.org/web/20250416050323/https://landsat.gsfc.nasa.gov/wp-content/uploads/2013/12/San_Fran_old_432.jpg)  no-repeat 0 0 fixed;
 /* https://developer.mozilla.org/en-US/docs/Web/CSS/background-size */
 background-size: cover;
 margin-right: auto;

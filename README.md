@@ -2,43 +2,67 @@
 
 <img width="1080" height="1920" alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/876168b0-7aad-4489-82a6-7ca4c132b008" />
 
-# Rashard Kelly NasaJpl MRO JUNO iSS
-
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+[ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/798fd579-6809-49e7-97da-18478717c485" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/e96550dd-6454-4786-90a2-2facba8e2fc0" />
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/39f3dee0-5d11-49ee-8e2c-71121b5c3ff9" />
+<img   alt="facebook still down, @whatsapp needed to give it a fair try @blackgirlscode @nasa-jpl @nasa-pds @la-county-isd @stateofcalifornia @cityoflosangeles" src="https://github.com/user-attachments/assets/71e6f1a4-eaf3-4263-90a0-6971b2c159a6" />
 
-<img  alt="image" src="https://github.com/user-attachments/assets/594a9e34-f93c-4374-a5af-c10259fc37f5" />
+<img alt="FIRMS_24hrs @-90 5,28 7,7 1z" src="https://github.com/user-attachments/assets/e17d525e-4a54-4f25-a402-43eea574927a" />
 
-<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
+![DodgersGoogleDoodle @MajorLeagueBaseball](https://www.google.com/logos/doodles/2025/mlb-fall-classic-2025-6753651837110842.2-ldrk.png)
 
-
-<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
-
-
-<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
-
-![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+[@nasa-pds](https://awpc.cattcenter.iastate.edu/directory/keisha-lance-bottoms/) 
 
 
+[DigitalMass Norwich Cathedral - Midnight Mass ](https://www.youtube.com/watch?v=0aWhYF2uTBw) /
+[Midnight Mass at Westminster Abbey | Wednesday 24th December](https://youtu.be/SEiHCNqIqtc) @Cia my chrismas eve @blackgirlscode in the library shivering 
+
+@blackgirlscode https://ieeexplore.ieee.org/document/9969974
 
 
+![Mars](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/TRA/ORB_000800_000899/TRA_000878_1410/TRA_000878_1410_COLOR.browse.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9975a70b-359a-4606-b8a3-a5fd2b3fb17e" />
 
 
-[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
-[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+<img  alt="image" src="https://github.com/user-attachments/assets/26f1c3d5-e506-48dd-9a0d-72ab7f396734" />
 
-![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+<img   alt="image" src="https://github.com/user-attachments/assets/7ed75d62-19c3-43fb-8c2f-f9edafe8322b" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/9a1f34ca-df5c-4e44-8bee-e74462a2c042" />
 
-![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
-![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+<img   alt="image" src="https://github.com/user-attachments/assets/3ee61892-fcbb-4f9c-92b2-4e76abf6c002" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/16565093-f74d-4bda-b972-8dd544d768fb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/82cff5ae-027e-45f1-a1a0-02535108e223" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/23816c11-44be-4c2c-99ec-51bf2c1f02ce" />
+<img   alt="image" src="https://github.com/user-attachments/assets/36799593-f2af-4005-92ef-fa19a28412da" />
+<img alt="image" src="https://github.com/user-attachments/assets/bb7c6fe4-83a3-42db-b2ff-6009e383d45d" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/31111ad4-38f7-445d-97b5-fae0312a335e" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/91c3087b-bb24-449f-b759-fba026730c02" />
+<img alt="image" src="https://github.com/user-attachments/assets/997a7178-74d9-4e61-abba-b9ab085d2fe7" />
+
+
+NewSkills : coalace for robotic story boarding 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6ad49286-bd9f-4037-bc7e-de448b5fe282" />
+
+![hirise M R O](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/RDR/ESP/ORB_090200_090299/ESP_090296_1490/ESP_090296_1490_MIRB.browse.jpg) 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/b221cafa-4593-4f3b-a9bb-53d2be23bd3b" />
 
@@ -49,6 +73,9 @@
 <img  alt="image" src="https://github.com/user-attachments/assets/bcce8034-9e00-46fe-8e5e-54b4f90b5a27" />
 
 <img  alt="Rashard iman Kelly 2010 - 2015" src="https://github.com/user-attachments/assets/70d1ade6-43d2-4292-b583-3ab693456912" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/889f8485-2d1f-44b6-a32b-fc433436b53e" />
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/76c9fb94-63db-4f4d-94fe-68de9ca280d3" />
 
@@ -83,11 +110,64 @@
 
 <img  alt="image" src="https://github.com/user-attachments/assets/22f9bef7-677a-4ce1-b440-a07feb042187" />
 
+<img  alt="image" src="https://github.com/user-attachments/assets/e25cb230-8830-46da-a9e5-63917d816ce2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ec807452-801a-42f1-8949-98a0b872614a" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f508a5e5-9c13-4a7d-813e-85e66bb881e4" />
+
+<img alt="Latrice_518836128-8682f3e1-81d0-4fec-9a20-039bd10c1add" src="https://github.com/user-attachments/assets/f55da2e4-aafa-41ca-a608-f6459be695eb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a746d988-14c6-43c9-91d9-a82288d494f2" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b19770e8-b03e-43ca-b039-276ab767c6a3" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39f3dee0-5d11-49ee-8e2c-71121b5c3ff9" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/594a9e34-f93c-4374-a5af-c10259fc37f5" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f8406f78-7451-4bcd-96f9-bc6cc161f48c" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e0b6dccf-6b1d-4eb4-a8c3-6a7ef493ffa2" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/86f17cd0-8544-471e-9035-dd009ec50b21" />
+
+<img src="https://private-user-images.githubusercontent.com/218409907/460834760-7ae09a51-3773-4df0-b299-2827b1df1397.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjEzNTAwNzEsIm5iZiI6MTc2MTM0OTc3MSwicGF0aCI6Ii8yMTg0MDk5MDcvNDYwODM0NzYwLTdhZTA5YTUxLTM3NzMtNGRmMC1iMjk5LTI4MjdiMWRmMTM5Ny5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMDI0JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTAyNFQyMzQ5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xMGMyNDBlMzJjNzUzMGM5ZTEzMDgwODVmMTJiMWQ0ZGM0YTdkY2MzZWQ4OTllZDRjODU5NDcxMTMyNmJkZGQ4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.E3DREq8_fXqmnuOAXD8Prr7E23fB1Rct0zqdUlWQIOE"/>
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/0f6cffdb-80e1-4eba-a131-5d7d34a15a39" />
+
+![image](https://github.com/user-attachments/assets/cb8302a6-28eb-44b6-ba37-3cfec0ea11b7)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5b70babd-b3fc-484b-9871-f525d4c295cc" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8b55e065-2d8e-4131-80aa-8b97d064bc81" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2290c164-01b5-409c-8278-8800ad2f9d30" />
+
+
+[![Twitter Follow](https://img.shields.io/badge/Social-rashardsdata__-blue?style=social&logo=X)](https://twitter.com/rashardsdata)
+[![.github/workflows/ci.yaml](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/leap-day/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-leap-day.svg)](https://badge.fury.io/rb/jekyll-theme-leap-day)
+
+![NASAJPL](https://space.jpl.nasa.gov/msl/headers/msl.gif)
+
+
+![image](https://github.com/user-attachments/assets/7ae09a51-3773-4df0-b299-2827b1df1397)
+![image](https://github.com/user-attachments/assets/12764c15-9a0f-4b4a-ae55-75119752cc6f)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/bf20ad74-9105-4fb5-b2f6-23220aad31ba" />
+<img alt="image" src="https://github.com/user-attachments/assets/45b60d13-3b8d-415a-a544-f9ad7d5324a2" />
+<img alt="image" src="https://github.com/user-attachments/assets/c25c0588-1ddf-40d5-9266-9fb163d16db4" />
 
 @blackgirlscode @nasa-jpl 
+<img   alt="image" src="https://github.com/user-attachments/assets/a2992f3b-c188-4d42-813f-e7cb1562e065" />
 
 [@nasa Tune in @blackgirlscode](https://www.youtube.com/embed/1n4SjH6URAo?si=LYJX4TyVSPsXHHKN)
 <img alt="image" src="https://github.com/user-attachments/assets/d212c1f5-a854-480f-8d17-3cee617536b4" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7f9f4c10-f511-4112-b401-d22735f22b79" />
 
 
 ![The Copernicus Browser makes it possible to browse and download full resolution images from all Copernicus missions.](https://upload.wikimedia.org/wikipedia/commons/c/c3/Copernicus_Logo_240.png)
