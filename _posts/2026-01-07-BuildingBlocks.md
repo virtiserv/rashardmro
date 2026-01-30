@@ -8,6 +8,214 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+
+ @jaxa `gpm.nasa.gov` is loading slow from longbeach public library @nasa-jpl took too long to respond.
+```
+This site can’t be reached
+gpm.nasa.gov took too long to respond.
+Try:
+
+Checking the connection
+Checking the proxy and the firewall
+Running Windows Network Diagnostics
+ERR_TIMED_OUT
+```
+
+```shell
+Microsoft Windows [Version 10.0.18362.1256]
+(c) 2019 Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC26
+   Primary Dns Suffix  . . . . . . . : lbpa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lbpa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-87-47
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   IPv4 Address. . . . . . . . . . . : 192.168.161.126(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+   DNS Servers . . . . . . . . . . . : 192.168.129.12
+                                       192.168.128.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\PAC>
+```
+[Link](https://whatismyipaddress.com/ip/205.154.246.79) @nasa-jpl @nasa-pds @nasa-openscapes
+IP Details For: 205.154.246.79
+
+Decimal:3449484879
+
+Hostname:lib-03-subnet-79.rdns.cenic.net
+
+ASN:2152
+
+ISP:CENIC
+
+Services:None detected
+
+Country:United States
+
+State/Region:California
+
+City:Cypress
+
+Latitude:33.8170 (33° 49′ 1.05″ N)
+
+Longitude:-118.0373 (118° 2′ 14.25″ W)
+<img  alt="image" src="https://github.com/user-attachments/assets/625fa27f-c9b2-4162-981c-6b81931b44d4" />
+
+
+In 1997, NASA and the Japan Aerospace Exploration Agency (JAXA), launched the Tropical Rainfall Measuring Mission (TRMM) to learn more about the role of tropical rainfall in Earth’s water and energy cycles. Orbiting from 35° North to 35° South, the satellite carries the first space-based precipitation radar and a microwave imager designed to observe moderate to intense tropical rainfall. [Wiki](https://en.wikipedia.org/wiki/Global_Precipitation_Measurement)
+[AGU](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023EF003534) [EO](https://science.nasa.gov/earth/earth-observatory/image-of-the-day/) 
+
+![@jaxa GLOBAL RAiNFALLWATCH](https://sharaku.eorc.jaxa.jp/GSMaP/img/header_title_E.png) 
+ [@jaxa GLOBAL RAiNFALLWATCH](https://sharaku.eorc.jaxa.jp/GSMaP/)
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/0fa018a7-026c-42b2-9910-c6556fa38953" />
+
+By NASA - <a rel="nofollow" class="external free" href="https://science.nasa.gov/toolkits/spacecraft-icons">https://science.nasa.gov/toolkits/spacecraft-icons</a> (<a rel="nofollow" class="external text" href="https://smd-prod.s3.amazonaws.com/science-green/s3fs-public/thumbnails/image/GPM.png">image link</a>), Public Domain, <a href="https://commons.wikimedia.org/w/index.php?curid=58302456">Link</a>
+
+```
+Registrar
+get.gov
+WHOIS Server
+whois.nic.gov
+```
+
+[https://lookup.icann.org/en/lookup](https://lookup.icann.org/en/lookup) @podaac @nasa-jpl @emit-sds @staeofcalifornia @blackgirlscode say @icann! [LAtrice](https://www.facebook.com/thevirtiservway/)
+
+```
+Name: nasa.gov
+Registry Domain ID: DF12B2D9A-GOV
+Domain Status:
+serverTransferProhibited
+
+Nameservers:
+a1-32.akam.net
+
+a12-64.akam.net
+
+a14-67.akam.net
+
+a5-66.akam.net
+
+a8-66.akam.net
+
+a9-64.akam.net
+
+Dates
+Registry Expiration: 2026-07-31 14:55:32 UTC
+Updated: 2025-09-07 18:35:13 UTC
+Created: 1997-10-02 01:29:26 UTC
+```
+
+
+```shell
+>EXACT< name search [SPACE sensitive]:
+ NAME = artimis;
+Continue [ <cr>=yes, n=no, ? ] : 
+*******************************************************************************
+JPL/DASTCOM            Small-body Index Search Results     2026-Jan-22 11:18:40
+ Comet AND asteroid index search:
+   NAME = artimis;
+ Matching small-bodies: 
+    No matches found.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: artemis
+*******************************************************************************
+ Multiple major-bodies match string "ARTEMIS*"
+  ID#      Name                               Designation  IAU/aliases/other   
+  -------  ---------------------------------- -----------  ------------------- 
+     -192  THEMIS-B (spacecraft)              2007-004B    ARTEMIS-P1           
+     -193  THEMIS-C (spacecraft)              2007-004C    ARTEMIS-P2           
+    -1023  Artemis I (spacecraft)             2022-156A    Orion EM-1           
+ 
+   Number of matches =  3. Use ID# to make unique selection.
+*******************************************************************************
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -1023
+*******************************************************************************
+ Revised: Dec 10, 2022        Artemis I / Spacecraft (Earth)              -1023
+                              https://www.nasa.gov/artemis-1
+ BACKGROUND:
+  NASA's 26-day unmanned Artemis I mission was a test of integrated systems to:
+   - launch Orion atop the SLS rocket 
+   - operate the spacecraft in a deep space environment
+   - orbit the Moon in a distant retrograde orbit before returning to Earth
+   - test Orion's heat shield at 30,000 km/hr (2760 deg. C), and 
+   - recover the crew module after reentry, descent, and splashdown
+ MAJOR EVENTS:
+  Launched November 16 @ 06:47:44 UTC from pad 39B at the Kennedy Space Center. 
+  Relative timings below may or may not be be shifted slightly due to launch 
+  being delayed 43 minutes.
+  launch+00h 18m 09s - Orion deploys solar arrays in Earth orbit
+        +00h 52m 56s - Perigee raise maneuver (22 second burn)
+        +01h 29m 27s - Trans-lunar injection burn (18m burn)
+        +01h 57m 36s - Orion/ICPS separation
+```
+
+@TheSpaceDevs @nasa-pds @emit-sds . . . 
+[Artemis I Weather Criteria](https://www3.nasa.gov/sites/default/files/atoms/files/artemis_i_weather_criteria_fact_sheet_0.pdf)
+@cityoflosangeles @la-county-isd you guys should know about these things, then theres places we can team to keep los angeles safe Mrs Solis @bloomberg @foxnews
+`https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1` [Artemis1](https://web.archive.org/web/20220430125134/https://www.nasa.gov/artemis-1) The Link Points to `nasa.gov/images/` January 26 is the earliest snapshot revealing the artemis 1 mission log being vandalized @whitehouse i need mrs bass at somepoint to help me with my family, somone trying to kill me! This is from around the fires 
+```
+
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+13:38:09 January 26, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+18:07:54 February 04, 2025
+
+Got an HTTP 301 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/images/
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e1e5999-afc0-4c7e-ab13-f95914e18a17" />
+
+```
+Loading...
+
+https://www.nasa.gov/artemis-1/ |
+21:23:53 July 23, 2024
+
+Got an HTTP 302 response at crawl time
+
+Redirecting to...
+
+https://www.nasa.gov/mission/artemis-i/
+```
+`https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/`
+[https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/](https://web.archive.org/web/20240723212353/https://www.nasa.gov/mission/artemis-i/) @nasa @whitehouse @dhs-gov 
+<img alt="image" src="https://github.com/user-attachments/assets/e42599db-8ba8-4353-9502-0029544243ed" />
+
+
+
+
 # Stereo
 @nasa-jpl @blackgirlscode its back up but with a warning @whitehouse 
 `We expect the stereo.gsfc.nasa.gov web site to be decommissioned early in 2026. With a few exceptions for out-of-date material, all resources have been copied to https://stereo-ssc.nascom.nasa.gov/ . Please change any bookmarks or automatic downloads you may have set up.` [https://stereo.gsfc.nasa.gov/](https://stereo.gsfc.nasa.gov/) @JHUAPL @CityOflosangeles KarenBass Kamlager Dove @la-county-isd
@@ -19,7 +227,7 @@ ITs not serving results from common sense check box clicking... i spoke about it
 
 This is how its supposed to look 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/73bec032-095e-42d1-bea3-5c7506eec620" />
+<img   alt="image" src="https://github.com/user-attachments/assets/73bec032-095e-42d1-bea3-5c7506eec620" />
 <img alt="image" src="https://github.com/user-attachments/assets/1a176511-f548-4e02-8cfe-93cabae60986" />
 <img src="https://github.com/user-attachments/assets/caa6c166-84c8-40ad-a18e-11b4e2211a8d" alt="image"/>
 <img  alt="image" src="https://github.com/user-attachments/assets/59916f00-7508-4ce5-a18a-f6fd1c25082d" />

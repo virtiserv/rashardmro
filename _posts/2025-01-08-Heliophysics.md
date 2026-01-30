@@ -2,15 +2,67 @@
 layout: post
 mermaid: true
 title:  "Heliophysics"
-date:   2026-01-12 22:51:06 -0800
+date:   2026-01-23 12:51:06 -0800
 published: true
 image: latest_1024_0193.jpg
 tags: covid
+permalink: Sun
 ---
 
 
 # Heliophysics
 The Science Mission Directorate Heliophysics Division studies the nature of the Sun, and how it influences the very nature of space 
+
+## CODEX
+_Coronal Diagnostic Experiment_
+CODEX is a solar coronagraph installed on the International Space Station to gather important information about the [solar wind](https://www.jpl.nasa.gov/infographics/the-solar-wind-across-our-solar-system/) and how it forms. 
+<img alt="image" src="https://github.com/user-attachments/assets/94ea869e-6a66-4cc7-8c50-e51cec63d251" />
+![https://science.nasa.gov/wp-content/uploads/2024/06/coronasolarwind-en.gif](https://science.nasa.gov/wp-content/uploads/2024/06/coronasolarwind-en.gif) 
+[Link](https://science.nasa.gov/mission/codex/)
+
+
+## Strong Flare Erupts From Sun
+[watch](https://assets.science.nasa.gov/content/dam/science/hpd/solar-physics/12-18-2026_X1pt9Flare_131-171-304_1080_v2.mov)
+The Sun emitted a strong solar flare, peaking at 1:09 p.m. EST on Jan. 18, 2026. NASA’s Solar Dynamics Observatory, which watches the Sun constantly, captured video of the event
+[Link](https://science.nasa.gov/blogs/solar-cycle-25/2026/01/20/strong-flare-erupts-from-sun-8/) [VideoEmbedded @nasa](https://science.nasa.gov/blogs/solar-cycle-25/2026/01/20/strong-flare-erupts-from-sun-8/) if you have trouble with .mov files @apple @la-county-isd @cityoflosangeles @blackgirlscode 
+
+## "Our Mr. Sun" :: _VINTAGE_
+
+[PART1](https://youtu.be/kYPQb7SnaBE?si=SMdXhL86JCuYFKo3) ::
+ [PART2](https://youtu.be/A9XtfNRVBlI?si=som_hQcU32MzGm6F)
+
+This film "Our Mr. Sun" is one of the episodes of the Bell Science Series. This was a special series of nine films created between 1956 and 1964 by Bell Telephone / AT&T corporation. These were crafted with entertaining animation and storylines that presented complex science theory in a clever way. Director Frank Capra wrote the screenplay for “Our Mr. Sun” with help from a scientific advisory board. (Donald Menzel's book titled “Our Sun” published in 1949, was also used.) This feature takes a look at our Sun, the physics of how it works, and its effect on the Earth.  The film stars Frank Baxter as a factitious science researcher and Eddie Albert as a science writer. Part 2 begins with a discussion on thermonuclear reactions. It also digs shows early work in solar energy and hints that it could be a replacement for fossil fuels
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/5eff5051-18cb-461f-85d8-17fa92a48cdb" />
+
+![sdolab](1https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg)
+
+### Nuclear Spectroscopic Telescope Array
+
+## NuSTAR
+The Nuclear Spectroscopic Telescope Array, or NuSTAR, mission studies the universe in high energy X-rays to better understand the dynamics of black holes, exploding stars and the most extreme active galaxies.
+## NuSTAR's Quiet Sun _[WATCH](https://youtu.be/vIGRdOuOqBc)_
+Science Video • October 17th, 2018
+This is the first full view of the quiet Sun with NASA's Nuclear Spectroscopic Telescope Array (NuSTAR). The high-energy X-rays from NuSTAR are shown in comparison to EUV images from NASA’s Solar Dynamics Observatory/Atmospheric Imaging Assembly instrument (SDO/AIA) and the X-ray Telescope (XRT) on JAXA’s Hinode. These three telescopes all captured the quiet Sun on September 28, 2018, with the NuSTAR images made from a mosaic of smaller images. [WATCH](https://youtu.be/vIGRdOuOqBc)
+[Read_More](https://nustar.caltech.edu/video/nustar181017v1) @blackgirlscode @la-county-isd [Homepage](https://nustar.caltech.edu/) [MissionSite](https://www.jpl.nasa.gov/missions/nuclear-spectroscopic-telescope-array-nustar/)
+
+[NuSTAR - eyes.nasa.gov](https://eyes.nasa.gov/apps/solar-system/#/sc_nustar)
+[NuSTAR at the 247th Meeting of the American Astronomical Society](https://nustar.caltech.edu/news/nustar250116)
+`bonus` [NASA selected Boeing in December 2007 to built the third generation of TDRS (Tracking & Data Relay Satellite)](https://space.skyrocket.de/doc_sdat/tdrs-11.htm) @emit-sds 
+[NuSTAR - TUMBLR_POST](https://www.tumblr.com/rashardmro/806558877712875520/monitoring-water-quality-in-lakes-and-coastal?source=share)
+
+[jpl](https://www.jpl.nasa.gov/missions/nuclear-spectroscopic-telescope-array-nustar/) / [Wiki](https://en.wikipedia.org/wiki/NuSTAR) / @CalTech @nasa-jpl [nustar.caltech.edu/](https://nustar.caltech.edu/) // [heasarc.gsfc.nasa.gov/docs/nustar/](https://heasarc.gsfc.nasa.gov/docs/nustar/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5f1ae23b-585b-4bfd-8b34-17236fff604b" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1e000f28-8e0b-4810-9743-2829e5f6e719" />
+
+
+![NuSTAR](https://nustar.caltech.edu/assets/nustar_silhouette_name-8b5f80aabe38a1a7a929c9e9e3b4815faed029f99a388d23c538e3502c8d9bc5.png) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/c877eee4-e616-4984-ba3f-504f1db53d66" />
 
 # Stereo
 @nasa-jpl @blackgirlscode its back up but with a warning @whitehouse 

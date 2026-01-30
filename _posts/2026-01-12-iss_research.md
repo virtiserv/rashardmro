@@ -2,7 +2,7 @@
 layout: default
 title:  "iSS_ResearcH"
 published: true
-date:   2026-01-12 21:19:06 -0800
+date:   2026-01-15 21:19:06 -0800
 tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
@@ -16,6 +16,54 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 # San Diego
 
 
+
+
+[Map](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.85/-13037791.47/3838887.09&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0) 
+
+@TheSpaceDevs @BlueOrigin @la-county-isd @blackgirlscode @nasa-pds @UCSD @opensandiego @CityofSandiego @COSD-PANDA
+<img  alt="image" src="https://github.com/user-attachments/assets/1478e7e0-ad1b-4d66-bb63-cf7ab976b51c" />
+
+
+[https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS035-E-27235&illum=day](https://eol.jsc.nasa.gov/ExplorePhotos/?mrf=ISS035-E-27235&illum=day)
+<img  alt="image" src="https://github.com/user-attachments/assets/5fab6cae-045e-49b8-b84f-6d3f53e71f68" />
+
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-sdlandingprepcrew10' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+@nasa-jpl @LACMTA hr [@la-county-sd @cityoflosangeles Scabs](https://rashardmro.tumblr.com/post/805837304488935424) 
+
+# San Diego
+"Dragon [SpaceX](https://www.facebook.com/ISS/videos/a-mission-to-inspire-may-30-2025/1683840579191525/) is no longer [privatized](https://www.nasa.gov/humans-in-space/commercial-space/commercial-crew-program/commercial-crew-program-essentials/)" - @nsa @r-spacex announcer @blackgirlscode @cityoflosangeles @la-county-isd @Stateofcalifornia @axiomhq @TheSpaceDevs @BlueOrigin @rocketlab
+
+# LAnded!
+### [NASA’s SpaceX Crew-11 Mission Returns, Splashes Down off California](https://www.nasa.gov/news-release/nasas-spacex-crew-11-mission-returns-splashes-down-off-california/)
+<img alt="image" src="https://github.com/user-attachments/assets/5391e2b8-36e0-49fe-9d93-61d2a44120e4" />
+
+
+[NASA Crew-11 Splashdown LIVE SpaceX Dragon Returns Astronauts to Earth  NASA LIVE  N18L - Watch](https://youtu.be/d8YAoVRNHD4) @cnn @nasa @spaceexplorationtechnologies @r-spacex [NASA Data Helps Maine Oyster Farmers Choose Where to Grow](https://science.nasa.gov/earth/nasa-data-helps-maine-oyster-farmers-choose-where-to-grow/) @newshour [After a medical evacuation from space, NASA's Crew-11 returns to Earth a month early - @npr](https://www.npr.org/2026/01/15/nx-s1-5677647/nasa-spacex-crew-11-splashdown-return) [SPACE.COM SpaceX Crew-11 astronauts return to Earth after 1st-ever medical evacuation of ISS](https://www.space.com/space-exploration/international-space-station/spacex-crew-11-astronauts-return-to-earth-after-1st-ever-medical-evacuation-of-iss) [NBC - NASA Crew-11 splashes down after returning to Earth](http://nbcnews.com/video/shorts/nasa-crew-11-splashes-down-after-returning-to-earth-256011845777) @airbus #gmNormaniLatriceBrandyErikACoraL [NASA's SpaceX Crew-11 Re-Entry and Splashdown @NAsa @usnavy](https://youtu.be/qRVoblm2Nxw?t=5959)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ab631d0c-22d3-46c2-a037-e7a1feba4a22" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/9fd3cc18-1114-4c95-b301-015c3548bfd0" />
+<img alt="image" src="https://github.com/user-attachments/assets/e2ef7080-a5d6-4be1-835e-7660e54f29e3" />
+<img  alt="image" src="https://github.com/user-attachments/assets/23391d59-f702-4d0f-8309-392c7118e1d0" />
+
+# LAnding Prep
+<img  alt="image" src="https://github.com/user-attachments/assets/926ab3f9-5d09-482d-9bb7-7db4c949d133" />
+
+@nasa-develop `space capsule landing`
+[Crew-11 set for undocking and splashdown after medical situation forces early return - nasaspaceflight.com](https://www.nasaspaceflight.com/2026/01/crew-11-return/)
+[Archive](https://archive.org/details/g-18-fd-dmw-24fr-20260113-1807) : [Files](https://archive.org/download/g-18-fd-dmw-24fr-20260113-1807) : [Tumblr](https://rashardmro.tumblr.com/post/805760445597335552/crew-11-landing-san-diego-as-of-322pm-pst) @TheSpaceDevs Crew 11 LANDiNG SAN DiEGO as of 3:22pm PST [Ecostress](https://ecostress.jpl.nasa.gov/gallerylist) files on this [page - 2026/01/13/iss_research.html](https://holetoanotheruniverse40.github.io/2026/01/13/iss_research.html) / [folder](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-sdlandingprepcrew10) @nasa-jpl @emit-sds @blackgirlscode @la-county-isd @CityOfLosAngeles 
 
 
 [Map](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.85/-13037791.47/3838887.09&layers=aqv_tss_20260107_sentinel:1.00:0.00:30.00:default&grids=1,0) 
