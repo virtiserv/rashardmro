@@ -3,6 +3,8 @@
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 [ROVERsFromLOSANGELES](https://thakarashard.github.io/rashardmro/2025/12/23/JPL-RoverWorLD.html)
 
+<img alt="image" src="https://github.com/user-attachments/assets/efb472c4-e7f8-4379-bc3e-1021f7716099" />
+
 
 _This branch is 4 commits ahead of and 106 commits behind ThakaRashard/rashardmro:master._
 [https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster](https://github.com/krashardiman-ctrl/rashardmro/compare/master...ThakaRashard%3Arashardmro%3Amaster)
