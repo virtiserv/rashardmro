@@ -30,8 +30,10 @@ a few animated ones are in this archive [LinK](https://archive.org/details/nsn-o
 _4 Atlanta_ **[DataSet](https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1):** https://www.earthdata.nasa.gov/data/catalog/asf-aria-s1-gunw-1
 
 
+@blackgirlscode [VirtiservAstro](https://archive.org/download/nsn-overview-noaccess_NASAJPL_rashardsJob/VID_20260209_072234.mp4)
+ [2/11+777](https://archive.org/download/nsn-overview-noaccess_NASAJPL_rashardsJob/VID_20260209_072234.mp4)
 
-_**Interferometry** is a technique which uses the interference of superimposed waves to extract information_
+_**Interferometry** is a technique  which uses the interference of superimposed waves to extract information_
 [Wiki](https://en.wikipedia.org/wiki/Interferometry) @nasa-jpl [https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/](https://gracefo.jpl.nasa.gov/laser-ranging-interferometer/) [https://www.jpl.nasa.gov/missions/keck-interferometer/](https://www.jpl.nasa.gov/missions/keck-interferometer/) 28 September 2004 Telescopes for optical/IR interferometry: the NASA/JPL outriggers [Read](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/5489/1/Telescopes-for-opticalIR-interferometry-the-NASAJPL-outriggers/10.1117/12.549547.short)
 [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
 
