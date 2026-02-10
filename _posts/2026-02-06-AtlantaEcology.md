@@ -11,6 +11,17 @@ date:   2026-02-06 14:51:06
 ---
 
 
+Link - _Current_ [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,viirs_crtc,earth;@-82.8,32.7,7.9z) @newshour @blackgirlscode @gtri @gatech @nasa-jpl @caltech
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a00e960b-71ec-4d8a-950a-1beee652365b" />
+
+Link - _StatiC_ [ThermalAnomolies] () someone cleared out my work @la-county-isd _Ms Holly_ @CityofLosangeles _KarenBass_ @blqackgirlscode, i will work on the report later 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/d8820cf3-027e-423e-b053-275a0e384725" />
+
+<img  alt="OPERA_L2_CSLC-S1_T121-257948-IW2_20251214T233848Z_20251215T223213Z_S1A_VV_v1 1_BROWSE" src="https://github.com/user-attachments/assets/6b4d4ecb-698d-4121-b860-5bb8b5f8d19d" />
+
+
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
