@@ -7,9 +7,8 @@ title: NorthAmericaNEcology @CityOfLosAngeles @Nasa-jpl
 image: nmecology.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2025-12-30 8:51:06 
----
-
+date:   2026-02-10 8:51:06 
+---
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
