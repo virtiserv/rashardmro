@@ -33,6 +33,18 @@ date:   2026-02-07 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+# Las Vegas
+@Nevada-Bioinformatics-Center hi u know kenya shoals or erika johnson `_blackma and blackeeeze?!?!?_`
+Starting up . . . [Surface Water Fragments] @la-county-isd @nasa-jpl hi i need to see what our maps yield about nevada, because there was no water in eaton canyon when the blaze erupted and it may be on the same path @StateOfCalifornia @Blackgirlscode [https://browser.dataspace.copernicus.eu/?zoom=10&lat=36.18998&lng=-114.9678&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FiS21puhkQ%2BDMrWYC%2BYROeyQvU%2FVcXAGLKY6Xe0HH0hhtRJOa7SDnwaorYIC5Orng8cWfrzhUCMs6%2B69knVvjYxEU1rrYzyruP27jiVOn97mMVSkmGS0Du&datasetId=S2_L2A_CDAS&fromTime=2026-02-18T00%3A00%3A00.000Z&toTime=2026-02-18T23%3A59%3A59.999Z&layerId=8-NDSI&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE](https://browser.dataspace.copernicus.eu/?zoom=10&lat=36.18998&lng=-114.9678&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FiS21puhkQ%2BDMrWYC%2BYROeyQvU%2FVcXAGLKY6Xe0HH0hhtRJOa7SDnwaorYIC5Orng8cWfrzhUCMs6%2B69knVvjYxEU1rrYzyruP27jiVOn97mMVSkmGS0Du&datasetId=S2_L2A_CDAS&fromTime=2026-02-18T00%3A00%3A00.000Z&toTime=2026-02-18T23%3A59%3A59.999Z&layerId=8-NDSI&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6e4c0a86-e4b7-4186-8e22-cb57aedf86b9" />
+
+---
+
+@protonmail i think i sent messages, i got into it with a guy named hank in support, and things are mellowing out
+ `https://mail.proton.me/u/0/inbox/8Kbs5bhiQJ5KWcfap2JAfq4pqAZF0HyrNzo7PI6z5iAElH4EvEPIzouyrz0E8HeiNJW8rUtci6i1oV85U-8LXQ==` @nasa-jpl @doug-newman-nasa @blackgirlscode hi ! 
+
  @protonmail my account rashardsdata@proton.me is not leting me send email from the long beach billie jean library
 
  _Error while sending the message. Message is not sent._ @nasa-jpl @dhs-gov sorry my report is late . . . @blackgirlscode email doug a short essay, you might be able to work remote, more details later -rashard @cityoflosangeles 
@@ -361,6 +373,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
