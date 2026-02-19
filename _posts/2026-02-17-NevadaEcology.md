@@ -35,7 +35,7 @@ date:   2026-02-07 8:51:06
 
 # @Google US-RNO / @Tesla [GigaFactory](https://www.tesla.com/giga-nevada)
 [ocolo.io/colocation/google/storey-county/](https://www.ocolo.io/colocation/google/storey-county/)
-hi @blackgirlscode im doing some more land cartography for the department of the intereor for googles new datacenter. They are trying to get something secured, i dont know i  heard it on the radio @nasa-jpl its the governement so the news is a great place to choose a topic to contribute data to . . . @cbs-news-data @la-county-isd @cityoflosangeles @nasa-pds @emit-sds . . . @doug-newman-nasa i think i have to make a report at this point... its in the werks ... imma try to eat 
+hi @blackgirlscode im doing some more land cartography for the department of the intereor for googles new datacenter. They are trying to get something secured, i dont know i  heard it on the radio @nasa-jpl its the governement so the news is a great place to choose a topic to contribute data to . . . @cbs-news-data @la-county-isd @cityoflosangeles @nasa-pds @emit-sds . . . @doug-newman-nasa i think i have to make a report at this point... its in the werks ... imma try to eat @eu-cdse someone from @Google might reach out - [rashard](https://rashardsdata.github.io/2025/11/20/FireReportCleanUp.html)
 
 <img  alt="2026-02-14-00_00_2026-02-14-23_59_Sentinel-2_L1C_False_color_(urban)" src="https://github.com/user-attachments/assets/5454bd61-3673-427a-bf01-3cddfdda3aa4" />
 
@@ -392,6 +392,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
