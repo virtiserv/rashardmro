@@ -33,6 +33,12 @@ date:   2026-02-07 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+# @Google US-RNO / @Tesla [GigaFactory](https://www.tesla.com/giga-nevada)
+
+hi @blackgirlscode im doing some more land cartography for the department of the intereor for googles new datacenter. They are trying to get something secured, i dont know i  heard it on the radio @nasa-jpl its the governement so the news is a great place to choose a topic to contribute data to . . . @cbs-news-data @la-county-isd @cityoflosangeles @nasa-pds @emit-sds 
+<img  alt="image" src="https://github.com/user-attachments/assets/5e9bbf50-617c-45bd-98e6-b4021f525a8d" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/55333fea-1403-49a8-b848-34f962a2806c" />
 
 # Las Vegas
 @Nevada-Bioinformatics-Center hi u know kenya shoals or erika johnson `_blackma and blackeeeze?!?!?_`
@@ -373,6 +379,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
