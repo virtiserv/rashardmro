@@ -4,7 +4,7 @@ mermaid: true
 published: true
 permalink: /la-county
 title: L.A. Ecology @la-county-isd @Nasa-jpl
-image: assets/img/549106316-1bcdbde7-c4c3-4125-8be2-96e25d181031.gif
+image: 549106316-1bcdbde7-c4c3-4125-8be2-96e25d181031.gif
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
 date:   2026-02-21 14:24:06 
@@ -150,6 +150,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
