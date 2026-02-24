@@ -31,7 +31,8 @@ date:   2026-02-21 14:24:06
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
-<img width="600" height="343" alt="image" src="https://github.com/user-attachments/assets/d13aec1f-9afb-4c39-89d5-b9fc9262604a" />
+![549106316-1bcdbde7-c4c3-4125-8be2-96e25d181031](https://github.com/user-attachments/assets/eed7396f-58d7-4c8f-bccf-3f4deed4eae4)
+
 
 Here are is a  map of [Alhambra](https://www.alhambrachamber.org/All-About-Alhambra) for item 22 of the past [Regular Agenda - PDF pg25](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/52e87f40-eca4-476e-b063-d47827266d57/Agenda%20021026_links.pdf#page=25), the document reads that `the proposed lease is exempt from the
 California Environmental Quality Act.` so I just wanted to contribute a few maps just incase things change because this plaCe is falling apart... @cityoflosangeles the worldviewmap is really good with closer imagery than i have ever provided [rashard @nasa-jpl](https://rashardci.github.io/) sup [Trice](https://www.facebook.com/thevirtiservway/) ~> [ThermalAnomolies](https://firms.modaps.eosdis.nasa.gov/map/#d:2026-02-04;@-117.65,33.95,9.24z)
@@ -149,6 +150,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
