@@ -44,6 +44,10 @@ date:   2026-02-21 14:24:06
 
 https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-01-08T00:00:00Z&BBOX=23.0107,-130.1641,38.7537,-110.5728&CRS=EPSG:4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/png&WIDTH=4458&HEIGHT=3582&colormaps=&ts=1771978285652
 
+[https://worldview.earthdata.nasa.gov/?v=-119.24999061070906,33.71785545420882,-117.54102143370932,34.56610942591753&i=2&as=2025-01-09-T00%3A00%3A00Z&ae=2025-01-13-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Combined_Flood_2-Day(hidden,disabled=4),VIIRS_NOAA21_DayNightBand(hidden),BlueMarble_NextGeneration(hidden),BlueMarble_ShadedRelief(hidden),BlueMarble_ShadedRelief_Bathymetry(hidden),MODIS_Aqua_L3_SurfaceReflectance_Bands121_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands121_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands721_8Day,MODIS_Aqua_L3_SurfaceReflectance_Bands721_8Day,MODIS_Aqua_L3_SurfaceReflectance_Bands143_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands143_8Day,MODIS_Combined_MAIAC_L2G_BidirectionalReflectance_Bands143,MODIS_Aqua_SurfaceReflectance_Bands721,MODIS_Terra_SurfaceReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721,MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Terra_CorrectedReflectance_Bands367,MODIS_Terra_SurfaceReflectance_Bands121,MODIS_Aqua_SurfaceReflectance_Bands121,MODIS_Aqua_L2G_SurfaceReflectance_Bands143_Daily,MODIS_Terra_L2G_SurfaceReflectance_Bands143_Daily,MODIS_Aqua_SurfaceReflectance_Bands143,MODIS_Terra_SurfaceReflectance_Bands143,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&al=true&av=7.5&ab=on&t=2025-01-09-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-119.24999061070906,33.71785545420882,-117.54102143370932,34.56610942591753&i=2&as=2025-01-09-T00%3A00%3A00Z&ae=2025-01-13-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),MODIS_Combined_Flood_2-Day(hidden,disabled=4),VIIRS_NOAA21_DayNightBand(hidden),BlueMarble_NextGeneration(hidden),BlueMarble_ShadedRelief(hidden),BlueMarble_ShadedRelief_Bathymetry(hidden),MODIS_Aqua_L3_SurfaceReflectance_Bands121_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands121_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands721_8Day,MODIS_Aqua_L3_SurfaceReflectance_Bands721_8Day,MODIS_Aqua_L3_SurfaceReflectance_Bands143_8Day,MODIS_Terra_L3_SurfaceReflectance_Bands143_8Day,MODIS_Combined_MAIAC_L2G_BidirectionalReflectance_Bands143,MODIS_Aqua_SurfaceReflectance_Bands721,MODIS_Terra_SurfaceReflectance_Bands721,MODIS_Aqua_CorrectedReflectance_Bands721,MODIS_Terra_CorrectedReflectance_Bands721,MODIS_Terra_CorrectedReflectance_Bands367,MODIS_Terra_SurfaceReflectance_Bands121,MODIS_Aqua_SurfaceReflectance_Bands121,MODIS_Aqua_L2G_SurfaceReflectance_Bands143_Daily,MODIS_Terra_L2G_SurfaceReflectance_Bands143_Daily,MODIS_Aqua_SurfaceReflectance_Bands143,MODIS_Terra_SurfaceReflectance_Bands143,VIIRS_SNPP_CorrectedReflectance_TrueColor,MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=false&al=true&av=7.5&ab=on&t=2025-01-09-T00%3A00%3A00Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/80972ad5-ed24-472c-af7f-6d48fed8a265" />
+
 
 ![549106316-1bcdbde7-c4c3-4125-8be2-96e25d181031](https://github.com/user-attachments/assets/eed7396f-58d7-4c8f-bccf-3f4deed4eae4)
 
@@ -164,6 +168,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
