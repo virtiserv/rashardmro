@@ -30,6 +30,30 @@ date:   2026-02-21 14:24:06
 {% endhighlight %}
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
+@Nasa-OPENscapes [LANCE: What is the difference between Corrected Reflectance vs. Surface Reflectance Imagery?](https://forum.earthdata.nasa.gov/viewtopic.php?t=5203&sid=884c5c67e660509cdd646e389e2a42a8#p18075)
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/28a232e9-c4f4-48e3-84bc-997da1768577" />
+
+### Level 1B Calibrated Radiances - 250m
+[Link](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD02QKM) : [500m](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD02HKM) : [1km](https://ladsweb.modaps.eosdis.nasa.gov/missions-and-measurements/products/MOD021KM)
+Temporal Coverage: 2000 FEB 24 - Present +++ [Creating Reprojected True Color MODIS Images: A Tutorial - PDF](https://earthdata.nasa.gov/s3fs-public/2022-02/MODIS_True_Color.pdf) @blackgirlscode @nasa-jpl @la-county-isd 
+False Color: Red = Band 3, Green = Band 6, Blue = Band 7
+
+This combination is used to map snow and ice. Snow and ice are very reflective in the visible part of the spectrum (Band 3), and very absorbent in Bands 6 and 7 (short-wave infrared, or SWIR). This band combination is good for distinguishing liquid water from frozen water, for example, clouds over snow, ice cloud versus water cloud; or floods from dense vegetation. This band combination is only available for MODIS (Terra) because 70% of the band 6 sensors on the MODIS instrument on the Aqua satellite failed shortly after launch.
+
+The MODIS Corrected Reflectance imagery is available only as near real-time imagery. The imagery can be visualized in Worldview and the Global Imagery Browse Services (GIBS. The sensor resolution is 500 m and 250 m (Bands 1 and 2 have a sensor resolution of 250 m, Bands 3 – 7 have a sensor resolution of 500 m, and Bands 8 - 36 are 1 km. Band 1 is used to sharpen Band 3, 4, 6, and 7), imagery resolution is 250 m, and the temporal resolution is daily.
+
+Snow and Ice
+Since the only visible light used in these images (Band 3) is assigned to red, snow and ice appear bright red. The more ice, the stronger the absorption in the SWIR bands, and the more red the color. Thick ice and snow appear vivid red (or red-orange), while small ice crystals in high-level clouds will appear reddish-orange or peach.
+
+Vegetation
+Vegetation will appear green in this band combination, as vegetation is absorbent in Bands 3 and 7, but reflective in Band 6. Bare soil and deserts will appear bright cyan in the image since it much more reflective in Band 6 and 7 than Band 3.
+
+Water
+Liquid water on the ground will appear very dark since it absorbs in the red and the SWIR, but small liquid water drops in clouds scatter light equally in both the visible and the SWIR, and will therefore appear white. Sediments in water appear dark red.
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/997c8f3b-3c6a-4786-9abd-3a6f7da0c57f" />
 
@@ -173,6 +197,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
