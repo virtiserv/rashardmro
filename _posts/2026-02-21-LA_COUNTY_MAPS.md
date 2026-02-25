@@ -33,6 +33,9 @@ date:   2026-02-21 14:24:06
 @Nasa-OPENscapes [LANCE: What is the difference between Corrected Reflectance vs. Surface Reflectance Imagery?](https://forum.earthdata.nasa.gov/viewtopic.php?t=5203&sid=884c5c67e660509cdd646e389e2a42a8#p18075)
 
 
+
+@asfadmin
+
 <img   alt="image" src="https://github.com/user-attachments/assets/28a232e9-c4f4-48e3-84bc-997da1768577" />
 
 ### Level 1B Calibrated Radiances - 250m
