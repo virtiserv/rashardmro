@@ -31,6 +31,8 @@ date:   2026-02-21 14:24:06
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/997c8f3b-3c6a-4786-9abd-3a6f7da0c57f" />
+
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/fa8bcd24-3d04-4f23-9251-eedd9a3433bd" />
@@ -171,6 +173,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
