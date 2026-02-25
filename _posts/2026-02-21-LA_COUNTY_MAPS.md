@@ -31,6 +31,16 @@ date:   2026-02-21 14:24:06
 
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fa8bcd24-3d04-4f23-9251-eedd9a3433bd" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/987b1dc6-de24-4b9f-a9fb-c6afb962bc52" />
+
+
+https://wvs.earthdata.nasa.gov/api/v1/snapshot?REQUEST=GetSnapshot&TIME=2025-01-08T00:00:00Z&BBOX=23.0107,-130.1641,38.7537,-110.5728&CRS=EPSG:4326&LAYERS=VIIRS_SNPP_CorrectedReflectance_TrueColor&WRAP=day&FORMAT=image/png&WIDTH=4458&HEIGHT=3582&colormaps=&ts=1771978285652
+
+
 ![549106316-1bcdbde7-c4c3-4125-8be2-96e25d181031](https://github.com/user-attachments/assets/eed7396f-58d7-4c8f-bccf-3f4deed4eae4)
 
 
@@ -150,6 +160,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
 
