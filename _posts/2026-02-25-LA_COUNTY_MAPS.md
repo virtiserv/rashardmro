@@ -29,6 +29,12 @@ date:   2026-02-21 14:24:06
 
 {% endhighlight %}
 
+@maxar nice work i see the effort, it looks amazing... 
+[Link](https://worldview.earthdata.nasa.gov/?v=-122.985878163534,27.23071897228979,-115.17782413240492,40.19353459989575&as=2025-01-08-T00%3A00%3A00Z&ae=2025-01-18-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),NOAA_2025_ERI_WMTS,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2025-01-11-T00%3A00%3A00Z)
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d3bf9d62-636a-4758-b062-ad6eecbda6b7" />
+
 ##  Los Angeles County[!](https://youtu.be/xjEoo14xHRs)
 @Nasa-OPENscapes [LANCE: What is the difference between Corrected Reflectance vs. Surface Reflectance Imagery?](https://forum.earthdata.nasa.gov/viewtopic.php?t=5203&sid=884c5c67e660509cdd646e389e2a42a8#p18075)
 
@@ -210,4 +216,5 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
