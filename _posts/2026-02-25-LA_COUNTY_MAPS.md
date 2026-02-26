@@ -29,6 +29,11 @@ date:   2026-02-21 14:24:06
 
 {% endhighlight %}
 
+@nasa-jpl @maxar @Maxar-Public @doug-newman-nasa 
+you guys should reach out to [HollyMitchell](https://women.ca.gov/about-us/holly-mitchell/) or [ Traci Park](https://tracipark.com/) , [MayorBass](https://www.newsnationnow.com/us-news/crowley-accuses-bass-of-retaliation-in-lawsuit/) she tought to get a hold on but needs help because a lot of news sources say shes slow to act and blame the fires on her. I use all the technology that say she behind on and she/they ordered me 15 years ogo! Thats what the fire chief said in [mars garage](https://www-robotics.jpl.nasa.gov/how-we-do-it/facilities/marsyard-iii/) @blackgirlscode 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/f5c7dc42-5312-489b-8b73-6c0ed95a3027" />
+
 @maxar nice work i see the effort, it looks amazing... 
 [Link](https://worldview.earthdata.nasa.gov/?v=-122.985878163534,27.23071897228979,-115.17782413240492,40.19353459989575&as=2025-01-08-T00%3A00%3A00Z&ae=2025-01-18-T00%3A00%3A00Z&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),NOAA_2025_ERI_WMTS,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=false&al=true&ab=on&t=2025-01-11-T00%3A00%3A00Z)
 We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
@@ -216,5 +221,6 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 
 [Must Be dues - Melba Moore - song @blackgirlscode](https://www.youtube.com/watch?v=Cg1j3kMD2a4) [[1](https://youtu.be/1ZD2lAtW-Z4)]
+
 
 
