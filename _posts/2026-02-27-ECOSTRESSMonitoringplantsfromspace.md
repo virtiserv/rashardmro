@@ -8,6 +8,15 @@ image: ecostressjplnasagov-eco-booster.jpg
 somafm [SaceStationSOMA](https://somafm.com/spacestation/) OR [Deep Space One](https://somafm.com/deepspaceone/)
 [current](https://youtu.be/d8yGrk0Sfxg?t=2335) = [UHF](https://dn720405.ca.archive.org/0/items/uhf_20221230/UHF.mp4)
 
+
+@la-county-isd Supervisor Solis this is the machine i work on in outerspace [EcoStress](https://ecostress.jpl.nasa.gov/) 
+
+```html
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+```
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
 @nasa-jpl i went to the aquarium , i am starting to get the data delivery part understood @la-county-isd @cityoflosangeles 
 The National Park Service application program interface (NPS API) provides authoritative NPS data that you can use in your apps, maps, and websites. To access that data, you need an API key.
 [Get Started with the NPS API](https://www.nps.gov/subjects/developer/get-started.htm) :::: @la-county-isd @noaagov [FiLEZ://github.com/ThakaRashard/rashardmro/commit/d6e7e9a09b861df0085678447df6765603a3d129](https://github.com/ThakaRashard/rashardmro/commit/d6e7e9a09b861df0085678447df6765603a3d129)
