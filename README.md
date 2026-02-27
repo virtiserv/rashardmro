@@ -15,6 +15,9 @@ i see, its [Stephanie](https://www.linkedin.com/in/stephanie-wiggins) @nasa-giss
 the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
 [https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
 
+
+![https://epic.gsfc.nasa.gov/archive/natural/2026/02/25/jpg/epic_1b_20260225181813.jpg](https://epic.gsfc.nasa.gov/archive/natural/2026/02/25/jpg/epic_1b_20260225181813.jpg) 
+
 @whitehouse I got locked out of my Google account and post playboy destitution I have no way to get back in my @nasa accounts rn @la-county-isd karenBass holly Mitchell 
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
