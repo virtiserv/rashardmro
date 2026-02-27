@@ -1,5 +1,8 @@
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/6412d727-70cd-45fa-b190-cdcda292b0fc" /> @foratlanta @cityoflosangeles @nasa-jpl @TheSpaceDevs
+
 the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
 [https://archive.org/details/fav-thakaserika_selassie_kelly](https://archive.org/details/fav-thakaserika_selassie_kelly) // [https://archive.org/details/@thakaserika_selassie_kelly](https://archive.org/details/@thakaserika_selassie_kelly)
 
