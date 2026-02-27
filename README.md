@@ -8,6 +8,8 @@
 @blackgirlscode @la-county-isd @NASA-OPENSCAPES /// @LACMTA [CAROL WiGGENS](https://boardagendas.metro.net/person/stephanie-wiggins-0d0b6b5d9d46/)
 i see, its [Stephanie](https://www.linkedin.com/in/stephanie-wiggins) @nasa-giss @chicago
 . . . 
+<img alt="image" src="https://github.com/user-attachments/assets/b68792a4-eaf6-4a23-b44e-7d8cbc8308dd" />
+
 <img alt="RashardKEllY" src="https://github.com/user-attachments/assets/8f0d6d7e-3ee0-4144-b2ff-bd61652d8572" />
 
 the following have my @nasa-openscapes / @nasa-jpl earthdata notes like notes for cities and environmental concerns locally @stateofcalifornia my @google account holetoanotheruniverse40@gmail.com is currently locked. idk who has access and I don't want to lose my submissions @blackgirlscode @cityoflosangeles @la-county-isd @nasa-pds
