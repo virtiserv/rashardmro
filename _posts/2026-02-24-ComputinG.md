@@ -5,7 +5,9 @@ published: true
 image: Aitken_supercomputer_big.jpg
 ---
 
-@LIBRETRO I GET JITTERS ON S CURVES ON RACING GAMES AND SO
+@LIBRETRO I GET JITTERS ON S
+ CURVES ON RACING GAMES AND SO
+[https://www.ign.com/articles/2000/05/11/e32000-hands-on-with-the-dreamcast-version-of-f355-challenge](https://www.ign.com/articles/2000/05/11/e32000-hands-on-with-the-dreamcast-version-of-f355-challenge) :: [https://segaretro.org/F355_Challenge](https://segaretro.org/F355_Challenge)
 
 [List of Cel Shaded Games](https://en.wikipedia.org/wiki/List_of_cel-shaded_video_games?wprov=sfla1)
 [CelShading](https://en.wikipedia.org/wiki/Cel_shading?wprov=sfla1)
