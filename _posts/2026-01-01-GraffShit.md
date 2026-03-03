@@ -7,7 +7,7 @@ published: true
 image: tumblr_9ab057dfcb5ba2d5a76b3b6287774817_4b2ec709_500.webp
 ---
 
-@blackgirlscode [ジェット セット ラジオ - segaretro.org/Jet_Set_Radio](https://segaretro.org/Jet_Set_Radio) + @foratlanta [file](https://archive.org/details/sega-dreamcast-roms)
+@blackgirlscode [ジェット セット ラジオ - segaretro.org/Jet_Set_Radio](https://segaretro.org/Jet_Set_Radio) + @foratlanta [file](https://archive.org/details/sega-dreamcast-roms) @ign + @nasa-jpl , @ign check this repo and [its pages home](https://jplopensourcerover.com/#!/home) just play with it @newshour @ktla @la-county-isd 
 <img alt="Screenshot_20260303-095357" src="https://github.com/user-attachments/assets/b74e7a1c-9458-4a8f-a3b1-c18bc8359b07" />
 <img alt="Screenshot_20260303-095708" src="https://github.com/user-attachments/assets/770a39a8-4434-4b67-ba36-282f35f313b4" />
 <img alt="Screenshot_20260303-095423" src="https://github.com/user-attachments/assets/304cf5ec-c3d3-4b88-89f0-0d1c1ecff3fe" />
