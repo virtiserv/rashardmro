@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "smartphone_lab"
+title:  "smartphone_lab @nasa-jpl"
 date:   2026-01-01 22:51:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
