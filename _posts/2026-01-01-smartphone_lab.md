@@ -7,6 +7,22 @@ published: true
 ---
 
 
+
+
+ROADRASH @electronicarts
+I dont knwo if you guys are intersted in retroarch at all. There are people that know me from past teams... I purchased RoadRash 2 when it was about a year old. I went to Electronics Boutiuqe for the original and all they had was 2. I did not like 3d on N64 and the SegaCd version lacks a certain hum the 3do/PSX/Saturn Versions have. The saturn has slices in the FMV like it was run througha video montage filter, 3d0 and Playstation i, dont get it, but the rider sprite's animations are not processing right on any of the platforms under about 3 different emulators. I know my rider sprite was smother than that. After playing for a while im under the impression that a racing game is much harder to make than i thought - [Rashard](https://rashardmro.tumblr.com/) @blackgirlscode @nasa-jpl @la-county-isd hi i write to my game publishers so much i see my ideas in games, i get excited to try it and someone steals it. i hope things are better going forward @newshour 
+
+<img alt="Screenshot_20260202-155555" src="https://github.com/user-attachments/assets/fc6856b9-02f2-4711-8db8-617abd870fca" />
+<img  alt="Screenshot_20260202-155725" src="https://github.com/user-attachments/assets/ed5455cc-68e6-4907-b125-53698eead46b" />
+
+
+Mega Man 8 
+Saturn
+I dont know if this is a hack with some anime smashed in but i had fun, till it just turned off! The water stages got crazy jitter aand slowdown on my phone 
+<img   alt="Screenshot_20260205-102025" src="https://github.com/user-attachments/assets/a0b05621-fbd1-451d-bb49-6c20828f4d74" />
+<img  alt="Screenshot_20260205-101443" src="https://github.com/user-attachments/assets/45db450e-18d1-413a-bdc3-9614bdabe001" />
+
+Nights into Dreams 
 the last  update seemeed to touch on this, its cleaner. But still sluggish and kinda chollp on my cloudmobile @libretro i hop  [https://www.yabasanshiro.com/](https://www.yabasanshiro.com/) has a cloud Mobile to play with @CityOfLosAngeles @blackgirlscode @nasa-jpl @nasa 
 
 <img alt="Screenshot_20260131-075825" src="https://github.com/user-attachments/assets/1b3ca8ec-c132-48e5-b5d6-50a0432b1612" />
