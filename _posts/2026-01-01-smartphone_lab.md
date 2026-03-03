@@ -6,6 +6,11 @@ categories: android linux gaming smartphone_lab handheld
 published: true
 ---
 
+
+DreamCast
+Virtua Tennis its not choppy but its sluggish and that breaks up the audio, however if i could adjust to the slowness its not a bad experiance in that mindset... but its still like jitter slug shit @blackgirlscode 
+<img  alt="Screenshot_20260302-075410" src="https://github.com/user-attachments/assets/36ce781c-3f46-4aa2-a2df-1f5a7bc0c351" />
+
 PSP 
 Its not so much jitters as is intermittent quick pausing, I have the same issue in Burnout Legends @libretro i will get healthier... sorry about excuse making, its dumping stats that 
 
