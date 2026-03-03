@@ -7,9 +7,16 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
-
+# 	HD-26-086 
+[WATCH](https://polb.granicus.com/player/clip/7881?view_id=78&meta_id=597285&redirect=true) @nasa-jpl @nasa-giss @nasa-develop
 [Port of Long Beach (Long Beach Harbor District)](https://dbw.parks.ca.gov/BoatingFacilities/f/1083)
 _Pier B On-Dock Rail Support Facility Program Update. (Program Management - M. Erickson)_ [LearnMore](https://engineering.lacity.gov/about-us/divisions/environmental-management/projects/Pier-B-On-Dock-Rail-Support-Facility) @epa @noaagov @weather-gov @whitehouse @newshour 
+
+<img alt="image" src="https://github.com/user-attachments/assets/68e6e5f0-ec8c-45ea-a4a9-8dadf1aa1afa" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5c10cc99-c15a-4284-8923-0b13dbbe0685" />
+
 **Feb 21st ** @la-county-isd @nasa-openscapes @eu-cdse
 @emit-sds if a student is free this is a good spot to map and share with the spot! 
 @longbeachinnovationteam [Port of Long Beach, CA: Archive Only View - RSS Feed](https://polb.granicus.com/ViewPublisherRSS.php?view_id=78&mode=agendas) @StateOfCalifornia @CityOfLosAngeles 
