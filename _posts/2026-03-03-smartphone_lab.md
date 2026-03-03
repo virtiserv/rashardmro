@@ -6,7 +6,9 @@ categories: android linux gaming smartphone_lab handheld
 published: true
 ---
 
-
+@nintendo 
+metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just chokes but plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
+<img   alt="image" src="https://github.com/user-attachments/assets/aac27bd6-dee6-4da1-8416-e1dfe35d200f" />
 
 psp / n64
 mario 64
@@ -62,7 +64,7 @@ Ferarri 355 i have to test again, i can tell its certain tings that break the fl
 <img   alt="image" src="https://github.com/user-attachments/assets/a285c85b-03bb-4fc9-afc3-b9832b885ed0" />
 
 
-DreamCast
+DreamCast @flyinghead
 Virtua Tennis its not choppy but its sluggish and that breaks up the audio, however if i could adjust to the slowness its not a bad experiance in that mindset... but its still like jitter slug shit @blackgirlscode 
 <img  alt="Screenshot_20260302-075410" src="https://github.com/user-attachments/assets/36ce781c-3f46-4aa2-a2df-1f5a7bc0c351" />
 
