@@ -139,7 +139,9 @@ Muna this shit dope, he even stars in the shit... This kind of content ensures i
   or
   <a href="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005597/EIC_PalisadesEaton_Wildfire_7680x2160.mp4">MP4</a>
   video.
+  
 </video>
+
 <img  alt="image" src="https://github.com/user-attachments/assets/92b7936d-527e-4e58-a40a-abb538d484ca" />
 
 <img alt="image" src="https://github.com/user-attachments/assets/9b25503d-1a2a-44bf-b6bf-2ea661532a87" />
