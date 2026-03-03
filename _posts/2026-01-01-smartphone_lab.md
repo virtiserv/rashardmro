@@ -31,6 +31,9 @@ Sonic Adventure 2 jitters on snow board opening during s curves
 
 
 Crazy taxi jitters on s curves
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f2edeb4c-1ca9-4acf-9716-0671fc9bed1f" />
+
 <img  lt="Screenshot_20260228-081901" src="https://github.com/user-attachments/assets/b5f06202-f240-43e8-8860-82d5c5a7f8fa" />
 
 
