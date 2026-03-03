@@ -8,6 +8,23 @@ published: true
 
 
 
+psp / n64
+mario 64
+<img  alt="Screenshot_20260128-080247" src="https://github.com/user-attachments/assets/584ba645-bafa-493d-b6e4-f5c0f71d3cd8" />
+
+Wolf3d 3do
+it was choppy but still fun
+<img   alt="Screenshot_20260127-221544" src="https://github.com/user-attachments/assets/3874188b-2948-447c-a8a7-b44ceddffc23" />
+
+
+@KONAMI
+metal geaar is awesome on my cloud mobile c8 undr retroarch i bought the game ok @libretro @CityOfLosangeles @ForAtlanta @Blackgirlscode 
+<img  alt="Screenshot_20260206-024045" src="https://github.com/user-attachments/assets/b8dac58b-1473-4b5b-8e05-0c23f967367b" />
+
+
+hi @BandaiNamcoResearchInc i was playing some classic playstation games and time crisis was nearly perfect, however configuring the buttons to be proficient waas challenging
+<img   alt="Screenshot_20260206-021450" src="https://github.com/user-attachments/assets/8e54b953-add7-4c0b-a08d-46ab61e9c976" />
+
 
 ROADRASH @electronicarts
 I dont knwo if you guys are intersted in retroarch at all. There are people that know me from past teams... I purchased RoadRash 2 when it was about a year old. I went to Electronics Boutiuqe for the original and all they had was 2. I did not like 3d on N64 and the SegaCd version lacks a certain hum the 3do/PSX/Saturn Versions have. The saturn has slices in the FMV like it was run througha video montage filter, 3d0 and Playstation i, dont get it, but the rider sprite's animations are not processing right on any of the platforms under about 3 different emulators. I know my rider sprite was smother than that. After playing for a while im under the impression that a racing game is much harder to make than i thought - [Rashard](https://rashardmro.tumblr.com/) @blackgirlscode @nasa-jpl @la-county-isd hi i write to my game publishers so much i see my ideas in games, i get excited to try it and someone steals it. i hope things are better going forward @newshour 
