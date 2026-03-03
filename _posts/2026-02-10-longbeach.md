@@ -8,6 +8,18 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+Long Beach Photos
+[Ocean pier tract](https://lbpl.contentdm.oclc.org/digital/collection/p17164coll3/id/6523/)
+
+![https://lbpl.contentdm.oclc.org/digital/api/singleitem/image/p17164coll3/6523/default.jpg](https://lbpl.contentdm.oclc.org/digital/api/singleitem/image/p17164coll3/6523/default.jpg)
+
+
+[https://segaretro.org/F355_Challenge](https://segaretro.org/F355_Challenge) @blackgirlscode [results](https://www.google.com/search?sca_esv=73000156de4ea350&rlz=1C1GCEJ_enUS1026US1204&sxsrf=ANbL-n7bTGs9xeuey6MwmUeFiqx6Jy9GXQ:1772567672826&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXwLh1bP5Qr-QWraKWTvYJjLNxJNclN-lrtUYercT4fTy20xIUn6ggdKvZxlcRLb6DjK0not8F3OExY6Hc7CznBJyXZqoH0y2H7pkXTnQFQFmJ2AVcdQmIb7XVZzdce-gD4XCLVZGCi7C1IxvZj6WTDNQj7R6qFYz96pY2ETC3FkzOMs9Rg&q=sega+ferrari+game&sa=X&ved=2ahUKEwjwtOqTwYSTAxWSHUQIHQyeIcYQtKgLegQIERAB&biw=1402&bih=952&dpr=1#sv=CAMSXhoyKhBlLVdJd25nVUtjMzN2ajZNMg5XSXduZ1VLYzMzdmo2TToORGhNU2ZVWkpqRnZYZk0gBCokCg45RmFPWkMwWnl0R2MtTRIQZS1XSXduZ1VLYzMzdmo2TRgAMAEYByDjkp6jAjACSggQAhgCIAIoAg) 
+@la-county-isd the retrogaming programs the library had did not cover emulation openly, im abused and know that thats a part of it @nasa-jpl but i dont know what to do, people share archives online at levels i hope people understand that digital assessts cannot be controlled for [nft](https://www.reddit.com/r/NFT/comments/15ywz6g/can_somebody_explain_nfts_to_me_in_super_simple/) hording @bankofamerica 
+
+<img   alt="Screenshot_20260228-191113" src="https://github.com/user-attachments/assets/b4207dc4-25b2-4a96-b127-999afca34960" />
+
+
 ![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5c7f0846-3a10-4f0a-9110-c5ebe7c2359f" />
