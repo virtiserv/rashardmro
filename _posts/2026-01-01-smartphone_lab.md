@@ -50,5 +50,7 @@ Virtual On, Little to no Jitters, but its a closed world similar to Powr Stone, 
 Power Stone, plays amazing 
 <img  alt="Screenshot_20260228-090608" src="https://github.com/user-attachments/assets/015648d6-8f67-42a2-8086-45a11426643a" />
 
+@blackgirlscode i need help @nasa-jpl
+<img   alt="Screenshot_20260228-061044" src="https://github.com/user-attachments/assets/4b2a6294-49ad-4320-95a4-293b35c73b9f" />
 
 
