@@ -8,6 +8,15 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
 
+[Port of Long Beach (Long Beach Harbor District)](https://dbw.parks.ca.gov/BoatingFacilities/f/1083)
+**Feb 21st ** @la-county-isd @nasa-openscapes
+`VirTiServ_CARTOGRAPHY_DELiVERY_LATRiCE_VitZPATRiCK` @BlackGirlsCode 
+
+<img   alt="Feb 21st Port of Long Beach (Long Beach Harbor District" src="https://github.com/user-attachments/assets/e489bc90-36b8-4e16-95a5-e002f92cbf88" />
+<img  alt="2026-02-21-00_00_2026-02-21-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d2558d5a-8524-4780-a713-7cc7da52851c" />
+
+<img  alt="Feb 21st Port of Long Beach (Long Beach Harbor District" src="https://github.com/user-attachments/assets/5fd06011-9869-4e64-adbb-cc3f2f60e72f" />
+
 Long Beach Photos
 [Ocean pier tract](https://lbpl.contentdm.oclc.org/digital/collection/p17164coll3/id/6523/)
 
