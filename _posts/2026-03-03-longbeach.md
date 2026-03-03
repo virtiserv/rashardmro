@@ -12,6 +12,12 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 [Port of Long Beach (Long Beach Harbor District)](https://dbw.parks.ca.gov/BoatingFacilities/f/1083)
 _Pier B On-Dock Rail Support Facility Program Update. (Program Management - M. Erickson)_ [LearnMore](https://engineering.lacity.gov/about-us/divisions/environmental-management/projects/Pier-B-On-Dock-Rail-Support-Facility) @epa @noaagov @weather-gov @whitehouse @newshour 
 
+[MAP Link](https://worldview.earthdata.nasa.gov/?v=-118.76769036396972,33.41322654238764,-117.76533074340598,34.087129338133884&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&s=-118.197,33.7677&t=2026-02-27-T20%3A07%3A42Z) @asfadmin @doug-newman-nasa @la-county-isd
+The Radiometric Terrain Corrected (RTC) SAR Backscatter product consists of radar backscatter normalized with respect to the topography. The RTC product is generated from Sentinel-1
+[ReadMore @nasa-jpl](https://www.jpl.nasa.gov/go/opera/products/rtc-product/)
+<img  alt="image" src="https://github.com/user-attachments/assets/8cbe5165-07b3-4193-bdae-c4f044708b7f" />
+We acknowledge the use of imagery from the NASA Worldview application (https://worldview.earthdata.nasa.gov), part of the NASA Earth Science Data and Information System (ESDIS).
+
 <img alt="image" src="https://github.com/user-attachments/assets/68e6e5f0-ec8c-45ea-a4a9-8dadf1aa1afa" />
 
 
