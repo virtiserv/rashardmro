@@ -7,6 +7,28 @@ published: true
 ---
 
 
+the last  update seemeed to touch on this, its cleaner. But still sluggish and kinda chollp on my cloudmobile @libretro i hop  [https://www.yabasanshiro.com/](https://www.yabasanshiro.com/) has a cloud Mobile to play with @CityOfLosAngeles @blackgirlscode @nasa-jpl @nasa 
+
+<img alt="Screenshot_20260131-075825" src="https://github.com/user-attachments/assets/1b3ca8ec-c132-48e5-b5d6-50a0432b1612" />
+
+3do
+This is the bios, it changes the feeling of the phone a lot when its running 
+<img width="1600" height="720" alt="Screenshot_20260211-130018" src="https://github.com/user-attachments/assets/8a76d795-6b5f-4955-bbbe-8c654348d0f7" />
+<img width="1600" height="720" alt="Screenshot_20260211-121819" src="https://github.com/user-attachments/assets/61341151-f1bc-4b38-83a2-7f014bf8bd17" />
+
+
+
+Ferarri 355 i have to test again, i can tell its certain tings that break the flow... 
+<img   alt="Screenshot_20260228-191113" src="https://github.com/user-attachments/assets/775e6727-6b4c-426d-b01b-78cd9e13affe" />
+
+
+<img alt="Screenshot_20260302-210153" src="https://github.com/user-attachments/assets/1a40ffcd-1861-4980-b9ca-01bd7f9e6733" />
+<img   alt="Screenshot_20260302-205905" src="https://github.com/user-attachments/assets/c1b65256-4ab3-4ebe-b849-33414562aa68" />
+<img   alt="Screenshot_20260302-210057" src="https://github.com/user-attachments/assets/3db3d0d2-eeed-449d-b420-42d13bd9d946" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a285c85b-03bb-4fc9-afc3-b9832b885ed0" />
+
+
 DreamCast
 Virtua Tennis its not choppy but its sluggish and that breaks up the audio, however if i could adjust to the slowness its not a bad experiance in that mindset... but its still like jitter slug shit @blackgirlscode 
 <img  alt="Screenshot_20260302-075410" src="https://github.com/user-attachments/assets/36ce781c-3f46-4aa2-a2df-1f5a7bc0c351" />
@@ -52,5 +74,12 @@ Power Stone, plays amazing
 
 @blackgirlscode i need help @nasa-jpl
 <img   alt="Screenshot_20260228-061044" src="https://github.com/user-attachments/assets/4b2a6294-49ad-4320-95a4-293b35c73b9f" />
+
+
+Mvc2 
+plays flawless, so clear i see flaws i never saw and greatness i never imagined!
+<img   alt="Screenshot_20260227-200001" src="https://github.com/user-attachments/assets/38fdce6d-fc9a-44af-a6aa-c405d8b9cb59" />
+
+<img  alt="Screenshot_20260227-200328" src="https://github.com/user-attachments/assets/04a39c49-0906-46a3-96fc-ec166e5baea3" />
 
 
