@@ -8,7 +8,9 @@ published: true
 
 @nintendo 
 metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just chokes but plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
-<img   alt="image" src="https://github.com/user-attachments/assets/aac27bd6-dee6-4da1-8416-e1dfe35d200f" />
+
+![metroid](https://github.com/user-attachments/assets/de8373ad-4a22-4633-95d6-77aaede6fb1c)
+
 
 psp / n64
 mario 64
