@@ -7,7 +7,7 @@ published: true
 ---
 
 @nintendo 
-metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just chokes but plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
+metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just ~~chokes~~ moves like old molassass yet plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
 
 ![metroid](https://github.com/user-attachments/assets/de8373ad-4a22-4633-95d6-77aaede6fb1c)
 
