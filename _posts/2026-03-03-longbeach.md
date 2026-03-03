@@ -31,7 +31,7 @@ _Pier B On-Dock Rail Support Facility Program Update. (Program Management - M. E
 <img   alt="Feb 21st Port of Long Beach (Long Beach Harbor District" src="https://github.com/user-attachments/assets/e489bc90-36b8-4e16-95a5-e002f92cbf88" />
 
 Secci Depth / Water Transparency 
--[rashard](https://rashardmro.tumblr.com/) @usgs
+-[rashard](https://rashardmro.tumblr.com/) @usgs [MAP-Link](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=9.60/-13139014.58/3976020.58&layers=aqv_secchi_20260221_sentinel:1.00:0.00:30.00:default)
 <img   alt="image" src="https://github.com/user-attachments/assets/98f6caa0-d568-41ea-9a14-3d808a98fc6d" />
 
 <img  alt="2026-02-21-00_00_2026-02-21-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/d2558d5a-8524-4780-a713-7cc7da52851c" />
