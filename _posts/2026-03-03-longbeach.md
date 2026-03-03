@@ -7,6 +7,10 @@ title: "LongBeach, California"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+
+[beverlypress.com/](https://beverlypress.com/) [MAP-Link](https://search.earthdata.nasa.gov/search?p=!C2746980408-LPCLOUD&pg[1][a]=4048689807!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&sb[0]=-118.2177%2C20.74518%2C92.38648%2C33.76787&qt=2026-02-21T00%3A00%3A00.000Z%2C2026-02-21T23%3A59%3A59.999Z&ff=Map%20Imagery&lat=33.759187195332075&long=-118.18769414088312&zoom=18.050545076002344) Shoreline MARiNA [Link](https://www.longbeach.gov/park/marine/marinas/long-beach-shoreline-marina/0 [[1](https://www.facebook.com/pages/Long%20Beach%20Shoreline%20Marina/135864326469772/#)] on [CA.gov @StateOfCalifornia](https://dbw.parks.ca.gov/BoatingFacilities/f/1043)
+<img alt="image" src="https://github.com/user-attachments/assets/aa561ab5-1e63-4fd1-b32f-e9117d7066de" />
+
 # 	HD-26-086 
 [WATCH](https://polb.granicus.com/player/clip/7881?view_id=78&meta_id=597285&redirect=true) @nasa-jpl @nasa-giss @nasa-develop
 [Port of Long Beach (Long Beach Harbor District)](https://dbw.parks.ca.gov/BoatingFacilities/f/1083)
