@@ -11,7 +11,9 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 [Port of Long Beach (Long Beach Harbor District)](https://dbw.parks.ca.gov/BoatingFacilities/f/1083)
 **Feb 21st ** @la-county-isd @nasa-openscapes @eu-cdse
 @emit-sds if a student is free this is a good spot to map and share with the spot! 
-@longbeachinnovationteam 
+@longbeachinnovationteam [Port of Long Beach, CA: Archive Only View - RSS Feed](https://polb.granicus.com/ViewPublisherRSS.php?view_id=78&mode=agendas) @StateOfCalifornia @CityOfLosAngeles 
+
+
 [p(port)o(of)lb(longbeach).com/port-info/projects/#building-the-port-of-the-future](https://polb.com/port-info/projects/#building-the-port-of-the-future)
 
 ![https://thehelm.polb.com/wp-content/uploads/2050_MAP_FactSheet-1024x909.jpg](https://thehelm.polb.com/wp-content/uploads/2050_MAP_FactSheet-1024x909.jpg)
