@@ -24,6 +24,8 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 {% endhighlight %}
 
 
+@blackgirlscode tell the family I'm sorry, I was distracted running around keeping up with my @nasa-jpl @la-county-isd world as Rev Jackson would have wanted any way, we are watching over Dallas to the best of our abilities today with environmental reports Ms Fitzpatrick @foratlanta 
+[Jesse Jackson - South Carolina service](https://youtu.be/bQhVEraIlOU?si=bZrWdCix4hTQJe8i)
 maps between chicago and south carolina @blackgirlscode email the maps directly to agencies and family members that will accept it from you **OPTiONAL** _CommunityService_ @nasa @whitehouse @nasa-jpl @emit-sds @nasa-pds 
 
 [DAMS + Resivoirs](https://worldview.earthdata.nasa.gov/?v=-92.35852949885354,22.563701028441784,-76.99494798589454,48.07009144764133&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z) 
