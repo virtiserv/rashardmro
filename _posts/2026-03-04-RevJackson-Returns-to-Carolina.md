@@ -1,4 +1,4 @@
-<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/589d3606-8339-4ad7-ac38-f931d46dd9f0" />---
+---
 layout: post
 mermaid: true
 published: true
@@ -24,6 +24,15 @@ We acknowledge the use of imagery from the NASA Worldview application (https://w
 {% endhighlight %}
 
 
+@Nasa-Openscapes @doug-newman-nasa @la-county-isd
+Doug, Mayor Bass,
+Theres so many anomolies in the continents water supply I hope im safe sending to you and copying Keisha Bottoms for now... She is the detective monitoring my case, and I also read that she manages federal employeess in atlanta, im im from @nasa-jpl that would still make me her jurisdiction while i was running back here after erika forced me to leave my job @nasa @whitehosue @blackgirlscode 
+
+@asfadmin 
+Jesse Jackson was an environmentalist that predated Obama, his funeral service is in Texas now, so while we gottem in one spot im contributing, if anyone has downtime @dallassoftwaredevelopers 
+@DallasFormulaRacing 
+ <img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/53b96114-97b4-4cdc-8e02-2a7a43ce11e2" />
+<img alt="image" src="https://github.com/user-attachments/assets/76c74324-712b-4203-a348-e016b19a142e" />
 
 
 @StateOfCalifornia
@@ -35,8 +44,11 @@ SACRAMENTO – Governor Gavin Newsom today ordered flags at the State Capitol an
 [**_READ_**](https://www.gov.ca.gov/2026/03/04/governor-newsom-orders-flags-at-half-staff-as-reverend-jesse-jackson-laid-to-rest/) 
 <img src="https://www.gov.ca.gov/wp-content/uploads/2024/04/new-gov-logo-test.png"/> 
 
-D1allas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-heat-in-dallas-and-fort-worth/)
+Dallas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-heat-in-dallas-and-fort-worth/)
 <img alt="amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03.png" src="https://github.com/user-attachments/assets/e6c14538-9c5a-47fe-a173-75744e392847" />
+
+[map-link](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4038313266-LPCLOUD&q=ecostress&sb[0]=-97.42819%2C32.45514%2C-96.33927%2C33.25994&lat=32.93231825&long=-97.31940820799012&zoom=9.72994920418426)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a145077c-52d0-42dd-bfbe-130c9c43694f" />
 
 
@@ -1127,6 +1139,10 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
 
 
 
