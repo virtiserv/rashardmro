@@ -16,7 +16,7 @@ date:   2026-03-04 8:51:06
 
 [comment]: <> (Emergency Files )
 
-##  Nevada[!](https://youtu.be/xjEoo14xHRs)
+##  Texas[!](https://youtu.be/xjEoo14xHRs)
 
 {% highlight python %}
 
@@ -468,6 +468,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
