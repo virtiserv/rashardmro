@@ -34,6 +34,25 @@ date:   2026-03-04 8:51:06
  MRO JUNO iSS [ALt - github.com/rashardiman/rashardiman.github.io](https://github.com/rashardiman/rashardiman.github.io/tree/master) + [homepage alt - rashardiman.github.io](https://rashardiman.github.io/)
 
 
+Dallas and territory north 
+` 03/08/2025, 00:27:35Z` 
+S1-GUNW-A-R-034-tops-20250308_20250224-002801*
+ARiA inferogram @asfadmin 
+![S1-GUNW-A-R-034-tops-20250308_20240828-002801-00098W_00032N-PP-fe74-v3_0_1ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/6ee01ff4-0406-4d33-b415-f5c297b4943e)
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/c3d59ed2-5881-4fc0-b7dd-61303f0c5fdb" />
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/dc4847a1-120b-4f37-985c-3c3265e6470b" />
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/58094091-cf84-4af7-afe6-4b3222bee4a0" />
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/95b644f1-0dfa-4081-bd69-2a1fb14aaf34" />
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/33b60ec8-206a-4e1c-96e6-0c0f59f8b106" />
+
+<img width="770" height="443" alt="image" src="https://github.com/user-attachments/assets/002ccf12-b1c5-49de-a610-9991bffd6003" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e0225d9-c8ae-477f-bd42-03ea237eca3c" />
 
 
 
@@ -41,6 +60,9 @@ Dallas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-h
 <img alt="amazonaws.com/ECO_L2T_LSTE.002/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03/ECOv002_L2T_LSTE_43188_010_14SQB_20260216T180646_0713_03.png" src="https://github.com/user-attachments/assets/e6c14538-9c5a-47fe-a173-75744e392847" />
 
 [map-link](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD&pg[0][v]=f&pg[0][gsk]=-start_date&g=G4038313266-LPCLOUD&q=ecostress&sb[0]=-97.42819%2C32.45514%2C-96.33927%2C33.25994&lat=32.93231825&long=-97.31940820799012&zoom=9.72994920418426)
+
+
+<img width="300" height="700" alt="ALPSRP276150650.jpg" src="https://github.com/user-attachments/assets/9dcfc6eb-6b03-4bf9-9fd0-b9239b8a6478" />
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
@@ -446,6 +468,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
