@@ -9,6 +9,26 @@ permalink: /smartphonelab
 ---
 
 
+# Crazy Taxi 2
+It Plays better than the first one, however like PowerStone and Virtual ON cyber Troopers its a sandbox and easier on the phones graphic processing, but it gets rocky and jittery once a hairpin turn comes around @libretro @flyinghead , im going to try the web browser @nasa-jpl @la-county-isd 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/14cfab82-b9c8-45f2-afb7-d7feaf80fb98" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/91091de5-352f-48b2-82b2-ee85c23d33e5" />
+<img alt="image" src="https://github.com/user-attachments/assets/8e8eb05f-572b-4b57-a399-1b15eae7cb47" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/c43d831f-8580-4878-a035-0480861223cb" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/562b0999-84f2-404c-82c6-140b540f1874" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/aabeff6a-8c1f-4d53-86f7-f4889c956bdd" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a5225ea9-d9da-4d6f-b249-4ecd0e6f5837" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53da29e5-a018-4aca-824c-0d4cb355650b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/91a368aa-0d9e-4e65-967e-7b765f36d1fa" />
+
+
 # Sega Saturn
 @nasa-jpl its dual processors seem to be bogging down my Cloud Mobile. The Dreamcast has a differnet architechture @libretro @blackgirlscode so its handling more visually intense games smoother, however the magic if the saturn is in its timesharing abilities 
 
