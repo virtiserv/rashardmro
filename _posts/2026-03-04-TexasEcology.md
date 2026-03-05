@@ -65,6 +65,8 @@ ARiA inferogram @asfadmin
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4e0225d9-c8ae-477f-bd42-03ea237eca3c" />
 
+[nightMAp](https://worldview.earthdata.nasa.gov/?v=-98.3815150316859,29.382826267192844,-95.4969710314081,35.78460906026219&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z) 
+<img  alt="image" src="https://github.com/user-attachments/assets/edf39b59-63c2-4ae7-8d6c-05ba5a194e7c" />
 
 
 Dallas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-heat-in-dallas-and-fort-worth/)
@@ -74,6 +76,9 @@ Dallas [ECOSTRESS](https://science.nasa.gov/photojournal/nasas-ecostress-shows-h
 
 
 <img width="300" height="700" alt="ALPSRP276150650.jpg" src="https://github.com/user-attachments/assets/9dcfc6eb-6b03-4bf9-9fd0-b9239b8a6478" />
+
+<img width="1024" height="778" alt="image" src="https://github.com/user-attachments/assets/ed84a673-625c-4fc9-a6c0-a9d06f1696ba" />
+
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
@@ -479,6 +484,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
