@@ -34,6 +34,17 @@ date:   2026-03-04 8:51:06
  MRO JUNO iSS [ALt - github.com/rashardiman/rashardiman.github.io](https://github.com/rashardiman/rashardiman.github.io/tree/master) + [homepage alt - rashardiman.github.io](https://rashardiman.github.io/)
 
 
+## The Dallas-Fort Worth, Texas metropolitan area
+[_Link @nasa_](https://www.nasa.gov/image-article/dallas-fort-worth-texas-metropolitan-area/)
+![https://www.nasa.gov/wp-content/uploads/2023/03/iss061e067843.jpg?resize=1024,683](https://www.nasa.gov/wp-content/uploads/2023/03/iss061e067843.jpg?resize=1024,683) @nasa-jpl 
+
+
+
+[Map Link](https://worldview.earthdata.nasa.gov/?v=-100.15476489913834,31.313533740702965,-93.62648293043011,34.23042568416834&l=Reference_Labels_15m,Reference_Features_15m,Coastlines_15m,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance(hidden),VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),Landsat_Human_Built-up_And_Settlement_Extent(opacity=0.35,disabled=3),GRUMP_Urban_Extents_Grid_1995,LECZ_Urban_Rural_Extents_Below_10m,VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-02-28-T00%3A00%3A00Z) 
+@tesla ill get around to you guys soon to follow up on [GOOGLE-RNO](https://thakarashard.github.io/rashardmro/nevada)
+<img  alt="image" src="https://github.com/user-attachments/assets/4d5cb946-836b-46a0-ab74-c2f57b59c957" />
+
+
 Dallas and territory north 
 ` 03/08/2025, 00:27:35Z` 
 S1-GUNW-A-R-034-tops-20250308_20250224-002801*
@@ -468,6 +479,7 @@ hi brandy im starting to think you are latrice . . . @nasa-jpl i could get hurt!
 
 ![Skid row los angeles](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00160v.jpg)<caption>441 Towne Ave., Skid Row, Los Angeles, 2007</caption>
 ![San Pedro 1999](https://tile.loc.gov/storage-services/service/pnp/vrg/00100/00157v.jpg) <caption>San Pedro St. at 7th St., LA, 2006</caption>
+
 
 
 
