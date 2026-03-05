@@ -8,6 +8,34 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+
+# Sega Saturn
+@nasa-jpl its dual processors seem to be bogging down my Cloud Mobile. The Dreamcast has a differnet architechture @libretro @blackgirlscode so its handling more visually intense games smoother, however the magic if the saturn is in its timesharing abilities 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c6b1ac70-ef8f-483c-8d1f-c6ff043f6f18" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/d41086a1-b38e-49b1-8733-bf2d8d750f23" />
+
+# Gaurdian Heroes
+Its looking better than ever, but its still slow and a little unresponsive. Im useed to [avp `エイリアンVSプレデター`](https://indiegamerchick.com/2023/08/02/alien-vs-predator-1994-arcade-review/) by capcom. It reminds me of full metal alchemis[t...](https://www.crunchyroll.com/series/GRGGPG93R/fullmetal-alchemist-brotherhood?srsltid=AfmBOoqEzTsc3SixGw_CkBgomNKwPjMwEy8ItVvNd7g7xeMZptoC6fw4)my friend likes that [anime](https://youtu.be/25VCq8iHTVo?si=BaExnTLV2lUjTLsd), fighting on 3 Planes is super fun , its fatal fury excitement in a real ass side scroller. I love the game, just still have not gotten to it after all these years in a satisfyably playable form [Wiki](https://en.wikipedia.org/wiki/Guardian_Heroes) [mag](https://www.retromags.com/files/file/3528-electronic-gaming-monthly-issue-092-march-1997/) / [random videogameMag](https://archive.org/details/Electronic_Gaming_Monthly_Issue_031_February_1992/page/n5/mode/2up) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1f746b4e-67a3-43e1-bfdf-8ba65bc8c9ac" />
+<img  alt="image" src="https://github.com/user-attachments/assets/2426673a-2c9a-4048-8408-78a580ce291b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/1d72bdac-a2eb-4a32-b4a0-a4fc6d69525a" />
+
+<iframe src="https://archive.org/embed/arcade_avsp" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+# Dead Or Alive 2
+@sony im running on dreamcast in this session . . . @blackgirlscode @libretro
+The Neon looks amazing. The music crackles and i think it plays a little slow. But alot of people would not care, the game is just that fun... 
+<img  alt="image" src="https://github.com/user-attachments/assets/2ddf50c2-f31b-47e4-8d10-0bad09f03a8f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/3c5cfc74-6fa4-40d2-ad51-830785af3b47" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/46f73221-0d97-4e66-bf68-47ce32a578d0" />
+
+
+
 @nintendo 
 metroid was unplayable but i think its the way [dolphin](https://dolphin-emu.org/) loads the whole iso into momory, [my phone @libretro @WeAreFairphone](https://www.cloudmobileusa.com/products/p/stratus-c8-smartphone) just ~~chokes~~ moves like old molassass yet plays power stone and virtual on cybertroopers flawlessly on dreamcast [https://docs.libretro.com/library/dolphin/](https://docs.libretro.com/library/dolphin/)
 
