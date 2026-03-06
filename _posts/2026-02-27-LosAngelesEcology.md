@@ -27,6 +27,20 @@ date:   2026-02-19 8:51:06
 
 {% endhighlight %}
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/810302078013587456" data-did="034ca0dc59cc5fffea68f2703c4085ae51f148e1"><a href="https://rashardmro.tumblr.com/post/810302078013587456/libretro-retroarch-no-blogs-found">https://rashardmro.tumblr.com/post/810302078013587456/libretro-retroarch-no-blogs-found</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+@la-county-isd @landsat _2026-02-26 - 57_ [`files`](https://ladsweb.modaps.eosdis.nasa.gov/stream/archive/2026/57/LC08_L1TP_041036_20260226_20260226_02_RT) - [MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.00/-13171990.07/4111399.44&layers=aqv_rgb_20260226_landsat:1.00:default) idk if its fire @emit-sds @nasa-jpl [MAP](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.52/-13166342.85/4045631.01&layers=aqv_rgb_20260226_landsat:1.00:default) @CityOfLosAngeles 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4da416d1-0fa6-4825-b6a6-afad1fb0818f" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/54ae9d96-60e6-4cdf-a04a-a1142b32f613" />
+
+it looks like it may have been an aerosol that cast a shadow @faa @nasa @nasa-jpl @la-county-isd it was a busy day for [Thermal Anomolies]()[https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:2026-02-26,2026-02-26;l:fires_all,fire-perimeter,countries,terra_crc,earth;@-117.19,33.98,9.15z)
+`Temperature anomaly is the difference, positive or negative, of a temperature from a base or reference value` [Wiki](https://en.wikipedia.org/wiki/Temperature_anomaly) / [Lance/FiRMS](https://firms.modaps.eosdis.nasa.gov/descriptions/FIRMS_MODIS_Firehotspots.html)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/77df934a-6310-4263-a2b9-4d70c45e33ca" />
+
+
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -1160,6 +1174,12 @@ encouraging meaningless expenditures that reduce the capability for political an
 [https://rashard-ecostress-jpl-iss.github.io/](https://rashard-ecostress-jpl-iss.github.io/)
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A41325407&color=%23562615&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/brandy2012" title="Brandy2012" target="_blank" style="color: #cccccc; text-decoration: none;">Brandy2012</a> · <a href="https://soundcloud.com/brandy2012/show-dat-bra-timbaland-feat" title="Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude" target="_blank" style="color: #cccccc; text-decoration: none;">Show-Dat-Bra - Timbaland feat. Bran&#x27;Nu &amp; Attitude</a></div>
+
+
+
+
+
+
 
 
 
