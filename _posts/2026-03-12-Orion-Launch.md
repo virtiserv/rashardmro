@@ -572,9 +572,11 @@ New LRO Images Offer Sharper Views of Apollo 12, 14, and 17 Sites [Link](https:/
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/videosrangerVideo-Ranger-9-impact-020423.webm" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
-### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/) : [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
+### [The_Ranger_Program](https://science.nasa.gov/mission/lunar-rangers-and-surveyors/)
+: [WikiTalkPage @nasa](https://en.wikipedia.org/wiki/Talk:Ranger_program) @nasa-jpl 
 
 ![The_Ranger_Program](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/2023/09/a/as12-48-7134.jpg?w=6515&h=6515&fit=clip&crop=faces%2Cfocalpoint)
  [svgDiagram](https://upload.wikimedia.org/wikipedia/commons/5/50/Ranger_6789.svg)
