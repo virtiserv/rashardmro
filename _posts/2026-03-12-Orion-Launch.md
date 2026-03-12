@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-03 08:19:06 -0800
+date:   2026-03-12 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -15,6 +15,7 @@ permalink: /artemis2
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
 - Jump to  [`kelp-Data`](#kelp-data)
+- Jump to  [`Rashards-Status`](#Rashards-Status)
 
 
 
@@ -642,6 +643,11 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 </video>
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
+
+# Rashards-Status
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
 
