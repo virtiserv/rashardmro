@@ -588,18 +588,24 @@ https://en.wikipedia.org/wiki/United_States_Naval_Research_Laboratory) [@NASA CL
 
 
 # Lunar Rotation and Flyby from Clementine Data (with route map)
-June 9, 1995
+
+_June 9, 1995__
 Clementine was a joint project between the Strategic Defense Initiative Organization and NASA. The objective of the mission was to test sensors and spacecraft components under extended exposure to the space environment and to make scientific observations of the Moon and the near-Earth asteroid 1620 Geographos. Clementine was launched on 25 January 1994 at 16:34 UTC (12:34 PM EDT) from [Vandenberg AFB](https://www.facebook.com/SLD30/posts/pfbid02eXaVjcUQLUXdFv9oPVcJBhBd3SxJFih5TRbWPmxi7WK92oeWBXxEjGdNAWuzGGC1l) , [California](https://www.vandenberg.spaceforce.mil/?fbclid=IwY2xjawOfCWpleHRuA2FlbQIxMABicmlkETAyNmloMlRKQUQyd051bGZlc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHlC3ZxuiC3h1RARw7yjxWvnrwW4Y2Yz1qHt5oigpJqHO5tduDm6HEXiaggRG_aem_VqMdNyRpsSy2nT7hGvLfcg) aboard a Titan II G rocket. After two Earth flybys, lunar insertion was achieved on February 21.
 
 
-[Moon](https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4) #CORAL 
+[Moon](https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4)
+#CORAL 
 @blackgirlscode 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a000000/a000079/a000079_slate.jpg" >
+ 
   <source src="https://ia600307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4" type="video/mp4" />
+  
   <source src="https://ia800307.us.archive.org/10/items/commitmentmaintenance/Clementine_sunrise_pdsimg-atlas-wget_2025-12-04T21_22_06_149_ezgif-5c792ef25a752ee0.mp4" type="video/mp4" />
   
+  
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -629,6 +635,7 @@ Reiner Gamma (γ) is a geographical feature of the Moon known as a lunar swirl. 
 On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC snapped these images over a period of about 3 hours. In this set, the far side of the moon, which is never seen from Earth, passes by. In the backdrop, Earth rotates over Australia and the Pacific, gradually revealing Asia. [Read](https://epic.gsfc.nasa.gov/galleries/2021/lunar_transit)
 
 <video  controls >
+ 
   <source src="https://epic.gsfc.nasa.gov/epic-galleries/2021/lunar_transit/20210211lunartransit.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
@@ -642,6 +649,7 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
   <source src="https://epic.gsfc.nasa.gov/epic-galleries/2020/lunar_occultation/20201002lunartransitrear.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
