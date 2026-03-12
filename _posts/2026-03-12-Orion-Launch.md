@@ -639,6 +639,7 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
   <source src="https://epic.gsfc.nasa.gov/epic-galleries/2021/lunar_transit/20210211lunartransit.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0fb99636-a675-456e-8917-084c964968a6" />
