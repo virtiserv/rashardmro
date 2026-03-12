@@ -26,8 +26,9 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
+@doug-newman-nasa @voyager-tech-inc : @la-county-isd @cityofsandiego @blackgirlscode @CityOfLosAngeles 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SpMMAdqMGWA?si=cfF4avptLv4vND4G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 [NASA's Artemis II Flight Readiness News Conference (March 12, 2026)](https://youtube.com/live/SpMMAdqMGWA?si=SVHUYRIcF8Y4Akx9) 
