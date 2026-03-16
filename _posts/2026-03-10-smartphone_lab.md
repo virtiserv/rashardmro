@@ -1,14 +1,20 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-11 15:38:06 -0800
+date:   2026-03-16 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 
+[https://youtu.be/KN-_q3ss4l0?si=QV-L_HzKA8v5VFVV - @nasa-pds @blackgirlscode](https://youtu.be/KN-_q3ss4l0?si=QV-L_HzKA8v5VFVV) + [https://github.com/ @keiji/jp2k-decoder-android](https://github.com/keiji/jp2k-decoder-android)
 
+# VideoGame Polygons
+[Tekken 2 Ver.B (US, TES3/VER.D)](https://www.retrogames.cc/arcade-games/tekken-2-ver-b-us-tes3-ver-d.html)
+[Tekken Tag Tournament (World, TEG2/VER.C1, set 1)](https://www.retrogames.cc/arcade-games/tekken-tag-tournament-world-teg2-ver-c1-set-1.html) [HappyPiDay @BandaiNamcoResearchInc]() from @[nasa-jpl](https://earthsky.org/human-world/pi-day-nasa-pi-day-challenge/) @blackgirlscode [jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/](https://www.jpl.nasa.gov/edu/resources/teachable-moment/take-math-to-mars-and-beyond-with-nasas-pi-day-challenge/) @sega [https://archive.org/details/VIRTFIG2](https://archive.org/details/VIRTFIG2) @nintendo 
+![https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif @blackgirlscode @la-county-isd @LACountyDPH](https://www.google.com/logos/doodles/2026/pi-day-2026-6753651837111068.2-2xa.gif)
+![https://d2pn8kiwq2w21t.cloudfront.net/images/piday2021_infographic_0YkCfV2.width-1280.png](https://d2pn8kiwq2w21t.cloudfront.net/images/piday2021_infographic_0YkCfV2.width-1280.png)
 
 
 
