@@ -27,6 +27,8 @@ date:   2026-03-06 8:51:06
 
 {% endhighlight %}
 
+@nasa-jpl I cannot find the dodgers @github @mlb , @foxnews @abcnews can you holla at @jaxa about ShoTei interest in Dodger stadium. we already have a prostitution problem @whitehouse @la-county-isd @CityOfLosAngeles [https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj](https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj)
+
 <a href="https://64.media.tumblr.com/13f90e5f2c1887d279ed5f519ca35b56/34429a9f2ad12fac-13/s1280x1920/b38f6576f71f2ec1b7c4fe6afed27e21458615b1.jpg"/><img  alt="image" src="https://github.com/user-attachments/assets/ccdd6ddf-757b-4224-bcca-5dd7bbeb68bf" /></a>
 
 <a href="https://64.media.tumblr.com/e77b6f56e76548f8daca05894acd50e1/7866df3b9772a9cc-ac/s1280x1920/2cc8b646403c78d26ea9853ec8116f7466f39c26.png"><img width="1280" height="576" alt="image" src="https://github.com/user-attachments/assets/90e389b2-0151-47e2-a3a3-9e5c17c59779" /> </a>
