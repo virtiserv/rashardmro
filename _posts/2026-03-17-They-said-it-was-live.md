@@ -8,6 +8,71 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+# Savannah Georgia
+@nasa-jpl can you @usnavy @blackgirlscode Hi Latrice Normani Kashdoll Latto Ella Mai Happy St Patricks day @cityoflosangeles 
+[https://www.youtube.com/watch?v=h2m0osu4KA8](https://www.youtube.com/watch?v=h2m0osu4KA8)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2m0osu4KA8?si=4W5L1d9IYQJdJY9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@armydotmil [https://github.com/armydotmil](https://github.com/armydotmil) @nasajpl 
+
+# Los Angeles County
+Board of Supervisors Meeting - 3/17/26
+ @la-county-isd you have connectivity issues from billy jean in [LongBeach](https://whatismyipaddress.com/ip/205.154.246.79) @cityoflosangeles @nasa-pds @nasa-jpl
+[https://www.youtube.com/watch?v=N620rIEB5Yg](https://www.youtube.com/watch?v=N620rIEB5Yg) <~ @nasa-jpl @emit-jpl im lost in wildfire meetings and the shit hitting the fan from my onboarding and me getting dumped @newshour if i live just know i never tapped the bathrooom on 14th, its back on [https://www.youtube.com/live/SlHj8TNDm7U?si=J4LGSg4ulZ4iKLnZ](https://www.youtube.com/live/SlHj8TNDm7U?si=J4LGSg4ulZ4iKLnZ) <~ @CityOfLosAngeles `culvercity` @blackgirlscode hi
+
+```shell
+IP Details For: 205.154.246.79
+Decimal:3449484879
+Hostname:lib-03-subnet-79.rdns.cenic.net
+ASN:2152
+ISP:CENIC
+Services:None detected
+Country:United States
+State/Region:California
+City:El Segundo
+Latitude:33.9192 (33° 55′ 9.12″ N)
+Longitude:-118.4166 (118° 24′ 59.69″ W)
+
+
+WORKSTATiOON 9
+C:\Users\pac>ipconfig /all
+
+Windows IP Configuration
+
+   Host Name . . . . . . . . . . . . : MPEIC09
+   Primary Dns Suffix  . . . . . . . : lbpa.local
+   Node Type . . . . . . . . . . . . : Hybrid
+   IP Routing Enabled. . . . . . . . : No
+   WINS Proxy Enabled. . . . . . . . : No
+   DNS Suffix Search List. . . . . . : lbpa.local
+
+Ethernet adapter Ethernet:
+
+   Connection-specific DNS Suffix  . :
+   Description . . . . . . . . . . . : Intel(R) Ethernet Connection (7) I219-LM
+   Physical Address. . . . . . . . . : E4-54-E8-71-93-2A
+   DHCP Enabled. . . . . . . . . . . : No
+   Autoconfiguration Enabled . . . . : Yes
+   Link-local IPv6 Address . . . . . : fe80::30ab:2321:ebe1:4218%12(Preferred)
+   IPv4 Address. . . . . . . . . . . : 192.168.161.109(Preferred)
+   Subnet Mask . . . . . . . . . . . : 255.255.254.0
+   Default Gateway . . . . . . . . . : 192.168.160.1
+   DHCPv6 IAID . . . . . . . . . . . : 350508264
+   DHCPv6 Client DUID. . . . . . . . : 00-01-00-01-2A-CC-D8-AA-E4-54-E8-71-93-2A
+   DNS Servers . . . . . . . . . . . : 192.168.129.12
+                                       192.168.128.12
+   NetBIOS over Tcpip. . . . . . . . : Enabled
+
+C:\Users\pac>
+```
+
+<iframe width="582" height="336" src="https://www.youtube.com/embed/N620rIEB5Yg" title="Los Angeles County Board of Supervisors Meeting - 3/17/26" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3ea31fbb-5d65-45b9-a619-7704ab0e0cf5" />
+
+
+ <img   alt="image" src="https://github.com/user-attachments/assets/b1536267-2e3e-4d17-9c1a-63cfb9a7c3ec" />
+
 ## President Trump Makes an Announcement, Jan. 29, 2026
 
 @whitehouse [watch](https://www.youtube.com/watch?v=OE2NtBhozT4) @blackgirlscode [Virtiserv](https://www.facebook.com/thevirtiservway/) @nasa  is listed in [YoungstownOhio BBB](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936) @codeyoungstown I had an amazing date with a girl from your town during covid lockdown... her name is latrice, if it rings a bell just tell her i have not shaved and i need the next step because erika stole my foodstamp card with my daughter name on it . . . 
