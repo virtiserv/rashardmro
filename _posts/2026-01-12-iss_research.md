@@ -1,8 +1,8 @@
 ---
 layout: default
 title:  "iSS_ResearcH"
-published: true
-date:   2026-01-15 21:19:06 -0800
+published: false
+date:   2026-03-18 15:36:06 -0800
 tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
@@ -11,8 +11,13 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
-@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from @NorthropGrumman @blackgirlscode
-@la-county-isd hi Ms Mitchell
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
+@la-county-isd hi [Ms Mitchell](https://lacounty.gov/government/board-of-supervisors/holly-j-mitchell/) @cityoflosangeles hi ms bass [The Mayor](https://mayor.lacity.gov/about-mayor-karen-bass) [[1](https://mayor.lacity.gov/) we had a great spacewalk but have not rolled out the [solar panels](https://www.nasa.gov/image-article/solar-arrays-international-space-station-2/) yet, just a couple parts in place to prep @nasa-pds i hope you guys are keeping up the added power may support new observation gear. I feel like i read that solar panels have a lifetime as well @tesla so it may not be the big upgrade i think it is
+
+[https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass)
+![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+[https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
 
 
