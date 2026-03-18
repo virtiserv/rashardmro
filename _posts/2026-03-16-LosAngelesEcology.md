@@ -29,6 +29,20 @@ date:   2026-03-06 8:51:06
 
 {% endhighlight %}
 
+@NASA-GISS @LACMTA @la-county-isd 
+Dear Supervisor Wiggins,
+It's rashard Kelly from nasajpl.. as the train approached the Willow st station's  dtla platform I got a violent shock and my legs began itching aggressively and my waist band started burning @RepKarenBass 🥵 I'm seeking relief 😔 😮‍💨 I was sitting in the seat facing the driver behind door a7 @usnavy @nbcnews @nasa-jpl
+
+
+--
+@MetroSteph(wiggins) pain on train 1116aRe: 👀🫵@MayorKaren I'm being hurt again...Re: Long beach was a setup injury 🩸 🩸 🤕 Re: RashardsData>I'm bleeding after sitting at workstation 26
+
+
+
+
+Sent from Proton Mail for Android.
+@nasajpl @stateofcalifornia @cityoflosangeles
+
 @nasa-jpl I cannot find the dodgers @github @mlb , @foxnews @abcnews can you holla at @jaxa about ShoTei interest in Dodger stadium. we already have a prostitution problem @whitehouse @la-county-isd @CityOfLosAngeles [https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj](https://youtu.be/Qyz7_y3sBeg?si=3uo5yRZkLkisUrFj)
 
 <a href="https://64.media.tumblr.com/13f90e5f2c1887d279ed5f519ca35b56/34429a9f2ad12fac-13/s1280x1920/b38f6576f71f2ec1b7c4fe6afed27e21458615b1.jpg"/><img  alt="image" src="https://github.com/user-attachments/assets/ccdd6ddf-757b-4224-bcca-5dd7bbeb68bf" /></a>
