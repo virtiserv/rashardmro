@@ -7,10 +7,59 @@ published: true
 image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
+[@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
+
+<img   alt="@la-county-isd" src="https://github.com/user-attachments/assets/f1445c47-c9c1-41e9-9823-530051811670" />
+
+[List of Cel Shaded Games](https://en.wikipedia.org/wiki/List_of_cel-shaded_video_games?wprov=sfla1)
+[CelShading](https://en.wikipedia.org/wiki/Cel_shading?wprov=sfla1)
+![2025-12-01-00_00_2025-12-01-23_59_Sentinel-1_IW_RGB_Ratio](https://github.com/user-attachments/assets/876af00f-ad70-414e-a462-7a2bd773cbba)
+<img  alt="image" src="https://github.com/user-attachments/assets/ebe875de-5106-4501-ae31-05d18bacd0b3" />
+<img   alt="image" src="https://github.com/user-attachments/assets/6c818499-e67d-4f74-9cc5-f21478e71e61" />
+<img alt="image" src="https://github.com/user-attachments/assets/2cf53696-8292-42bf-8345-063c2011ced8" />
+<img alt="image" src="https://github.com/user-attachments/assets/5c99a25c-1975-49ad-a50c-a4223efc86a4" />
+<img  alt="image" src="https://github.com/user-attachments/assets/d470b67e-e245-43dd-ad8f-7678125c5856" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3065d0ea-f1eb-45b7-9fa6-e7cf605389c1" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/8d219e36-2b9b-4138-a80b-fdb95d302731" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1a60cbdb-eaee-4ed2-be0f-f262db42c009" />
+
+~~I forgot what~~ @electronicArts ~~NFS this is but~~ Need For Speed : Underground [link](https://youtu.be/Z5Z7_UC0Vhc), it works well on psp emulators the ride is heavy and seek issues are low. It was actually fun 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/38c4a8bd-784a-4892-871c-0249a9bf24db" />
+
+![https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif](https://ia601401.us.archive.org/1/items/rashardmro-master/Celica_Latrice.gif)
+
+[rashardsdata.github.io/rashardmro/](https://rashardsdata.github.io/rashardmro/) @blackgirlscode @nasa-jpl this is how `.box` in my css config renders my links as a fancy [wordcloud](https://seregpie.github.io/VueWordCloud/) [[1](https://www.canva.com/word-cloud-generator/)] @SeregPie thanks the demo site helps get the point across of what it is @nasa-giss 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a017e28c-ae2c-4981-9020-88c781a385ac" />
+ <img   alt="image" src="https://github.com/user-attachments/assets/11e79454-38e7-49ff-bb77-b6cd38ce05a0" />
+
+
+
+# init
+n Unix-based computer operating systems, init (short for initialization) is the first process started during booting of the operating system. Init is a daemon process that continues running until the system is shut down [Wiki](https://en.wikipedia.org/wiki/Init)
+[DOSBox v0.74-3 Manual](https://www.dosbox.com/DOSBoxManual.html)
+[what are init 0 init 1 init 2 init 3 init 4 init 5 init 6? - linuxonfire.wordpress.com](https://linuxonfire.wordpress.com/2012/10/19/what-are-init-0-init-1-init-2-init-3-init-4-init-5-init-6-2/) [Using the init Command -docs.oracle.com](https://docs.oracle.com/cd/E19455-01/805-6331/6j5vgg687/index.html) [Reboot, poweroff, shutdown, INIT 0, and INIT 6 abnormal - Servers - ibm.com](https://www.ibm.com/support/pages/reboot-poweroff-shutdown-init-0-and-init-6-abnormal-servers) [init command in Linux with examples - @geeksforgeeks.org](https://www.geeksforgeeks.org/linux-unix/init-command-in-linux-with-examples/)
+
+[What Is Quickstep App In Android? - Be App Savvy](https://www.youtube.com/watch?v=RxD981KXGhU)
+[How to replace the quickstep launcher?xdaforums.com  - xdaforums.com](https://xdaforums.com/t/how-to-replace-the-quickstep-launcher.4656578/) [QUICKSTEP APK - LATEST VERSION](https://apkcombo.com/quickstep/com.android.launcher3/download/apk)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/ab372e74-b9c6-41ed-825a-98d9bc157251" />
+
+
+{% include ed.md %}
+
+{% include bash.md %}
+
+{% include tar.md %}
+
 
 [Psx-CHD](https://archive.org/details/chd_psx)
 
-![https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png](https://dn721009.ca.archive.org/0/items/chd_psx/thumb.png)
+
 
 r/androidapps
 5y ago
