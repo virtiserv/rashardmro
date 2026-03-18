@@ -10,7 +10,12 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+
+_SPACEWALK74DONE_
+![SPACEWALK74DONE_ezgif com-resize](https://github.com/user-attachments/assets/6b4ae7e8-66b9-4c39-8c39-3fbe7116ffce)
+
 
 ![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
 
@@ -618,6 +623,10 @@ The station was designed between 1984 and 1993. Elements of the station were in 
 <img src="https://raw.githubusercontent.com/ricothakarashard/compiling/refs/heads/master/assets/spacestation/loc/master-pnp-ppmsca-62600-62669u.jpg" alt="image" />
 
 ![SpaceWalk](https://www.nasa.gov/wp-content/uploads/2022/12/51476067951-e10dfb6875-o-1.jpg)
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
 # 
 
 {% for image in site.static_files %}
