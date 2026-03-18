@@ -22,6 +22,8 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4)
 
+<img 
+	alt="Screenshot_20260318-115304" src="https://github.com/user-attachments/assets/84ab66da-fb5c-444d-b1ea-9099baf91c47" />
 
 
 [https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass)
