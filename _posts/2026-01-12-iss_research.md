@@ -11,6 +11,11 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from @NorthropGrumman @blackgirlscode
+@la-county-isd hi Ms Mitchell
+<img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
+
+
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
 
 # San Diego
