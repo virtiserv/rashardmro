@@ -12,6 +12,7 @@ image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+![ezgif com-animated-gif-maker (1)](https://github.com/user-attachments/assets/8c472332-f539-42bb-84b3-b59d4b0a801f)
 
 
 @nasa-giss @nasa-jpl [Cygnus](https://www.northropgrumman.com/what-we-do/space/spacecraft/cygnus) is talking at the [NorthPole](https://sscspace.com/services/satellite-ground-stations/our-stations/north-pole-station/) `_EmptyFoodTruckFeeling_` from  [@blackgirlscode](https://github.com/blackGirlsCode) ::  [@NorthropGrumman](https://github.com/NorthropGrumman)
