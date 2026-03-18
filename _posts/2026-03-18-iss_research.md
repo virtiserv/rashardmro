@@ -8,8 +8,15 @@ tags: jupiter europa iss
 image: 51732391125_a6a60014c4_k_iss066e08546.jpg
 ---
 
-
-
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
 
 
 
@@ -21,7 +28,7 @@ _SPACEWALK94DONE_
 
 [Astronauts Install Solar Array Mod Kit, Complete Spacewalk - @nasa .gov /blogs](https://www.nasa.gov/blogs/spacestation/2026/03/18/astronauts-install-solar-array-mod-kit-complete-spacewalk/) @jaxa @esa
 
-_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4)
+_Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/items/commitmentmaintenance/ROSCOSMOS_SPACEWALK65_rashard_watched_at_LAPD_and_LONGBEACH_BiLLiEJEAN.mp4) ++ [ECOSTRESS_SCiENCE_TEAM](https://ecostress.jpl.nasa.gov/science) 
 
 [https://mayor.lacity.gov/about-mayor-karen-bass](https://mayor.lacity.gov/about-mayor-karen-bass) [https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
 ![https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg](https://mayor.lacity.gov/sites/g/files/wph2066/themes/site/logo.svg)
@@ -41,6 +48,31 @@ _Looking Back_ @gavinnewsom [SPACEWALK65](https://ia600307.us.archive.org/10/ite
 <img alt="Screenshot_20260318-062633" src="https://github.com/user-attachments/assets/d918943b-1bbc-443e-9596-049750a9e176" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/120912cd-082d-4220-8408-1bb448b7e78d" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ceac85c-69bf-441f-9ae1-bd11a9e5f6c0" />
+
+[nasa.gov/mission/expedition-74/](https://www.nasa.gov/mission/expedition-74/) @nasa-jpl @UCLA @caltech : @la-county-isd @blackgirlscode [jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/](https://www.jpl.nasa.gov/missions/ecosystem-spaceborne-thermal-radiometer-experiment-on-space-station-ecostress/)
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4500141a-b00a-4930-a4f1-6d347b32ee61" />
+
+<object class="scroller" data="https://eyes.nasa.gov/apps/earth/#/satellites/iss-ecostress" type="text/html"></object>
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+	
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+ <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @la-county-isd ms mitchell the marriott put me out - rashard and my work late @cityoflosangeles https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+ 
+ </picture>
+
+[ECOSTRESS:Monitoring plants from space](https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html)
+Tha [permalink](https://teaching.resources.osu.edu/glossary/term/permalink) will change someday `https://ra5hard.github.io/2026/03/03/ECOSTRESSMonitoringplantsfromspace.html`
+
+<img   alt="image" src="https://github.com/user-attachments/assets/8783c7c3-1c4b-467e-a37e-d33c335a78d4" />
+
 
 
 ## SpaceWeather 4 [Splashdown](https://www.youtube.com/live/EqT3nDbwETc?si=3lNL5Pg-p3JSSE1G)
