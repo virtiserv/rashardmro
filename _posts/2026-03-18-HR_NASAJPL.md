@@ -18,7 +18,11 @@ Section 6. [Link](https://law.justia.com/constitution/california/article-i/secti
 Slavery is prohibited [ACA-3 Slavery.](https://www.leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220ACA3). Involuntary servitude is prohibited except to punish crime. [secretary.weber@sos.ca.gov](mailto:secretary.weber@sos.ca.gov) + [homepage](https://www.sos.ca.gov/contact-information) :: 
 
 (Sec. 6 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
-Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . 
+Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . @sfchronicle @sanmateocounty @CityofSantaMonica [https://github.com/SANDAG ~ to check out later](https://github.com/SANDAG) @la-county-isd @nasa-jpl @nasa @whitehouse @blackgirlscode @foratlanta
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/6589504e-382c-4b5d-9f99-c669ba1e2412" />
+
 
 ![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
 
