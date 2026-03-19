@@ -9,6 +9,31 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Compiling
+the graff riots @la-county-isd @cityoflosangeles @nasa-jpl 
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-riotdata' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+# [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
+[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
+[fg](https://www.fightersgeneration.com/games/sf2-turbo-p4-4.html)
+![image](https://github.com/user-attachments/assets/3d6764d6-85cf-4a1d-a046-f47f2a73fbda)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/04c46590-bca9-4a85-bb91-5dfb54697f43" />
+
+
+![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
+
+![https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png](https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png)
 
 ![2025 SINGLES CONFERENCE](https://www.lphfamily.org/event/2025-singles-conference)
 ![SINGLES-2025-GPS-CONFERENCE-768x543](https://github.com/user-attachments/assets/ef5fa1ca-1c6b-4b60-9b72-ec7c7e60de55)
@@ -245,22 +270,6 @@ Transforming Defense operations: [The DOD needs automation](https://www.redhat.c
 [Americana - Paul Bunyan](https://archive.org/details/paul-bunyan-full-1994-walt-disney-home-video-vhs) [The Twilight Zone 1959 S01](https://archive.org/details/the-twilight-zone-1959-s-01-e-00-original-pilot/The+Twilight+Zone+1959+S01E01+Where+Is+Everybody.mp4) [https://archive.org/details/fav-bubblegumpop633](https://archive.org/details/fav-bubblegumpop633) [#ThakaSandroid screen-20240731-050451
 by Ricothaka.github.io rasharkelly](https://archive.org/details/screen-20240731-050451_202408/screen-20240729-075038.mp4) [ImageMajickSequentialsFromHollywood](https://archive.org/details/hollywood-lo-lo-files)
 
-<div class="tupperware">
-    
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-riotdata' | sort: 'date' | reverse %} 
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-
-</div>
-
-# [Just-Ice - Going Way Back @blackgirlscode @nasa-jpl maybe `fortran` next? @ajc](https://www.youtube.com/watch?v=0MkP-x_QNRk&list=RDcimGqESHScI&index=15&ab_channel=UPROXX)
-[2](https://archive.org/details/screen-20250211-091244/screen-20250211-091244.mp4#)
-[fg](https://www.fightersgeneration.com/games/sf2-turbo-p4-4.html)
-![image](https://github.com/user-attachments/assets/3d6764d6-85cf-4a1d-a046-f47f2a73fbda)
 
 <div class="tupperware" markdown="1">
 
