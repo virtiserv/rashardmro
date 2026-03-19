@@ -7,21 +7,8 @@ title:  "MapS : @la-county-isd @Nasa-jpl "
 image: S1A_IW_GRDH_1SDV_20260221T135233_20260221T135258_063318_07F39D_AED3.jpg
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-03-19 11:24:06 
+date:   2026-03-19 01:24:06 
 ---
-
-
-
-
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
-
-
-[comment]: <> (Emergency Files )
-
-<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
-<img   alt="image" src="https://github.com/user-attachments/assets/4f9c8237-ab0b-4958-806f-a7cc2d84fff4" />
-
-
 
 {% highlight python %}
 
@@ -31,6 +18,42 @@ date:   2026-03-19 11:24:06
 4 # UNiVERSE##LA_COUNTY_MAPS#####virtiservLA____##########
 
 {% endhighlight %}
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+[comment]: <> (Emergency Files )
+
+
+
+ECOSTRESS thermal map of the Port of LA, California, USA @la-county-isd @StateOfCalifornia @CityOFLosAngeles @LongBeachinnovationteam 
+[readmore](https://ecostress.jpl.nasa.gov/galleryimage)
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/6b95c2c5-af66-49b3-8b8b-3f01324e45dc" />
+  
+</picture>
+
+
+
+
+[Happy Pi Day @CityOfLosAngeles @la-county-isd @nasa-pds @blackgirlscode 10 Ways to Celebrate Pi Day with NASA on March 14](https://science.nasa.gov/learning-resources/10-ways-to-celebrate-pi-day-with-nasa-on-march-14/)
+![https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png](https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png) 
+@CityOfLosAngeles @La-County-isd i dont know the water departments account, but please take this vegitation induce into consideration, there is a leaf coverage index layer as well @whitehouse @stateofcalifornia mr newsom her is a map link that includes the data set names [https://worldview.earthdata.nasa.gov/?v=-129.53327845738087,14.353191066741346,-63.280706038147436,51.62026305256015&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MODIS_Combined_L4_LAI_4Day,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-129.53327845738087,14.353191066741346,-63.280706038147436,51.62026305256015&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GEDI_ISS_L4B_Aboveground_Biomass_Density_Mean_201904-202303,MODIS_Combined_L4_LAI_4Day,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden)&lg=true&s=-87.6324,41.8832&t=2022-02-06-T00%3A00%3A00Z) @blackgirlscode hi make sure your California educators get this article and verify it [NASA-Led Study Pinpoints Areas Sinking, Rising Along California Coast @nasa-jpl](https://www.jpl.nasa.gov/news/nasa-led-study-pinpoints-areas-sinking-rising-along-california-coast/)
+[https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png](https://ia903206.us.archive.org/8/items/Feb29dump/ZUSA_VEGiTATiON_iNDUCE_Virtiserv_Keisha_Bottoms_LATRiCE_MONiQUE_FiTZ_PATRiCK_DELiVERY_NASA_JPLRASHARD_snapshot-2022-02-06T00_00_00Z.png) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
+<img   alt="image" src="https://github.com/user-attachments/assets/4f9c8237-ab0b-4958-806f-a7cc2d84fff4" />
+
+
+
+
 
 
 
