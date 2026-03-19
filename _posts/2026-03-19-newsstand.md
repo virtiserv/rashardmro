@@ -31,6 +31,46 @@ the graff riots @la-county-isd @cityoflosangeles @nasa-jpl
 <img   alt="image" src="https://github.com/user-attachments/assets/04c46590-bca9-4a85-bb91-5dfb54697f43" />
 
 
+## African Americans In Losangeles
+[FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
+
+<div class="tupperware">
+	
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-africanamericansinlosangeles' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+	
+</div>
+
+
+
+##
+
+<div class="section_2col ic">
+	
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-2' %}
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![p](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![image](https://github.com/user-attachments/assets/9a19e84e-6b36-45d6-a069-2a94ea5d138f)
+
+
+
 ![@nasa-pds](https://www.google.com/logos/doodles/2026/st-patricks-day-2026-6753651837111004-2x.png)
 
 ![https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png](https://www.google.com/logos/doodles/2026/nowruz-2026-6753651837111005.2-2x.png)
@@ -853,40 +893,6 @@ a leading global city.
 - [Information Technology Agency (ITA) about @cityoflosangeles @stateofcalifornia](https://ita.lacity.gov/about/ita) [relatedTweet](https://x.com/thakasartu/status/1931042889490219219)
 
   
-## African Americans In Losangeles
-[FrancisGoldwyn](https://www.latimes.com/archives/la-xpm-1986-08-24-me-17401-story.html) display case featured [African Americans](https://en.wikipedia.org/wiki/History_of_African_Americans_in_Los_Angeles) in [Los Angeles](https://www.pbssocal.org/history-society/the-great-migration-creating-a-new-black-identity-in-los-angeles) from [Arcadia Publishing](https://www.arcadiapublishing.com/products/9780738580944?srsltid=AfmBOopapyWBAhT0q2ZXawkBEiMqkYHA6GUfWyltXxR6V7MaYmOk3_GJ). @stateofcalifornia @cityoflosangeles [Karen The Mayor Bass](https://trello.com/c/usCKzmZI/28-https-mayorlacitygov-about-mayor-karen-bass) 
-
-<div class="tupperware">
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-africanamericansinlosangeles' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
-
-
-
-##
-
-<div class="section_2col ic">
-{% for image in site.static_files %}
-    {% if image.path contains 'assets/images/gallery-2' %}
-        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
-            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
-        </a>
-    {% endif %}
-{% endfor %}
-</div>
-
-## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
-
-<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
-
-![p](https://photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
-![image](https://github.com/user-attachments/assets/9a19e84e-6b36-45d6-a069-2a94ea5d138f)
-
 
 `Nagin Cox grew up hearing that girls were "worthless"-so she set her sights on NASA and never looked back.` - [ReadHerStory](https://www.jpl.nasa.gov/news/fight-and-flight-one-womans-fearless-journey-to-the-stars/) [MAliBuTimEs](https://malibutimes.com/scientist-engineer-nagin-cox-shares-journey-to-mars-for-the-malibu-library-speaker-series)
 [Nagin Cox](https://www.nagincox.org/about) in [`All About Space`](https://onlineobservatory.eu/wp-content/uploads/2021/03/TheHuntForMartianLife.pdf) [MRO 10Year Anniversary Issue](https://onlineobservatory.eu/wp-content/uploads/2021/03/MarsReconnaissanceOrbiter.pdf)
@@ -928,6 +934,7 @@ a leading global city.
 [Messenger - Earth Departure Movie](https://messenger.jhuapl.edu/Explore/media/videos/mdis_depart.mpeg)
 
 <div class="tupperware">
+	
 <figure>
  <a href="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" > 
  <img src="https://raw.githubusercontent.com/ricoThakarashard/rashardmro/refs/heads/master/assets/images/mars/%20rashardmro_schema0errors.png" alt="GLENDALE HYPERION VIADUCT SEEN AT CENTER CROSSING THE LOS ANGELES RIVER AND INTERSTATE I-5. LOOKING WEST." /> </a>
@@ -955,6 +962,7 @@ a leading global city.
 ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolution Observations at Submillimeter-wavelengths) is a high-altitude balloon mission for studying astrophysical phenomena. [![Twitter Follow](https://img.shields.io/badge/Social-neiltyson__-blue?style=social&logo=X)](https://twitter.com/neiltyson) [![Twitter Follow](https://img.shields.io/badge/Social-blackgirlscode__-blue?style=social&logo=X)](https://twitter.com/blackgirlscode)
 
 <div class="postLoop">
+	
 <ul>
 {% for post in site.posts %}
     <li>
@@ -964,6 +972,7 @@ ASTHROS (short for Astrophysics Stratospheric Telescope for High Spectral Resolu
    </li>
 {% endfor %}
 </ul>  
+	
 </div> 
 
 [NASA Renames Mars Lander in Honor of Late Carl Sagan ](https://www.jpl.nasa.gov/news/nasa-renames-mars-lander-in-honor-of-late-carl-sagan/) [How did everyone feel about Donald Glover in the Martian? His character was a complete rip off of Abed and it really grated my biscuits.](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=49228)
