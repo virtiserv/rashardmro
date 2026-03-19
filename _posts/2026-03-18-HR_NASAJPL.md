@@ -12,6 +12,15 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+## California Constitution
+Article I - Declaration of Rights
+Section 6. [Link](https://law.justia.com/constitution/california/article-i/section-6/)
+Slavery is prohibited [ACA-3 Slavery.](https://www.leginfo.legislature.ca.gov/faces/billTextClient.xhtml?bill_id=202120220ACA3). Involuntary servitude is prohibited except to punish crime.
+
+(Sec. 6 added Nov. 5, 1974, by Prop. 7. Res.Ch. 90, 1974.)
+Treason in California is defined under Penal Code 37 as levying war against the state, adhering to its enemies, or giving them aid and comfort, [houselaw.com/ca/defense/penal-code/37/](https://www.shouselaw.com/ca/defense/penal-code/37/) . . . 
+<img   alt="image @cityoflosangeles KAren Bass KEisha Bottoms @foratlanta" src="https://github.com/user-attachments/assets/3d48ff30-4e5f-4aa8-a406-24638e31b75e" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/a34af1d3-2109-40c6-8502-9c909475c3ed" />
 
 @la-county-isd @nasa-jpl i shouted that Jeezy need to talk to pete, i missed the lauch of persevere and i traced a lot of shit back to him i said it on the playform @LACMTA @whitehouse @CityOfLosAngeles its not fair [erika is playing](https://www.essence.com/tags/erika-kelly/) violin on @npr @newshour [Watch](https://www.youtube.com/watch?v=c9vtuEH-vfk) 
