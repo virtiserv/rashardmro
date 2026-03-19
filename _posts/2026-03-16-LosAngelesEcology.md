@@ -29,6 +29,9 @@ date:   2026-03-06 8:51:06
 
 {% endhighlight %}
 
+
+![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
+
 @NASA-GISS @LACMTA @la-county-isd 
 Dear Supervisor Wiggins,
 It's rashard Kelly from nasajpl.. as the train approached the Willow st station's  dtla platform I got a violent shock and my legs began itching aggressively and my waist band started burning @RepKarenBass 🥵 I'm seeking relief 😔 😮‍💨 I was sitting in the seat facing the driver behind door a7 @usnavy @nbcnews @nasa-jpl
