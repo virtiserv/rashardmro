@@ -12,6 +12,8 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+@keberwein hi I used to work with aAngela. plz z tell her rashard saidd hi... erika works for p****b** now and I think Angela should meet my girlfriend latrice if I'm comprehending signals and not mixing them up @fbicyber [cantor.angela@bls.gov](mailto:cantor.angela@bls.gov) // [upthejunction2@yahoo.com](mailto:upthejunction2@yahoo.com) [https://www.bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm](https://www.bls.gov/opub/btn/volume-12/historic-coffee-prices-percolated-after-a-bitter-global-supply-crisis.htm) @foratlanta @nasa-jpl @la-county-isd Supervisor Mitchell MayorBass @blackgirlscode
+
 ## California Constitution
 Article I - Declaration of Rights
 Section 6. [Link](https://law.justia.com/constitution/california/article-i/section-6/) [essence.com/news/erika-renee-johnson-kelly-found-georgia/](https://www.essence.com/news/erika-renee-johnson-kelly-found-georgia/)
