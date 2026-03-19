@@ -9,6 +9,23 @@ permalink: /smartphonelab
 ---
 [@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+    <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+</picture>
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-ecostress' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 @cityOfLosAngeles Streets LA `Ecostress` 
 [geoTiff](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.tif) // kmz @googleworkspace idk is kml the language identifier ? bc i think you guys distribute kml files, google earth works tho [`KM[Z/L]`](https://ecostress.jpl.nasa.gov/downloads/images/ECOSTRESS_LST_SummerDay_LosAngeles.kmz)
