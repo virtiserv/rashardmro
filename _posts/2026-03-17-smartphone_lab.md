@@ -8,6 +8,17 @@ image: C8RenderHeader_03.webp
 permalink: /smartphonelab
 ---
 [@blackgirlscode @esa @nasa-jpl](https://cdn.esawebb.org/archives/images/large/pillarsofcreation_composite.jpg) 
+<img   alt="losangelesecostress" src="https://github.com/user-attachments/assets/2e254c44-9c2e-4b3e-9efc-ad68c32b5681" />
+
+@la-county-isd if this is one tool i use for mapping and interstellar weather @nasa-giss 
+[giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:@nasa-jpl:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-03-08T00:00:00Z&endtime=2026-03-16T23:59:59Z&data=OMHCHOd_003_key_science_data_column_amount&dataKeyword=hcho)
+
+<img   alt="earthdatamining-Rashard" src="https://github.com/user-attachments/assets/2aa8836b-e0f8-4eed-9e4c-c6ce47287f2c" />
+
+<img   alt="GIOVANNI-outputcMc1ABE4" src="https://github.com/user-attachments/assets/16e0f655-b51c-4383-9601-a46ed7ad632d" />
+
+<img  alt="sangabrielLosAngles" src="https://github.com/user-attachments/assets/611e5a02-9baa-446b-8e2b-a5c810472d0e" />
+
 
 <img   alt="@la-county-isd" src="https://github.com/user-attachments/assets/f1445c47-c9c1-41e9-9823-530051811670" />
 
