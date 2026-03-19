@@ -10,8 +10,9 @@ author: "RashardKelly @nasa-jpl"
 
 # Compiling
 
-@blackgirlscode @usgs i made a [News]() page with some [Vlogging]()
+@blackgirlscode @usgs i made a [News](https://thakarashard.github.io/news) page with some [Vlogging](https://archive.org/details/commitmentmaintenance)
 [https://www.youtube.com/lafd](https://www.youtube.com/lafd) @la-county-isd 
+
 the graff riots @la-county-isd @cityoflosangeles @nasa-jpl 
 
 <div class="tupperware">
