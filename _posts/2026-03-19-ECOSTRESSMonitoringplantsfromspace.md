@@ -6,7 +6,7 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-[@nasa-jpl iss hatch opening and closing - watch @newshour @nbcla](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA1.mp4) // Soalr Panel ModKiT insTall [@Nasa-develop news @Nasa-giss @la-county-isd HOLLYMiTCHELL - KARENBASS JANiCHAHN](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA.mp4)
+[@nasa-jpl iss hatch opening and closing - watch @newshour @nbcnews @cbs-news-data @datadesk](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA1.mp4) // Soalr Panel ModKiT insTall [@Nasa-develop news @Nasa-giss @la-county-isd HOLLYMiTCHELL - KARENBASS JANiCHAHN](https://ia600307.us.archive.org/10/items/commitmentmaintenance/00000000000000_SPACEWALK94_DAVE_GALLAGER_LAURIE_LESHIN_CHECKiN_BRANDYDYNEESHANORMANiLATRiCE_ViRTiSERV_Erika_Rashard_NASA.mp4)
 
 @TheSpaceDevs @BlueOrigin 
 what would rodman of berkeley glass house lexus ass say about me today? please tell @blackgirlscode @nasa-jpl @la-county-isd we had a spacewalk
