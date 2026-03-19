@@ -9,6 +9,9 @@ author: "RashardKelly @nasa-jpl"
 
 
 # Compiling
+
+@blackgirlscode @usgs i made a [News]() page with some [Vlogging]()
+[https://www.youtube.com/lafd](https://www.youtube.com/lafd) @la-county-isd 
 the graff riots @la-county-isd @cityoflosangeles @nasa-jpl 
 
 <div class="tupperware">
@@ -29,6 +32,10 @@ the graff riots @la-county-isd @cityoflosangeles @nasa-jpl
 ![image](https://github.com/user-attachments/assets/3d6764d6-85cf-4a1d-a046-f47f2a73fbda)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/04c46590-bca9-4a85-bb91-5dfb54697f43" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/2a9776d7-0488-4f50-9283-ea5d294170f1" />
+<img   alt="image" src="https://github.com/user-attachments/assets/c80517c9-8893-4ec9-aa01-01a54b017d18" />
 
 
 ## African Americans In Losangeles
