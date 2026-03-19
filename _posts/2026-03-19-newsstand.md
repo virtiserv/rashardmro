@@ -246,6 +246,7 @@ I have been researching SpaceForce and  [![Twitter Follow](https://img.shields.i
         or
   <a href="https://d34w7g4gy10iej.cloudfront.net/video/1912/DOD_107547647/DOD_107547647-1280x720-2765k.mp4">MP4</a>
         video.
+		
 </video>
 
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="zxx" dir="ltr"><a href="https://t.co/2OYrMFlw46">https://t.co/2OYrMFlw46</a></p>&mdash; Donald J. Trump (@realDonaldTrump) <a href="https://twitter.com/realDonaldTrump/status/1936603680805097741?ref_src=twsrc%5Etfw">June 22, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
@@ -267,6 +268,7 @@ I forgot what other lil girl at Dance411 was helpinmg me with this. But I have t
 
 
 [Remarks by President Trump at Signing Ceremony for S.1790, National Defense Authorization Act for Fiscal Year 2020](https://trumpwhitehouse.archives.gov/briefings-statements/remarks-president-trump-signing-ceremony-s-1790-national-defense-authorization-act-fiscal-year-2020/) [Trump Signs Law Establishing U.S. Space Force](https://www.defense.gov/News/News-Stories/article/article/2046035/trump-signs-law-establishing-us-space-force/)
+
 
 ```
 W3C CSS Validator results for https://rashardci.github.io/ (CSS level 3 + SVG)
@@ -420,8 +422,10 @@ Swap space in Linux is used when the amount of physical memory (RAM) is full. If
 In years past, the recommended amount of swap space increased linearly with the amount of RAM in the system. However, modern systems often include hundreds of gigabytes of RAM. As a consequence, recommended swap space is considered a function of system memory workload, not system memory. [RedHatDocs](https://docs.redhat.com/en/documentation/red_hat_enterprise_linux/7/html/storage_administration_guide/ch-swapspace)
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
-	<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+	
+<source src="https://ia600808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">	 
+<source src="https://ia800808.us.archive.org/4/items/screen-20250227-090209/screen-20250226-090725.mp4" type="video/mp4">
+	
 </video> 
 
 ![redhat](https://docs.redhat.com/Logo-Red_Hat-Documentation-A-Reverse-RGB.svg)
@@ -435,6 +439,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 
 
 <div class="tupperware">
+	
 <video preload="auto" width="auto" height="400px" controls> 
 	<source src="https://archive.org/download/mondaycmd/screen-20250303-161528.mp4" type="video/mp4">	 
 </video> 
@@ -444,24 +449,30 @@ In years past, the recommended amount of swap space increased linearly with the 
 </video> 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	 
+	<source src="https://ia903409.us.archive.org/11/items/screen-20250128-063937/screen-20250128-063937.mp4" type="video/mp4">	
+	
 </video> 
+
 </div>
 
 
 # @nasa-jpl [Here is a video of me using @google earth for my @nasaEARTHDATA research]
 
 <video preload="auto" width="auto" height="500px" controls> 
-	<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
-	<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+	
+<source src="https://ia600809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	 
+<source src="https://ia800809.us.archive.org/8/items/vid-20250309-133824/screen-20250309-132032.mp4" type="video/mp4">	
+	
 </video> 
 
 
 
 
 <video preload="auto" width="auto" height="400px" controls> 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
-	<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	
+<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+<source src="https://ia801503.us.archive.org/14/items/screen-20250308-102510/screen-20250308-073420.mp4" type="video/mp4">	 
+	
 </video> 
 
 ![image](https://github.com/user-attachments/assets/b4318270-4cad-417e-aaa0-470525fcdcac)
@@ -476,6 +487,7 @@ In years past, the recommended amount of swap space increased linearly with the 
 <a href="https://ricothakarashard.github.io/linux">linux</a>
 ```
 {% raw %}
+
 [/linux]({{ site.url }}/linux)
 <a href="{{ site.url }}/linux">linux</a>
 {% endraw %}
