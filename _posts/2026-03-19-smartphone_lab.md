@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-03-16 15:38:06 -0800
+date:   2026-03-18 15:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
@@ -15,10 +15,12 @@ permalink: /smartphonelab
 
 @newshour @nbcnews [https://ecostress.jpl.nasa.gov/data](https://ecostress.jpl.nasa.gov/data)
 
-![https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png) 
+[https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png](https://ecostress.jpl.nasa.gov/downloads/images/streetheat_la.png) 
 
 `NASA’s ECOSTRESS Maps LA’s Street Temperatures. Click on image to see larger version. - NASA/JPL-Caltech`
 In this overlay image, retrieved land surface temperature (LST) from NASA’s Ecosystem Spaceborne Thermal Radiometer Experiment on Space Station (ECOSTRESS) was downscaled to a spatial resolution of 10m and overlaid on a street map of Los Angeles. The image was derived by taking an average of all clear-sky afternoon (1-4pm) imagery acquired by ECOSTRESS from 2018-2023. The LST represents the ‘skin’ temperature of the surface (that you would feel to the touch) and is usually much hotter than the surface air temperature that meteorologists report in a weather forecast.
+
+<img   alt="streetheat_la.png @intuit image" src="https://github.com/user-attachments/assets/226688c3-87f4-4fdb-92f5-e0d6fb51b727" />
 
 ECOSTRESS was launched to the international space station in 2018. Its primary mission is to identify plants’ thresholds for water use and water stress, giving insight into their ability to adapt to a warming climate. However, it has many other science uses including urban heat mitigation, wildfire mapping, water quality, and surface mineralogy. NASA’s Jet Propulsion Laboratory in Southern California built and manages the ECOSTRESS mission for the Earth Science Division in the Science Mission Directorate at NASA Headquarters in Washington. ECOSTRESS is an Earth Venture Instrument mission; the program is managed by NASA’s Earth System Science Pathfinder program at NASA's Langley Research Center in Hampton, Virginia - [@NASA-JPL / @CALTECH @Whitehouse @la-county-isd @stateofcalifornia @CityOfLosAngeles @longbeachinnovationteam hi MAyorRex
 
