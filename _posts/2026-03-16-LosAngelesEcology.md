@@ -22,19 +22,13 @@ date:   2026-03-19 1:51:06
 
 {% highlight python %}
 
-1 # HOLE_TO_ANOTHER_UNiVERSE##########02/07/2026##########
+1 # HOLE_TO_ANOTHER_UNiVERSE##########03/20/2026##########
 2 # TO#####MsHOLLY,Hilda,Teresa,CB2,Janice&theMayor#######
 3 # ANOTHER####Coral?#######@nasa-jpl#####################
 4 # UNiVERSE#####################virtiservastro____######
 
 {% endhighlight %}
 
-
-![https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg](https://www.sos.ca.gov/packages/casos/themes/casos_theme/images/ca-seal.svg)
-
-@la-county-isd this format called geotiff is a standard cartography services @nasa-jpl uses , im playing with an online viewer, it will make me more handy at using radar to create maps @blackgirlscode hi! [https://app.geotiff.io/](https://app.geotiff.io/) thats a web app, but it has a lot of tools to dig in if you cannt make changes to a computer to get the functionality
-
-<img   alt="image" src="https://github.com/user-attachments/assets/288881df-3e45-4f1c-b690-a81bd1257f82" />
 
 @NASA-GISS @LACMTA @la-county-isd 
 Dear Supervisor Wiggins,
