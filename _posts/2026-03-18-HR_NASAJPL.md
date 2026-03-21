@@ -12,6 +12,13 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
+@nasa-jpl hr I posted this on young Jeezy page @la-county-isd @foratlanta
+
+
+```
+@willsmith how do you deal with sex??? This dude killed all my erections @dance411 I want something never pleased by a man @gavinnewsom your stock sucks @SupervisorHollyJMitchell @brandy @normani @Holly4LACounty @nasajpl @itskeishalancebottoms @repkarenbass @SupervisorHollyJMitchell
+````
+
 
 [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
