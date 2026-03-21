@@ -10,6 +10,12 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+Rex Richardson - @la-county-isd / @voyager-tech-inc / @CityOfLosAngeles @ForAtlanta [ElecTionResults @podaac @nasa](https://results.lavote.gov/#year=2022&election=4300) `codesample` ~ >  [https://codepen.io/thakarashard/pen/YzMEOGN](https://codepen.io/thakarashard/pen/YzMEOGN) < ~ @LongBeachInnovation
+<img   alt="image" src="https://github.com/user-attachments/assets/0cf25d67-1f0c-4ade-993f-b68dc0d51d8e" />
+
+ 
+[@foratlanta @fbicyber](https://codepen.io/thakarashard/pen/vYMWzyx) someone vandalized kashdoll theme @blackgirlscode [HollyjMitchell @whitehouse @emit-sds](https://www.youtube.com/@SupervisorHollyJMitchell) : [[1](mitchell.lacounty.gov
+)] [here](https://codepen.io/thakarashard/pen/oNOoPYL) is one of the themes i made the girls when [they was doing good in music](https://www.youtube.com/watch?v=QL93x7bmGUc)
 `Area Voices`
 [@CityOfLosangeles - Regular City Council - 06/15/99](https://youtu.be/rJATuBZlJ8E)
  City of Carson State of the City 2026
@@ -195,3 +201,6 @@ In southern California, the combined ports of Los Angeles and Long Beach account
 @la-county-isd @nasa-openscapes @cityoflosangeles @stateofcalifornia
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA19249.width-1024.jpg)
+[https://codepen.io/thakarashard/pen/oNOoPYL](https://codepen.io/thakarashard/pen/oNOoPYL)
+<img  alt=" @blackgirlscode [GONDER] @nasa-jpl @foratlanta " src="https://github.com/user-attachments/assets/f5cb065b-eb1b-486e-a4c3-495232bc03f2" />
+
