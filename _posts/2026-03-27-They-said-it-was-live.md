@@ -8,9 +8,55 @@ image: post_computinsg.PNG
 author: RashardKelly @nasa-jpl
 ---
 
+
+# Cape Canaveral
+## @NASA's Artemis II Crew Arrives for Launch
+[WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
+[https://www.nasa.gov/expedition-74-news-releases/](https://www.nasa.gov/expedition-74-news-releases/)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lg-sDsbJp7E?si=l9uQMwZVIJz68l20" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+@Whitehouse the annouced launchdate is April 1st @USnavy idk how to look for anomolies, but since my cell was stolen im moving and i hope i did not put too much shade on [Ryan Gosling](https://en.wikipedia.org/wiki/Talk:Ryan_Gosling) scared of a [blueGTi](https://www.reddit.com/r/GolfGTI/comments/kltx68/2021_mk75_gti_in_cornflower_blue/) i saw at a Covid Era [GraffSpot -\/ra5hard.github.io/art/](https://ra5hard.github.io/art/graffiti/coral/2026/02/15/GraffShit.html)
+
+[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
+@BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 
+
+[[1](https://axiom.co/)]
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis2-crew-arrival' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+```
+
+Watch as NASA’s Artemis II crew arrives at the agency’s Kennedy Space Center in Florida, where they’ll speak about their upcoming mission around the Moon.
+
+Artemis II's crew members are:
+Reid Wiseman, commander and NASA astronaut
+Victor Glover, pilot and NASA astronaut
+Christina Koch, mission specialist and NASA astronaut
+Jeremy Hansen, mission specialist and CSA (Canadian Space Agency) astronaut
+
+The Artemis II crew will be greeted by leaders including:
+NASA Administrator Jared Isaacman 
+CSA (Canadian Space Agency) President Lisa Campbell
+
+```
+
 # Savannah Georgia
 @nasa-jpl can you @usnavy @blackgirlscode Hi Latrice Normani Kashdoll Latto Ella Mai Happy St Patricks day @cityoflosangeles 
 [https://www.youtube.com/watch?v=h2m0osu4KA8](https://www.youtube.com/watch?v=h2m0osu4KA8)
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/h2m0osu4KA8?si=4W5L1d9IYQJdJY9U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 @armydotmil [https://github.com/armydotmil](https://github.com/armydotmil) @nasajpl 
