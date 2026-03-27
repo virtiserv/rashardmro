@@ -32,6 +32,25 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's Artemis II 
 #  news
 
+## @NASA's Artemis II Crew Arrives for Launch
+[WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
+
+[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
+@BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 
+
+[[1](https://axiom.co/)]
+
+<div class="section_2col">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis2-crew-arrival' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
 
 
 [Comet 3I/ATLAS](https://science.nasa.gov/solar-system/comets/3i-atlas/) // [View Interstellar Comet 3I/ATLAS Through NASA’s Multiple Lenses](https://science.nasa.gov/solar-system/view-interstellar-comet-3i-atlas-through-nasas-multiple-lenses/) :: [TiMELiNE - TableMountainFacility @la-county-isd @whitehouse](https://tmf.jpl.nasa.gov/timeline/) @newshour [@ESA ESA observations of interstellar comet 3I/ATLAS](https://www.esa.int/Science_Exploration/Space_Science/ESA_observations_of_interstellar_comet_3I_ATLAS) 
