@@ -24,6 +24,7 @@ https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @nor
  
 <img   alt="image" src="https://github.com/user-attachments/assets/0b94e73d-704e-4425-8efa-8d0643f4cf3f" />
 
+[Expedition 74 News Releases @blackgirlscode @nasa-jpl](https://www.nasa.gov/expedition-74-news-releases/)
 <img   alt="Expedition 74 News Releases @blackgirlscode @nasa-jpl @foratlanta @chicago @nytimes" src="https://github.com/user-attachments/assets/287308ed-4ab1-4721-b875-873552e702d2" />
 
 
