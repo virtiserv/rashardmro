@@ -697,7 +697,6 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
 #
-#  Rashards-Status
+#Rashards-Status
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
-
