@@ -8,8 +8,10 @@ image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
 ---
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-# Rashard Kelly NasaJpl MRO JUNO iSS
+<img alt="Rashard Kelly NasaJpl MRO JUNO iSS @rashard-ecostress-jpl-iss @nasa-jpl @nasa-pds la-county-isd" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
 [nasa.gov/people/jared-isaacman/](https://www.nasa.gov/people/jared-isaacman/) // [war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/](https://www.war.gov/About/Biographies/Biography/article/4040890/hon-pete-hegseth/)
 
 @cityoflosangeles skill assessment rashard kelly @nasa-jpl @blackgirlscode
