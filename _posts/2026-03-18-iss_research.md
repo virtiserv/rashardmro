@@ -33,6 +33,8 @@ https://theinfiniteatlanta.com/ @jplnewsroom@jpl.nasa.gov  can someone give @nor
  
 <img   alt="image" src="https://github.com/user-attachments/assets/0b94e73d-704e-4425-8efa-8d0643f4cf3f" />
 
+![https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg @la-county-isd ask pullman yard about this msupervisor holly im sorry im going to be more formal whenn i take spots and do my paperwork @foratlanta @CityOfLosAngeles](https://im.vsco.co/aws-us-west-2/12f8b0/56497/5fc4a8c81d78312109000003/vsco5fc4a8cb61459.jpg) 
+
 <img   alt="@foratlanta @nasa-pds @nasa-jpl @blackgirlscode" src="https://github.com/user-attachments/assets/afc98c3e-a57f-4d2a-8522-68aa6f6ea146" />
 
 <div class="tupperware">
