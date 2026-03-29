@@ -32,6 +32,23 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's Artemis II 
 #  news
 
+
+[https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id) // []()
+
+
+
+<div class=">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-Artemis2-crew-arrival' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
 ## @NASA's Artemis II Crew Arrives for Launch
 [WATCH on @Youtube - youtube.com/watch?v=lg-sDsbJp7E @nasa-jpl @la-county-isd](https://www.youtube.com/watch?v=lg-sDsbJp7E)
 
@@ -696,7 +713,6 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
-#
 #Rashards-Status
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
