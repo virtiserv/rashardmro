@@ -143,10 +143,20 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 
 #  launch-weather 
-@nasa @nasa-jpl there is a ton of lighting over Mexico that could impact operations @whitehouse @blackgirlscode @CityOfLosAngeles @Disney @La-County-Isd 
+@nasa @nasa-jpl there is a ton of lighting over Mexico that could impact operations @whitehouse @blackgirlscode @CityOfLosAngeles @Disney @La-County-Isd [@nasa Launch Reqs](https://www.nasa.gov/artemis-ii-weather-criteria/#:~:text=Do%20not%20launch%20through%20a,cloud%20altitude%20can%20be%20met.)
 
+Why are Derived Motion Wind
+Vectors Important?
+[read](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)
+
+![https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260902200_GOES19-ABI-FD-DMW-1808x1808.jpg](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/FD/DMW/20260902200_GOES19-ABI-FD-DMW-1808x1808.jpg)
+
+_Geostationary Lightning Mapper:
+Definitions and Detection Methods_ [link](https://www.star.nesdis.noaa.gov/goes/documents/GLM_Quick_Guides_May_2019.pdf)
+[https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G19](https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G19)
 ![cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808 @nasa @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808.jpg)
 
+<img   alt="image" src="https://github.com/user-attachments/assets/9205c6ac-f834-4ec4-b158-72f969741c0e" />
 
 
 #  splashdown-weather
