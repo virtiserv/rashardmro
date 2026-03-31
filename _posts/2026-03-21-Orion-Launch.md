@@ -33,8 +33,11 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's Artemis II 
 #  news
 
+@nasa-jpl @blackgirlscode @newshour-+ theres a man,  [Charles Wiggins](https://www.legacy.com/us/obituaries/name/charlie-wiggins-obituary?id=38431185) at [the church](https://www.lafirstumc.org/) i been going to, i told him to see the rocket go off, the issue is he has freedom and i dont want him to drive far
+![https://www.nasa.gov/wp-content/uploads/2026/03/sls-4299-artemis-ii-visibilty-range-infographic-social-update-01062026-1.jpg](https://www.nasa.gov/wp-content/uploads/2026/03/sls-4299-artemis-ii-visibilty-range-infographic-social-update-01062026-1.jpg)
+[LPi](https://www.lpi.usra.edu/lunar/artemis/)
 
-[https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id) // []()
+[https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id) // [](https://www.cbsnews.com/news/nasa-artemis-ii-moon-launch-astronauts-flight-plan/)
 
 
 
