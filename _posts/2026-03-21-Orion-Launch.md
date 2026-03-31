@@ -12,6 +12,7 @@ permalink: /artemis2
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
+- Jump to  [`launch-weather`](#launch-weather)
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -141,9 +142,14 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
 
 
+#  launch-weather 
+@nasa @nasa-jpl there is a ton of lighting over Mexico that could impact operations @whitehouse @blackgirlscode @CityOfLosAngeles @Disney @La-County-Isd 
+
+![cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808 @nasa @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES19/GLM/FD/EXTENT3/20260902311_GOES19-GLM-FD-EXTENT3-1808x1808.jpg)
+
+
+
 #  splashdown-weather
-
-
 
 ### Base Los Angeles / Long Beach
 1001 South Seaside Ave  San Pedro, CA 90731
