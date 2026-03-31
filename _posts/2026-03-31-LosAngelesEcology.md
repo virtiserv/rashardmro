@@ -30,20 +30,26 @@ date:   2026-03-31 1:51:06
 {% endhighlight %}
 
 
-# LA _River
-[FullSet](https://www.loc.gov/resource/hhh.ca2896.photos/?sp=1&st=gallery)
-
-![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
-California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
 [Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
-![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
-
 
 ## LosAngelesDns
 >_Unless a company, university,
 or other group gets an officially sanctioned
 Internet name, it cannot conduct its business over the Net_
 - [ieee.org](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8048798)
+
+
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
 
 @la-county-isd you guys had the best results in my most recent voayge with [nslookup](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490721(v=technet.10)?redirectedfrom=MSDN) @CityOfLosAngles Im finxing some css errors [Supervisor Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) but The [CountyLibrary](https://lacountylibrary.org/) is serving from a [.org](https://www.seerinteractive.com/insights/domain-extensions-101-guide) see [nslookup.io Report](https://www.nslookup.io/domains/lacountylibrary.org/dns-records/) @nasa-jpl but they not on pphostd @whitehouse
 
@@ -1065,6 +1071,14 @@ Team Members: Yash Kansal, Meera G K, Yeyan Wang, Crystal Wang, Shweta Joshi [Li
 Digital Id
 http://hdl.loc.gov/loc.gmd/g4051p.rr003220
 <img  alt="image" src="https://github.com/user-attachments/assets/ecc493a4-00a2-4136-8d53-41f4c5ce8f5b" />
+
+# LA _River
+[FullSet](https://www.loc.gov/resource/hhh.ca2896.photos/?sp=1&st=gallery)
+
+![GAvin NEWSOM](https://pbs.twimg.com/media/GkhrgsCXcAAMsGx?format=jpg&name=medium)
+California Gov Gavin Newsom has asked Congress to approve nearly $40 bn in aid to help LA recover from Jan’s devastating wildfires. Estimates of the Total economic loss from firestorm have been estimated to surpass $250 bn [The South Asian Times on X](https://x.com/TheSATimes/status/1893882483772358798) [WorldWideWeb-The SouthAsianTimes](https://www.thesouthasiantimes.info/)
+[Mountains On Fire - CALiFORNiA 2025](https://x.com/selamolurm/status/1884319173649785335) [Video of #mandevillecanyon Jan31](https://x.com/BobRusbuldt/status/1885347275615944973)
+![h](https://pbs.twimg.com/media/GkrAkPQXgAA8Q1k?format=jpg&name=large)
 
 
 
