@@ -54,7 +54,7 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 @Whitehouse the annouced launchdate is April 1st @USnavy idk how to look for anomolies, but since my cell was stolen im moving and i hope i did not put too much shade on [Ryan Gosling](https://en.wikipedia.org/wiki/Talk:Ryan_Gosling) scared of a [blueGTi](https://www.reddit.com/r/GolfGTI/comments/kltx68/2021_mk75_gti_in_cornflower_blue/) i saw at a Covid Era [GraffSpot -\/ra5hard.github.io/art/](https://ra5hard.github.io/art/graffiti/coral/2026/02/15/GraffShit.html)
 
-[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-moon-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
+[NASA Releases Artemis II Moon Mission Launch Countdown @nasa.gov](https://www.nasa.gov/general/nasa-releases-artemis-ii-mission-launch-countdown/) // [Artemis 2 moon mission latest news: Astronauts arriving in Florida ahead of launch - LiVE asof 3/27](https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026)
 @BlueOrigin [@TheSpaceDevs, Commercial space pleads with @NASA to stop moving the goalposts in orbit](https://www.theregister.com/2026/03/27/iss_rethink/) - [_Richard Speed_ @blackgirlscode](https://www.theregister.com/Author/Richard-Speed) 
 
 [[1](https://axiom.co/)]
@@ -713,7 +713,7 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
-#Rashards-Status
+# Rashards-Status
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
