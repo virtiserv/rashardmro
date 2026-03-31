@@ -114,15 +114,19 @@ https://en.wikipedia.org/wiki/Table_Mountain_Observatory // https://lidar.jpl.
 [ECOSTRESS Data Incorporated Into New Wildfire Response Tool](https://www.jpl.nasa.gov/news/ecostress-data-incorporated-into-new-wildfire-response-tool/)
 
 <video  controls poster="https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA23695.width-1024.jpg">
+	
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://d2pn8kiwq2w21t.cloudfront.net/media/1-PIA23695_Bootleg_Fire.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 [Fires Tear Through Los Angeles](https://visibleearth.nasa.gov/images/153793/fires-tear-through-los-angeles)
