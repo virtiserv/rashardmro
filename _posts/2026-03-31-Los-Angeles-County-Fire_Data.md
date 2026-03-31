@@ -166,15 +166,19 @@ _Scientific consulting by:_ [Doug C. Morton](https://svs.gsfc.nasa.gov/search/?p
 These visualizations highlight the spread of the 2025 Palisades and Eaton fires in California using a fire tracking approach (Chen et al., 2022) and near real-time active fire detections from the VIIRS sensors on the Suomi-NPP and NOAA-20 satellites. Every 12 hours, the fire tracking algorithm uses new active fire detections to update the total fire perimeter and estimate the position of active fire lines—active portions of the perimeter where the fire may continue to spread. [READMORE](https://svs.gsfc.nasa.gov/5558/) 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/LAfiresBeauty_3820x1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314.02652.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_2025-06-15_2314_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -183,17 +187,22 @@ These visualizations highlight the spread of the 2025 Palisades and Eaton fires 
 The Spread of the Palisades Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227.04200.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v52_Palisades_2025-06-15_1227_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
+
 
 The Spread of the Eaton Fire
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242.06200.png">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005558/fire_spread_LA_only_2025_v54_Eaton_2025-06-15_2242_1080p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/e0f9bd66-7c95-4e50-baee-412c596674d6" />
@@ -340,10 +349,13 @@ Over the past several weeks, the United States has seen significant reductions i
 # GRACE and GRACE-FO track California's land water changes
 
 [MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
 <video  controls >
+	
   <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 
@@ -362,9 +374,11 @@ By monitoring the color of reflected light via satellite, scientists can determi
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/ndvi_cbar.png)
 
 <video  controls >
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/bio4sos.4096x2048p30.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 ![OceanChlorophyll](https://svs.gsfc.nasa.gov/vis/a000000/a005400/a005474/chloro_cbar.png)
@@ -504,6 +518,31 @@ Internet name, it cannot conduct its business over the Net_
 
 @la-county-isd you guys had the best results in my most recent voayge with [nslookup](https://learn.microsoft.com/en-us/previous-versions/windows/it-pro/windows-xp/bb490721(v=technet.10)?redirectedfrom=MSDN) @CityOfLosAngles Im finxing some css errors [Supervisor Mitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) but The [CountyLibrary](https://lacountylibrary.org/) is serving from a [.org](https://www.seerinteractive.com/insights/domain-extensions-101-guide) see [nslookup.io Report](https://www.nslookup.io/domains/lacountylibrary.org/dns-records/) @nasa-jpl but they not on pphostd @whitehouse
 
+# GRACE and GRACE-FO track California's land water changes
+
+[MAiN](https://grace.jpl.nasa.gov/resources/42/grace-and-grace-fo-track-californias-land-water-changes/) [RELATEDTWEET](https://x.com/RicoThaka/status/1882498520122548642)
+
+<video  controls >
+	
+  <source src="https://grace.jpl.nasa.gov/rails/active_storage/blobs/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFVDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dac742eb358a1539ab5b7e1125a3bf91e5348bbc/grace_ca_water_2002-2023_seasonal_2160p.mp4?disposition=inline" type="video/mp4" />
+  
+  Your browser does not support the video tag.
+  
+</video>
+
+
+NASA’s Gravity Recovery and Climate Experiment (GRACE, 2002 - 2017) mission, and its successor GRACE Follow-On (launched in 2018), map month-to-month changes in Earth's gravity field resulting from the movement of mass, such as water, near the surface of the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2004-2010), while red colors represent drier than average conditions. The yellow line in the graph on the left shows the evolution of the long-term inter-annual variations for the area outlined in yellow on the map (note: the average seasonal cycle has been removed).
+
+
+ ```
+      ___    _____     ___                                                      
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
+    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
+|_____|/  |_|/       |_____|/        
+```
+
 <p>
     <a href="https://jigsaw.w3.org/css-validator/check/referer">
         <img style="border:0;width:88px;height:31px"
@@ -528,6 +567,7 @@ URI : https://ra5hard.github.io/assets/css/style.css?v=dc80f4b81df2648a0d8efd7c9
 URI : https://ra5hard.github.io/
 18	.navbar a	Value Error : padding 10x is not a padding value : 10x 10px
 ```
+
 <img  alt="image" src="https://github.com/user-attachments/assets/756087d1-e276-4ea0-aec6-f114920156a8" />
 <img alt="image" src="https://github.com/user-attachments/assets/3cd5bf61-a62d-426a-9794-90f547708b44" />
 
@@ -558,11 +598,3 @@ Remotely Estimating Total Suspended Solids Concentration in Clear to Extremely T
 
 [MAPPiNG @CityOfLosAngles Trees @StateOfCalifornia](https://ntrs.nasa.gov/api/citations/20250007467/downloads/2025Sum_JPL_LosAngelesCountyEco_Presentation_FD.pdf) 
  
- ```
-      ___    _____     ___                                                      
-    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d      
-    | | | |  __ \ /| | | |       Solar System Dynamics Group                   
- ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory                     
-/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA                             
-|_____|/  |_|/       |_____|/        
-```
