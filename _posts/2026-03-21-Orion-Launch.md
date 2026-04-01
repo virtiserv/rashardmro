@@ -35,6 +35,9 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+[https://www.youtube.com/live/kp0BVx-Rfi4?si=24E5SSmF6UxwQdux](https://www.youtube.com/live/kp0BVx-Rfi4?si=24E5SSmF6UxwQdux)
+The countdown is officially a-go for Artemis II at Kennedy Space Center, targeting a 6:24 p.m. launch on Wednesday for its first crewed mission around the moon in 50 years. The four-person crew includes NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canadian astronaut Jeremy Hansen @foxnews @nbcnews 
+
 @unitedstates 
 [https://www.youtube.com/live/QaBaQ9EruJs?si=LQtZQCs47VFBJNdX](https://www.youtube.com/live/QaBaQ9EruJs?si=LQtZQCs47VFBJNdX)
 C-SPAN's special LIVE coverage of the Artemis II Moon Mission Launch begins Wednesday April 1st at 1:00 p.m. ET with LIVE video from NASA's Kennedy Space Center of the launch and pre-launch activities, expert commentary on the mission and crew, plus viewer calls. [https://www.c-span.org](https://www.c-span.org) @nasa-jpl
