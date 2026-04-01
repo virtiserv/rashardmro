@@ -40,6 +40,13 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player)
 
+[50https://www.youtube.com/live/8DHG51vpgkU?si=IJMEzIzCxpl874cT](https://www.youtube.com/live/8DHG51vpgkU?si=IJMEzIzCxpl874cT)
+Artemis II Moon Rocket Launch LIVE: NASA's Artemis II Live Views from Kennedy Space Center, FL | CNBC TV18
+LIVE feed from Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on Thursday, March 19, with rollout from the Vehicle Assembly Building to Launch Pad 39B. NASA Sends Astronauts around the Moon for the first time in 50 years.
+Live view of the Artemis II Moon rocket. While the Artemis II launch window opens as early as Wednesday, April 1, the mission management team will assess flight readiness across the spacecraft, launch infrastructure, and the crew and operations teams before selecting a launch date. @nbcnews @dhs-gov @blackgirlscode 
+
+`nslookup -type=mx whitehouse.gov`
+
 https://www. @usatoday .com/story/news/nation/2026/03/31/nasa-artemis-moon-mars-missions/89385831007/
 [https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-](https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-)
 We're sending astronauts around the Moon for the first time in 50 years. Come watch with us.
