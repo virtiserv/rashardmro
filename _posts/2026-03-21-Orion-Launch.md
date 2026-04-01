@@ -37,6 +37,10 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+
+[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player)
+
+https://www. @usatoday .com/story/news/nation/2026/03/31/nasa-artemis-moon-mars-missions/89385831007/
 [https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-](https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-)
 We're sending astronauts around the Moon for the first time in 50 years. Come watch with us.
 
