@@ -40,6 +40,17 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player)
 
+
+[@webb @foratlanta @mailchimp @blackgirlscode https://www.youtube.com/live/0CRQsiL27Kg?si=Azguj-eHW8l-4SCH](https://www.youtube.com/live/0CRQsiL27Kg?si=Azguj-eHW8l-4SCH)
+
+For the first time since the 1970's, NASA is sending a crew back to the moon.
+
+The crew includes Christina Koch, an engineer and record-holding astronaut who will become the first woman to venture to the moon. NASA's Reid Wiseman, a navy test pilot and single father who will serve as commander of the mission. Victor Glover, a naval test pilot who will become the first African-American man to travel to deep space. Canadian Space Agency's Jeremy Hansen, a fighter pilot who will be the first non-NASA astronaut to join a lunar mission.
+
+The 10-day, roughly 600,000 journey will take this crew beyond the far side of the moon and deeper into space than any human has ventured before.
+ 
+Artemis II is scheduled to launch no earlier than 6:24 p.m. ET. - atal ta news first on @youtube @nasa 
+
 [50https://www.youtube.com/live/8DHG51vpgkU?si=IJMEzIzCxpl874cT](https://www.youtube.com/live/8DHG51vpgkU?si=IJMEzIzCxpl874cT)
 Artemis II Moon Rocket Launch LIVE: NASA's Artemis II Live Views from Kennedy Space Center, FL | CNBC TV18
 LIVE feed from Kennedy Space Center in Florida will provide continuous views of the Artemis II Moon rocket beginning on Thursday, March 19, with rollout from the Vehicle Assembly Building to Launch Pad 39B. NASA Sends Astronauts around the Moon for the first time in 50 years.
