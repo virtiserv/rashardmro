@@ -37,7 +37,26 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+@blueorigin @theSpaceDevs @blackgirlscode @foratlanta
+[youtube.com/live/_owzmracVDo?si=91hAIkbn8Ybyw7IJ](https://www.youtube.com/live/_owzmracVDo?si=91hAIkbn8Ybyw7IJ)
+Launch Date Planned: April 1, 2026 (EDT)
+Lift-Off Time: 6:24:00 PM EDT, 222400 UTC (April 2, 00:24:00 CEST)
+Launch Window: 120 minutes
+Launch Site: LC-39B - Kennedy Space Center, Florida
+Targeted Orbit: High Earth Orbit (HEO)
+Launch Inclination: East
+Launch Status: Scheduled and announced
 
+Mission: Artemis II
+Launch Provider: NASA
+Launcher System: SLS Block 1
+Manufacturer: Boeing
+Payload: Orion Crewed Spacecraft - 4 Astronauts 
+Payload Manufacturer: Lockheed Martin
+
+Price of the launcher: $876 million
+The Orion spacecraft program cost NASA over $20 billion for development from 2006 to 2022. Production and operational costs for Artemis missions 3-8 are estimated at roughly
+$2,7 billion for the first three, with subsequent units costing around $1,9 billion for three more. Total lifecycle costs are projected at over $29 billion through 2030. @usc @usnavy @lmco @nasa-jpl @ucla @datadesk
 
 @newshour
 [https://www.youtube.com/live/08IOsxF1os8?si=ieJLWMKmO572-2LK](https://www.youtube.com/live/08IOsxF1os8?si=ieJLWMKmO572-2LK)
