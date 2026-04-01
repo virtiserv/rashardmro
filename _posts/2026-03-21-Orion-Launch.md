@@ -33,7 +33,15 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II 
 
 
+[`HOME⬆️`](#Artemis2)
+
 #  news
+
+
+
+@newshour
+[https://www.youtube.com/live/08IOsxF1os8?si=ieJLWMKmO572-2LK](https://www.youtube.com/live/08IOsxF1os8?si=ieJLWMKmO572-2LK)
+Watch PBS News for daily, breaking and live news, plus special coverage. We are home to PBS News Hour, ranked the most credible and objective TV news show.
 
 [https://www.youtube.com/live/43Ta51jqIeg?si=6HRP48pWPt5w70qG](https://www.youtube.com/live/43Ta51jqIeg?si=6HRP48pWPt5w70qG)
 Watch live coverage as NASA launches the Artemis II rocket carrying four astronauts on a 10-day journey taking them around Earth and the moon. NASA astronauts Reid Wiseman, Christina Koch and Victor Glover and Canadian astronaut Jeremy Hansen will be the first people to launch toward the moon since the Apollo 17 mission in 1972. @disney @nasa-pds @ucla
@@ -95,6 +103,8 @@ Apr 01, 2026
 <img   alt="@eu-cdse image" src="https://github.com/user-attachments/assets/d7a9f05f-0e71-470b-8450-ab3ab524a51d" />
 
 
+[`HOME⬆️`](#Artemis2)
+
 [https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id](https://www.youtube.com/live/TQH21XCsp5U?si=kcYWDxtWWmyzC0Id) // [](https://www.cbsnews.com/news/nasa-artemis-ii-moon-launch-astronauts-flight-plan/)
 
 
@@ -150,6 +160,8 @@ Exclusive NASA Access to the Crew, Tech & Training | [SLICE SCIENCE](https://www
 <img alt="image" src="https://github.com/user-attachments/assets/e0fdabd4-ac15-464a-b768-4ae661a41df4" />
 
 Flight Readiness News Conference (March 12, 2026)
+
+[`HOME⬆️`](#Artemis2)
 
 @doug-newman-nasa @voyager-tech-inc : @USSF-ORBIT
 @la-county-isd @cityofsandiego @blackgirlscode @CityOfLosAngeles 
@@ -208,6 +220,7 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 #  launch-weather 
 
+[`HOME⬆️`](#Artemis2)
 
 @usgs @nasa-giss @la-county-isd @nasa-jpl
 Hi I dont know how to use @github at [Kennedy](https://www.planetary.org/space-images/kennedy-space-center-launch-viewing-map), but this is a percipitation forcast for the next two days to compliment the lightnning maps [map link - click]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-82.23043%2C25.05827%2C-79.65768%2C32.55855%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-82.23043432659718%2C25.05827350557686%2C-79.65767686353576%2C32.55854930346194%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C18%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A2%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
@@ -240,6 +253,7 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 <img  alt="image" src="https://github.com/user-attachments/assets/874c9096-cd5b-4447-b9cf-b86588b0e953" />
 
 
+[`HOME⬆️`](#Artemis2)
 
 #  splashdown-weather
 
@@ -285,6 +299,8 @@ Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4
 
 # kelp-data
 
+[`HOME⬆️`](#Artemis2)
+
 SHIFT Campaign Research Plane Flight Area Map
 
 ![https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25144.width-1440.jpg](https://d2pn8kiwq2w21t.cloudfront.net/images/jpegPIA25144.width-1440.jpg) 
@@ -318,6 +334,7 @@ Kelp forests change frequently, and often out of sight from scientists. Infrared
 [watch](https://youtu.be/P1KI33vtn9U)
 Restored by [The Paley Center](https://www.paleycenter.org/), [David Susskind](https://blogs.loc.gov/now-see-hear/2023/09/david-susskind-speaks-again/)'s extraordinary interview with Dr. [Martin Luther King](https://www.loc.gov/item/today-in-history/january-15/), Jr., which originally aired on June 9, 1963. [[1](https://www.youtube.com/watch?v=smEqnnklfYs)] [[2](https://youtu.be/QEPNGf7rS0M?si=jAHVK8x3YmLr7iDN)] [[3](https://youtu.be/ZmtOGXreTOU?si=0v770k2ew-3LG3nn)] [[4](https://youtu.be/QXqlziZV63k?si=XCQ5tHVKMnF4YJ1M)] [[5](https://youtu.be/DQYzHIIQ1O4?si=Dsh5908JKYzyiCEL)] @whitehouse
 @TheSpaceDevs @NASA-DEVELOP @NASA-GiSS
+
 ## Things to watch out for . . .
 @la-county-isd Have you ever walked along a California coast and wondered about all of the kelp washed-up on shore? - [BeachedKelpExplained](https://science.nasa.gov/missions/landsat/explaining-beached-kelp/) [KELPFOREST](https://science.nasa.gov/earth/earth-observatory/monitoring-the-collapse-of-kelp-forests-148391/) @cityofsandiego the splashdown for Orion is supposed to be in San Diego , I dont know how far the [Kelp](https://kelpwatch.org/map?zoom=2.00000&center=-82.00000%2C8.00000&startYear=1984&endYear=2025&timeFilter=all&currentStep=1984.2&kelpSource=landsat) foresst reach. This dataset from[Kelpwatch.org](https://kelpwatch.org/) will help get us all there [[1](https://portal.edirepository.org/nis/mapbrowse?scope=knb-lter-sbc&identifier=74)],  is that y you dont land here often? We would love to have you @nasa-jpl @cityoflosangeles @nasa-jpl [pdf](https://www.jpl.nasa.gov/site/research/media/posters/2023/SP22016p.pdf) // [SLS-4659_MSFC_08152023_August 2023 Resource Reel](https://images.nasa.gov/details/SLS-4659_MSFC_08152023_August%202023%20Resource%20Reel)
 
@@ -347,6 +364,8 @@ Bell, T., K. Cavanaugh, and D. Siegel. 2025. SBC LTER: Time series of quarterly 
 
 ## Major Mission Milestones @whitehouse
 
+
+[`HOME⬆️`](#Artemis2)
 
 @nasa-pds [POSTER](https://images-assets.nasa.gov/image/Artemis%20II%20Mission%20Trajectory%20Final/Artemis%20II%20Mission%20Trajectory%20Final~large.jpg?w=1920&h=1309&fit=clip&crop=faces%2Cfocalpoint)
 <img  alt="image" src="https://github.com/user-attachments/assets/fdaf7fd9-3a40-4e1b-a0f0-be8cd8c332dd" />
@@ -495,6 +514,8 @@ https://www.nasa.gov/mission/artemis-i/
 
 
 
+[`HOME⬆️`](#Artemis2)
+
 @nasa-jpl ok, i told robin obrien i was working from home onetime, but i got kidnapped , please understand that people keep disabling me so im really behind... These jupyter notebooks are challenging, the plain text is bugging me because i wanna finish the excercise... i should stop feeling sorry for myself [Latrice](https://www.facebook.com/thevirtiservway/) @blackgirlscode @fbi @whitehouse . . . i can find some tutorials to get up to speed with delivering the freshest sat data, erathdata is still a webtool... @stateofcalifornia 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/761a3e2e-277b-46a2-9f47-62e472dfc393" />
@@ -548,6 +569,10 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 ![Orion from a soudi](https://cdnx.premiumread.com/?url=https://www.saudigazette.com.sa/uploads/images/2022/12/11/2056770.jpg&w=850&q=100&f=webp)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/6404eb20-efc9-4a15-8362-18c982e156f6" />
+
+
+
+[`HOME⬆️`](#Artemis2)
 
 #  space-weather 
 # 
@@ -715,6 +740,8 @@ The Lunar Reconnaissance Orbiter Camera, or LROC, is a system of three cameras m
 [Capri Sun Heads for the Moon: Takes a Lunar Leap with Debut of First-Ever Moon Punch](https://news.kraftheinzcompany.com/press-releases-details/2025/Capri-Sun-Heads-for-the-Moon-Takes-a-Lunar-Leap-with-Debut-of-First-Ever-Moon-Punch/default.aspx) CHICAGO--(BUSINESS WIRE)-- Today, Capri Sun enters a new phase with the launch of Moon Punch – the brand’s first glow-in-the-dark pouch ahead of the Total Lunar Eclipse. For the first time, Capri Sun is turning the moon itself into a scannable code through Snapchat, inviting fans to take part of the lunar phenomenon for a chance to unlock an exclusive first taste of Moon Punch. From March 13 to March 14, fans can open their cameras through Snapchat, snap the moon and follow the lunar link for a chance to receive a free carton of Moon Punch and a flashlight to help light up the night sky. 
 
 
+[`HOME⬆️`](#Artemis2)
+
 ### announcements @nasa-pds @la-county-isd @nasa-jpl @emit-sds @NASAspaceflight
 December 15, 2025. LRO Release 64 includes new LEND, LOLA, and Mini-RF data. Release of Diviner data is delayed.
 [link](https://pds-geosciences.wustl.edu/missions/lro/) [LROC -  65A PDS Data Release](https://lroc.im-ldi.com/images/1469)
@@ -825,6 +852,9 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 <img  alt="image" src="https://github.com/user-attachments/assets/39f1b2ee-b5b6-4903-98c4-1c946d8e6e6a" />
 
 # Rashards-Status
+
+
+[`HOME⬆️`](#Artemis2)
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
