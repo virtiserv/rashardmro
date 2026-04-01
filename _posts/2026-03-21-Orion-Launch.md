@@ -45,6 +45,18 @@ Live coverage of Artemis II's launch and lunar flyby, as well as daily mission b
 
 Four astronauts — three from NASA and one from the CSA (Canadian Space Agency) — make up the Artemis II crew: @esa 
 
+```
+
+~ $ nslookup -type=mx nasa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+nasa.gov        mail exchanger = 0 nasa-gov.mail.protection.outlook.com.
+
+Authoritative answers can be found from:
+```
+
 @whitehouse @lmco @longbeachinnovationteam
 [https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r](https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r)
 Join our team at KSC for the first crewed mission to the Moon in over 50 years. Launching on SLS and Orion, a crew of four will fly around the Moon as a precursor to humans returning to the surface. @commercegov @commerce-gov. @nasa-develop
