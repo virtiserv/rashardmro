@@ -35,6 +35,9 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+[https://www.youtube.com/live/43Ta51jqIeg?si=6HRP48pWPt5w70qG](https://www.youtube.com/live/43Ta51jqIeg?si=6HRP48pWPt5w70qG)
+Watch live coverage as NASA launches the Artemis II rocket carrying four astronauts on a 10-day journey taking them around Earth and the moon. NASA astronauts Reid Wiseman, Christina Koch and Victor Glover and Canadian astronaut Jeremy Hansen will be the first people to launch toward the moon since the Apollo 17 mission in 1972. @disney @nasa-pds @ucla
+
 [https://www.youtube.com/live/kp0BVx-Rfi4?si=24E5SSmF6UxwQdux](https://www.youtube.com/live/kp0BVx-Rfi4?si=24E5SSmF6UxwQdux)
 The countdown is officially a-go for Artemis II at Kennedy Space Center, targeting a 6:24 p.m. launch on Wednesday for its first crewed mission around the moon in 50 years. The four-person crew includes NASA astronauts Reid Wiseman, Victor Glover, Christina Koch, and Canadian astronaut Jeremy Hansen @foxnews @nbcnews 
 
