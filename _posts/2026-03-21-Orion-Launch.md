@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-03-31 08:19:06 -0800
+date:   2026-04-01 08:19:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -34,6 +34,28 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 
 #  news
+
+@unitedstates 
+[https://www.youtube.com/live/QaBaQ9EruJs?si=LQtZQCs47VFBJNdX](https://www.youtube.com/live/QaBaQ9EruJs?si=LQtZQCs47VFBJNdX)
+C-SPAN's special LIVE coverage of the Artemis II Moon Mission Launch begins Wednesday April 1st at 1:00 p.m. ET with LIVE video from NASA's Kennedy Space Center of the launch and pre-launch activities, expert commentary on the mission and crew, plus viewer calls. [https://www.c-span.org](https://www.c-span.org) @nasa-jpl
+
+```shell
+Horizons> Connection closed by foreign host.
+~ $ nslookup -type=mx jpl.nasa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov    mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+jpl.nasa.gov    mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+```
+
+@blackgirlscode
+
+Download the FREE C-SPAN Now App. https://www.c-span.org...
+
 
 [@usatoday @cityoflosangeles @nasa-giss https://www.youtube.com/live/nQuV72tsvsM?si=hqWqYQgmMHokHlJl](I https://www.youtube.com/live/nQuV72tsvsM?si=hqWqYQgmMHokHlJl)
 Four astronauts could soon board a spacecraft for NASA's first human moon mission in more than 50 years, during which they are due to fly farther than any deep-space explorers before them.
