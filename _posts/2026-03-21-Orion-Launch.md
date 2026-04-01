@@ -37,6 +37,14 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+
+[https://www.youtube.com/live/m3kR2KK8TEs?si=cSPKDjHp-p6IOWPR](https://www.youtube.com/live/m3kR2KK8TEs?si=cSPKDjHp-p6IOWPR)
+This feed will provide continuous coverage of Artemis II mission activities with live commentary, beginning with tanking of the SLS (Space Launch System) rocket at NASA's Kennedy Space Center and concluding with the recovery of the Orion Integrity spacecraft after splashdown.
+
+Live coverage of Artemis II's launch and lunar flyby, as well as daily mission briefings, will also stream on this feed. These events will additionally be carried as standalone streams on NASA's YouTube channel and elsewhere. 
+
+Four astronauts — three from NASA and one from the CSA (Canadian Space Agency) — make up the Artemis II crew: @esa 
+
 @whitehouse @lmco @longbeachinnovationteam
 [https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r](https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r)
 Join our team at KSC for the first crewed mission to the Moon in over 50 years. Launching on SLS and Orion, a crew of four will fly around the Moon as a precursor to humans returning to the surface. @commercegov @commerce-gov. @nasa-develop
