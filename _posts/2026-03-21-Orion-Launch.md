@@ -31,7 +31,19 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II 
+
+
 #  news
+
+![https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif](https://www.google.com/logos/doodles/2026/artemis-ii-spaceflight-around-the-moon-6753651837111248.3-2xa.gif)
+
+[doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/](https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/)
+
+Apr 01, 2026
+
+NASA's Artemis II Mission Around the Moon
+This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
+Apr 01, 2026
 [zoom in for detetail](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-80.2,20.5,6.3z)
 @nasa-jpl @blackgirlscode @newshour-+ theres a man,  [Charles Wiggins](https://www.legacy.com/us/obituaries/name/charlie-wiggins-obituary?id=38431185) at [the church](https://www.lafirstumc.org/) i been going to, i told him to see the rocket go off, the issue is he has freedom and i dont want him to drive far 
 - [rashard](rashard.github.io)
