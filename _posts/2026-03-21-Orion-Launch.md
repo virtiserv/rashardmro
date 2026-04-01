@@ -35,6 +35,10 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+[@usatoday @cityoflosangeles @nasa-giss https://www.youtube.com/live/nQuV72tsvsM?si=hqWqYQgmMHokHlJl](I https://www.youtube.com/live/nQuV72tsvsM?si=hqWqYQgmMHokHlJl)
+Four astronauts could soon board a spacecraft for NASA's first human moon mission in more than 50 years, during which they are due to fly farther than any deep-space explorers before them.
+
+Traveling up to 6,000 miles beyond the lunar surface, the crew of a mission known as Artemis II will see part...more @washingtonpost @blackgirlscode
 
 [@nasa-jpl @la-county-isd Youtube.com/live/vr4tJfR5tkU?si=GdomI8xsXUhpix4p](https://www.youtube.com/live/vr4tJfR5tkU?si=GdomI8xsXUhpix4p)
 
