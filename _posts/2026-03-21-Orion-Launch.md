@@ -37,6 +37,31 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+[https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-](https://www.youtube.com/live/Tf_UjBMIzNo?si=ISs0BQhUMB0Zun9-)
+We're sending astronauts around the Moon for the first time in 50 years. Come watch with us.
+
+@NASA's Artemis II mission is scheduled to lift off from Kennedy Space Center on April 1. The two-hour launch window starts at 6:24 p.m. EDT (2224 UTC
+
+```
+~ $ nslookup -type=mx whitehouse.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find whitehouse.gov: No answer
+
+Authoritative answers can be found from:
+whitehouse.gov
+        origin = ernest.ns.cloudflare.com
+        mail addr = dns.cloudflare.com
+        serial = 2399420447
+        refresh = 10000
+        retry = 2400
+        expire = 604800
+        minimum = 1800
+
+~ $
+```
 
 [https://www.youtube.com/live/m3kR2KK8TEs?si=cSPKDjHp-p6IOWPR](https://www.youtube.com/live/m3kR2KK8TEs?si=cSPKDjHp-p6IOWPR)
 This feed will provide continuous coverage of Artemis II mission activities with live commentary, beginning with tanking of the SLS (Space Launch System) rocket at NASA's Kennedy Space Center and concluding with the recovery of the Orion Integrity spacecraft after splashdown.
