@@ -37,6 +37,12 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 
+@whitehouse @lmco @longbeachinnovationteam
+[https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r](https://www.youtube.com/live/8c-GAkIzpGE?si=RNifG1Ya6JHhz6_r)
+Join our team at KSC for the first crewed mission to the Moon in over 50 years. Launching on SLS and Orion, a crew of four will fly around the Moon as a precursor to humans returning to the surface. @commercegov @commerce-gov. @nasa-develop
+
+
+
 @blueorigin @theSpaceDevs @blackgirlscode @foratlanta
 [youtube.com/live/_owzmracVDo?si=91hAIkbn8Ybyw7IJ](https://www.youtube.com/live/_owzmracVDo?si=91hAIkbn8Ybyw7IJ)
 Launch Date Planned: April 1, 2026 (EDT)
