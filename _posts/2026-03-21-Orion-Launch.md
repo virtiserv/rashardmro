@@ -33,17 +33,21 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 
 ```shell
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
-telnet: Unable to connect to remote host: Connection timed out
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
-telnet: Unable to connect to remote host: Software caused connection abort
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
-^C
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
-^C
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
-gtelnet: Unable to connect to remote host: Connection timed out
-~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+
+ Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -
+
+Horizons> -
+
+     ___    _____     ___
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
+    | | | |  __ \ /| | | |       Solar System Dynamics Group
+ ___| | | | |__) |/  | | |__     Jet Propulsion Laboratory
+/___| | | |  ___/    | |/__ /|   Pasadena, CA, USA
+|_____|/  |_|/       |_____|/
+
+Connection closed by foreign host.
+~ $ telnet horizons.jpl.nasa.gov 6775
+Trying 137.78.251.144...
 Connected to horizons.jpl.nasa.gov.
 Escape character is '^]'.
 
@@ -53,116 +57,137 @@ Escape character is '^]'.
   |                  * * *    W A R N I N G   * * *                    |
   |                                                                    |
   |                          Property of the                           |
-                                                                                                                    ___    _____     ___                                                 
-JPL Horizons, version 4.98d          Type '?' for brief help, '?!' for details,                                '-' for previous prompt, 'x' to exit System news updated April 1, 2026    
-Horizons> -1024                      ************************************* Revised: Apr 02, 2026        Artemis          04:29 UTC       https://www                         https://www.
- BACKGROUND:                           Four astronauts will fly aboard NAS  spacecraft's systems operate as des
-  human presence on the Moon.
-                                       Artemis II astronauts are NASA's Re
-  (pilot), Christina Koch (Mission Sp
-  Agency) astronaut Jeremy Hansen (Mi
+  |                      UNITED STATES GOVERNMENT                      |
+  |                                                                    |
+  |    This computer is funded by the United States Government and     |
+  | operated by the California Institute of Technology in support of   |
+  | ongoing U.S. Government programs and activities.  If you are not   |
 
-  "Artemis II" refers to a specific m
-  "Orion" refers to the spacecraft/ca
-    crew has chosen the nickname "Int
-  "SLS" refers to the Space Launch Sy
+     ___    _____     ___
+    /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
+    | | | |  __ \ /| | | |       Solar System Dynamics Group
+
+JPL Horizons, version 4.98d
+Type '?' for brief help, '?!' for details,
+'-' for previous prompt, 'x' to exit
+System news updated April 1, 2026
+
+Horizons> -1024
+*******************************************************************************
+ Revised: Apr 02, 2026        Artemis II / Spacecraft (Earth)             -1024
+          04:29 UTC       https://www.nasa.gov/mission/artemis-ii/
+                         https://www.nasa.gov/artemis-ii-press-kit/
+
+ BACKGROUND:
+  Four astronauts will fly aboard NASA's Orion spacecraft to confirm the
+  spacecraft's systems operate as designed in preparation for a sustained
+  human presence on the Moon.
+
+  Artemis II astronauts are NASA's Reid Wiseman (Commander), Victor Glover
+  (pilot), Christina Koch (Mission Specialist), and CSA (Canadian Space
+  Agency) astronaut Jeremy Hansen (Mission Specialist).
+
+  "Artemis II" refers to a specific mission within the broader Artemis program.
+  "Orion" refers to the spacecraft/capsule the astronauts ride within. The
+    crew has chosen the nickname "Integrity" for the Artemis II Orion capsule.
+  "SLS" refers to the Space Launch System, or rocket launching Orion into space
 
  MAJOR EVENTS:
-  Launched April 1 @ 22:35:12 UTC fro
-  Center, USA.  Mission length is 10
+  Launched April 1 @ 22:35:12 UTC from pad LC-39B at the Kennedy Space
+  Center, USA.  Mission length is 10 days.
 
-  Timings of major dynamical events a
-  the nominal open-window launch, and
-  a launch delay (format is "days/HH:
+  Timings of major dynamical events are given RELATIVE TO LAUNCH time for
+  the nominal open-window launch, and will shift accordingly if there is
+  a launch delay (format is "days/HH:MM:SS" since launch):
 
   Day 1
-     launch   0/00:00    - Launch Apr
-     launch + 0/00:20    - Orion depl
-              0/00:49:50 - Perigee ra
-              0/01:47:57 - Apogee rai
-              0/03:24:18 - Orion/ICPS
-              0/04:50    - Orion uppe
-              0/05:00    - ICPS dispo
-              0/05:04    - Cubesats d
-              0/12:55    - Perigee ra
+     launch   0/00:00    - Launch April 1, 22:35:12 UTC
+     launch + 0/00:20    - Orion deploys solar arrays in Earth orbit
+              0/00:49:50 - Perigee raise maneuver (2223 x 185 km)
+              0/01:47:57 - Apogee raise maneuver  (70377 km)
+              0/03:24:18 - Orion/ICPS separation
+              0/04:50    - Orion upper stage separation burn
+              0/05:00    - ICPS disposal burn for Pacific splashdown
+              0/05:04    - Cubesats deploy at one minute intervals
+              0/12:55    - Perigee raise burn
   Day 2
-     launch + 1/01:08    - Start Tran
-              1/01:35    - Earth shad
-              1/02:41    - Earth shad
+     launch + 1/01:08    - Start Translunar Injection burn (~8 min. duration)
+              1/01:35    - Earth shadow entrance
+              1/02:41    - Earth shadow exit
   Day 3
-     launch + 2/00:08    - Orbit traj
+     launch + 2/00:08    - Orbit trajectory correction burn #1
   Day 4
-     launch + 3/01:08    - Orbit traj
+     launch + 3/01:08    - Orbit trajectory correction burn #2
   Day 5
-     launch + 4/04:29    - Orbit traj
-              4/06:08    - Orion ente
+     launch + 4/04:29    - Orbit trajectory correction burn #3
+              4/06:08    - Orion enters lunar sphere of influence
   Day 6
-     launch + 5/00:31    - Closest ap
-              5/00:34    - Maximum di
+     launch + 5/00:31    - Closest approach to the Moon
+              5/00:34    - Maximum distance from Earth
   Day 7
-     launch + 5/18:52    - Orion exit
-              6/01:29    - Return tra
+     launch + 5/18:52    - Orion exits lunar sphere of influence
+              6/01:29    - Return trajectory correction burn #1
   Day 8
-     launch + 7/04:20    - Manual pil
+     launch + 7/04:20    - Manual piloting demonstration
   Day 9
-     launch + 8/04:29    - Return tra
+     launch + 8/04:29    - Return trajectory correction burn #2
   Day 10
-     launch + 8/20:29    - Return tra
-              9/01:09    - Orion crew
-              9/01:12    - Crew modul
-              9/01:29    - Entry inte
-                           Events by
-                            11 km : F
-                            7.6 km: D
-                            2.9 km: P
-                                    p
-              9/01:42    - Splashdown
-              9/01:57    - Orion fina
+     launch + 8/20:29    - Return trajectory correction burn #3
+              9/01:09    - Orion crew and service module separation
+              9/01:12    - Crew module raise burn
+              9/01:29    - Entry interface (122 km above Earth)
+                           Events by altitude:
+                            11 km : Forward bay cover deploys
+                            7.6 km: Droque parachute deploys
+                            2.9 km: Pilot parachutes deploy at 2.9 km,
+                                    pulling out 3 main parachutes
+              9/01:42    - Splashdown in Pacific Ocean near Baja California
+              9/01:57    - Orion final power down
 
  SPACECRAFT DETAILS
   SLS
-   * Height                : 98 meter
-   * Mass at liftoff       : 2.61 mil
-   * Thrust at liftoff     : 39.1 mil
-   * Payload to the moon   : 27,000 k
+   * Height                : 98 meters
+   * Mass at liftoff       : 2.61 million kg
+   * Thrust at liftoff     : 39.1 million Newtons
+   * Payload to the moon   : 27,000 kg
 
   Orion module ("Integrity")
-   * Crew + service mod hgt: 7.92 met
+   * Crew + service mod hgt: 7.92 meters
    * Pressurized volume    : 19.6 m^3
-   * Mass to the Moon      : ~27,000
-   * Return mass at landing: ~10,400
-   * Propellant usage      : ~ 9,000
+   * Mass to the Moon      : ~27,000 kg
+   * Return mass at landing: ~10,400 kg (6500kg srvc mod, 1000kg adpt. discard)
+   * Propellant usage      : ~ 9,000 kg
 
  CUBESATS DISPENSED
-  All are 12U CubeSats from internati
-  Independent missions and trajectori
+  All are 12U CubeSats from international partners tied to the Artemis Accords.
+  Independent missions and trajectories once released on Day 1.
 
-   1. ATENEA (Argentina space agency,
-       Studies: Radiation environment
+   1. ATENEA (Argentina space agency, CONAE)
+       Studies: Radiation environment, shielding techniques, communication
                 systems
-       Goal   : Improve future deep-s
+       Goal   : Improve future deep-space mission design
 
-   2. TACHELES (Germany, German Aeros
-       Focus  : Testing electronics a
-       Goal   : Validating tech for f
+   2. TACHELES (Germany, German Aerospace Center (DLR))
+       Focus  : Testing electronics and components
+       Goal   : Validating tech for future lunar vehicles and infrastructure
 
-   3. K-RadCube (South Korea, Korea A
-       Mission: Measure space radiati
-       Goal   : Study biological effe
+   3. K-RadCube (South Korea, Korea AeroSpace Administration (KASA))
+       Mission: Measure space radiation using materials that mimic human tissue
+       Goal   : Study biological effects of radiation in space
 
-   4. Space Weather CubeSat-1 (Saudi
-       Studies: Solar radiation, magn
+   4. Space Weather CubeSat-1 (Saudi Arabia, Saudi Space Agency)
+       Studies: Solar radiation, magnetic fields, space weather conditions
                 in high Earth orbit
 
  SPACECRAFT TRAJECTORY:
-  Post-launch Orion II trajectory dat
-  Trajectory data starts 3h24m18s aft
+  Post-launch Orion II trajectory data from NASA/JSC navigation (concatenated):
+  Trajectory data starts 3h24m18s after launch, after nominal ICPS separation.
 
-  Trajectory name
-  -----------------------------------
-  Orion_OEM_20260401_0335.V0.1
-*************************************
- Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>: m
+  Trajectory name                              Start (TDB)    Stop (TDB)
+  ----------------------------------------- ----------------- -----------------
+  Orion_OEM_20260401_0335.V0.1              2026-Apr-02 01:59 2026-Apr-10 23:59
+*******************************************************************************
+ Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>:  m
 
  Enter your Internet e-mail address [?]: mayor@lacity.org
   "mayor@lacity.org"
@@ -170,7 +195,213 @@ Horizons> -1024                      ************************************* Revis
  Address stored this login only ... use "email" cmd to change
 
 Standby ... Data sent to mayor@lacity.org
- Select ... [E]phemeris, [F]tp, [R]edisplay, ?, <cr>:
+ Select ... [E]phemeris, [F]tp, [R]edisplay, ?, <cr>: e
+
+ Observe, Elements, Vectors  [o,e,v,?] : o
+ Coordinate center [ <id>,coord,geo  ] :
+ Starting UT  [>=   2026-Apr-02 01:59] :
+Using START_TIME based on current system time
+No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:57:23.1193 UT
+ Starting UT  [>=   2026-Apr-02 01:59] : v
+Cannot interpret date. Type "?!" or try YYYY-MMM-DD {HH:MN} format.
+ Starting UT  [>=   2026-Apr-02 01:59] : ?!
+
+-------------------------------------------------------------------------------
+     Time may be specified many ways in addition to the primary form
+"YYYY-MMM-DD HH:MM".  Of particular note are Julian Day Number and day-of-year
+forms.  Examples are shown below. For this program, 1 minute is the smallest
+output step allowed, but input start times may be specified to 1/1000th of a
+second if the default setting is changed from "minutes".
+
+     Generally, if the input start time has more digits of precision specified
+than the selected output format, start time will be truncated to the
+appropriate level. For example, if a start time of 23:45:12.4 is specified, but
+the output format is only set to minutes, start time will automatically be
+changed to 23:45(:00.000).
+
+                    YOUR INPUT             PROGRAM INTERPRETATION
+                 ------------------------  ----------------------
+Recommended:     1997-May-5 12:30:23.3342   ( 5 MAY 1997 12:30 )
+
+Acceptable:      1/9/96 3 12 59.2           ( 9 JAN 1996 03:13 )
+                 1 9 96 3,12,59.2           ( 9 JAN 1996 03:13 )
+                 2 jan 91 3:00 12.2         ( 2 JAN 1991 03:00 )
+                 91 MAR 10 12:00:00         (10 MAR 1991 12:00 )
+                 29 February 1975 3:00      ( 1 MAR 1975 03:00 )
+                 10 October 29 3:58         (29 OCT 2010 03:58 )
+                 dec 31 86 12               (31 DEC 1986 12:00 )
+                 86-365 // 12               (31 DEC 1986 12:00 )
+                 JUL 98                     ( 1 JUL 1998 00:00 )
+                 JD 2451545.                ( 1 JAN 2000 12:00 )
+                 JD2451545.                 ( 1 JAN 2000 12:00 )
+                 278bc-jan-12 12:34         (B.C. 12 JAN  278 12:34)
+                 AD 99-Aug-12 12:34         (A.D. 12 JAN   99 12:34)
+                 bc 278-Jan-12 12:34        (B.C. 12 JAN  278 12:34)
+
+    The prompts will indicates the earliest and latest dates that may
+be requested for the selected target/center combination, and the assumed
+input timescale (UT, TDB, or TT).
+
+    For "observer tables", output may be in either UT or TT timescales.
+Vector tables may use any of three {TDB, TT, UT}. For osculating elements,
+only TDB may be used.
+
+    To change the default timescale, append a "UT", "TT", or "TDB" to the
+START time for a table type that supports that timescale. The three timescales
+are described as follows:
+
+      TDB ("Barycentric Dynamical Time"); used for cartesian and osculating
+           element tables. The uniform time scale of the ephemerides.
+
+       TT ("Terrestrial Time"), called TDT prior to 1991, used for observer
+           quantity tables. This is proper time as measured by an Earth-bound
+           observer and is directly related to atomic time, TAI. TT differs
+           from TDB by, at most 0.002 seconds.
+
+       UT  is Universal Time, This is a non-uniform time-scale based on the
+           rotation of the Earth. Pre-1962 corrections give UT1, post-1962 are
+           UTC (Coordinated Universal Time). Corrections after the next July
+           or January 1st aren't known yet so the most recent determination
+           is treated as a constant for future dates.
+
+ Time Zone corrections:
+ ----------------------
+ Output time-tags may also be in local civil time. When specifying start time,
+ enter your time-zone correction, in the format:
+
+                     YYYY-Mon-Dy HH:MM UT{s}HH{:MM}
+ ... where
+
+    {s} ...  optional sign (+ or -). If unspecified, it is assumed "+".
+    HH  ...  integer hours time-zone difference from UT
+  {:MM} ...  optional minutes offset (usually 0)
+
+ North American standard time (winter) zone corrections are as follows:
+
+          Atlantic Standard Time (AST) =  UT-4 hours
+          Eastern Standard Time  (EST) =  UT-5 hours
+          Central Standard Time  (CST) =  UT-6 hours
+          Mountain Standard Time (MST) =  UT-7 hours
+          Pacific Standard Time  (PST) =  UT-8 hours
+
+ If daylight savings is in effect (summer), add one hour to above offsets.
+
+ For example, "1999-jun-2 12:30 UT-8" produces a table in Pacific Standard
+ Time. A "-7" would provide Pacific Daylight Time (or MST, if it is winter).
+------------------------------------------------------------------------------
+ Starting UT  [>=   2026-Apr-02 01:59] : -
+ Coordinate center [ <id>,coord,geo  ] : geo
+ Starting UT  [>=   2026-Apr-02 01:59] :
+Using START_TIME based on current system time
+No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:57:23.1193 UT
+ Starting UT  [>=   2026-Apr-02 01:59] : -
+ Coordinate center [ <id>,coord,geo  ] : -
+ Observe, Elements, Vectors  [o,e,v,?] : v
+ Use previous center  [ cr=(y), n, ? ] : y
+ Reference plane [eclip, frame, body ] : body
+ Starting TDB [>=   2026-Apr-02 02:00] :
+Using START_TIME based on current system time
+No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:58:32.3050 TDB
+ Starting TDB [>=   2026-Apr-02 02:00] : -
+ Reference plane [eclip, frame, body ] : frame
+ Starting TDB [>=   2026-Apr-02 02:00] : orion
+Cannot interpret date. Type "?!" or try YYYY-MMM-DD {HH:MN} format.
+ Starting TDB [>=   2026-Apr-02 02:00] : ?!
+
+-------------------------------------------------------------------------------
+     Time may be specified many ways in addition to the primary form
+"YYYY-MMM-DD HH:MM".  Of particular note are Julian Day Number and day-of-year
+forms.  Examples are shown below. For this program, 1 minute is the smallest
+output step allowed, but input start times may be specified to 1/1000th of a
+second if the default setting is changed from "minutes".
+
+     Generally, if the input start time has more digits of precision specified
+than the selected output format, start time will be truncated to the
+appropriate level. For example, if a start time of 23:45:12.4 is specified, but
+the output format is only set to minutes, start time will automatically be
+changed to 23:45(:00.000).
+
+                    YOUR INPUT             PROGRAM INTERPRETATION
+                 ------------------------  ----------------------
+Recommended:     1997-May-5 12:30:23.3342   ( 5 MAY 1997 12:30 )
+
+Acceptable:      1/9/96 3 12 59.2           ( 9 JAN 1996 03:13 )
+                 1 9 96 3,12,59.2           ( 9 JAN 1996 03:13 )
+                 2 jan 91 3:00 12.2         ( 2 JAN 1991 03:00 )
+                 91 MAR 10 12:00:00         (10 MAR 1991 12:00 )
+                 29 February 1975 3:00      ( 1 MAR 1975 03:00 )
+                 10 October 29 3:58         (29 OCT 2010 03:58 )
+                 dec 31 86 12               (31 DEC 1986 12:00 )
+                 86-365 // 12               (31 DEC 1986 12:00 )
+                 JUL 98                     ( 1 JUL 1998 00:00 )
+                 JD 2451545.                ( 1 JAN 2000 12:00 )
+                 JD2451545.                 ( 1 JAN 2000 12:00 )
+                 278bc-jan-12 12:34         (B.C. 12 JAN  278 12:34)
+                 AD 99-Aug-12 12:34         (A.D. 12 JAN   99 12:34)
+                 bc 278-Jan-12 12:34        (B.C. 12 JAN  278 12:34)
+
+    The prompts will indicates the earliest and latest dates that may
+be requested for the selected target/center combination, and the assumed
+input timescale (UT, TDB, or TT).
+
+    For "observer tables", output may be in either UT or TT timescales.
+Vector tables may use any of three {TDB, TT, UT}. For osculating elements,
+only TDB may be used.
+
+    To change the default timescale, append a "UT", "TT", or "TDB" to the
+START time for a table type that supports that timescale. The three timescales
+are described as follows:
+
+      TDB ("Barycentric Dynamical Time"); used for cartesian and osculating
+           element tables. The uniform time scale of the ephemerides.
+
+       TT ("Terrestrial Time"), called TDT prior to 1991, used for observer
+           quantity tables. This is proper time as measured by an Earth-bound
+           observer and is directly related to atomic time, TAI. TT differs
+           from TDB by, at most 0.002 seconds.
+
+       UT  is Universal Time, This is a non-uniform time-scale based on the
+           rotation of the Earth. Pre-1962 corrections give UT1, post-1962 are
+           UTC (Coordinated Universal Time). Corrections after the next July
+           or January 1st aren't known yet so the most recent determination
+           is treated as a constant for future dates.
+
+ Time Zone corrections:
+ ----------------------
+ Output time-tags may also be in local civil time. When specifying start time,
+ enter your time-zone correction, in the format:
+
+                     YYYY-Mon-Dy HH:MM UT{s}HH{:MM}
+ ... where
+
+    {s} ...  optional sign (+ or -). If unspecified, it is assumed "+".
+    HH  ...  integer hours time-zone difference from UT
+  {:MM} ...  optional minutes offset (usually 0)
+
+ North American standard time (winter) zone corrections are as follows:
+
+          Atlantic Standard Time (AST) =  UT-4 hours
+          Eastern Standard Time  (EST) =  UT-5 hours
+          Central Standard Time  (CST) =  UT-6 hours
+          Mountain Standard Time (MST) =  UT-7 hours
+          Pacific Standard Time  (PST) =  UT-8 hours
+
+ If daylight savings is in effect (summer), add one hour to above offsets.
+
+ For example, "1999-jun-2 12:30 UT-8" produces a table in Pacific Standard
+ Time. A "-7" would provide Pacific Daylight Time (or MST, if it is winter).
+------------------------------------------------------------------------------
+ Starting TDB [>=   2026-Apr-02 02:00] : -
+ Reference plane [eclip, frame, body ] : -
+ Coordinate center [ <id>,coord,geo  ] : -
+ Observe, Elements, Vectors  [o,e,v,?] : e
+ Coordinate system center   [ ###, ? ] :
+ Reference plane [eclip, frame, body ] :
+ Starting TDB [>=   2026-Apr-02 02:00] :
+Using START_TIME based on current system time
+No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:58:32.3050 TDB
+ Starting TDB [>=   2026-Apr-02 02:00] :
+
 ```
 
 
