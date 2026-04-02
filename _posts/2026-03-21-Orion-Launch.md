@@ -32,7 +32,7 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 
-```shell
+```fortran
 
  Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -
 
