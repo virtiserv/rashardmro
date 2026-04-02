@@ -261,7 +261,7 @@ are described as follows:
        UT  is Universal Time, This is a non-uniform time-scale based on the
            rotation of the Earth. Pre-1962 corrections give UT1, post-1962 are
            UTC (Coordinated Universal Time). Corrections after the next July
-           or January 1st aren't known yet so the most recent determination
+           or January 1st arent known yet so the most recent determination
            is treated as a constant for future dates.
 
  Time Zone corrections:
