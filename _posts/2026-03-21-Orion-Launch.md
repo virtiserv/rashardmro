@@ -32,6 +32,11 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II 
 
+@blueorigin @nasajpl @nbcnews @newshour @usatoday
+
+commander Reid! gm it's Rashard iman kelly @nasajpl #ecostress #iss #expedition74 ground data delivery/ mission control help desk ... would u like me to stay on space weather for the flight? I sent you guys @ksc pics from Clementine of the dark side of the moon .. this is what I wrote because the girls I was with in Atlanta I can get in trouble with their families if I leave unannounced because I'm married in Alameda and common law with two other girls in Atlanta and I dont k ow who got my benefits !!!!!! 😮😅😊 u don't like the editing imo. I think it was the best so far , @repkarenbass hi I was wondering if I can go with the coast guard to retrieve the orange booster @nasajpl @gavinnewsom @normani @latto @kashdoll @blackgirlscode @brandy @megantheestallion @ellamai @beyonce #JAYZ hi can u relay? @munilong #nickiminaj @defjam @dance411 @itskeishancebottoms @essencemag #latriceFitzpatrick @howarduniversity #cardiB @dojacat #dojacat
+
+
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BrhH05U_Zds?si=OQ3aEeJ9uM43ktUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
