@@ -79,11 +79,11 @@ Horizons> -1024
                          https://www.nasa.gov/artemis-ii-press-kit/
 
  BACKGROUND:
-  Four astronauts will fly aboard NASA's Orion spacecraft to confirm the
-  spacecraft's systems operate as designed in preparation for a sustained
+  Four astronauts will fly aboard NASAs Orion spacecraft to confirm the
+  spacecrafts systems operate as designed in preparation for a sustained
   human presence on the Moon.
 
-  Artemis II astronauts are NASA's Reid Wiseman (Commander), Victor Glover
+  Artemis II astronauts are NASAs Reid Wiseman (Commander), Victor Glover
   (pilot), Christina Koch (Mission Specialist), and CSA (Canadian Space
   Agency) astronaut Jeremy Hansen (Mission Specialist).
 
