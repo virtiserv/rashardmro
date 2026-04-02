@@ -30,7 +30,149 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
 
-## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II 
+## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
+
+```shell
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+telnet: Unable to connect to remote host: Connection timed out
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+telnet: Unable to connect to remote host: Software caused connection abort
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+^C
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+^C
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+gtelnet: Unable to connect to remote host: Connection timed out
+~ $ telnet horizons.jpl.nasa.gov 6775Trying 137.78.251.144...
+Connected to horizons.jpl.nasa.gov.
+Escape character is '^]'.
+
+  ======================================================================
+  |                     Jet Propulsion Laboratory                      |
+  |                                                                    |
+  |                  * * *    W A R N I N G   * * *                    |
+  |                                                                    |
+  |                          Property of the                           |
+                                                                                                                    ___    _____     ___                                                 
+JPL Horizons, version 4.98d          Type '?' for brief help, '?!' for details,                                '-' for previous prompt, 'x' to exit System news updated April 1, 2026    
+Horizons> -1024                      ************************************* Revised: Apr 02, 2026        Artemis          04:29 UTC       https://www                         https://www.
+ BACKGROUND:                           Four astronauts will fly aboard NAS  spacecraft's systems operate as des
+  human presence on the Moon.
+                                       Artemis II astronauts are NASA's Re
+  (pilot), Christina Koch (Mission Sp
+  Agency) astronaut Jeremy Hansen (Mi
+
+  "Artemis II" refers to a specific m
+  "Orion" refers to the spacecraft/ca
+    crew has chosen the nickname "Int
+  "SLS" refers to the Space Launch Sy
+
+ MAJOR EVENTS:
+  Launched April 1 @ 22:35:12 UTC fro
+  Center, USA.  Mission length is 10
+
+  Timings of major dynamical events a
+  the nominal open-window launch, and
+  a launch delay (format is "days/HH:
+
+  Day 1
+     launch   0/00:00    - Launch Apr
+     launch + 0/00:20    - Orion depl
+              0/00:49:50 - Perigee ra
+              0/01:47:57 - Apogee rai
+              0/03:24:18 - Orion/ICPS
+              0/04:50    - Orion uppe
+              0/05:00    - ICPS dispo
+              0/05:04    - Cubesats d
+              0/12:55    - Perigee ra
+  Day 2
+     launch + 1/01:08    - Start Tran
+              1/01:35    - Earth shad
+              1/02:41    - Earth shad
+  Day 3
+     launch + 2/00:08    - Orbit traj
+  Day 4
+     launch + 3/01:08    - Orbit traj
+  Day 5
+     launch + 4/04:29    - Orbit traj
+              4/06:08    - Orion ente
+  Day 6
+     launch + 5/00:31    - Closest ap
+              5/00:34    - Maximum di
+  Day 7
+     launch + 5/18:52    - Orion exit
+              6/01:29    - Return tra
+  Day 8
+     launch + 7/04:20    - Manual pil
+  Day 9
+     launch + 8/04:29    - Return tra
+  Day 10
+     launch + 8/20:29    - Return tra
+              9/01:09    - Orion crew
+              9/01:12    - Crew modul
+              9/01:29    - Entry inte
+                           Events by
+                            11 km : F
+                            7.6 km: D
+                            2.9 km: P
+                                    p
+              9/01:42    - Splashdown
+              9/01:57    - Orion fina
+
+ SPACECRAFT DETAILS
+  SLS
+   * Height                : 98 meter
+   * Mass at liftoff       : 2.61 mil
+   * Thrust at liftoff     : 39.1 mil
+   * Payload to the moon   : 27,000 k
+
+  Orion module ("Integrity")
+   * Crew + service mod hgt: 7.92 met
+   * Pressurized volume    : 19.6 m^3
+   * Mass to the Moon      : ~27,000
+   * Return mass at landing: ~10,400
+   * Propellant usage      : ~ 9,000
+
+ CUBESATS DISPENSED
+  All are 12U CubeSats from internati
+  Independent missions and trajectori
+
+   1. ATENEA (Argentina space agency,
+       Studies: Radiation environment
+                systems
+       Goal   : Improve future deep-s
+
+   2. TACHELES (Germany, German Aeros
+       Focus  : Testing electronics a
+       Goal   : Validating tech for f
+
+   3. K-RadCube (South Korea, Korea A
+       Mission: Measure space radiati
+       Goal   : Study biological effe
+
+   4. Space Weather CubeSat-1 (Saudi
+       Studies: Solar radiation, magn
+                in high Earth orbit
+
+ SPACECRAFT TRAJECTORY:
+  Post-launch Orion II trajectory dat
+  Trajectory data starts 3h24m18s aft
+
+  Trajectory name
+  -----------------------------------
+  Orion_OEM_20260401_0335.V0.1
+*************************************
+ Select ... [E]phemeris, [F]tp, [M]ail, [R]edisplay, ?, <cr>: m
+
+ Enter your Internet e-mail address [?]: mayor@lacity.org
+  "mayor@lacity.org"
+ Confirm e-mail address [yes(<cr>),no] : yes
+ Address stored this login only ... use "email" cmd to change
+
+Standby ... Data sent to mayor@lacity.org
+ Select ... [E]phemeris, [F]tp, [R]edisplay, ?, <cr>:
+```
+
 
 @blueorigin @nasa-jpl @nbcnews @newshour @usatoday
 @whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
