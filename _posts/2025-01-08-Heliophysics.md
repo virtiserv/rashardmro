@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 title:  "Heliophysics"
-date:   2026-01-23 12:51:06 -0800
+date:   2026-04-03 12:51:06 -0800
 published: true
 image: latest_1024_0193.jpg
 tags: covid
