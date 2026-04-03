@@ -27,10 +27,10 @@ permalink: /artemis2
 
 [plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
 <img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
-<img  alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
 
-Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
+
+
+
 
 # Artemis2
 [Orion Spacecraft]
@@ -55,6 +55,20 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
+
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
+
+
+Moon to Mars
+Space Weather Analysis Office
+Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
+
+[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
+
+![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
+
+
 
 ## NASA’s Artemis II Crew Flies Around the Moon
 _(Official Broadcast)_
