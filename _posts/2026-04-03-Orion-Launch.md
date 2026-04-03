@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: post
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-04-03 13:47:06 -0800
+date:   2026-04-03 01:47:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -25,26 +25,22 @@ permalink: /artemis2
 
 
 
-[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
-<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
 
 
 
 
+
+
+
+# Rashard Kelly NasaJpl [MRO](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf) [JUNO](https://www.jpl.nasa.gov/news/press_kits/juno/) iSS
 
 # Artemis2
 [Orion Spacecraft]
 Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
-
-
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
-
-
-
-# Rashard Kelly NasaJpl MRO JUNO iSS
-[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
@@ -55,8 +51,21 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
+
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+
+
+
+
+
+
 
 Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
 <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
 
