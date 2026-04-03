@@ -13,9 +13,9 @@ Listing Posts in LiQUiD
 
 @nasa-jpl [link @blackgirlscode](https://rashardsdata.github.io/2025/10/17/Listing-Posts.html)
 
-_`<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:100%;" />`_
+_`<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:100%;" ></object>`_
 
-<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:90%;" /></object>
+<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:90%;" ></object>
 
 NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
