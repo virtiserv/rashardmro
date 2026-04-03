@@ -25,7 +25,12 @@ permalink: /artemis2
 ---
 
 
-[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+[plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
 # Artemis2
 [Orion Spacecraft]
@@ -381,8 +386,9 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 
 #  flight-data
+Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
-<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" /></object>
 
 #  launch-weather 
 
