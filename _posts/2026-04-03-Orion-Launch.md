@@ -22,12 +22,12 @@ permalink: /artemis2
 
 [`HOME⬆️`](#Artemis2)
 
----
+
 
 
 [plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-`official-broadcast`/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+<img   alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
+<img  alt="image" src="https://github.com/user-attachments/assets/730f0e70-3cd6-4aeb-a9e6-3a16258c4038" />
 
 Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
@@ -45,7 +45,9 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
 ![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
@@ -747,6 +749,17 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 [`HOME⬆️`](#Artemis2)
 
 #  space-weather 
+
+Moon to Mars
+Space Weather Analysis Office
+Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
+
+[Link](https://science.gsfc.nasa.gov/674/m2m-website.html) @nasa-jpl @nasa-giss @blueOrigin @thespacedevs @maxar @la-county-isd @blackgirlscode 
+
+![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
+
+
+
 # 
 ## SpaceWeather 4 [LAUNCH](https://youtu.be/_3tk2f-X15U)
 @nasa [mailto:Kennedy @blackgirlscode _`_virtiserv_`_](mailto:ksc-dl-news-chief@mail.nasa.gov)
