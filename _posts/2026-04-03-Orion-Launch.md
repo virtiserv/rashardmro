@@ -35,12 +35,17 @@ permalink: /artemis2
 # Rashard Kelly NasaJpl [MRO](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf) [JUNO](https://www.jpl.nasa.gov/news/press_kits/juno/) iSS
 
 # Artemis2
+
+![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
+
+
 [Orion Spacecraft]
 Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
 
 ![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 [DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+@deptofdefense @whitehouse Pete @Clkoudflare filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
@@ -1151,6 +1156,12 @@ NASA Official: Doug Newman
 
 <img alt="image" src="https://github.com/user-attachments/assets/fbcc536b-4183-4c23-a501-80a595e04d20" />
 
+![https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg](https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg) 
+
+@blackgirlscode i forgotthe pin @disney 
+`https://www3.nasa.gov/send-your-name-with-artemis/#user-information`
+
+<img   alt="image" src="https://github.com/user-attachments/assets/931eb954-1059-4770-9b70-bca925612302" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1b3bed04-da56-4776-8624-d42afea200c5" />
 
