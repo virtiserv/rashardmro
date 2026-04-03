@@ -13,6 +13,7 @@ permalink: /artemis2
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
+- Jump to  [`flight-data`](#flight-data)
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -22,6 +23,9 @@ permalink: /artemis2
 [`HOME⬆️`](#Artemis2)
 
 ---
+
+
+[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
 
 # Artemis2
 [Orion Spacecraft]
@@ -257,6 +261,7 @@ Apr 01, 2026
 
 
 [link](https://browser.dataspace.copernicus.eu/?zoom=12&lat=28.3473&lng=-80.65407&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2BDO8oF3A8SW88BFzLC2BhtcPaqZ%2BvGNmdnhtSuAqsYekfrbpGSt%2Bbu%2F%2FuOIjoDHQGmsAQ1wmmUDilDF1e3OLzoHezNjFyoKAcu3yexF0WpkNfGwQUlsp%2Bz&datasetId=S2_L2A_CDAS&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
 <img   alt="@eu-cdse image" src="https://github.com/user-attachments/assets/d7a9f05f-0e71-470b-8450-ab3ab524a51d" />
 
 
@@ -374,6 +379,10 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 ![https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg](https://www.esa.int/var/esa/storage/images/esa_multimedia/images/2024/05/apollo_to_artemis/26073451-1-eng-GB/Apollo_to_Artemis_pillars.jpg)
 
+
+#  flight-data
+
+<object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" /></object>
 
 #  launch-weather 
 
