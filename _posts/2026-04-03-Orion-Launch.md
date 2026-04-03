@@ -785,6 +785,13 @@ is this a used ride @nasa-jpl ? @NASA-IMPACT @nasa-jsc-robotics
 
 #  space-weather 
 
+current visible [Sunspots](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/02/) @nasa-pds @nasa-giss @nasa-jpl @la-county-isd @fbicyber 
+
+@newshour @nbcnews @cbs-news-data @foratlanta 
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/e1a1bb5a-0e53-423c-a2d8-b8c200fb95e0" />
+
 Moon to Mars
 Space Weather Analysis Office
 Providing novel capabilities to characterize the space radiation environment for human space exploration and NASA robotic missions
