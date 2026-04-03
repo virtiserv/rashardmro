@@ -44,7 +44,12 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
-[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released) <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
+
+## NASA’s Artemis II Crew Flies Around the Moon
+_(Official Broadcast)_
+[Share](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS) // [Add to Calendar](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-flies-around-the-moon-official-broadcast/#:~:text=1%3A00%20PM-,NASA%E2%80%99s%20Artemis%20II%20Crew%20Flies%20Around%20the%20Moon%20(Official%20Broadcast),far%20side%20of%20the%20Moon%20never%20before%20seen%20directly%20by%20humans.,-DETAILS)
+During a planned lunar flyby on Monday, April 6, astronauts will take high-resolution photographs and provide their own observations of the lunar surface, including areas of the far side of the Moon never before seen directly by humans.
+[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released)] <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
 
 [@NOAAGov @weather-gov nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
 
@@ -74,18 +79,8 @@ Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
 [@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
 ### Books
 
-[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
-
-[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
-
-[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
-
-[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
-The Story of NASA's Spaceflight Tracking and Data Network
-
-[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
-[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
 @blueorigin @nasa-jpl @nbcnews @newshour @usatoday
 @whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
@@ -1018,7 +1013,8 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 [`HOME⬆️`](#Artemis2)
 
-
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
