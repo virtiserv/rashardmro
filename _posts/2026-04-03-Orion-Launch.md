@@ -412,7 +412,17 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 #  flight-data
 
-Track NASA’s Artemis II Mission in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/1936129031121871215?s=20) in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
+
+[How to Use Data From NASA’s AROW Tweets @NASAOrion](https://www.tumblr.com/nasaorion/692871881822502912/how-to-use-data-from-nasas-arow-tweets)
+
+[nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f1dd528-4674-455f-b768-689785b1145c" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/bbb212c0-2391-4a53-a299-4f9a647e9613" />
+
+@nasa-jpl @foratlanta @la-county-isd 
 
 <object type="text/html" data="https://eyes.nasa.gov/apps/dsn-now/dsn.html" style="height:300px;width:100%;" ></object>
 
