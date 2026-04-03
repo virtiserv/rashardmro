@@ -1158,7 +1158,7 @@ NASA Official: Doug Newman
 
 ![https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg](https://img.vsco.co/cdn-cgi/image/width=1200,height=539/12f8b0/56497/6965750f8a1f03332b15c0c6/0590c61b-86bd-4385-9d45-e3dd377de7146078410039321786606.jpg) 
 
-@blackgirlscode i forgotthe pin @disney 
+@blackgirlscode i forgotthe pin @disney [Template @la-county-isd @nasa-jpl](https://nasa-external-ocomm.app.box.com/s/breyebcwyjio8jqq8p6yzmd2mwl4e88m/file/1945286922858)
 `https://www3.nasa.gov/send-your-name-with-artemis/#user-information`
 
 <img   alt="image" src="https://github.com/user-attachments/assets/931eb954-1059-4770-9b70-bca925612302" />
