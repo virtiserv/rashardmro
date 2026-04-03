@@ -2,7 +2,7 @@
 layout: default
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-04-03 08:19:06 -0800
+date:   2026-04-04 13:47:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -989,6 +989,35 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 
 [`HOME⬆️`](#Artemis2)
+
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/9b598b17-2649-4b8b-906c-f179951c5598" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+
+
+
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
+`https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB`
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 @la-county-isd i saw a girl that look like LAtrice Fitzpatrick after complaioning in an art gallery across from @LACMTA i got robbed man and my child is out fucking someone who steals my benefits! \
