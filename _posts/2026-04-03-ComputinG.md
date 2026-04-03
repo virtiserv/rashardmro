@@ -8,6 +8,15 @@ image: Aitken_supercomputer_big.jpg
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+Listing Posts in LiQUiD
+
+@nasa-jpl [link @blackgirlscode](https://rashardsdata.github.io/2025/10/17/Listing-Posts.html)
+
+_`<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:100%;" />`_
+
+<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:90%;" /></object>
+
 NASA’s Applied Remote Sensing Training (ARSET)
 Program presents this certificate of completion to
 for completing the intermediate training:
@@ -20,6 +29,7 @@ Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/a12ea928-dd06-4a65-8c6e-7bff0bb9d494" />
+
 <img  alt="image" src="https://github.com/user-attachments/assets/279e2459-ca5e-4690-b55d-65e0f015bb06" />
 
 ## Differences with @Shopify / [liquid @nasa-jpl @la-county-isd](https://shopify.dev/docs/api/liquid)
@@ -67,6 +77,7 @@ it pulls all the post with the [category](https://emmatheeng.github.io/projects/
  </div> 
 
 [4 LooP @nasa-jpl @la-county-isd `*gallery*` ](https://ra5hard.github.io/artemis2)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/79d4e91c-ab6a-40aa-bdd5-9a2c75a1638f" />
 
 
@@ -160,10 +171,7 @@ NASA's Artemis II Mission Around the Moon
 This Doodle celebrates the launch of Artemis II, the NASA mission that will send astronauts around the Moon and back for the first time in over 50 years.
 https://doodles.google/doodle/nasas-artemis-ii-mission-around-the-moon/
 
-Listing Posts in LiQUiD
-@nasa-jpl [link @blackgirlscode](https://rashardsdata.github.io/2025/10/17/Listing-Posts.html)
-_`<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:100%;" />`_
-<object type="text/html" data="https://rashardsdata.github.io/2025/10/17/Listing-Posts.html" style="height:300px;width:100%;" />
+
 
 @LIBRETRO I GET JITTERS ON S
  CURVES ON RACING GAMES AND SO
