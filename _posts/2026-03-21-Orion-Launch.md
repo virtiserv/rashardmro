@@ -63,7 +63,9 @@ Escape character is '^]'.
   |    This computer is funded by the United States Government and     |
   | operated by the California Institute of Technology in support of   |
   | ongoing U.S. Government programs and activities.  If you are not   |
-
+ </pre>
+  
+  ```
      ___    _____     ___
     /_ /|  /____/ \  /_ /|       Horizons On-line Ephemeris System v4.98d
     | | | |  __ \ /| | | |       Solar System Dynamics Group
@@ -366,7 +368,9 @@ are described as follows:
            UTC (Coordinated Universal Time). Corrections after the next July
            or January 1st arent known yet so the most recent determination
            is treated as a constant for future dates.
-
+```
+  
+```
  Time Zone corrections:
  ----------------------
  Output time-tags may also be in local civil time. When specifying start time,
@@ -403,7 +407,7 @@ Using START_TIME based on current system time
 No ephemeris for target "Artemis II (spacecraft)" prior to A.D. 2026-APR-02 01:58:32.3050 TDB
  Starting TDB [>=   2026-Apr-02 02:00] :
 
-</pre>
+```
 
 
 @blueorigin @nasa-jpl @nbcnews @newshour @usatoday
