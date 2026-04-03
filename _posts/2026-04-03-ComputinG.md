@@ -54,13 +54,15 @@ it pulls all the post with the [category](https://emmatheeng.github.io/projects/
 
 <div class="box">
 
-  {% for post in site.posts %}
+{% for post in site.posts %}
   
-     {% if post.categories contains 'dsn' %}  
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-     {% endif %}
-     
-  {% endfor %}
+{% if post.categories contains 'dsn' %}  
+ 
+<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+
+{% endif %}
+
+{% endfor %}
    
  </div> 
 
