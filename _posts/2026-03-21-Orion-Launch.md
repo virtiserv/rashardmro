@@ -33,6 +33,45 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 
 
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+[`HOME⬆️`](#Artemis2)
+
+#  news
+[[1](https://www.earthdata.nasa.gov/data/alerts-outages/additional-viirs-version-2-thermal-anomaly-active-fire-data-products-released) <~ ANDREWFELDMAN @nasa-develop @nasa-giss @doug-newman-nasa [MoonData](https://rashardsdata.github.io/moon) @blackgirlscode @cityoflosangeles 
+
+[@NOAAGov @weather-gov nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4ccc825b-c625-4de8-a047-68163b10ee7c" />
+
+[NOAA's Space Weather Mission: Protecting Artemis II Astronauts and Society](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+Artemis II is planned as a 10-day crewed mission around the moon that marks humanity’s return to lunar orbit. NOAA's space weather monitoring will help protect the astronauts from solar radiation. [ReadMore](https://www.nesdis.noaa.gov/news/noaas-space-weather-mission-protecting-artemis-ii-astronauts-and-society)
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/ArtemisII-astronauts_small.jpg.webp?itok=7oHAEnSc) 
+
+
+![https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX](https://www.nesdis.noaa.gov/s3/styles/webp/s3/2026-03/Magnetotail.png.webp?itok=dWigzJYX)
+
+@nbcnews 
+@cbs-news-data + @la-county-isd @blackgirlscode @nasa-jpl 
+ 
+NASA’s Applied Remote Sensing Training (ARSET)
+Program presents this certificate of completion to
+for completing the intermediate training:
+Monitoring Water Quality in Lakes and Coastal Regions Using STREAM
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
+[@nasa .gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/](https://www.nasa.gov/blogs/missions/2026/03/30/weather-for-nasas-artemis-ii-mission-launch-80-favorable/)
 ### Books
 
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
@@ -45,13 +84,6 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 The Story of NASA's Spaceflight Tracking and Data Network
 
 [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
-
-# Rashard Kelly NasaJpl MRO JUNO iSS
-[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
-{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
-![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
@@ -74,10 +106,6 @@ commander Reid! gm it's Rashard iman kelly @nasa-jpl #ecostress #iss #expedition
 {% endfor %}
 
 </div>
-
-[`HOME⬆️`](#Artemis2)
-
-#  news
 
 
 [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/#fullscreen-player)
