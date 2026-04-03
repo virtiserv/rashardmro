@@ -33,6 +33,28 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 
 
+### Books
+
+[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
+
+[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
+
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
+
+[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
+The Story of NASA's Spaceflight Tracking and Data Network
+
+[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+# Rashard Kelly NasaJpl MRO JUNO iSS
+[DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+[Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+
 @blueorigin @nasa-jpl @nbcnews @newshour @usatoday
 @whitehouse @la-county-isd @lacountyDPH @cityoflosangeles @stateofcalifornia @foratlanta
 commander Reid! gm it's Rashard iman kelly @nasa-jpl #ecostress #iss #expedition74 ground data delivery/ mission control help desk ... would u like me to stay on space weather for the flight? I sent you guys @ksc pics from Clementine of the dark side of the moon .. this is what I wrote because the girls I was with in Atlanta I can get in trouble with their families if I leave unannounced because I'm married in Alameda and common law with two other girls in Atlanta and I dont k ow who got my benefits !!!!!! 😮😅😊 u don't like the editing imo. I think it was the best so far , @repkarenbass hi I was wondering if I can go with the coast guard to retrieve the orange booster @nasajpl @gavinnewsom @normani @latto @kashdoll @blackgirlscode @brandy @megantheestallion @ellamai @beyonce #JAYZ hi can u relay? @munilong #nickiminaj @defjam @dance411 @itskeishancebottoms @essencemag #latriceFitzpatrick @howarduniversity #cardiB @dojacat #dojacat
