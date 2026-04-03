@@ -27,19 +27,24 @@ raed [liquidjs.com/tutorials/differences.html](https://liquidjs.com/tutorials/di
 `Liquid language is originally implemented in Ruby and used by Shopify and Jekyll (and thus GitHub Pages)`
 
 @la-county-isd i am storing old pages in this [@jekyll](https://jekyllrb.com/docs/posts/) 4 [loop](https://shopify.github.io/liquid/tags/iteration/) @blackgirlscode @nasa-pds @nasa-giss @salesforce @nasa-jpl @chicago @cityofsantamonica
-it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `FP` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
+it pulls all the post with the [category](https://emmatheeng.github.io/projects/blog_setup/blog-categories.html) `dsn` as a small archive with a [wordcloud](https://nanx.me/blog/post/research-word-cloud/) style presentation @foxnews @washingtonpost @newshour @howard-university-web-services @foratlanta @disney
 [https://liquidjs.com/tutorials/intro-to-liquid.html](https://liquidjs.com/tutorials/intro-to-liquid.html)
 
+```java
 {% raw %}
 
-  {% for post in site.posts %}
-     {% if post.categories contains 'FP' %}  
-    <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
-     {% endif %}
-     
-  {% endfor %}
+{% for post in site.posts %}
+
+{% if post.categories contains 'dsn' %}  
+      
+<a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
+	   
+{% endif %}
+
+{% endfor %}
   
 {% endraw %}
+```
 
 <div class="box">
 
@@ -51,7 +56,7 @@ it pulls all the post with the [category](https://emmatheeng.github.io/projects/
 
   {% for post in site.posts %}
   
-     {% if post.categories contains 'FP' %}  
+     {% if post.categories contains 'dsn' %}  
     <a href="{{ post.url | prepend: site.baseurl | replace: '//', '/' }}">{{ post.title }}</a>
      {% endif %}
      
