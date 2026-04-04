@@ -1,35 +1,16 @@
 ---
 layout: post
 mermaid: true
-published: false
+published: true
 title: LA_COUNTY_FiREDATA
 image: shocked-i-know-this.gif
 ---
 
 
 
-### Imagery for the January 2025 Southern California Wildfires
-July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-january-2025-southern-california-wildfires?fbclid=IwY2xjawMUmeBleHRuA2FlbQIxMABicmlkETBTNG5VdjVRVTM5OFYxTDllAR57RhnPcQOExdmpiZQUGIKm2xo71nnMQLrTeLyuhl4CexrFXZXSZ4eJIHp-0g_aem_suduglAdayCjYckgQwYLzg)
-<img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
-
-<img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
-[planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
-# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
-@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 [Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
 
 ![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
-
-On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
-
-
-
-
-<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
-
-# cartography
 
 
 [https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/](https://www.jpl.nasa.gov/missions/airborne-visible-infrared-imaging-spectrometer-aviris/)
@@ -51,9 +32,47 @@ AVIRIS is the first full spectral range imaging spectrometer and dedicated to Ea
 
 ![AViRiS](https://aviris.jpl.nasa.gov/images/aviris_text2.png)
 
+### Imagery for the January 2025 Southern California Wildfires
+July 25, 2025 [Link](https://appliedsciences.nasa.gov/our-impact/news/imagery-january-2025-southern-california-wildfires?fbclid=IwY2xjawMUmeBleHRuA2FlbQIxMABicmlkETBTNG5VdjVRVTM5OFYxTDllAR57RhnPcQOExdmpiZQUGIKm2xo71nnMQLrTeLyuhl4CexrFXZXSZ4eJIHp-0g_aem_suduglAdayCjYckgQwYLzg)
+<img alt="image" src="https://github.com/user-attachments/assets/06093647-77d7-4e98-becb-f3038b7eda31" />
+
+<img alt="image" src="https://appliedsciences.nasa.gov/sites/default/files/inline-images/Planet_LAFires_Altadena.png" />
+
+[planetLabs](https://www.planet.com/industries/nasa/) , [@NASA ViSiBLE_EARTH Query](https://visibleearth.nasa.gov/source/1673/planet-labs)
+
+# About One-third of Malibu Burned In The Palisades Fire. Where Does It Go From Here?
+@nasa-jpl [Latimes @datadesk](https://github.com/datadesk) made a doc @nasa 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0zsMg7gkC6Y?si=rU9ah5V22lcxwE6W" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+@la-county-isd @nasa-jpl @emit-sds 
+hi you can see the outline of the fire in the palisades in this map! 
+@whitehouse @fbicyber @dhs-gov 
+
+![https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png](https://ecostress.jpl.nasa.gov/downloads/gallery/00166_losangeles_18jun2025.png)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/af39b105-0eeb-468f-9da5-345c217a9a53" />
+
+On January 7th, 2025, a series of wildfires started in the Southern California area, heavily affecting Los Angeles communities. The fires spread rapidly due to an abnormally dry year coupled with extreme winds raging at up to 100 miles per hour. Two of the fires, Eaton and Palisades, affected densely populated neighborhoods, spreading rapidly from structure to structure and combining to cause severe damage to over 16,000 homes and businesses. [Released Friday, July 11, 2025](https://svs.gsfc.nasa.gov/5568/)
+
+
+
+
+<img alt="To submit flight requests for the NASA Airborne Visible Infrared Imaging Spectrometer (AVIRIS), visit the website below. https://aviris.jpl.nasa.gov/status/flight_req.html " src="https://aviris.jpl.nasa.gov/images/aviris_text2.png" />
+
+# cartography
+
+
+
+
 
 @stateofcalifornia @cityoflosangeles
 @nasa @dhs-gov 
+
+[https://worldview.earthdata.nasa.gov/?v=-119.60175323138311,33.280424657941325,-117.6468632483252,34.250742446407045&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,Nuclear_Power_Plant_Locations,GRanD_Dams,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,HLS_False_Color_Urban_Sentinel(bandCombo=%7B%22r%22%3A%22B12%22;%22g%22%3A%22B11%22;%22b%22%3A%22B04%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9A-Za-z%5D%22%7D),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-04-02-T19%3A26%3A33Z](https://worldview.earthdata.nasa.gov/?v=-119.60175323138311,33.280424657941325,-117.6468632483252,34.250742446407045&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_Thermal_Anomalies_Night,MODIS_Terra_Thermal_Anomalies_Day,MODIS_Terra_Thermal_Anomalies_All,VIIRS_SNPP_Thermal_Anomalies_375m_All,VIIRS_SNPP_Thermal_Anomalies_375m_Day,VIIRS_SNPP_Thermal_Anomalies_375m_Night,VIIRS_NOAA20_Thermal_Anomalies_375m_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_All,VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA21_Thermal_Anomalies_375m_Day,VIIRS_NOAA21_Thermal_Anomalies_375m_Night,MODIS_Aqua_Thermal_Anomalies_Night,MODIS_Aqua_Thermal_Anomalies_Day,MODIS_Aqua_Thermal_Anomalies_All,MODIS_Combined_Thermal_Anomalies_Night,MODIS_Combined_Thermal_Anomalies_Day,MODIS_Combined_Thermal_Anomalies_All,GRUMP_Settlements,GRanD_Reservoirs,Nuclear_Power_Plant_Locations,GRanD_Dams,MODIS_Terra_L2_Chlorophyll_A,VIIRS_SNPP_L2_Chlorophyll_A,VIIRS_NOAA21_Chlorophyll_a,VIIRS_NOAA20_Chlorophyll_a,MODIS_Aqua_L2_Chlorophyll_A,OCI_PACE_Chlorophyll_a,S3B_OLCI_Chlorophyll_a,S3A_OLCI_Chlorophyll_a,HLS_False_Color_Urban_Sentinel(bandCombo=%7B%22r%22%3A%22B12%22;%22g%22%3A%22B11%22;%22b%22%3A%22B04%22;%22color_formula%22%3A%22Gamma%20RGB%202.5%20Saturation%201.2%20Sigmoidal%20RGB%2010%200.35%22;%22bands_regex%22%3A%22B%5B0-9%5D%5B0-9A-Za-z%5D%22%7D),HLS_S30_Nadir_BRDF_Adjusted_Reflectance,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&t=2026-04-02-T19%3A26%3A33Z) 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2c0ef14b-f46b-4238-b02e-3f4afe09fc1b" />
 
 ### DOXXED FOR THIS DATA
 
