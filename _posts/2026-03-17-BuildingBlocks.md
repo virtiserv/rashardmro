@@ -7,6 +7,14 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+@landsat your data is late in NAsaSTREAM, and @ESA CSDE-EU's Copernicus was complaining about connectivity ... i sent and [email](https://mail.proton.me/u/0/all-sent/uEZbjsox0Rcbpfw61qaCVC6nEdyaN4msQkLb5Qjq_SyPMiXunSCrWDhnFg9UBimi8IYjNEwCI8ItyFW_FEcXYQ==/9vtgprBHrdSlc6_ZNVafZhaCcGPUZvwImU-HGEtvMtFDz6zz6BfIevUA6vb73gErcblLDuPEFR0aMt40CbHOFg==) via @protonmail @rashardsdata hi @blackgirlscode
+[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1 @eu-cdse hi @CityOfLosAngeles @LongbeachInnovationTeam @CityOfSantaMonica ](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=8.24/-13054546.70/4038256.02&grids=0,1) @nasa-jpl [@DiSNEY @NBCNEWS @LA-County-Isd @lacountyDPH](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.79/-13170113.68/3984389.34&layers=aqv_rgb_20260314_landsat:1.00:default) [https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037](https://ladsweb.modaps.eosdis.nasa.gov/stream/coverage/041037) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/2e2e0cab-b61a-419e-9cc7-af60342dd8f2" />
+<img  alt="image" src="https://github.com/user-attachments/assets/e3930898-c58d-421a-adf0-c1e549d57380" />
+
+
+
 <img   alt="image" src="https://github.com/user-attachments/assets/dbea176e-c512-471a-9e28-1f81fc8587a5" />
 
 The Solar Dynamics Observatory will further our understanding of the sun's influence on Earth and near-Earth space by studying the solar atmosphere on small scales of space and time, and in . . . [READMORE](https://science.gsfc.nasa.gov/sci/projects/59)
