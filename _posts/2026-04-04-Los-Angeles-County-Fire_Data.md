@@ -344,9 +344,11 @@ photo -[@JackQuillinTV](https://x.com/JackQuillinTV)
 
 
 <video  controls poster="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086.03000_print.jpg">
+	
   <source src="https://svs.gsfc.nasa.gov/vis/a000000/a005100/a005132/CONUS_LA_NO2_comp_v0086_1080p60.mp4" type="video/mp4" />
   
   Your browser does not support the video tag.
+  
 </video>
 
 # 2009 Fire
@@ -450,6 +452,7 @@ A digital camera on the Blue Ghost lander looked back at Earth and captured this
 <blockquote class="twitter-tweet" data-media-max-width="560"><p lang="en" dir="ltr">🇺🇸 <a href="https://twitter.com/hashtag/LAFires?src=hash&amp;ref_src=twsrc%5Etfw">#LAFires</a> <a href="https://twitter.com/hashtag/CaliforniaFires?src=hash&amp;ref_src=twsrc%5Etfw">#CaliforniaFires</a> <a href="https://twitter.com/hashtag/Arson?src=hash&amp;ref_src=twsrc%5Etfw">#Arson</a> <a href="https://twitter.com/hashtag/DEW?src=hash&amp;ref_src=twsrc%5Etfw">#DEW</a> <a href="https://twitter.com/hashtag/LandGrab?src=hash&amp;ref_src=twsrc%5Etfw">#LandGrab</a> <a href="https://twitter.com/hashtag/DirectedEnergyWeapons?src=hash&amp;ref_src=twsrc%5Etfw">#DirectedEnergyWeapons</a> <a href="https://twitter.com/hashtag/WildFires?src=hash&amp;ref_src=twsrc%5Etfw">#WildFires</a> <a href="https://twitter.com/hashtag/PalisadesFire?src=hash&amp;ref_src=twsrc%5Etfw">#PalisadesFire</a> <a href="https://twitter.com/hashtag/LosAngelesFires?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngelesFires</a> <a href="https://twitter.com/hashtag/California?src=hash&amp;ref_src=twsrc%5Etfw">#California</a> <a href="https://twitter.com/hashtag/LosAngeles?src=hash&amp;ref_src=twsrc%5Etfw">#LosAngeles</a> <a href="https://twitter.com/hashtag/Malibu?src=hash&amp;ref_src=twsrc%5Etfw">#Malibu</a> <a href="https://twitter.com/hashtag/SmartCity?src=hash&amp;ref_src=twsrc%5Etfw">#SmartCity</a> <a href="https://twitter.com/hashtag/Genocide?src=hash&amp;ref_src=twsrc%5Etfw">#Genocide</a> <br><br>Commie LA Mayor Karen Bass ‘Leaked Phone Call’<br><br>‘Read In Between The Lines…You Will Understand Soon <a href="https://t.co/4ruylR9J02">pic.twitter.com/4ruylR9J02</a></p>&mdash; 𝕁𝕒𝕕𝕖𝕕 (@Jaded42358177) <a href="https://twitter.com/Jaded42358177/status/1893625908436607336?ref_src=twsrc%5Etfw">February 23, 2025</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1192830019&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/youngmoneybarbie" title="Nicki Minaj" target="_blank" style="color: #cccccc; text-decoration: none;">Nicki Minaj</a> · <a href="https://soundcloud.com/youngmoneybarbie/barbie-drip" title="Barbie Drip" target="_blank" style="color: #cccccc; text-decoration: none;">Barbie Drip</a></div>
+
 <figure>
   <figcaption>Listen to Barbie Drip Nicki Minaj x:</figcaption>
   <audio controls src="https://archive.org/download/nicki-minaj-barbie-drip/Nicki%20Minaj-Barbie%20Drip.mp3"></audio>
