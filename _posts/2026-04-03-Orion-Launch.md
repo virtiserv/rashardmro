@@ -940,6 +940,21 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 #  moon-data
 
 
+
+
+@la-county-isd i am so depressed @blackgirlscode i know people going to be mean because i warned @doug-newman-nasa not to be offended if i dont speak. I dont know white people well enough at all to start any convos! And thats marketing not normal @CityOfLosAngeles im just checking in @nasa-jpl @emit-sds @ucla 
+[https://lroc.im-ldi.com/data/color_palette](https://lroc.im-ldi.com/data/color_palette)
+
+[ra5hard.github.io/moon](https://ra5hard.github.io/moon) [MOON - MAP `quickmap`- LROC](https://quickmap.im-ldi.com/?prjExtent=-1680884.3651626%2C-1735576.9150052%2C1680884.3651626%2C1735576.9150052&stack=3314&proj=10&defs=N4IgzGCMAsIFygPYAcCGBjAlgFwJ70gF9Cg) // [LUNASERV =- @nasa-pds wms.im-ldi.com/lunaserv.html](https://wms.im-ldi.com/lunaserv.html) // [https://target.lroc.im-ldi.com/output/lroc/lroc_page.html](https://target.lroc.im-ldi.com/output/lroc/lroc_page.html) // 
+<img  alt="image" src="https://github.com/user-attachments/assets/7ae3804e-37dc-4c93-85e1-b556b1625de6" />
+
+
+### PDS Data @nasa-pds @NAsa-Openscapes @nasaOpenscapes @la-county-isd 
+LROC PDS: Index of LRO-L-LROC-2-EDR-V1.0/ <~ @BlueOrigin @TheSpaceDevs @BlackGirlsCode
+[https://pds.lroc.im-ldi.com/data/LRO-L-LROC-2-EDR-V1.0/](https://pds.lroc.im-ldi.com/data/LRO-L-LROC-2-EDR-V1.0/)
+
+
+
 # Danuri ([다누리](https://www.kari.re.kr/danuri/html/index.html)) 
 ## _**Korea Pathfinder Lunar Orbiter**_
 https://www.kari.re.kr/kor [FuLLTEXT](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2026-01-23-Satellites.md)
