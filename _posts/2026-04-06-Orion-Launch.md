@@ -8,7 +8,7 @@ image: Orion_dimensions_pillars.png
 permalink: /artemis2
 ---
 
-@NASA's Artemis II Live Views from Kennedy Space Cente
+@NASA's Artemis II Live Views from Kennedy Space CenteR
 [Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
@@ -939,7 +939,12 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 #  moon-data
 
-@nasa-pds @cbs-nes-data @nasa-jpl @la-county-isd 
+[WATCH @nasa-jpl](https://www.youtube.com/watch?v=z-j1uxBmis0) [[@blackgirlscode @foratlanta Moon Pics](https://www.tumblr.com/rashardmro/813169735144472576/messenger-nasajunocam-normanikordeiofficial?source=share) ]
+[ARCHiVE SCreenShare](https://archive.org/details/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color) ; How I got the images [watch karen bass @la-county-isd @nasa-jpl @blackgirlscode](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/VirtiServ_Orion_Rashards_Contribution_Blackgirlscode_NASAJPL_KARENBASS_HiLDA_SOLiS_Screen%20recording%202026-04-06%2010.38.16%20AM.webm) /////// [https://pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) Name: Rashard I Kelly Username: rashardkelly Email Address: holetoanotheruniverse40@gmail.com Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California Country: United States Member Since: 08-24-2024 @cityoflosangeles @doug-newman-nasa
+<img  alt="image" src="https://github.com/user-attachments/assets/d279897d-89e7-46f7-90d4-a51fce60162f" />
+
+
+@nasa-pds @cbs-news-data @nasa-jpl @la-county-isd @datadesk
 here are some pics for the flyby @usgs taken from [Messenger](https://astrobiology.nasa.gov/missions/messenger/) and [Lunar Orbiter est 1964](https://www.lpi.usra.edu/lunar/missions/orbiter/) [https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref) @blackgirlscode @cityoflosangeles @foratlanta + [@NASA GitHub Project Board @nasa-jpl @la-county-isd](https://gcn.nasa.gov/docs/contributing/project)
 
 <div class="tupperware">
