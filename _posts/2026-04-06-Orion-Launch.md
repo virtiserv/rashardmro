@@ -8,8 +8,11 @@ image: Orion_dimensions_pillars.png
 permalink: /artemis2
 ---
 
-@NASA's Artemis II Live Views from Kennedy Space CenteR
-[Live Views](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+[~~Live Views~~LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
