@@ -16,7 +16,7 @@ permalink: /artemis2
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
-- Jump to  [`flight-data`](#flight-data)
+- Jump to  [`flight-data`](#flight-data) <~for tracking info!
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
@@ -419,6 +419,14 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 
 
 #  flight-data
+
+
+[https://www3.nasa.gov/specials/trackartemis/ @disney @nbcnews
+](https://www3.nasa.gov/specials/trackartemis/) 
+@la-county-isd @blackgirlscode 
+
+<img alt="image" src="https://github.com/user-attachments/assets/d1287057-2737-4022-bd18-743e9fd10fbc" />
+
 
 Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/1936129031121871215?s=20) in Real Time [Link](https://www.nasa.gov/missions/artemis/artemis-2/track-nasas-artemis-ii-mission-in-real-time/)
 
