@@ -939,7 +939,67 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 #  moon-data
 
+@nasa-pds @cbs-nes-data @nasa-jpl @la-county-isd 
+here are some pics for the flyby @usgs taken from [Messenger](https://astrobiology.nasa.gov/missions/messenger/) and [Lunar Orbiter est 1964](https://www.lpi.usra.edu/lunar/missions/orbiter/) [https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref](https://github.com/ThakaRashard/rashardmro/tree/master/assets/images/gallery-orion-photo-ref) @blackgirlscode @cityoflosangeles @foratlanta + [@NASA GitHub Project Board @nasa-jpl @la-county-isd](https://gcn.nasa.gov/docs/contributing/project)
 
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-orion-photo-ref' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+![https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/02/a2/02a2a2c2-ddab-4ab8-9fc6-2986522b86b3/messenger_mission_emblem.png__270x197_q85_crop_subject_location-310%2C151_subsampling-2.png](https://astrobiology.nasa.gov/uploads/filer_public_thumbnails/filer_public/02/a2/02a2a2c2-ddab-4ab8-9fc6-2986522b86b3/messenger_mission_emblem.png__270x197_q85_crop_subject_location-310%2C151_subsampling-2.png)
+
+## albedo
+Definition
+Albedo is ratio of the light received by a body to the light reflected by that body. Albedo values range from 0 (pitch black) to 1 (perfect reflector).
+
+Technical Definition
+Geometric albedo is the ratio of a body’s brightness at zero phase angle to the brightness of a perfectly diffusing disk with the same position and apparent size as the body.
+
+Examples
+Our Moon has a very low albedo (0.07), while Venus has a high albedo (0.60). The albedo combined with the absolute magnitude can help determine the size of an asteroid.
+ [https://cneos.jpl.nasa.gov/glossary/albedo.html](https://cneos.jpl.nasa.gov/glossary/albedo.html) @nasa-jpl orion! @podaac @lacountyDPH @BLACKGIRLSCODE [The Global Albedo of the Moon at 1064 nm from LOLA https://ntrs.nasa.gov/citations/20140017658](https://ntrs.nasa.gov/citations/20140017658)
+
+## @whitehouse Far-ultraviolet albedo of the moon
+
+The albedo and photometric function of the moon have been measured between 121.6 and 168.0 nm by comparing the brightness of the moon, observed with an orbiting far-ultraviolet spectrometer during the Apollo 17 mission, to the solar brightness observed simultaneously from a sounding rocket. The instruments were carefully cross-calibrated. In contrast to what is found in the visible and the near ultraviolet, the brightness of the moon is found to increase toward shorter wavelengths; the moon is 'blue' in the far ultraviolet. This is confirmed by a laboratory study of lunar samples. A brief review of lunar albedo measurements in the 120-600-nm range is given.
+Document ID
+19770039788
+Acquisition Source
+Legacy CDMS
+Document Type
+Reprint (Version printed in journal)
+External Source(s)
+doi:[10.1086/112000](https://ui.adsabs.harvard.edu/abs/1976AJ.....81.1162L) // [https://ntrs.nasa.gov/citations/19770039788](https://ntrs.nasa.gov/citations/19770039788)
+
+Authors
+Lucke, R. L.
+(Johns Hopkins Univ.)
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON) @dhs-gov
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/a969ea5b-d3f4-4651-8431-c9ada71cf96a" />
+
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=clementine&gather.common.instrument=B-STAR&gather.common.target=MOON) @nasa-pds @nasa-jpl @la-county-isd _Holly J itchell_ @foratlanta
+<img  alt="image" src="https://github.com/user-attachments/assets/eeee1054-d374-42dc-b0f8-273883de34cf" />
+
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.target=MOON](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.target=MOON)
+[https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:lo:lunar_orbiters:/LO_1001/DATA/LO1/FRAME_1026/FRAME_1026_H2.IMG](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:lo:lunar_orbiters:/LO_1001/DATA/LO1/FRAME_1026/FRAME_1026_H2.IMG)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/81f80f6b-a5c4-42c3-8126-e70f2f1ceb95" />
+
+[https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/](https://spacenews.com/ispace-redesigns-lunar-lander-introduces-lunar-communications-service/)
+
+[@AxiomSpace Jeremy @BlueOrigin](https://youtu.be/syFxDpP1QLU?si=OtJyzLyIGM8ZIjDB)
 
 
 @la-county-isd i am so depressed @blackgirlscode i know people going to be mean because i warned @doug-newman-nasa not to be offended if i dont speak. I dont know white people well enough at all to start any convos! And thats marketing not normal @CityOfLosAngeles im just checking in @nasa-jpl @emit-sds @ucla 
