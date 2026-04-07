@@ -12,6 +12,8 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 @nasa-pds the camera was flikering on orion and somoen told me to report that 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/63553541-cd5b-446d-bba7-2bf3a2375622" />
+
 
 @nasa  im not mad at nasa spaceflight timeouts i just dont know who to talk to everyone is so quiet and rtfm 
 
