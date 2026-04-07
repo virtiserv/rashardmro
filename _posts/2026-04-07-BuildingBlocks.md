@@ -7,6 +7,22 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
+# NASA's Artemis II Live Views from Orion
+[WATCH @CityOflOsAngeles](https://youtu.be/6RwfNBtepa4) 
+
+@nasa-pds the camera was flikering on orion and somoen told me to report that 
+
+
+@nasa  im not mad at nasa spaceflight timeouts i just dont know who to talk to everyone is so quiet and rtfm 
+
+```shell
+@thakasErikaselassie_kelly
+​​@nasajpl @nasas @blackgirlscode the video feed from orion is
+experianceing some interfereance / disruption @RepKarenBass @Nasajpl https://www.youtube.com/live/6RwfNBtepa4ill check weather
+-
+You have been placed in timeout by the owner of this video or a moderator Edit and try again.
+```
+<img  alt="image" src="https://github.com/user-attachments/assets/6e3c66e7-db21-4187-91c8-3ca3b42f619e" />
 
 
 @whitehouse this senate member is blocked at the library [@la-county-isd](https://www.congress.gov/member/karen-bass/B001270)
