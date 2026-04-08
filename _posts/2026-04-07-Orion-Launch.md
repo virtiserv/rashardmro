@@ -59,7 +59,7 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
-
+[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
 [Moon Mascot Ready to Rise with Artemis II](https://svs.gsfc.nasa.gov/14995/)
 Meet Rise! The Moon Mascot for the Artemis II mission will fly along with the crew, carrying 5,647,889 names with us on this journey around the Moon.
 People from around the world submitted their names through the Send Your Name with Artemis campaign. These names were downloaded onto an SD card that is safely stored inside Rise, the zero gravity indicator designed by 3rd grader Lucas Ye from California.
