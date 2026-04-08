@@ -59,7 +59,13 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
-[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
+
+
+[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
+The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
+
+NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
+
 [Moon Mascot Ready to Rise with Artemis II](https://svs.gsfc.nasa.gov/14995/)
 Meet Rise! The Moon Mascot for the Artemis II mission will fly along with the crew, carrying 5,647,889 names with us on this journey around the Moon.
 People from around the world submitted their names through the Send Your Name with Artemis campaign. These names were downloaded onto an SD card that is safely stored inside Rise, the zero gravity indicator designed by 3rd grader Lucas Ye from California.
@@ -77,11 +83,8 @@ During the selection process, the crew narrowed a list of 25 finalists to five t
 ![https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png](https://svs.gsfc.nasa.gov/vis/a010000/a014900/a014995/ZGI_YouTube_Version_Thumb.png)
 
 Artemis II builds on the success of the uncrewed Artemis I in 2022, and will demonstrate a broad range of capabilities needed on deep space missions. The Artemis II test fight will be NASA's first mission with crew aboard the SLS (Space Launch System) rocket and Orion spacecraft.[Read/Watch](https://svs.gsfc.nasa.gov/31368/)
-
-[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
-The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
-
-NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
+[Planting an Artemis I Moon Tree](https://svs.gsfc.nasa.gov/14929/)
+[Artemis III Landing Region Candidates https://svs.gsfc.nasa.gov/5013/](https://svs.gsfc.nasa.gov/5013/)
 
 ```shell
 The recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 [fifthharmonyofficial.com 2606:4700:3030::ac43:c0b4: timed out] [fifthharmonyofficial.com 2606:4700:3034::6815:3c3d: timed out] [fifthharmonyofficial.com 104.21.60.61: timed out] [fifthharmonyofficial.com 172.67.192.180: timed out]
