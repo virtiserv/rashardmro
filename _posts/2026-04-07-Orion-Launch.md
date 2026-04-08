@@ -59,9 +59,9 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 [`HOME⬆️`](#Artemis2)
 
 #  news
-[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services 
+[San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego 
 
-NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode 
+NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
 
 ```shell
 The recipient server did not accept our requests to connect. For more information, go to https://support.google.com/mail/answer/7720 [fifthharmonyofficial.com 2606:4700:3030::ac43:c0b4: timed out] [fifthharmonyofficial.com 2606:4700:3034::6815:3c3d: timed out] [fifthharmonyofficial.com 104.21.60.61: timed out] [fifthharmonyofficial.com 172.67.192.180: timed out]
