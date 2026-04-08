@@ -515,6 +515,11 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+@longbeachinnovation @la-county-isd @cityofsandiego
+[https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a9302779-bc33-4035-9da2-546301a1ca46" />
+
 ### Base Los Angeles / Long Beach
 1001 South Seaside Ave  San Pedro, CA 90731
 -MAIN 206-815-6689
