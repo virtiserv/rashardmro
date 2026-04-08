@@ -60,7 +60,7 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 #  news
 [San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
-The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/)
+The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
 
 NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
 
