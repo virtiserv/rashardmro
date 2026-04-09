@@ -6,7 +6,7 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
-[https://www.youtube.com/watch?v=vYRfQo6JMxc](https://www.youtube.com/watch?v=vYRfQo6JMxc) // 
+[https://www.youtube.com/watch?v=vYRfQo6JMxc](https://www.youtube.com/watch?v=vYRfQo6JMxc) // https://youtu.be/Vi9OWHZeNCI?si=ReTK6kZYntFx-6mH
 
 [@Nasa Johnson - iss playlist https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx](https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx)
 
