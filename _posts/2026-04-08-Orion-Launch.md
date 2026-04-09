@@ -41,7 +41,7 @@ permalink: /artemis2
 
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 [DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
-@deptofdefense @whitehouse Pete @Clkoudflare filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
+@deptofdefense @whitehouse Pete @La-county-isd @cityoflosangeles @blackgirlscode filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
