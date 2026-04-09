@@ -8,11 +8,9 @@ image: Orion_dimensions_pillars.png
 permalink: /artemis2
 ---
 
+## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
+[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 
-@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
-[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
-~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
-~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
 - Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`news`](#news)
@@ -25,31 +23,6 @@ permalink: /artemis2
 
 [`HOME⬆️`](#Artemis2)
 
-
-
-
-
-
-
-
-
-
-
-# Rashard Kelly NasaJpl [MRO](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf) [JUNO](https://www.jpl.nasa.gov/news/press_kits/juno/) iSS
-
-# Artemis2
-
-## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
-[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
-@deptofdefense @whitehouse Pete @La-county-isd @cityoflosangeles @blackgirlscode filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
-
-{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
-
-![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
-
-
-[`HOME⬆️`](#Artemis2)
 
 
 
@@ -116,6 +89,7 @@ The Voyager Neptune travel guide
 
 Official map of San Diego County, California [Link](https://www.loc.gov/item/2012592092/)
 ![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg)
+
 
 
 [https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
@@ -1054,7 +1028,10 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 [DSCOVR EPIC Level 1A Lunar and DSCOVR EPIC Level 1A Miscellaneous Data](https://forum.earthdata.nasa.gov/viewtopic.php?t=7818#p25727) 
 ![https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png](https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png) @blueorigin @la-county-isd @nasa-pds 
 
-
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 ![https://epic.gsfc.nasa.gov/epic-galleries/2026/artemis/full/epic_1a_lunar_20260402080350_V1_688nm.png](https://epic.gsfc.nasa.gov/epic-galleries/2026/artemis/full/epic_1a_lunar_20260402080350_V1_688nm.png) 
 
 
@@ -1289,6 +1266,27 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
 The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
+
+
+
+
+
+# Rashard Kelly NasaJpl [MRO](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf) [JUNO](https://www.jpl.nasa.gov/news/press_kits/juno/) iSS
+
+# Artemis2
+
+## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
+[DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+@deptofdefense @whitehouse Pete @La-county-isd @cityoflosangeles @blackgirlscode filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
+
+{{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
+
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+[`HOME⬆️`](#Artemis2)
+
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
