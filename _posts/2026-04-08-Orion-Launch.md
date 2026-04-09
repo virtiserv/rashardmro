@@ -73,8 +73,8 @@ Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @
 
 
 [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
-The Voyager Neptune travel guide
-@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services
+The Voyager Neptune travel guide 
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3b287c48-a4e2-4546-b59c-53fdb7a217cb" />
 
@@ -542,8 +542,10 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 [`HOME⬆️`](#Artemis2)
 
 #  splashdown-weather
-
+[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
 @CityOfLosAngeles @voyager-tech-inc @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) is the flight director if the Ports Need to be involved @LongBeachInnovationTeam @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+The Voyager Neptune travel guide 
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services 
 <img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/ab34eeb6-8c91-4092-bd46-de7d5edfb9d1" />
 
 @nasa-jpl
