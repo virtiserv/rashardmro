@@ -71,9 +71,14 @@ Watch: Artemis II's historic lunar flyby... in 90 seconds [@bbc Link @nasa-jpl @
 
 <img alt="image" src="https://github.com/user-attachments/assets/ed358218-4ec7-41a4-9a48-7b7f30ef80e1" /> 
 
-@asfadmin 
 
 [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+The Voyager Neptune travel guide
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3b287c48-a4e2-4546-b59c-53fdb7a217cb" />
+
+@asfadmin 
 
 [San Diego warship will recover Artemis II astronauts after splashdown off coast on Friday @nasa-giss @nasa-develop](https://www.nbcsandiego.com/news/local/san-diego-warship-recover-artemis-ii-astronauts-splashdown-off-coast-friday/4006242/) @cityoflosangeles @la-county-isd in the @Nasa Artemis News Conference one of the speakers announced an east coast splashdown, from the looks of it we are still on @UsNAVY @StateOfCalifornia @CityOfLosAngeles Holly J Mitchell Mayor Karen I will dig further to confirm, even if it means going to the gate @howard-university-web-services @cityofsandiego [Catch Artemis II splashdown at the San Diego Air and Space Museum's watch party](https://www.nbcsandiego.com/news/local/catch-artemis-ii-splashdown-at-the-san-diego-air-and-space-museums-watch-party/4006005/)
 The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
