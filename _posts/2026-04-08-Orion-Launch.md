@@ -476,6 +476,10 @@ Use the Analyst's Notebook(s) to explore planetary data from NASA Mars and [luna
 #  flight-data
 
 
+[https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+<img  alt="image" src="https://github.com/user-attachments/assets/aa71d6b0-9a58-412c-9e28-f83ccd0e601f" />
+
+
 [https://www3.nasa.gov/specials/trackartemis/ @disney @nbcnews
 ](https://www3.nasa.gov/specials/trackartemis/) 
 @la-county-isd @blackgirlscode 
@@ -501,6 +505,8 @@ Track NASA’s [Artemis II Mission](https://x.com/NASA_Orion/status/193612903112
 #  launch-weather 
 
 [`HOME⬆️`](#Artemis2)
+
+
 
 @usgs @nasa-giss @la-county-isd @nasa-jpl
 Hi I dont know how to use @github at [Kennedy](https://www.planetary.org/space-images/kennedy-space-center-launch-viewing-map), but this is a percipitation forcast for the next two days to compliment the lightnning maps [map link - click]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-82.23043%2C25.05827%2C-79.65768%2C32.55855%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-82.23043432659718%2C25.05827350557686%2C-79.65767686353576%2C32.55854930346194%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C12%2C17%2C18%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A2%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
@@ -537,6 +543,17 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+@nasa-jpl
+
+[rain forcast @usgs]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-132.17067%2C30.49225%2C-103.18195%2C44.58899%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-132.1706696208537%2C30.49224818827639%2C-103.18195416602602%2C44.58899109747177%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A5%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1d8babef-2036-4134-80d0-4562a415d281" />
+
+
+[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
 @longbeachinnovation @la-county-isd @cityofsandiego
 [https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
 
