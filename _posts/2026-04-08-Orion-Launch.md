@@ -543,8 +543,11 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+@CityOfLosAngeles @voyager-tech-inc @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) is the flight director if the Ports Need to be involved @LongBeachInnovationTeam @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+<img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/ab34eeb6-8c91-4092-bd46-de7d5edfb9d1" />
+
 @nasa-jpl
-@blackgirlscode i got to this by finding the planet earth and the plans for tomorrow are there  @SANDAG @CityofSantaMonica @USNAVY @la-county-isd [https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/) @CityOfLosAngeles @cityofsandiego
+@blackgirlscode i got to this by finding the planet earth and the plans for tomorrow are there  @SANDAG @CityofSantaMonica @USNAVY @la-county-isd [https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/) @CityOfLosAngeles @cityofsandiego [https://www.eoportal.org/satellite-missions/dscovr](https://www.eoportal.org/satellite-missions/dscovr) // [https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations](https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations) 
 <img alt="image" src="https://github.com/user-attachments/assets/057e8767-581f-40f2-b9e5-8198b63ac9ee" />
 
 
@@ -1029,6 +1032,13 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 
 #  moon-data
+
+[DSCOVR EPIC Level 1A Lunar and DSCOVR EPIC Level 1A Miscellaneous Data](https://forum.earthdata.nasa.gov/viewtopic.php?t=7818#p25727) 
+![https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png](https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png) @blueorigin @la-county-isd @nasa-pds 
+
+
+![https://epic.gsfc.nasa.gov/epic-galleries/2026/artemis/full/epic_1a_lunar_20260402080350_V1_688nm.png](https://epic.gsfc.nasa.gov/epic-galleries/2026/artemis/full/epic_1a_lunar_20260402080350_V1_688nm.png) 
+
 
 [WATCH @nasa-jpl](https://www.youtube.com/watch?v=z-j1uxBmis0) [[@blackgirlscode @foratlanta Moon Pics](https://www.tumblr.com/rashardmro/813169735144472576/messenger-nasajunocam-normanikordeiofficial?source=share) ]
 [ARCHiVE SCreenShare](https://archive.org/details/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color) ; How I got the images [watch karen bass @la-county-isd @nasa-jpl @blackgirlscode](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/VirtiServ_Orion_Rashards_Contribution_Blackgirlscode_NASAJPL_KARENBASS_HiLDA_SOLiS_Screen%20recording%202026-04-06%2010.38.16%20AM.webm) /////// [https://pds-imaging.jpl.nasa.gov/tools/atlas/search](https://pds-imaging.jpl.nasa.gov/tools/atlas/search) Name: Rashard I Kelly Username: rashardkelly Email Address: holetoanotheruniverse40@gmail.com Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California Country: United States Member Since: 08-24-2024 @cityoflosangeles @doug-newman-nasa
