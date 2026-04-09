@@ -32,6 +32,7 @@ permalink: /artemis2
 [@nasa-jpl @nqasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
 [@StateOfCalifornia - PLANETEARTH - FullDisk GOES18  _TooLS_@BlackgirlscodE @github @podaac @la-county-isd @datadesk @NBCNEWS @newshour](https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G18)
 
+[Artemis II reentry is 'riskier' than previous mission: Former astronaut]()
 [ir - windwo cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/14/20260991340-20260992130-GOES18-ABI-WUS-14-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/14/20260991340-20260992130-GOES18-ABI-WUS-14-1000x1000.gif) 
 [ @nasa-pds WATERVAPRO @blackgirlscode cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/08/20260991350-20260992140-GOES18-ABI-WUS-08-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/08/20260991350-20260992140-GOES18-ABI-WUS-08-1000x1000.gif)
 [- @lmco Lightning cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif)
@@ -1274,10 +1275,17 @@ On February 11th, 2021, the moon again passed between DSCOVR and the Earth. EPIC
 
 [`HOME⬆️`](#Artemis2)
 
+[https://www.ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
+[tumblr.com/rashardmro/813454329097994240/the-voyager-neptune-travel-guide-nasa-technical?source=share(https://www.tumblr.com/rashardmro/813454329097994240/the-voyager-neptune-travel-guide-nasa-technical?source=share)
+
+`Directed Energy Weapons: Counter Directed Energy Weapons and High Energy Lasers` - im in constant pain man! @nasa-pds it has gotten better with some peoples removal tbh the hard part is [they hit harder @whitehouse @CityOfLosAngeles @La-County-isd ](https://www.youtube.com/watch?v=fZ4mewzf1eo)
+```
+@normanikordeiofficial @nasajunocam @brandybrandybrandy im getting tortured like air popping is that what the word pop star is rooted in ? Electronic Harrassment and exotic DEW ATTACKS ?!~ and im working!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @podaac https://www.onr.navy.mil/organization/departments/code-35/division-353/directed-energy-weapons-cdew-and-high-energy-lasers 
+
 [How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) // [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) // [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
 The Story of NASA's Spaceflight Tracking and Data Network // [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) // [Sega Rally Championship – Twin/DX (Revision C)](https://www.retrogames.me/arcade/sega-rally-championship-twindx-revision-c.html?play)
 
-
+```
 
 
 
