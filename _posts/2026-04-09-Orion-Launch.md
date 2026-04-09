@@ -1036,6 +1036,10 @@ S1C_IW_GRDH_1SDV_20260122T135139_20260122T135204_006017_00C107_727D
 
 #  moon-data
 
+[https://www.tumblr.com/rashardmro/813454329097994240/the-voyager-neptune-travel-guide-nasa-technical?source=share](https://www.tumblr.com/rashardmro/813454329097994240/the-voyager-neptune-travel-guide-nasa-technical?source=share) /// [thakarashard.github.io/rashardmro/moon](https://thakarashard.github.io/rashardmro/moon)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/68ebb3d7-dee8-4c4e-b4b4-c5f97ac708c9" />
+
 [DSCOVR EPIC Level 1A Lunar and DSCOVR EPIC Level 1A Miscellaneous Data](https://forum.earthdata.nasa.gov/viewtopic.php?t=7818#p25727) 
 ![https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png](https://epic.gsfc.nasa.gov/epic-galleries/2025/lunar_observations/full/lunar_observation3.png) @blueorigin @la-county-isd @nasa-pds 
 
