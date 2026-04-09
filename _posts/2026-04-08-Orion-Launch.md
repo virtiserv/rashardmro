@@ -29,7 +29,7 @@ permalink: /artemis2
 
 #  splashdown-weather
 
-![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif)
+[cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif)
 
 @la-county-isd Holly Mitchell click MissionView to see the trajectory @USnavy @Nasa-jpl @blackgirlscode @foratlanta @whitehouse [nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
 <img alt="image" src="https://github.com/user-attachments/assets/2e238b8a-ddf8-4899-ba9f-c36c60e01fea" />
