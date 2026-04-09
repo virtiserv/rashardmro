@@ -29,7 +29,14 @@ permalink: /artemis2
 
 #  splashdown-weather
 
+[@nasa-jpl @nqasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
+[@StateOfCalifornia - PLANETEARTH - FullDisk GOES18  _TooLS_@BlackgirlscodE @github @podaac @la-county-isd @datadesk @NBCNEWS @newshour](https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G18)
+
+[ir - windwo cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/14/20260991340-20260992130-GOES18-ABI-WUS-14-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/14/20260991340-20260992130-GOES18-ABI-WUS-14-1000x1000.gif) 
+[ @nasa-pds WATERVAPRO @blackgirlscode cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/08/20260991350-20260992140-GOES18-ABI-WUS-08-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/wus/08/20260991350-20260992140-GOES18-ABI-WUS-08-1000x1000.gif)
+[- @lmco Lightning cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif)
 [cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/SECTOR/psw/DayNightCloudMicroCombo/20260991756-20260992151-GOES18-ABI-PSW-DayNightCloudMicroCombo-600x600.gif)
+[firetemp @usnay cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/wus/EXTENT3/20260991751-20260992146-GOES18-GLM-WUS-EXTENT3-1000x1000.gif)
 
 @la-county-isd Holly Mitchell click MissionView to see the trajectory @USnavy @Nasa-jpl @blackgirlscode @foratlanta @whitehouse [nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
 <img alt="image" src="https://github.com/user-attachments/assets/2e238b8a-ddf8-4899-ba9f-c36c60e01fea" />
