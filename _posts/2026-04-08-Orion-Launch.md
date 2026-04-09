@@ -14,10 +14,10 @@ permalink: /artemis2
 ~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
 ~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
 
+- Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
 - Jump to  [`flight-data`](#flight-data) <~for tracking info!
-- Jump to  [`splashdown-weather`](#splashdown-weather)
 - Jump to  [`space-weather`](#space-weather)
 - Jump to  [`moon-Data`](#moon-data)
 - Jump to  [`kelp-Data`](#kelp-data)
@@ -39,13 +39,6 @@ permalink: /artemis2
 
 # Artemis2
 
-![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
-
-
-[Orion Spacecraft]
-Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
-
-![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 ## @NASA's [Artemis](https://www.nasa.gov/artemis-ii-press-kit/) II @nasa-jpl @foratlanta @stateofcalifornia
 [DOWNLOAD_PDF _`mep/Mars_Exploration_Program_Future_Plan.pdf`_](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 @deptofdefense @whitehouse Pete @Clkoudflare filtering this link from long beach `https://lp.constantcontactpages.com/sl/wZ8zd0e/nasanewsletter` @nasa 
@@ -57,6 +50,93 @@ Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion
 
 
 [`HOME⬆️`](#Artemis2)
+
+
+
+#  splashdown-weather
+
+
+@la-county-isd Holly Mitchell click MissionView to see the trajectory @USnavy @Nasa-jpl @blackgirlscode @foratlanta @whitehouse [nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/)
+<img alt="image" src="https://github.com/user-attachments/assets/2e238b8a-ddf8-4899-ba9f-c36c60e01fea" />
+
+[MAPLiNK = CLiCKHERE! @nasa @whitehouse @longbeachinnovationteam - dashboard.waterdata.usgs.gov/app/nwd/en/ @SANDAG @CityofSantaMonica @USNAVY @la-county-isd ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-124.4903%2C27.01789%2C-109.88248%2C46.28036%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-124.49029534752465%2C27.01788904228247%2C-109.88247833371533%2C46.280361556319136%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLegend%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A1%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+<img  alt="image" src="https://github.com/user-attachments/assets/d4cdd4d7-7f7f-487d-9202-f2f54b69ed1d" />
+
+
+
+![https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif](https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif) 
+
+[tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
+[https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf @nasa-jpl @nasa-pds @la-county-isd](https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf) // [ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
+
+![ `@nasa-pds @nasa-jpl @la-county-isd` images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/56c434c7-0917-49f1-9cf0-b9b9f6fa79eb" />
+
+[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
+@CityOfLosAngeles @voyager-tech-inc @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) is the flight director if the Ports Need to be involved @LongBeachInnovationTeam @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+The Voyager Neptune travel guide 
+@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services 
+<img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/ab34eeb6-8c91-4092-bd46-de7d5edfb9d1" />
+
+@nasa-jpl
+@blackgirlscode i got to this by finding the planet earth and the plans for tomorrow are there  @SANDAG @CityofSantaMonica @USNAVY @la-county-isd [https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/) @CityOfLosAngeles @cityofsandiego [https://www.eoportal.org/satellite-missions/dscovr](https://www.eoportal.org/satellite-missions/dscovr) // [https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations](https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations) 
+<img alt="image" src="https://github.com/user-attachments/assets/057e8767-581f-40f2-b9e5-8198b63ac9ee" />
+
+
+[rain forcast @usgs]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-132.17067%2C30.49225%2C-103.18195%2C44.58899%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-132.1706696208537%2C30.49224818827639%2C-103.18195416602602%2C44.58899109747177%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A5%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1d8babef-2036-4134-80d0-4562a415d281" />
+
+
+[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
+@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
+@longbeachinnovation @la-county-isd @cityofsandiego
+[https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a9302779-bc33-4035-9da2-546301a1ca46" />
+
+### Base Los Angeles / Long Beach
+1001 South Seaside Ave  San Pedro, CA 90731
+-MAIN 206-815-6689
+-AFTER HOURS (310) 781-0619
+-EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
+[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
+![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
+
+![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
+@cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
+
+<img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
+
+Official map of San Diego County, California [Link](https://www.loc.gov/item/2012592092/)
+![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg)
+
+
+[https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
+@blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
+<img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
+
+
+# Splashdown 101: @USNavy @La-County-isd
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+
+@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
+Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
+
+
+## 3 Americans and a Human - The Flame Trench
+[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
+
+<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
 #  news
 
@@ -541,87 +621,6 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 [`HOME⬆️`](#Artemis2)
 
-#  splashdown-weather
-
-
-[@nasa @whitehouse @longbeachinnovationteam - dashboard.waterdata.usgs.gov/app/nwd/en/ @SANDAG @CityofSantaMonica @USNAVY @la-county-isd ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-124.4903%2C27.01789%2C-109.88248%2C46.28036%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-124.49029534752465%2C27.01788904228247%2C-109.88247833371533%2C46.280361556319136%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLegend%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A1%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
-<img  alt="image" src="https://github.com/user-attachments/assets/d4cdd4d7-7f7f-487d-9202-f2f54b69ed1d" />
-
-
-
-![https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif](https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif) 
-
-[tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
-![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
-[https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf @nasa-jpl @nasa-pds @la-county-isd](https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf) // [ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
-
-![ `@nasa-pds @nasa-jpl @la-county-isd` images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
-
-<img  alt="image" src="https://github.com/user-attachments/assets/56c434c7-0917-49f1-9cf0-b9b9f6fa79eb" />
-
-[https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
-@CityOfLosAngeles @voyager-tech-inc @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) is the flight director if the Ports Need to be involved @LongBeachInnovationTeam @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
-The Voyager Neptune travel guide 
-@nasa-pds _BONUS_ @blackgirlscode [LiNK1 - ntrs. @nasa.gov](https://ntrs.nasa.gov/citations/19900004096) // [LiNK2 - PDF](https://ntrs.nasa.gov/api/citations/19900004096/downloads/19900004096.pdf) @whitehouse @lmco @BlueOrigin @TheSpaceDevs @nasa-giss @boeing @ESA @howard-university-web-services 
-<img  alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/ab34eeb6-8c91-4092-bd46-de7d5edfb9d1" />
-
-@nasa-jpl
-@blackgirlscode i got to this by finding the planet earth and the plans for tomorrow are there  @SANDAG @CityofSantaMonica @USNAVY @la-county-isd [https://www.nasa.gov/missions/artemis-ii/arow/](https://www.nasa.gov/missions/artemis-ii/arow/) @CityOfLosAngeles @cityofsandiego [https://www.eoportal.org/satellite-missions/dscovr](https://www.eoportal.org/satellite-missions/dscovr) // [https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations](https://epic.gsfc.nasa.gov/galleries/2025/lunar_observations) 
-<img alt="image" src="https://github.com/user-attachments/assets/057e8767-581f-40f2-b9e5-8198b63ac9ee" />
-
-
-[rain forcast @usgs]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-132.17067%2C30.49225%2C-103.18195%2C44.58899%5D&view=%7B%22basemap%22%3A%22EsriTopo%22%2C%22bounds%22%3A%22-132.1706696208537%2C30.49224818827639%2C-103.18195416602602%2C44.58899109747177%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C10%2C12%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A5%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1d8babef-2036-4134-80d0-4562a415d281" />
-
-
-[download the latest Fulldisk file @nasa-jpl](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/DMW/)
-@cbsla _animate_ @disney [star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12](https://www.star.nesdis.noaa.gov/goes/fulldisk_band.php?sat=G18&band=DMW&length=12) @blackgirlscode heres the windspeed doc [star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf](https://www.star.nesdis.noaa.gov/goes/documents/QuickGuide_BaselineDerivedMotionWinds.pdf)  @Doug-newman-nasa Rick asked for wind and wave data @SWOT-community @ @la-county-isd @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
-
-<img alt="image" src="https://github.com/user-attachments/assets/2460b10b-2a0a-4790-b0f3-8e3ee4eff0cf" />
-@longbeachinnovation @la-county-isd @cityofsandiego
-[https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4 @blackgirlscode @nasa-pds @cityoflosangeles @COSD-PANDA @esri](https://www.arcgis.com/home/webscene/viewer.html?webscene=0281b25f75b24ca9b8835c6285cef9c2&viewpoint=cam:-118.21336683,33.76608651,548.307;90.991,79.4) 
-
-<img  alt="image" src="https://github.com/user-attachments/assets/a9302779-bc33-4035-9da2-546301a1ca46" />
-
-### Base Los Angeles / Long Beach
-1001 South Seaside Ave  San Pedro, CA 90731
--MAIN 206-815-6689
--AFTER HOURS (310) 781-0619
--EMAiL [ROLosAngeles@uscg.mil](mailto:ROLosAngeles@uscg.mil)
-[dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-`Los-Angeles-Long-Beach`/ @cityofsandiego @USnavy](https://www.dcms.uscg.mil/Our-Organization/Director-of-Operational-Logistics-DOL/Bases/Base-Los-Angeles-Long-Beach/) // [https://www.gocoastguard.com/recruiting-offices/los-angeles @la-ciounty-isd @nasa-pds @nasa-giss @nasa @whitehouse @blackgirlscode](https://www.gocoastguard.com/recruiting-offices/los-angeles)
-![https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png](https://www.uscg.mil/Portals/0/Images/Official%20USCG%20Emblem.png)
-
-<img   alt="image" src="https://github.com/user-attachments/assets/c7a538e4-8ccf-48aa-993e-e5863876a84a" />
-
-![https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737](https://www.dcms.uscg.mil/portals/10/DOL/Base%20LALB/Images/Baselalb.jpg?ver=2017-03-28-153622-737)
-@cityofsandiego @USnavy im working on [LongBeach](https://www.loc.gov/item/2007660625/) right now and notice [San Diego](https://www.sandiego.gov/public-library) bay has changed some in suspended solids and chlorophyll content , I documented on myhomepage orion being put back in the hangar, for the helium leak fix, I have not checked since then @nasa @nasa-jpl @blackgirlscode [MAP - LiNK](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=12.19/-13037771.81/3851181.66&layers=aqv_chla_20260228_sentinel:1.00:0.00:30.00:default&grids=1,0)
-
-<img alt="image" src="https://github.com/user-attachments/assets/7cab2c2a-0980-41cc-8f58-d71a7c60d058" />
-
-Official map of San Diego County, California [Link](https://www.loc.gov/item/2012592092/)
-![https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg](https://tile.loc.gov/image-services/iiif/service:gmd:gmd436:g4363:g4363s:la000035a/full/pct:12.5/0/default.jpg)
-
-
-[https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue](https://sentiwiki.copernicus.eu/web/s2-processing#S2Processing-L1CAlgorithmsS2-Processing-L1C-Algorithmstrue)
-@blackgirlscode ... @whitehouse i dont know where [latrice fitzpatrick](https://www.facebook.com/thevirtiservway/) work exactly @la-county-isd but i am processing some images for the landing of the space capsule @nasa-jpl @cityoflosangeles @eu-cdse [https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167](https://workspace.dataspace.copernicus.eu/workspace/processing-status/order/7832167) _VirtiServLatriceSandiagoSplashDownorder-2026-02-04T00:27:28.945Z%20order-2026-02-04T00:31:35.778Z_ hi @salesforce [@intuit](https://www.bbb.org/us/oh/youngstown/profile/financial-planning-consultants/count-profits-0432-20020936)
-<img  alt="image" src="https://github.com/user-attachments/assets/d1b44883-0624-4b28-ae9a-f67ea953cf58" />
-
-
-# Splashdown 101: @USNavy @La-County-isd
-Joint Team to Recover Crew, Orion After Moon Missions
-[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
-
-![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
-
-@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
-Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
-
-
-## 3 Americans and a Human - The Flame Trench
-[WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
-
-<img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
 
 
 # kelp-data
@@ -1369,6 +1368,13 @@ NASA Official: Doug Newman
 
 [https://melodymaddox.com/](https://melodymaddox.com/)
 
+![https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png](https://www3.nasa.gov/send-your-name-with-artemis/img/logo--rocket.png)
+
+
+[Orion Spacecraft]
+Orion: dimensions [LINK](https://www.esa.int/ESA_Multimedia/Images/2019/03/Orion_dimensions) @esa @datadesk @nytimes @newshour @foxnews 
+
+![ORiON](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Orion_logo.png/330px-Orion_logo.png)
 
 ```fortran
  Select ... [F]tp, [M]ail, [R]edisplay, ?, <cr>: -
