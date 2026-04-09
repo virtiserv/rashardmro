@@ -543,6 +543,7 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 
 #  splashdown-weather
 
+![https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif](https://assets.science.nasa.gov/content/dam/science/esd/climate/internal_resources/details/original/2399_magnetosphere.gif) 
 
 [tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
 ![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
