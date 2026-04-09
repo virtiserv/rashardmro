@@ -36,7 +36,7 @@ permalink: /artemis2
 
 #  splashdown-weather
 ![https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg) @noaa @weathergov @commercegov 
-[@nasa-jpl @nqasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
+[@nasa-jpl @nasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
 [@StateOfCalifornia - PLANETEARTH - FullDisk GOES18  _TooLS_@BlackgirlscodE @github @podaac @la-county-isd @datadesk @NBCNEWS @newshour](https://www.star.nesdis.noaa.gov/goes/fulldisk.php?sat=G18)
 
 [Artemis II reentry is 'riskier' than previous mission: Former astronaut]()
