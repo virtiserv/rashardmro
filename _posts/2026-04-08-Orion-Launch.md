@@ -542,6 +542,16 @@ SusPENDED SOLiDS @la-county-isd [https://ladsweb.modaps.eosdis.nasa.gov/stream/m
 [`HOME⬆️`](#Artemis2)
 
 #  splashdown-weather
+
+
+[tracers.physics.uiowa.edu/#accordion-item-651-0 @mcagov](https://tracers.physics.uiowa.edu/#accordion-item-651-0)
+![https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg @nasa-jpl @nasa-giss @la-county-isd @cityoflosangeles @stateofcalifornia @lmco](https://tracers.physics.uiowa.edu/sites/tracers.physics.uiowa.edu/files/2023-08/orbit_%20high%20qual.jpg)
+[https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf @nasa-jpl @nasa-pds @la-county-isd](https://www.uscg.mil/Portals/0/Images/cyber/Maritime%20Cyber%20Alert%2002-25%20TLP%20CLEAR.pdf) // [ossoff.senate.gov/contact-us/](https://www.ossoff.senate.gov/contact-us/)
+
+![ `@nasa-pds @nasa-jpl @la-county-isd` images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg](https://images-assets.nasa.gov/image/art002e009289/art002e009289~large.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/56c434c7-0917-49f1-9cf0-b9b9f6fa79eb" />
+
 [https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/](https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-comes-home-official-broadcast/)
 @CityOfLosAngeles @voyager-tech-inc @StateOfCalifornia @cityofsandiego [Rick.Henfling-1@nasa.gov](mailto:Rick.Henfling-1@nasa.gov) is the flight director if the Ports Need to be involved @LongBeachInnovationTeam @nasa-pds @nasa-jpl @ucla @blackgirlscode [_Ground Data Systems and Mission Operations chapter_ @la-county-isd](https://www.nasa.gov/wp-content/uploads/2025/02/11-soa-ground-data-systems-2024.pdf)
 The Voyager Neptune travel guide 
