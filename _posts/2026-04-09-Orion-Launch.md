@@ -70,6 +70,7 @@ When is the Artemis II splashdown in California? Orion capsule is set to splash 
 Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
 
 @cbs-news-data @cbsnews
+Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 9, 2026 [read](https://www.space.com/news/live/artemis-2-nasa-moon-mission-updates-april-9-2026)
 [What to know about Artemis II crew’s return to Earth, splashdown in California](https://www.kxnet.com/news/national-news/what-to-know-about-artemis-ii-crews-return-to-earth-splashdown-in-california/) Artemis II crew gets up to 'Under [Pressure](https://www.rlsmaradona.org.ua/young-jeezy-pressure-2017-flac-320kbps/)' on Day 8, with 'wakeup song playlist' online [@foxnews myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center](https://myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center)
 
 ## 3 Americans and a Human
