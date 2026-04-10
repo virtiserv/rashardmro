@@ -46,8 +46,11 @@ Joint Team to Recover Crew, Orion After Moon Missions
 @blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
 Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
 
+@cbs-news-data @cbsnews
+[What to know about Artemis II crew’s return to Earth, splashdown in California](https://www.kxnet.com/news/national-news/what-to-know-about-artemis-ii-crews-return-to-earth-splashdown-in-california/) Artemis II crew gets up to 'Under [Pressure](https://www.rlsmaradona.org.ua/young-jeezy-pressure-2017-flac-320kbps/)' on Day 8, with 'wakeup song playlist' online [@foxnews myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center](https://myfox28columbus.com/news/nation-world/artemis-ii-crew-heading-home-after-historic-moon-loop-ready-for-splashdown-this-week-nasa-astronauts-orion-spacecraft-earth-lunar-flyby-mission-launch-kennedy-space-center)
 
-## 3 Americans and a Human - The Flame Trench
+## 3 Americans and a Human
+- The Flame Trench
 [WATCH](https://www.youtube.com/watch?v=wAcfrvKDqR0) @nasa-pds @blackgirlscode `This is Gavin Newsom` [Watch](https://www.youtube.com/@ThisisGavinNewsom) @StateofCalifornia @NASASpaceFlight
 
 <img  alt="image" src="https://github.com/user-attachments/assets/1bef2b59-658c-4701-88a7-8af5cdb7c8bb" />
