@@ -36,8 +36,9 @@ permalink: /artemis2
 
 #  splashdown-weather
 
-
-
+[Artemis II crew to return home as Nasa lays out steps for safe splashdown - the @guardian .com/](https://www.theguardian.com/science/2026/apr/09/artemis-crew-nasa-return)
+Astronauts prepare for re-entry several miles off coast of southern California after 10-day lunar fly-by mission
+![https://i.guim.co.uk/img/media/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/0_0_4037_2691/master/4037.jpg?width=700&dpr=1&s=none&crop=none](https://i.guim.co.uk/img/media/115ed6bc5a0e3817e454e44e1ec00524b410fbf1/0_0_4037_2691/master/4037.jpg?width=700&dpr=1&s=none&crop=none)
 
 ![https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/tpw/EXTENT3/20260992206_GOES18-GLM-tpw-EXTENT3-1800x1080.jpg) @noaa @weathergov @commercegov 
 [@nasa-jpl @nasa-giss @nasaopenscapes @doug-newman-nasa - for Rick](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/FD/Dust/GOES18-ABI-FD-Dust-21696x21696.tif)
