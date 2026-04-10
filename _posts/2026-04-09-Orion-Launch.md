@@ -39,9 +39,32 @@ permalink: /artemis2
 ## Splashdown 101:
 @USNavy @La-County-isd
 Joint Team to Recover Crew, Orion After Moon Missions
-[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+[splashdown - READ](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
 
 ![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+
+
+## Artemis II splashdown in California visual guide, what it would look like
+When is the Artemis II splashdown in California? Orion capsule is set to splash down about 8:07 pm ET Friday, April 10, 2026, possibly near [San Diego](https://firms.modaps.eosdis.nasa.gov/usfs/map/#d:24hrs;@-117.184,32.664,11.055z). @usatoday 
+[floridatoday.com/story/tech/science/space/2026/04/09/nasa-artemis-splashdown-california-map-what-time-how-watch/89487303007/](https://www.floridatoday.com/story/tech/science/space/2026/04/09/nasa-artemis-splashdown-california-map-what-time-how-watch/89487303007/)
+
+@lmco @nasa-jpl [AquaticksLink](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=11.04/-13078412.27/3838838.01&layers=aqv_tss_20260407_sentinel:1.00:0.00:30.00:default)
+<img  alt="image" src="https://github.com/user-attachments/assets/f8a7dd90-236d-40a9-9a77-acf7553ff34a" />
+
+[Temp](https://worldview.earthdata.nasa.gov/?v=-248.06956668783653,-156.0939983459478,35.635836808033844,156.8695522080135&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-04-08-T01%3A13%3A12Z) 
+
+<imgalt="image" src="https://github.com/user-attachments/assets/580ac533-5072-4593-8076-a8dbcf1094ce" />
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/5f8b6cc5-84a7-443e-ac86-e033e0d20bc5" />
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a0ec0c78-9e91-497c-bcbc-5beda109dbb8" />
+[https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/04/09/PBRE/89535099007-splashdown.jpeg?width=660&height=370&fit=crop&format=pjpg&auto=webp](https://www.floridatoday.com/gcdn/authoring/authoring-images/2026/04/09/PBRE/89535099007-splashdown.jpeg?width=660&height=370&fit=crop&format=pjpg&auto=webp)
+<img  alt="image" src="https://github.com/user-attachments/assets/14346e1f-5d68-4f47-9bce-dd42bfc2a6c2" />
+<img   alt="image" src="https://github.com/user-attachments/assets/a53ea833-d687-41f1-830e-80e2ff63aa07" />
+
 
 @blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
 Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
