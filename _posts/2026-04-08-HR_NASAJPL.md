@@ -12,7 +12,7 @@ author: "RashardKelly @nasa-jpl"
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
-[AboutMe and My Job @blackgirlscode @paramount-engineering](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) ~ Watching Over the Deep Space Network Before Artemis II Signal Acquisition [@disney](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) [- photo - @la-county-isd @CityOfLosAngeles](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg)
+[AboutMe and My Job @blackgirlscode @paramount-engineering](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) ~ Watching Over the Deep Space Network Before Artemis II Signal Acquisition [@disney](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) [- photo - @la-county-isd @CityOfLosAngeles](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg) - [@nasa-jpl - ](https://scan-now.gsfc.nasa.gov/scan)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5d8f1d66-d6f9-47f7-894c-c645faa8b711" />
 
