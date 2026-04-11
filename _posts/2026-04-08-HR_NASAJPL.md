@@ -11,6 +11,35 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b01adadf-e049-45b7-8aac-011f09514252" />
+
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-11-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
 <img  alt="image" src="https://github.com/user-attachments/assets/5d18f23e-5d7e-4e75-bdd7-49c436e19714" />
 
 
