@@ -11,9 +11,10 @@ author: "RashardKelly @nasa-jpl"
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5d18f23e-5d7e-4e75-bdd7-49c436e19714" />
 
 
-<img alt="image @la-county-isd @cityoflosangeles @blackgirlscode @nasa-jpl @whitehouse @foratlanta" src="https://github.com/user-attachments/assets/6648897f-eb81-4430-b1a3-c78ac2e136b6" />
+<img alt="image @la-county-isd @cityoflosangeles @blackgirlscode @nasa-jpl @whitehouse @foratlanta im getting harassed by one of her lovers rn irt" src="https://github.com/user-attachments/assets/6648897f-eb81-4430-b1a3-c78ac2e136b6" />
 
 
 [AboutMe and My Job @blackgirlscode @paramount-engineering](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) ~ Watching Over the Deep Space Network Before Artemis II Signal Acquisition [@disney](https://science.nasa.gov/photojournal/watching-over-the-deep-space-network-before-artemis-ii-signal-acquisition/) [- photo - @la-county-isd @CityOfLosAngeles](https://assets.science.nasa.gov/content/dam/science/psd/photojournal/pia/pia26/pia26744/PIA26744.jpg) - [@nasa-jpl - ](https://scan-now.gsfc.nasa.gov/scan)
