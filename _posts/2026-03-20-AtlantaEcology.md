@@ -299,6 +299,7 @@ Atlanta
 @blackgirlscode : [Latrice](https://open.spotify.com/track/2fUzIplf9q8uab0oI6l0sJ?si=544b411d330e4039) 💯
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/bb9d2f70-2326-41d8-a07f-cd0b0c069af1" />
 
 
 
