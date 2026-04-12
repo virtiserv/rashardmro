@@ -30,6 +30,14 @@ date:   2026-04-04 1:51:06
 
 {% endhighlight %}
 
+
+[Los Angeles City Hall - https://waterandpower.org/](https://waterandpower.org/Museum2/Los_Angeles_City_Hall_1928.html)
+Los Angeles City Hall is one of the most iconic buildings in America; some say, the world. A bold symbol of the ambition of America and its people, City Hall graces California as one of its most enduring landmarks. [Related - DNS](https://x.com/MooNLOVER404/status/1822009495826133056)
+
+![cityhall](https://waterandpower.org/Historical_DWP_Photo_Collection_LA_Public_Library/City_Hall_1927.jpg)
+
+![cityhall](https://waterandpower.org/7%20Historic%20Photos%207/City_Hall_Cornerstone_2015.jpg)
+
 [Laila's Wisdom re:coral @blackgirlscode](https://youtu.be/btYlWphnfbE)
 [WipEout® OST [PSX]: CoLD SToRAGE - Messij](https://youtu.be/4uQnXvRndcE?si=Shb49Z9P4TdnkV2s) [California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf)
 [1879 California Constitution](https://archives.cdn.sos.ca.gov/collections/1879/archive/1879-constitution.pdf) [Equal Rights Amendments: State Provisions](https://web.archive.org/web/20140517123130/https://digital.library.unt.edu/ark:/67531/metacrs7397/m1/1/high_res_d/RS20217_2004Aug23.pdf)  [1849 California Constitution (spanish)](https://archives.cdn.sos.ca.gov/collections/1849/images/1849Constitucion2.pdf)
