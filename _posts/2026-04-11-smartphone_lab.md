@@ -19,6 +19,18 @@ permalink: /smartphone1
 </picture>
 
 
+## Donal Duck's Quackshot
+It was over half my life ago i rented this game from a local phramacy with the man i was told was my dad. [_`Blast Processing`_ [[1](https://segaretro.org/Blast_processing)] [[2](https://youtu.be/uxvKmA3Dvqc)] [[3](https://www.reddit.com/r/Games/comments/b7p5lp/segas_legendary_blast_processing_was_real_but/) was a phrase Sega used to market the consoles ablility to accellerate quickly vs a general fast ness thats just is at a neutral level, it sounds like [overClocking](https://www.intel.com/content/www/us/en/gaming/resources/how-to-overclock.html) in the pcworld. Since we are talking expansion slot, the developer was able to modify the chipset to generate sunned purst of speed famous in [Sonic The HedgeHog](https://archive.org/details/sonikku/Japanese+Sonic+2+Commercial+from+Sonic+Jam+%5BPerfect+Rip%5D.mp4), [@Lemuroid](https://github.com/swordfish90/lemuroid) has the best overlaysso i did not retroarch. The speed burst are well rendered and I really appreciate the work. . . 
+
+@disney @libretro [** soalegal@segaamerica.com**](mailt:soalegal@segaamerica.com) / [help@sega.com](mailto:help@sega.com)
+<img  alt="image" src="https://github.com/user-attachments/assets/f26763b4-5ac7-41ef-8dc2-dc5138239126" />
+<img   alt="Screenshot_20260412-194923" src="https://github.com/user-attachments/assets/ae63d308-a7cf-4070-b03e-d2006b684b61" />
+<img alt="Screenshot_20260412-195121" src="https://github.com/user-attachments/assets/dc6a61c2-347c-44d3-9b68-01536fa06e62" />
+<img alt="Screenshot_20260412-195911" src="https://github.com/user-attachments/assets/f8d2ad8b-df50-4fb8-92ab-76f280664b1b" />
+
+![https://upload.wikimedia.org/wikipedia/en/1/12/GenesisLogo.png](https://upload.wikimedia.org/wikipedia/en/1/12/GenesisLogo.png)
+
+
 _code sample @jekyll @blackgirlscode_ @la-county-isd video player [Mrs Mitchell](https://boardagendas.metro.net/person/holly-j-mitchell-39c7ff59ec43/)
 
 [<video controls width="100%" height="auto" src="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4" poster="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261012116_GOES18-GLM-psw-EXTENT3-600x600.jpg" />](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4)
