@@ -23,10 +23,11 @@ permalink: /smartphone1
 It was over half my life ago i rented this game from a local phramacy with the man i was told was my dad. [_`Blast Processing`_ [[1](https://segaretro.org/Blast_processing)] [[2](https://youtu.be/uxvKmA3Dvqc)] [[3](https://www.reddit.com/r/Games/comments/b7p5lp/segas_legendary_blast_processing_was_real_but/) was a phrase Sega used to market the consoles ablility to accellerate quickly vs a general fast ness thats just is at a neutral level, it sounds like [overClocking](https://www.intel.com/content/www/us/en/gaming/resources/how-to-overclock.html) in the pcworld. Since we are talking expansion slot, the developer was able to modify the chipset to generate the sudden purst of speed famous in [Sonic The HedgeHog](https://archive.org/details/sonikku/Japanese+Sonic+2+Commercial+from+Sonic+Jam+%5BPerfect+Rip%5D.mp4), [@Lemuroid](https://github.com/swordfish90/lemuroid) has the best overlays so i did not retroarch this time. The speed burst are well rendered and I really appreciate the work. . . Like the origional geme is well made, and the art is beautoful and acrylic like @nasa-jpl @blackgirlscode
 
 @disney @libretro [** soalegal@segaamerica.com**](mailt:soalegal@segaamerica.com) / [help@sega.com](mailto:help@sega.com)
-<img  alt="image" src="https://github.com/user-attachments/assets/f26763b4-5ac7-41ef-8dc2-dc5138239126" />
+
 <img   alt="Screenshot_20260412-194923" src="https://github.com/user-attachments/assets/ae63d308-a7cf-4070-b03e-d2006b684b61" />
 <img alt="Screenshot_20260412-195121" src="https://github.com/user-attachments/assets/dc6a61c2-347c-44d3-9b68-01536fa06e62" />
 <img alt="Screenshot_20260412-195911" src="https://github.com/user-attachments/assets/f8d2ad8b-df50-4fb8-92ab-76f280664b1b" />
+<img  alt="image" src="https://github.com/user-attachments/assets/f26763b4-5ac7-41ef-8dc2-dc5138239126" />
 
 ![https://upload.wikimedia.org/wikipedia/en/1/12/GenesisLogo.png](https://upload.wikimedia.org/wikipedia/en/1/12/GenesisLogo.png)
 
