@@ -5,7 +5,7 @@ permalink: /var/log
 ---
 
 
-[
+
 @la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
 
 [`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
@@ -42,22 +42,7 @@ Wed, 15 Apr 2026 22:00:37 GMT
 ```
 
 
- Rashard Kelly
-Profile Home
- 
-Edit Profile
- 
-Change Password
- 
-Applications 
- 
-EULAs 
- 
-My Groups
- 
-Generate Token
-   
-Profile Information
+Rashard Kelly Profile Information
 Name: Rashard I Kelly @nasa
 Username: rashardkelly
 Email Address: holetoanotheruniverse40@gmail.com
