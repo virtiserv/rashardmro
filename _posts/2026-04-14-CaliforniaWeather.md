@@ -13,9 +13,12 @@ mathjax: true
 
 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C9PsD7HP33w?si=DVWsIlVNGpWJ7_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Writing mathematical expressions
-Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions)
+
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
+
 `**The Cauchy-Schwarz Inequality**`\
 $$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
 
