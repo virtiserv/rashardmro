@@ -8,11 +8,24 @@ permalink: /var/log
 [
 @la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
 
+[`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/55aba2ba-3cf6-40d5-ab6b-bc18aa7615e9" />
+
 
 ```
 516 Upstream Certificate CN Mismatch
 
-The SSL security certificate presented by this site was issued for a different site's address. This happens when the common name of the SSL Certificate doesn't exactly match the name displayed in the address bar. Certificate doesn't exactly match the name displayed in the address bar and can indicate that attackers might be trying to steal your information (for example, passwords, messages, or credit cards). If you believe you are seeing this message in error, please contact your network administrator.
+The SSL security certificate presented by this site was issued for a different
+ site's address. This happens when the common name of the SSL Certificate
+doesn't exactly match the name displayed in the address bar. Certificate
+doesn't exactly match the name displayed in the address bar and can indicate
+that attackers might be trying to steal your information (for example,
+passwords, messages, or credit cards). If you believe you are seeing this
+message in error, please contact your network administrator.
+
 
 ```
 
@@ -23,12 +36,8 @@ This page is served by Cisco Secure Access.
 
  Server: swg-nginx-proxy-https-ed39b0ae52f9.signginx.lax
 
-
-
 Wed, 15 Apr 2026 22:00:37 GMT
 ```
-
-<img alt="image" src="https://github.com/user-attachments/assets/55aba2ba-3cf6-40d5-ab6b-bc18aa7615e9" />
 
 avatar of user ThakaRashard
 Message fromThakaRashard
