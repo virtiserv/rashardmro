@@ -6,6 +6,7 @@ permalink: /hr
 tags: earth hr NearSpaceNetwork gds 
 image: womeninscience.jpg
 author: "RashardKelly @nasa-jpl"
+mathjax: true
 ---
 
 
