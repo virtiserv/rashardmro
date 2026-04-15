@@ -15,7 +15,12 @@ mathjax: true
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9PsD7HP33w?si=DVWsIlVNGpWJ7_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/20261050201_GOES18-ABI-CONUS-DMW-625x375.jpg](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/20261050201_GOES18-ABI-CONUS-DMW-625x375.jpg)
+
 [<video controls width="100%" height="auto" src="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4" poster="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261050221_GOES18-GLM-psw-EXTENT3-600x600.jpg" />](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4)
+[<video controls width="100%" height="auto" src="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4" poster="https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/20261050221_GOES18-GLM-psw-EXTENT3-600x600.jpg" />](https://cdn.star.nesdis.noaa.gov/GOES18/GLM/SECTOR/psw/EXTENT3/GOES18-PSW-EXTENT3-600x600.mp4)
+
 
 # Writing mathematical expressions
 
