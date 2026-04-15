@@ -41,6 +41,47 @@ This page is served by Cisco Secure Access.
 Wed, 15 Apr 2026 22:00:37 GMT
 ```
 
+
+ Rashard Kelly
+Profile Home
+ 
+Edit Profile
+ 
+Change Password
+ 
+Applications 
+ 
+EULAs 
+ 
+My Groups
+ 
+Generate Token
+   
+Profile Information
+Name: Rashard I Kelly @nasa
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-15-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.11 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa it was just a dance class and ppl started stealing from me like @whitehouse [dns](https://www.lapdonline.org/) @cityoflosangeles
+
+
 avatar of user ThakaRashard
 Message fromThakaRashard
 Message was sent1 minute ago
