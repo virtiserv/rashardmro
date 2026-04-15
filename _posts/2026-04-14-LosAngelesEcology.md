@@ -11,7 +11,7 @@ date:   2026-04-04 1:51:06
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
-
+[@CityOfSantaMonica Apr14 meeting @la-cou ty-iss](https://www.youtube.com/live/2LUouGMRixY?si=jZks-j2rlNJ5Kz7E) sap on a clip to paste it in the text box.
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
