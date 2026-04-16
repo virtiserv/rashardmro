@@ -12,6 +12,21 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
+**Column Average** - The average mole fraction of carbon dioxide in a vertical column of air starting at some point on the earth's surface and extending to the top of the atmosphere. This is a relevant quantity for comparison with satellite observations. [Glossery @noaagov @whitehouse @nasa-jpl](https://gml.noaa.gov/ccgg/carbontracker/glossary.php)
+
+<img   alt="GIOVANNI-outputY8vcX0pg" src="https://github.com/user-attachments/assets/c5bc44de-c833-415d-947c-ed4930a66095" />
+`pdf` 
+
+
+
+[ntrs.nasa.gov/api/citations/20170010422/downloads/20170010422.pdf Recent progress in the NASA
+‘e-Deep Blue’ algorithm for remote
+sensing of aerosol optical properties
+](https://ntrs.nasa.gov/api/citations/20170010422/downloads/20170010422.pdf)
+
+[giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-04-10T00:00:00Z&endtime=2026-04-14T23:59:59Z&data=OMNO2d_004_ColumnAmountNO2CloudScreened%2COMNO2d_004_ColumnAmountNO2TropCloudScreened%2CAIRS3STD_7_0_TotO3_D%2CAIRS3STD_7_0_TotO3_A%2CAIRS3STD_7_0_Temperature_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_A(z%3D1000)%2CMYD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CMOD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CAIRS3STD_006_TotO3_D%2CAIRS3STD_006_TotO3_A%2CAIRS3STD_006_Temperature_D(z%3D1000) @deptofwar](https://giovanni.gsfc.nasa.gov/giovanni/#service=TmAvMp&starttime=2026-04-10T00:00:00Z&endtime=2026-04-14T23:59:59Z&data=OMNO2d_004_ColumnAmountNO2CloudScreened%2COMNO2d_004_ColumnAmountNO2TropCloudScreened%2CAIRS3STD_7_0_TotO3_D%2CAIRS3STD_7_0_TotO3_A%2CAIRS3STD_7_0_Temperature_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_D(z%3D1000)%2CAIRS3STD_7_0_O3_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CO_VMR_A(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_D(z%3D1000)%2CAIRS3STD_7_0_CH4_VMR_A(z%3D1000)%2CMYD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CMOD08_D3_6_1_AOD_550_Dark_Target_Deep_Blue_Combined_Mean%2CAIRS3STD_006_TotO3_D%2CAIRS3STD_006_TotO3_A%2CAIRS3STD_006_Temperature_D(z%3D1000))
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0b3438c5-f01b-4833-998f-c7b259994bb0" />
 
 
 [@usnavy @github .com/google/earthengine-api](https://github.com/google/earthengine-api) /// [Map to Home](https://earth.google.com/web/@29.20841968,53.56068888,1176.75764377a,8901433.8339293d,30.00019998y,0.0000622h,0t,0r/data=CgRCAggBMikKJwolCiExcHFBMzM1MXpKaEYyRlVNTHlCUXJCUl8tQzhjZ2hyeEogAToDCgEwQgIIAEoICNWVv9cFEAE)
