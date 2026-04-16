@@ -6,6 +6,15 @@ title: Presidential
 image: pentagon.jpg
 ---
 
+# Blockade Line 
+@whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
+Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin
+
+<img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
+<img   alt="image" src="https://github.com/user-attachments/assets/ed6e4862-823e-4489-9f5d-1e132871f073" />
+
+
 ![https://www.senate.gov/about/images/butler-laphonza.htm](https://www.senate.gov/about/images/butler-laphonza.htm) 
 [https://www.senate.gov/about/images/butler-laphonza.htm](https://www.senate.gov/about/images/butler-laphonza.htm) [karenbass @whitehouse @Nasa-jpl @stateofcalifornia](https://mayor.lacity.gov/)
 
