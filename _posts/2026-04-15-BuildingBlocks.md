@@ -10,7 +10,9 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 @la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
 
 [`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
+@la-county-isd @cityoflosangeles [lapl](https://www.lapl.org/)'s wired network accused me of cert errors @github @nasa-jpl [SupervisorHollyMitchell](https://bos.lacounty.gov/executive-office/about-us/board-photo-gallery/2nd-district-supervisor-holly-j-mitchell/) // [judyChu](https://chu.house.gov/) // [Reverend Karen Bass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWm) // [Dr. Hilda Solis](https://history.house.gov/People/Detail/22566) & [Dr Janic Hahn](https://history.house.gov/People/Detail/15617) . . . @nasa-pds @nasa-jpl i had a pediatrician in pasadena, i dont know what molestation story she got, becasue those [girls darkness](youtube.com/watch?v=tnRyJUpy_9I) @blackgirlscode @nbcnews @newshour 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/037e663d-940b-4097-a899-54394e4f790e" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/55aba2ba-3cf6-40d5-ab6b-bc18aa7615e9" />
