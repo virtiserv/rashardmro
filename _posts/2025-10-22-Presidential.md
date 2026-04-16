@@ -11,7 +11,13 @@ image: pentagon.jpg
 Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
 S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
+
+```
+https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
+```
+
 <img   alt="image" src="https://github.com/user-attachments/assets/ed6e4862-823e-4489-9f5d-1e132871f073" />
 
 
