@@ -8,9 +8,22 @@ image: pentagon.jpg
 
 # Blockade Line 
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
-Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin
+Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
+
+[ECOSTRESS @emit-sds ecostress.jpl.nasa.gov/](https://ecostress.jpl.nasa.gov/) - [Land Temp](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322) 
+`https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322`
+<img  alt="image" src="https://github.com/user-attachments/assets/5e5dc850-92af-44f5-ac09-54ab034b0315" />
+
+
+[@eu-cdse - MAP Link](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.19314&lng=60.3376&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18L0sUJLscLxlhY3dhV2SX7j4L%2Fl6FVvBQ7ETOSjiw00RS7kyun06VL%2Fb8u00mfQnjFRqY1gKtVQuyAoNpQzjK7G8%2B4kc0vxTEO8kBScbbk5He4kBc30ZgJ&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7792878b-60ed-4615-a099-4fd33c5ea736" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/e82ceab5-c474-456d-91e8-386d937c3df7" />
 
 S1A_IW_GRDH_1SDV_20260318T135957_20260318T140026_063683_080161_563C @nasa @lmco @blackgirlscode @asfadmin i see somethig in the water OPERA_L2_RTC-S1_T122-260828-IW2_20260414T015106Z_20260415T130903Z_S1A_30_v1.0 . . @cityoflosangeles who mad at me sleeping outside ? [EPic Fury Map](https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886) [MayorBass](https://mayor.lacity.gov/about-mayor-karen-bass)
 
@@ -22,9 +35,7 @@ S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
 https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
 ```
 
-[@eu-cdse - MAP Link](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.19314&lng=60.3376&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18L0sUJLscLxlhY3dhV2SX7j4L%2Fl6FVvBQ7ETOSjiw00RS7kyun06VL%2Fb8u00mfQnjFRqY1gKtVQuyAoNpQzjK7G8%2B4kc0vxTEO8kBScbbk5He4kBc30ZgJ&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
-<img   alt="image" src="https://github.com/user-attachments/assets/7792878b-60ed-4615-a099-4fd33c5ea736" />
 
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ed6e4862-823e-4489-9f5d-1e132871f073" />
