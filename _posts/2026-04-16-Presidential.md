@@ -27,7 +27,7 @@ _Current @usnavy @nasa-jpl_
 
 sorry these lights in the sea are old @usnavy @la-county-isd @nasa-jpl
 
-[Map LinK - @USNAVE @nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2022-01-30-T20%3A11%3A27Z)
+[Map LinK - @USNAVY @nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2022-01-30-T20%3A11%3A27Z)
 
 
 <div class="tupperware"> 
