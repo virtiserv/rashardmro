@@ -8,7 +8,9 @@ image: pentagon.jpg
 
 # Blockade Line 
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
-Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/)
+Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/) [baniasadzadeh.mo@parliran.ir](mailto:baniasadzadeh.mo@parliran.ir),
+[IPUgroup@parliran.ir](mailto:IPUgroup@parliran.ir),
+[ds_legal@isro.gov.in](mailto:ds_legal@isro.gov.in) @la-county-isd @cityoflosangeles @blackgirlscode @stateofcalifornia 
 
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
@@ -20,6 +22,7 @@ Pete im looking at an animation of THermal Anomolies and its either really peace
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/f74e5ce2-9acf-4eb1-8cda-4b8b8c2b57ae" />
+
 
 
 _Current @usnavy @nasa-jpl_
@@ -110,6 +113,14 @@ S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
 https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
 ```
 
+@la-county-isd [My @Vsco](https://vsco.co/rashardsartu/gallery) // for work @nasa [My @Vsco](https://vsco.co/earthdatarashard/gallery) @whitehouse @caltech @newshour @npr
+
+<div class="tupperware">
+ 
+<img   alt="image" src="https://github.com/user-attachments/assets/3e677dfe-4c29-4fae-b3d6-d128e307a496" />
+<img   alt="image" src="https://github.com/user-attachments/assets/0c0cb5b3-895a-4a72-be25-79df32e69cea" />
+
+</div>
 
 
 
