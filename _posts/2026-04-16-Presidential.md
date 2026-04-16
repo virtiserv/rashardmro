@@ -12,6 +12,13 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
+@deptofwar
+
+Pete im looking at an animation of THermal Anomolies and its either really peaceful or not much life at the blockade, dueling is illegal in california. 
+<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl nasa-worldview-2026 APR 03-to-2026 APR 15" src="https://github.com/user-attachments/assets/77f11e44-f26b-4a94-bdd9-b09a386a2a2d" />
+
+@nasa-openscapes []()
+<img alt="image" src="https://github.com/user-attachments/assets/f74e5ce2-9acf-4eb1-8cda-4b8b8c2b57ae" />
 
 
 _Current @usnavy @nasa-jpl_
@@ -20,7 +27,8 @@ _Current @usnavy @nasa-jpl_
 <img  alt="image" src="https://github.com/user-attachments/assets/72db0677-f0f4-40e7-b1dc-f3fc110abcfd" />
 
 
-
+[MAPLink - firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z)
+<img   alt="FIRMS_24hrs @60 7,36 4,5 3z @deptofwar @usnavy @nasa-pds @nasa-jpl" src="https://github.com/user-attachments/assets/9b012b8d-2b7c-4fcf-95b2-4b5e40fd5162" />
 
 
 
