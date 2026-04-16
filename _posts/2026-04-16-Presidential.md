@@ -22,7 +22,7 @@ S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
 https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
 ```
 
-@eu-cdse
+[@eu-cdse - MAP Link](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.19314&lng=60.3376&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18L0sUJLscLxlhY3dhV2SX7j4L%2Fl6FVvBQ7ETOSjiw00RS7kyun06VL%2Fb8u00mfQnjFRqY1gKtVQuyAoNpQzjK7G8%2B4kc0vxTEO8kBScbbk5He4kBc30ZgJ&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/7792878b-60ed-4615-a099-4fd33c5ea736" />
 
