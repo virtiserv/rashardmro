@@ -10,7 +10,25 @@ image: pentagon.jpg
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
 Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/)
 
-<img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4b319d09-00b3-4abc-af60-be9a488d192c" />
+
+
+
+
+sorry these lights in the sea are old @usnavy @la-county-isd @nasa-jpl
+
+[Map LinK - @USNAVE @nasa-openscapes](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2022-01-30-T20%3A11%3A27Z)
+
+
+<div class="tupperware"> 
+    
+<img  alt="image lights at night @deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/bc65a1d4-db0d-4b7b-841f-6cc2101c8e4f" />
+
+<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+
+</div>
 
 **Column Average** - The average mole fraction of carbon dioxide in a vertical column of air starting at some point on the earth's surface and extending to the top of the atmosphere. This is a relevant quantity for comparison with satellite observations. [Glossery @noaagov @whitehouse @nasa-jpl](https://gml.noaa.gov/ccgg/carbontracker/glossary.php)
 
