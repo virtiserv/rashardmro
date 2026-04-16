@@ -12,6 +12,13 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 
 
+
+_Current @usnavy @nasa-jpl_
+[MapLink - @emit-sds @isro](https://worldview.earthdata.nasa.gov/?v=56.908842175757336,10.044066614419176,68.68792070831906,29.59951828931099&l=Reference_Labels_15m,Coastlines_15m(opacity=0.59),VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&s=54.3059,32.558&t=2026-04-15-T21%3A21%3A06Z)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/72db0677-f0f4-40e7-b1dc-f3fc110abcfd" />
+
+
 <img  alt="image" src="https://github.com/user-attachments/assets/4b319d09-00b3-4abc-af60-be9a488d192c" />
 
 
