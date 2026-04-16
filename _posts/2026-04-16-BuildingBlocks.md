@@ -7,7 +7,31 @@ title: "@nasa-jpl TroubleTicketsNiSSUes"
 image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 ---
 
-@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+
+# Writing mathematical expressions
+
+Use Markdown to display mathematical expressions on GitHub. [GitHubDoc](https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/writing-mathematical-expressions) @la-county-isd [Supervisor Janice Hahn](https://www.youtube.com/@SupJaniceHahn) // [@SupervisorLindseyP.Horvath](https://www.youtube.com/channel/UC1nFvaK_2b6u8eQ0XU_OFbQ)
+
+`**The Cauchy-Schwarz Inequality**`\
+$$\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)$$
+
+**The Cauchy-Schwarz Inequality**
+
+```math
+\left( \sum_{k=1}^n a_k b_k \right)^2 \leq \left( \sum_{k=1}^n a_k^2 \right) \left( \sum_{k=1}^n b_k^2 \right)+
+This expression uses `\$` to display a dollar sign: $`\sqrt{\$4}`$
+```
+
+# $a^2 + b^2 = c^2$
+## $ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $
+$$\begin{eqnarray}
+x' &=& &x \sin\phi &+& z \cos\phi \\
+z' &=& - &x \cos\phi &+& z \sin\phi \\
+\end{eqnarray}$$
+
+[Horizons System](https://ssd.jpl.nasa.gov/horizons/app.html#/) 
+
+
 
 [`https://www.ra5hard.github.io/`](https://www.ra5hard.github.io/)
 @la-county-isd @cityoflosangeles [lapl](https://www.lapl.org/)'s wired network accused me of cert errors @github @nasa-jpl [SupervisorHollyMitchell](https://bos.lacounty.gov/executive-office/about-us/board-photo-gallery/2nd-district-supervisor-holly-j-mitchell/) // [judyChu](https://chu.house.gov/) // [Reverend Karen Bass](https://mayor.lacity.gov/sites/g/files/wph2066/files/styles/large_hero_image_192_53_992x274_/public/2022-12/52538848189_f852a5947e_o.jpg.webp?itok=MTOI3GWm) // [Dr. Hilda Solis](https://history.house.gov/People/Detail/22566) & [Dr Janic Hahn](https://history.house.gov/People/Detail/15617) . . . @nasa-pds @nasa-jpl i had a pediatrician in pasadena, i dont know what molestation story she got, becasue those [girls darkness](youtube.com/watch?v=tnRyJUpy_9I) @blackgirlscode @nbcnews @newshour 
