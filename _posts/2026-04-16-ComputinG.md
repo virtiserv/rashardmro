@@ -2,6 +2,8 @@
 layout: post
 mermaid: true
 published: true
+author: "RashardKelly @nasa-jpl"
+mathjax: true
 image: Aitken_supercomputer_big.jpg
 ---
 
