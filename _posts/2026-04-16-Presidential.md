@@ -13,6 +13,12 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
 
+
+[@usnavy @github .com/google/earthengine-api](https://github.com/google/earthengine-api) /// [Map to Home](https://earth.google.com/web/@29.20841968,53.56068888,1176.75764377a,8901433.8339293d,30.00019998y,0.0000622h,0t,0r/data=CgRCAggBMikKJwolCiExcHFBMzM1MXpKaEYyRlVNTHlCUXJCUl8tQzhjZ2hyeEogAToDCgEwQgIIAEoICNWVv9cFEAE)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3c91500c-3139-4774-a0c7-b2d9fbc6cf2c" />
+<img alt="image @google i dont know how to ensure this gets to @deptofwar https://earth.google.com/web/@29.20841968,53.56068888,1176.75764377a,8901433.8339293d,30.00019998y,0.0000622h,0t,0r/data=CgRCAggBMikKJwolCiExcHFBMzM1MXpKaEYyRlVNTHlCUXJCUl8tQzhjZ2hyeEogAToDCgEwQgIIAEoICNWVv9cFEAE" src="https://github.com/user-attachments/assets/5dc634ca-4bff-4066-8301-25e4fd2a5c31" />
+
 [https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886](https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886) <~ @deptofwar ill send more but for now @nasa-jpl i need to hand off for the last lunch of the day
 
 <img   alt="image" src="https://github.com/user-attachments/assets/e4e961dd-dfd7-438c-8f2c-36c116f0aac0" />
