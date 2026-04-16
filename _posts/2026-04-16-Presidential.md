@@ -12,7 +12,7 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
-S1A_IW_GRDH_1SDV_20260318T135957_20260318T140026_063683_080161_563C @nasa @lmco @blackgirlscode @asfadmin i see somethig in the water OPERA_L2_RTC-S1_T122-260828-IW2_20260414T015106Z_20260415T130903Z_S1A_30_v1.0 . . @cityoflosangeles who mad at me sleeping outside ?
+S1A_IW_GRDH_1SDV_20260318T135957_20260318T140026_063683_080161_563C @nasa @lmco @blackgirlscode @asfadmin i see somethig in the water OPERA_L2_RTC-S1_T122-260828-IW2_20260414T015106Z_20260415T130903Z_S1A_30_v1.0 . . @cityoflosangeles who mad at me sleeping outside ? [EPic Fury Map](https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886) [MayorBass](https://mayor.lacity.gov/about-mayor-karen-bass)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/3f934271-77ad-4f52-8d19-df30f1483515" />
 
@@ -21,6 +21,11 @@ S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3
 ```
 https://search.asf.alaska.edu/#/?zoom=5.512&center=59.267,22.006&polygon=POLYGON((55.4712%2024.7351,57.9125%2024.7351,57.9125%2027.7472,55.4712%2027.7472,55.4712%2024.7351))&resultsLoaded=true&granule=S1C_IW_GRDH_1SDV_20260415T141610_20260415T141630_007228_00EA5B_ADF3-GRD_HD
 ```
+
+@eu-cdse
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7792878b-60ed-4615-a099-4fd33c5ea736" />
+
 
 <img   alt="image" src="https://github.com/user-attachments/assets/ed6e4862-823e-4489-9f5d-1e132871f073" />
 
