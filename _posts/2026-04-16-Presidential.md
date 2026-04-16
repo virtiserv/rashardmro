@@ -10,6 +10,7 @@ image: pentagon.jpg
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
 Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/)
 
+<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
 
 
@@ -19,7 +20,7 @@ _Current @usnavy @nasa-jpl_
 <img  alt="image" src="https://github.com/user-attachments/assets/72db0677-f0f4-40e7-b1dc-f3fc110abcfd" />
 
 
-<img  alt="image" src="https://github.com/user-attachments/assets/4b319d09-00b3-4abc-af60-be9a488d192c" />
+
 
 
 
@@ -33,7 +34,7 @@ sorry these lights in the sea are old @usnavy @la-county-isd @nasa-jpl
     
 <img  alt="image lights at night @deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/bc65a1d4-db0d-4b7b-841f-6cc2101c8e4f" />
 
-<img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
+<img  alt="image" src="https://github.com/user-attachments/assets/4b319d09-00b3-4abc-af60-be9a488d192c" />
 
 </div>
 
