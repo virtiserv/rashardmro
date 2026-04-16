@@ -8,7 +8,7 @@ image: pentagon.jpg
 
 # Blockade Line 
 @whitehouse @nasa-pds @la-county-isd . . . hi [@blackgirlscode its cartography so @nasa-jpl im here too](https://www.war.gov/)
-Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy
+Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fury - 04/16/2026 [Watch](https://youtu.be/ha6IkcukOrs?t=2647) @asfadmin @USnavy [centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/](https://www.centcom.mil/OPERATIONS-AND-EXERCISES/EPIC-FURY/) // [longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php](https://www.longwarjournal.org/archives/2026/03/10-major-iranian-naval-targets-struck-in-operation-epic-fury.php) // [gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/](https://gulfif.org/operation-epic-fury-and-the-collapse-of-irans-layered-naval-defense/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
@@ -16,6 +16,20 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 [ECOSTRESS @emit-sds ecostress.jpl.nasa.gov/](https://ecostress.jpl.nasa.gov/) - [Land Temp](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322) 
 `https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322`
 <img  alt="image" src="https://github.com/user-attachments/assets/5e5dc850-92af-44f5-ac09-54ab034b0315" />
+
+
+Sea Surface Temperature Anomalies (L4, MUR)
+@whitehouse @boeing @lmco
+something caused the temperture to sharply shif where the boats were according to yesterday's data [MAP - LiNK](https://worldview.earthdata.nasa.gov/?v=53.095797042058116,20.404886260442126,66.13989900504491,26.879380620195462&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden),GHRSST_L4_MUR_Sea_Surface_Temperature_Anomalies,BlueMarble_ShadedRelief&lg=true&tr=el_nino&t=2026-04-15-T18%3A28%3A02Z)
+<img alt="image" src="https://github.com/user-attachments/assets/58e32c0a-a098-42af-9409-2370f2ba2945" />
+
+`Sea Surface Temperature Anomalies (L4, MUR)`
+Temporal Coverage: 2019 JUL 23 - Present*View Dates @deptofwar
+The Sea Surface Temperature Anomalies (L4, MUR) layer is created from the GHRSST Sea Surface Temperature Level 4, MUR sea surface temperature analysis product, which uses wavelets as basis functions in an optimal interpolation approach on a global 0.011 degree grid. The version 4 Multiscale Ultrahigh Resolution (MUR) L4 analysis is based upon nighttime GHRSST L2P skin and subskin SST observations from several instruments including the NASA Advanced Microwave Scanning Radiometer-EOS (AMSR-E), the Moderate Resolution Imaging Spectroradiometer (MODIS) on the NASA Aqua and Terra platforms, the US Navy microwave WindSat radiometer and in situ SST observations from the NOAA iQuam project. The ice concentration data are from the archives at the EUMETSAT Ocean and Sea Ice Satellite Application Facility (OSI SAF) High Latitude Processing Center and are also used for an improved SST parameterization for the high-latitudes.
+
+The imagery resolution is 1 km, and the temporal resolution is daily.
+
+References: MUR-JPL-L4-GLOB-v4.1 [doi:10.5067/GHGMR-4FJ04](doi:10.5067/GHGMR-4FJ04) @blackgirlscode 
 
 
 [@eu-cdse - MAP Link](https://browser.dataspace.copernicus.eu/?zoom=11&lat=25.19314&lng=60.3376&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18L0sUJLscLxlhY3dhV2SX7j4L%2Fl6FVvBQ7ETOSjiw00RS7kyun06VL%2Fb8u00mfQnjFRqY1gKtVQuyAoNpQzjK7G8%2B4kc0vxTEO8kBScbbk5He4kBc30ZgJ&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=1_TRUE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
