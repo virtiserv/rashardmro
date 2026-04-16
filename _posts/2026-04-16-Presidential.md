@@ -13,6 +13,11 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 <img  alt="image" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
 
+[https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886](https://github.com/ThakaRashard/rashardmro/commit/f8521739965a39d299aecd7623192f5cc5b7c886) <~ @deptofwar ill send more but for now @nasa-jpl i need to hand off for the last lunch of the day
+
+<img   alt="image" src="https://github.com/user-attachments/assets/e4e961dd-dfd7-438c-8f2c-36c116f0aac0" />
+
+
 [ECOSTRESS @emit-sds ecostress.jpl.nasa.gov/](https://ecostress.jpl.nasa.gov/) - [Land Temp](https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322) 
 `https://search.earthdata.nasa.gov/search/granules?p=C2076090826-LPCLOUD!C2076090826-LPCLOUD&pg[1][a]=4114102523!LPCLOUD&pg[1][v]=t&pg[1][gsk]=-start_date&pg[1][m]=download&pg[1][cd]=f&g=G4114102523-LPCLOUD&q=eco%20stress&sb[0]=50.92552%2C10.28496%2C53.09003%2C16.37009&lat=13.814019405238918&long=51.42802656952161&zoom=6.486513324546322`
 <img  alt="image" src="https://github.com/user-attachments/assets/5e5dc850-92af-44f5-ac09-54ab034b0315" />
