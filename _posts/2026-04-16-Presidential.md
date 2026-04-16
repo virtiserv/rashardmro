@@ -15,6 +15,11 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
 @deptofwar
+@nasa-jpl @usnavy @armydotmilthis map has a few [dams](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) listed and groupings of people aka [settlements @cityoflosangeles Mayor Karen Bass](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) @stateofcalifornia @blackgirlscode
+
+[https://worldview.earthdata.nasa.gov/?v=42.410104088201386,-3.6077120778216702***2.558&t=2026-04-15-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=42.410104088201386,-3.6077120778216702,69.70274533062457,41.703126577423475&as=2026-04-03-T00%3A00%3A00Z&ae=2026-04-15-T00%3A00%3A00Z&l=Reference_Labels_15m,Coastlines_15m(hidden,opacity=0.59),GRanD_Reservoirs,GRanD_Dams,GRUMP_Settlements,OMPS_NOAA20_NadirMapper_AerosolIndex_380,OMPS_NOAA20_NadirMapper_AerosolIndex_PyroCumuloNimbus_380,VIIRS_SNPP_DayNightBand_At_Sensor_Radiance,VIIRS_SNPP_DayNightBand_AtSensor_M15(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor&lg=true&ab=on&s=54.3059,32.558&t=2026-04-15-T00%3A00%3A00Z)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/25b3a51c-b2c9-47b8-80c5-c7364c924429" />
 
 Pete im looking at an animation of THermal Anomolies and its either really peaceful or not much life at the blockade, dueling is illegal in california.  @nasa-openscapes [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z)
 
