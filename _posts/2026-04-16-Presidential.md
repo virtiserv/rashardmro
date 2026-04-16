@@ -14,10 +14,11 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 @deptofwar
 
-Pete im looking at an animation of THermal Anomolies and its either really peaceful or not much life at the blockade, dueling is illegal in california. 
+Pete im looking at an animation of THermal Anomolies and its either really peaceful or not much life at the blockade, dueling is illegal in california.  @nasa-openscapes [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs;l:fires_all,earth;@60.7,36.4,5.3z)
+
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl nasa-worldview-2026 APR 03-to-2026 APR 15" src="https://github.com/user-attachments/assets/77f11e44-f26b-4a94-bdd9-b09a386a2a2d" />
 
-@nasa-openscapes []()
+
 <img alt="image" src="https://github.com/user-attachments/assets/f74e5ce2-9acf-4eb1-8cda-4b8b8c2b57ae" />
 
 
