@@ -12,7 +12,9 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-@doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [https://crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
+@doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [Jasmine - crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
+
+![https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png](https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png)
 
 <img   alt="image @nasa-openscapes @nasa-jpl @foratlanta @blackgirlscode @nasa-jsc-robotics" src="https://github.com/user-attachments/assets/49727185-1a63-4ac4-a70a-b80378d82e27" />
 
