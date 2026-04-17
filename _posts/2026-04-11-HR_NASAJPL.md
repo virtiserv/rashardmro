@@ -73,7 +73,7 @@ NASA Official: Doug Newman @doug-newman-nasa
 
 
 # Finding Trice
-
+ @howard-university-web-services her name is on an sdcard in the head victog got an Christina got the head too @nasa @nasa-jpl @emit-sds @blackgirlscode i put mostly everyone in there including erika, normani and kashdoll
 <img  alt="image @howard-university-web-services her name is on an sdcard in the head victog got an Christina got the head too" src="https://github.com/user-attachments/assets/d75a95a7-33da-421c-80b8-161f732da202" />
 
 ![https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png](https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png)
