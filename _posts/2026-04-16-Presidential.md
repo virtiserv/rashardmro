@@ -15,7 +15,8 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
 
-_Normalized Difference Moisture Index (NDMI)_ [readMore](https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/) @eu-cdse @deptofwar @nasa-jpl @la-county-isd
+_Normalized Difference Moisture Index (NDMI)_ [readMore](https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/) @eu-cdse @deptofwar @nasa-jpl @la-county-isd [MAP - Link @whitehouse](https://browser.dataspace.copernicus.eu/?zoom=8&lat=24.46465&lng=60.40833&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX1%2FIzdGAzwQ6rJ7M6dOIj374gwx0joeTN2BB0xjHDBtKe7wmhocLPEVHaB2U8CNEGTjlF8nPZnflKX4FMg%2B65TZGlSjUI%2BvzU2qW2a0EYlwGeGHWK818MsGh&datasetId=S2_L2A_CDAS&fromTime=2026-04-16T00%3A00%3A00.000Z&toTime=2026-04-16T23%3A59%3A59.999Z&layerId=5-MOISTURE-INDEX1&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
+
 <img   alt="2026-04-16-00_00_2026-04-16-23_59_Sentinel-2_L2A_Moisture_index (1)" src="https://github.com/user-attachments/assets/07cdfb05-bd0c-4799-9dcc-3ab3c61ab0f1" />
 
 
