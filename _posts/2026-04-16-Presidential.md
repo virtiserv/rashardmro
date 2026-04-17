@@ -14,6 +14,11 @@ Secretary Hegseth and Chairman Caine hold a press briefing on Operation Epic Fur
 
 <img  alt="@deptofwar @usnavy @nasa-pds @nasa-jpl no lights in the daytime @nbcnews @washingtonpost @washington" src="https://github.com/user-attachments/assets/0a61cbe1-8667-442c-baf1-c8c8cef31c94" />
 
+
+_Normalized Difference Moisture Index (NDMI)_ [readMore](https://custom-scripts.sentinel-hub.com/sentinel-2/ndmi/) @eu-cdse @deptofwar @nasa-jpl @la-county-isd
+<img   alt="2026-04-16-00_00_2026-04-16-23_59_Sentinel-2_L2A_Moisture_index (1)" src="https://github.com/user-attachments/assets/07cdfb05-bd0c-4799-9dcc-3ab3c61ab0f1" />
+
+
 @deptofwar
 @nasa-jpl @usnavy @armydotmilthis map has a few [dams](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grandv1-dams-1.01) listed and groupings of people aka [settlements @cityoflosangeles Mayor Karen Bass](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) @stateofcalifornia @blackgirlscode
 
@@ -421,7 +426,7 @@ You can also find ["An Ocean in Bloom" on NASA+.](https://plus.nasa.gov/video/an
 ![Karen Bass MAyor Of Los Angeles](https://i.ytimg.com/vi/IJFlH7u5gic/maxresdefault.jpg)
 
 
-<img />
+![virtiserv_not_bugging_youLATRiCE_OPERATiON_EPiCFURY_ARTEMIs=LifE](https://upload.wikimedia.org/wikipedia/commons/f/f7/Sentinel-3_spacecraft_model.svg)
 
 - Rashard NASAJPL
 
