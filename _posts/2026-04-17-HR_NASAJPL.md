@@ -40,6 +40,10 @@ data="https://www.youtube.com/embed/hfoHFnGuVCw"></object>
 <img   alt="image @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/5328f8d1-b492-492f-a024-06582493e229" />
 
 
+i dont know who poisoned my mouth but i smellt a funny smell at a table @LBPDCommunityEngagement@longbeach.gov and started feeling it flake out, its rocking now @ThirdDistrict@bos.lacounty.gov @jplnewsroom@jpl.nasa.gov ... @jasmine.crockett@mail.house.gov do you have an abusive person in your life that hurt me like this? https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg @la-county-isd @nasa-jpl @cityoflosangeles @foratlanta 
+
+<img   alt="image" src="https://github.com/user-attachments/assets/f927caa3-7b55-4e9d-a7e1-202b6f9e82c6" />
+
 @doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [Jasmine - crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
 
 ![https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png](https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png)
