@@ -12,6 +12,36 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [https://crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
+
+<img   alt="image @nasa-openscapes @nasa-jpl @foratlanta @blackgirlscode @nasa-jsc-robotics" src="https://github.com/user-attachments/assets/49727185-1a63-4ac4-a70a-b80378d82e27" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d55e5950-64f4-4a20-9b90-e570ee66feb1" />
+
+
+<img  alt="image @nasa-jpl @howard-university-web-services i dont know who answers this inbox but if Latrice Fitzpatrick is telling me to include this account its because she is trying to get you all jobs did someone from Howard destroy my tooth earlier ? @longbeachinnovationteam @voyager-tech-inc @la-county-isd" src="https://github.com/user-attachments/assets/3e930536-ef0e-46c8-9f43-97882110b4e9" />
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-17-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.13 Home NASA Accessibility
+NASA Official: Doug Newman
 
 
 # Finding Trice
