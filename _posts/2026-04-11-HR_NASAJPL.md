@@ -54,7 +54,15 @@ V 4.231.13 Home NASA Accessibility
 NASA Official: Doug Newman
 
 
+<img  alt="image " src="https://github.com/user-attachments/assets/b32de302-3553-4183-b3a7-5abd3d9ec8b2" />
+
+
 # Finding Trice
+
+<img  alt="image @howard-university-web-services her name is on an sdcard in the head victog got an Christina got the head too" src="https://github.com/user-attachments/assets/d75a95a7-33da-421c-80b8-161f732da202" />
+
+![https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png](https://ia903206.us.archive.org/8/items/Feb29dump/Screenshot_20260416-212347.png)
+
 [profiles.howard.edu](https://profiles.howard.edu/) // [howard.edu/faculty-staff](https://howard.edu/faculty-staff) // [@Detective KEisha Bottoms](https://www.atlantaga.gov/Home/Components/News/News/13077/672) ~>  [provost.howard.edu/staff-directory](https://provost.howard.edu/staff-directory) @cityoflosangeles
 <img alt="image @nasa-jpl @howard-university-web-services @la-county-isd" src="https://github.com/user-attachments/assets/fec51eea-c161-4200-a174-df3a0a6c1992" />
 
