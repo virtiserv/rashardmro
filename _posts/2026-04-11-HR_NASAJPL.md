@@ -13,18 +13,19 @@ mathjax: true
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
-[WATCH - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
+[WATCH @nasa-jpl - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
 
-```
+```html
 <object
 data="https://www.youtube.com/embed/hfoHFnGuVCw"
 allow="accelerometer; autoplay; clipboard-write;
  encrypted-media; gyroscope;
 picture-in-picture; web-share"></object>
 ```
+
 <object data="https://www.youtube.com/embed/hfoHFnGuVCw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></object>
 
-<img alt="image" src="https://github.com/user-attachments/assets/ad2b0750-c558-487a-801f-f3adbf4fc0af" />
+<img alt="image @whitehouse" src="https://github.com/user-attachments/assets/ad2b0750-c558-487a-801f-f3adbf4fc0af" />
 
 <img  alt="image " src="https://github.com/user-attachments/assets/b32de302-3553-4183-b3a7-5abd3d9ec8b2" />
 
