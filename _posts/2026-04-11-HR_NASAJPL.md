@@ -51,10 +51,17 @@ For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Sup
 
 
 V 4.231.13 Home NASA Accessibility
-NASA Official: Doug Newman
+NASA Official: Doug Newman @doug-newman-nasa
 
 [WATCH - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
 
+```
+<object
+data="https://www.youtube.com/embed/hfoHFnGuVCw"
+allow="accelerometer; autoplay; clipboard-write;
+ encrypted-media; gyroscope;
+picture-in-picture; web-share"></object>
+```
 <object data="https://www.youtube.com/embed/hfoHFnGuVCw" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" ></object>
 
 <img alt="image" src="https://github.com/user-attachments/assets/ad2b0750-c558-487a-801f-f3adbf4fc0af" />
