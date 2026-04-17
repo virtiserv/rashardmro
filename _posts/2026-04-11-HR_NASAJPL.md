@@ -14,7 +14,7 @@ mathjax: true
 
 
 [WATCH @nasa-jpl - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
-@nasa-pds the [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) tag and [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) can be used for video, Jared Isaccman, thats a submission... While on CovidLockdown I read [The Living HTML standard](https://html.spec.whatwg.org/multipage/)
+@nasa-pds the [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) tag and [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) can be used for video, [@NASA Jared Isaccman @deptofwar](https://www.nasa.gov/people/jared-isaacman/), thats a submission... While on CovidLockdown I read [The Living HTML standard](https://html.spec.whatwg.org/multipage/)
 
 ```html
 <object
