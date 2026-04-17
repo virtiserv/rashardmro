@@ -39,6 +39,7 @@ data="https://www.youtube.com/embed/hfoHFnGuVCw"></object>
 @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 <img   alt="image @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/5328f8d1-b492-492f-a024-06582493e229" />
 
+![ @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg](https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg)
 
 i dont know who poisoned my mouth but i smellt a funny smell at a table @LBPDCommunityEngagement@longbeach.gov and started feeling it flake out, its rocking now @ThirdDistrict@bos.lacounty.gov @jplnewsroom@jpl.nasa.gov ... @jasmine.crockett@mail.house.gov do you have an abusive person in your life that hurt me like this? https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140935.jpg @la-county-isd @nasa-jpl @cityoflosangeles @foratlanta 
 
