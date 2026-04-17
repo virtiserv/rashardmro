@@ -12,6 +12,10 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+<img   alt="image @blackgirlscode I emailed normani to say traceroute the deathstar because our web is super polluted and she may not be getting messages out @whitehouse @cloudflare filtered me yesterday!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!" src="https://github.com/user-attachments/assets/5328f8d1-b492-492f-a024-06582493e229" />
+
+
 @doug-newman-nasa i sent out an email earlier for you to forward @la-county-isd [MayorBass](https://jobs.lamayor.org/) / [SupervisorHollyMitchell](https://women.ca.gov/los-angeles-county-supervisor-holly-j-mitchell/) for somone to talk to [Jasmine - crockett.house.gov/](https://crockett.house.gov/) about [earthdata](https://www.earthdata.nasa.gov/learn/webinars) ad see if she is interested, I think she has an issue with me. I have so many ties to girls in my demographic i have to make sure no gossip from atlanta poisoning me in Texas at [JSC - @nasa-jsc-robotics](https://web.archive.org/web/19990125091025/http://nasa.gov/)
 
 ![https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png](https://crockett.house.gov/sites/evo-subsites/crockett.house.gov/files/repcrockett-logo-main.png)
