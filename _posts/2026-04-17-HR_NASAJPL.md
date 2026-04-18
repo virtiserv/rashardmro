@@ -12,7 +12,269 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-@la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss 
+@la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss [
+
+lacounty.gov ping statistics ---            2 packets transmitted, 0 received, 100% packet loss, time 1021ms
++ traceroute fultoncountyga.gov                 fultoncountyga.gov: No address associated with hostname                 Cannot handle "host" cmdline arg `fultoncountyga.gov' on position 1 (argc 1)                    + ping -c2 fultoncountyga.gov                   ping: unknown host fultoncountyga.gov           + traceroute lacity.gov lacity.gov: No address associated with hostname Cannot handle "host" cmdline arg `lacity.gov' on position 1 (argc 1)    + ping -c2 lacity.org   ping: unknown host lacity.org                   + ping -c2 lacity.gov   ping: unknown host lacity.gov                   + traceroute lacity.org
+lacity.org: No address associated with hostname Cannot handle "host" cmdline arg `lacity.org' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with hostname                      Cannot handle "host" cmdline arg `longbeach.gov' on position 1 (argc 1) + ping -c2 longbeach.govping: unknown host longbeach.gov                + traceroute whitehouse.gov                     whitehouse.gov: No address associated with hostname                     Cannot handle "host" cmdline arg `whitehouse.gov' on position 1 (argc 1)+ ping -c2 whitehouse.gov
+ping: unknown host whitehouse.gov               + traceroute nasa.gov   nasa.gov: No address associated with hostname   Cannot handle "host" cmdline arg `nasa.gov' on position 1 (argc 1)      + ping -c2 nasa.gov     ping: unknown host nasa.gov                     + ping -c2 lacourt.org  ping: unknown host lacourt.org
++ traceroute lacourt.orglacourt.org: No address associated with hostnameCannot handle "host" cmdline arg `lacourt.org' on position 1 (argc 1)   + ping -c2 lacourt.ca.gov                       ping: unknown host lacourt.ca.gov               + traceroute lacourt.ca.gov                     lacourt.ca.gov: No address associated with hostname                     Cannot handle "host" cmdline arg `lacourt.ca.gov' on position 1 (argc 1)+ ping -c1 state.gov    ping: unknown host state.gov                    + traceroute state.gov  state.gov: No address associated with hostname  Cannot handle "host" cmdline arg `state.gov' on position 1 (argc 1)     + ping -c2 level3.net   ping: unknown host level3.net
++ traceroute level3.net level3.net: No address associated with hostname Cannot handle "host" cmdline arg `level3.net' on position 1 (argc 1)    + traceroute level1.net level1.net: No address associated with hostname ~ $ bash -x types.sh |grep aka
++ echo 'CURRENT DNS MAP'
++ uname -a
++ ifconfig -a
+Warning: cannot open /proc/net/dev (Permission denied). Limited output.
++ uptime
++ cal @cia @usnavy 
++ nslookup -type=ns jpl.nasa.gov
+jpl.nasa.gov    nameserver = a2-67.akam.net.
+jpl.nasa.gov    nameserver = a11-67.akam.net.
+jpl.nasa.gov    nameserver = a14-67.akam.net. @nasa-jpl
+jpl.nasa.gov    nameserver = a8-65.akam.net.
+jpl.nasa.gov    nameserver = a1-91.akam.net.
+jpl.nasa.gov    nameserver = a7-65.akam.net.
+a11-67.akam.net internet address = 84.53.139.67
+a14-67.akam.net internet address = 184.26.161.67
+a2-67.akam.net  internet address = 95.100.174.67
+a1-91.akam.net  internet address = 193.108.91.91
+a7-65.akam.net  internet address = 23.61.199.65
+a8-65.akam.net  internet address = 2.16.40.65
+a11-67.akam.net has AAAA address 2600:1480:1::43
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a2-67.akam.net  has AAAA address 2600:1480:7000::43
+a1-91.akam.net  has AAAA address 2600:1401:2::5b
+a7-65.akam.net  has AAAA address 2600:1406:32::41
+a8-65.akam.net  has AAAA address 2600:1403:a::41
++ nslookup -type=ns jpl.nasa.gov
+jpl.nasa.gov    nameserver = a2-67.akam.net.
+jpl.nasa.gov    nameserver = a8-65.akam.net.
+jpl.nasa.gov    nameserver = a1-91.akam.net.
+jpl.nasa.gov    nameserver = a11-67.akam.net.
+jpl.nasa.gov    nameserver = a14-67.akam.net.
+jpl.nasa.gov    nameserver = a7-65.akam.net.
+a11-67.akam.net internet address = 84.53.139.67
+a14-67.akam.net internet address = 184.26.161.67
+a2-67.akam.net  internet address = 95.100.174.67
+a1-91.akam.net  internet address = 193.108.91.91
+a7-65.akam.net  internet address = 23.61.199.65
+a8-65.akam.net  internet address = 2.16.40.65
+a11-67.akam.net has AAAA address 2600:1480:1::43
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a2-67.akam.net  has AAAA address 2600:1480:7000::43
+a1-91.akam.net  has AAAA address 2600:1401:2::5b
+a7-65.akam.net  has AAAA address 2600:1406:32::41
+a8-65.akam.net  has AAAA address 2600:1403:a::41
++ nslookup -type=mx lacourt.ca.gov
++ nslookup -type=ns lacourt.ca.gov
++ nslookup -type=ns lacourt.org
++ nslookup -type=mx lacourt.org
++ nslookup -type=ns nasa.gov
+nasa.gov        nameserver = a8-66.akam.net.
+nasa.gov        nameserver = a5-66.akam.net.
+nasa.gov        nameserver = a9-64.akam.net.
+nasa.gov        nameserver = a14-67.akam.net.
+nasa.gov        nameserver = a12-64.akam.net.
+nasa.gov        nameserver = a1-32.akam.net.
+a5-66.akam.net  internet address = 95.100.168.66
+a1-32.akam.net  internet address = 193.108.91.32
+a9-64.akam.net  internet address = 184.85.248.64
+a14-67.akam.net internet address = 184.26.161.67
+a8-66.akam.net  internet address = 2.16.40.66
+a12-64.akam.net internet address = 184.26.160.64
+a5-66.akam.net  has AAAA address 2600:1480:b000::42
+a1-32.akam.net  has AAAA address 2600:1401:2::20
+a9-64.akam.net  has AAAA address 2a02:26f0:117::40
+a14-67.akam.net has AAAA address 2600:1480:1800::43
+a8-66.akam.net  has AAAA address 2600:1403:a::42
+a12-64.akam.net has AAAA address 2600:1480:f000::40
++ nslookup -type=mx nasa.gov
++ nslookup -type=mx cia.gov
++ nslookup -type=ns cia.gov
+cia.gov nameserver = a13-65.akam.net.
+cia.gov nameserver = a1-22.akam.net.
+cia.gov nameserver = a16-67.akam.net.
+cia.gov nameserver = a22-66.akam.net.
+cia.gov nameserver = a3-64.akam.net.
+cia.gov nameserver = a12-65.akam.net.
+a16-67.akam.net internet address = 23.211.132.67
+a22-66.akam.net internet address = 23.211.61.66
+a3-64.akam.net  internet address = 96.7.49.64
+a12-65.akam.net internet address = 184.26.160.65
+a13-65.akam.net internet address = 2.22.230.65
+a1-22.akam.net  internet address = 193.108.91.22
+a16-67.akam.net has AAAA address 2600:1406:1b::43
+a22-66.akam.net has AAAA address 2600:1480:7800::42
+a3-64.akam.net  has AAAA address 2600:1408:1c::40
+a12-65.akam.net has AAAA address 2600:1480:f000::41
+a13-65.akam.net has AAAA address 2600:1480:800::41
+a1-22.akam.net  has AAAA address 2600:1401:2::16
++ traceroute google.com
++ nslookup -type=mx google.com
++ nslookup -type=ns google.com
++ nslookup -type=ns fbi.gov
++ nslookup -type=mx fbi.gov
++ nslookup -type=mx noaa.gov
++ nslookup -type=ns noaa.gov
++ nslookup -type=mx lacity.gov
++ nslookup -type=ns lacity.org
++ nslookup -type=ns longbeach.gov
++ nslookup -type=mx longbeach.gov
++ nslookup -type=mx lapl.org
++ nslookup -type=mx lapl.org
++ nslookup -type=ns georgia.gov
++ nslookup -type=mx georgia.gov
++ nslookup -type=mx georgia.gov
++ nslookup -type=mx earthlink.net
++ nslookup -type=ns earthlink.net
++ nslookup -type=mx waterandpower.org
++ nslookup -type=ns waterandpower.org
++ nslookup -type=mx level3.net
++ nslookup -type=ns level3.net
++ nslookup -type=ns fultoncountyga.gov
++ nslookup -type=mx fultoncountyga.gov
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx whitehouse.gov
++ nslookup -type=mx metro.net
++ nslookup -type=ns metro.net
++ nslookup -type=ns lacounty.gov
++ nslookup -type=mx lacounty.gov
++ nslookup -type=ns commerce.gov
++ nslookup -type=mx commerce.gov
++ nslookup -type=ns polb.com
+polb.com        nameserver = a22-67.akam.net.
+polb.com        nameserver = a9-67.akam.net.
+polb.com        nameserver = a14-64.akam.net.
+polb.com        nameserver = a5-67.akam.net.
+polb.com        nameserver = a1-172.akam.net.
+polb.com        nameserver = a28-65.akam.net.
+a5-67.akam.net  internet address = 95.100.168.67
+a1-172.akam.net internet address = 193.108.91.172
+a9-67.akam.net  internet address = 184.85.248.67
+a22-67.akam.net internet address = 23.211.61.67
+a14-64.akam.net internet address = 184.26.161.64
+a28-65.akam.net internet address = 95.100.173.65
+a5-67.akam.net  has AAAA address 2600:1480:b000::43
+a1-172.akam.net has AAAA address 2600:1401:2::ac
+a9-67.akam.net  has AAAA address 2a02:26f0:117::43
+a22-67.akam.net has AAAA address 2600:1480:7800::43
+a14-64.akam.net has AAAA address 2600:1480:1800::40
+a28-65.akam.net has AAAA address 2600:1480:d800::41
++ nslookup -type=mx polb.com
++ nslookup -type=mx wellsfargo.com
++ nslookup -type=ns wellsfargo.com
+wellsfargo.com  nameserver = a24-66.akam.net.
+wellsfargo.com  nameserver = a2-64.akam.net.
+wellsfargo.com  nameserver = a1-189.akam.net.
+a1-189.akam.net internet address = 193.108.91.189
+a24-66.akam.net internet address = 2.16.130.66
+a2-64.akam.net  internet address = 95.100.174.64
+a1-189.akam.net has AAAA address 2600:1401:2::bd
+a24-66.akam.net has AAAA address 2600:1480:9800::42
++ nslookup -type=ns musiccenter.org
++ nslookup -type=mx musiccenter.org
++ traceroute musiccenter.org
++ nslookup -type=ns laopera.org nslookup -type=mx laopera.org traceroute laoperA.org
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=ns fire.ca.gov nslookup -type=ns ca.gov
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=mx ca.gov
++ nslookup -type=mx fire.ca.gov
++ nslookup -type=ns stfranciscenterla.org
++ nslookup -type=mx stfranciscenterla.org
++ nslookup -type=mx lacounty.govnslookup -type=ns lacounty.govnslookup -type=mx state.gov
+Usage:
+   nslookup [-opt ...]             # interactive mode using default server
+   nslookup [-opt ...] - server    # interactive mode using 'server'
+   nslookup [-opt ...] host        # just look up 'host' using default server
+   nslookup [-opt ...] host server # just look up 'host' using 'server'
++ nslookup -type=ns state.gov
+state.gov       nameserver = a14-64.akam.net.
+state.gov       nameserver = a1-63.akam.net.
+state.gov       nameserver = a3-66.akam.net.
+state.gov       nameserver = a26-65.akam.net.
+state.gov       nameserver = a9-64.akam.net.
+state.gov       nameserver = a8-67.akam.net.
+a26-65.akam.net internet address = 23.74.25.65
+a1-63.akam.net  internet address = 193.108.91.63
+a3-66.akam.net  internet address = 96.7.49.66
+a14-64.akam.net internet address = 184.26.161.64
+a8-67.akam.net  internet address = 2.16.40.67
+a9-64.akam.net  internet address = 184.85.248.64
+a26-65.akam.net has AAAA address 2600:1480:b800::41
+a1-63.akam.net  has AAAA address 2600:1401:2::3f
+a3-66.akam.net  has AAAA address 2600:1408:1c::42
+a14-64.akam.net has AAAA address 2600:1480:1800::40
+a8-67.akam.net  has AAAA address 2600:1403:a::43
+a9-64.akam.net  has AAAA address 2a02:26f0:117::40
++ nslookup -type=ns embassyeritrea.org
++ nslookup -type=mx embassyeritrea.org
++ nslookup -type=mx ethiopianembassy.org
++ nslookup -type=ns ethiopianembassy.org
++ nslookup -type=mx ethiopianembassy.org
++ nslookup -type=mx state.gov
++ nslookup -type=ns embassyeritrea.org
++ nslookup -type=mx stfranciscenterla.org
++ nslookup -type=mx fire.ca.gov
++ nslookup -type=ns ca.gov
++ nslookup -type=mx ca.gov
++ nslookup -type=mx starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=ns starbucks.com
++ nslookup -type=mx commonspirit.org
++ nslookup -type=ns commonspirit.org
++ nslookup -type=ns dignityhealth.org
++ nslookup -type=mx dignityhealth.org
++ ping -c2 dignityhealth.org
++ traceroute dignityhealth.org
++ nslookup -type=ns starbucks.com
++ traceroute lacounty.gov
++ ping -c2 lacounty.gov
++ traceroute fultoncountyga.gov
++ ping -c2 fultoncountyga.gov
++ traceroute lacity.gov
+14  ae2.r01.ewr01.icn.netarch.akamai.com (23.203.154.36)  106.549 ms ae2.r02.ewr01.icn.netarch.akamai.com (23.203.154.40)  116.091 ms  103.401 ms
+15  ae6.r23.iad04.icn.netarch.akamai.com (23.193.113.16)  114.140 ms  113.073 ms ae6.r21.iad04.icn.netarch.akamai.com (23.193.112.222)  110.964 ms
+16  ae7.r22.iad02.mag.netarch.akamai.com (23.209.165.128)  109.400 ms  108.003 ms ae5.r21.iad02.mag.netarch.akamai.com (23.209.170.80)  106.783 ms
+17  ae0.r25.iad04.ien.netarch.akamai.com (23.209.170.125)  105.602 ms ae1.r25.iad04.ien.netarch.akamai.com (23.209.170.127)  104.287 ms ae1.r23.iad02.ien.netarch.akamai.com (23.209.165.163)  103.122 ms
+18  ae41.r03.border101.iad03.fab.netarch.akamai.com (23.203.153.23)  93.232 ms  92.349 ms ae37.r02.border101.iad03.fab.netarch.akamai.com (23.203.152.195)  100.149 ms
+22  a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13)  106.693 ms  105.648 ms  104.893 ms
++ ping -c2 lacity.org
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=1 ttl=45 time=94.4 ms
+64 bytes from a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166): icmp_seq=2 ttl=45 time=81.5 ms
++ ping -c2 lacity.gov
+64 bytes from a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13): icmp_seq=1 ttl=44 time=92.6 ms
+64 bytes from a23-73-207-13.deploy.static.akamaitechnologies.com (23.73.207.13): icmp_seq=2 ttl=44 time=99.4 ms
++ traceroute lacity.org
+14  lo1.r02.stem01.iad04.fab.netarch.akamai.com (23.44.169.21)  86.486 ms lo1.r01.stem01.iad04.fab.netarch.akamai.com (23.44.169.20)  87.181 ms  97.063 ms
+15  lo1.r03.spine02.iad04.fab.netarch.akamai.com (23.44.169.10)  89.130 ms lo1.r02.spine02.iad04.fab.netarch.akamai.com (23.44.169.9)  93.392 ms lo1.r01.spine03.iad04.fab.netarch.akamai.com (23.44.169.12)  91.573 ms
+16  lo1.r03.leaf02.iad04.fab.netarch.akamai.com (23.44.169.62)  88.879 ms lo1.r04.leaf02.iad04.fab.netarch.akamai.com (23.44.169.63)  85.996 ms lo1.r03.leaf02.iad04.fab.netarch.akamai.com (23.44.169.62)  94.263 ms
+17  vlan100.r08.tor02.iad04.fab.netarch.akamai.com (23.50.129.161)  85.930 ms  88.065 ms  99.570 ms
+18  a23-53-11-166.deploy.static.akamaitechnologies.com (23.53.11.166)  96.611 ms  90.416 ms  83.485 ms
++ traceroute longbeach.gov
++ ping -c2 longbeach.gov
++ traceroute whitehouse.gov
++ ping -c2 whitehouse.gov
++ traceroute nasa.gov
++ ping -c2 nasa.gov
++ ping -c2 lacourt.org
++ traceroute lacourt.org
++ ping -c2 lacourt.ca.gov
++ traceroute lacourt.ca.gov
++ ping -c1 state.gov
++ traceroute state.gov
++ ping -c2 level3.net
++ traceroute level3.net
++ traceroute level1.net
++ traceroute level2.net
+~ $
 
 
 virtiserv latrice @blackgirlscode @nasa-pds
