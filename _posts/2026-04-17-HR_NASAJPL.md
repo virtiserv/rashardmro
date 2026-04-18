@@ -12,16 +12,9 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-@la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa @nasa-giss [
-
-lacounty.gov ping statistics ---            2 packets transmitted, 0 received, 100% packet loss, time 1021ms
-+ traceroute fultoncountyga.gov                 fultoncountyga.gov: No address associated with hostname                 Cannot handle "host" cmdline arg `fultoncountyga.gov' on position 1 (argc 1)                    + ping -c2 fultoncountyga.gov                   ping: unknown host fultoncountyga.gov           + traceroute lacity.gov lacity.gov: No address associated with hostname Cannot handle "host" cmdline arg `lacity.gov' on position 1 (argc 1)    + ping -c2 lacity.org   ping: unknown host lacity.org                   + ping -c2 lacity.gov   ping: unknown host lacity.gov                   + traceroute lacity.org
-lacity.org: No address associated with hostname Cannot handle "host" cmdline arg `lacity.org' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with hostname                      Cannot handle "host" cmdline arg `longbeach.gov' on position 1 (argc 1) + ping -c2 longbeach.govping: unknown host longbeach.gov                + traceroute whitehouse.gov                     whitehouse.gov: No address associated with hostname                     Cannot handle "host" cmdline arg `whitehouse.gov' on position 1 (argc 1)+ ping -c2 whitehouse.gov
-ping: unknown host whitehouse.gov               + traceroute nasa.gov   nasa.gov: No address associated with hostname   Cannot handle "host" cmdline arg `nasa.gov' on position 1 (argc 1)      + ping -c2 nasa.gov     ping: unknown host nasa.gov                     + ping -c2 lacourt.org  ping: unknown host lacourt.org
-+ traceroute lacourt.orglacourt.org: No address associated with hostnameCannot handle "host" cmdline arg `lacourt.org' on position 1 (argc 1)   + ping -c2 lacourt.ca.gov                       ping: unknown host lacourt.ca.gov               + traceroute lacourt.ca.gov                     lacourt.ca.gov: No address associated with hostname                     Cannot handle "host" cmdline arg `lacourt.ca.gov' on position 1 (argc 1)+ ping -c1 state.gov    ping: unknown host state.gov                    + traceroute state.gov  state.gov: No address associated with hostname  Cannot handle "host" cmdline arg `state.gov' on position 1 (argc 1)     + ping -c2 level3.net   ping: unknown host level3.net
-+ traceroute level3.net level3.net: No address associated with hostname Cannot handle "host" cmdline arg `level3.net' on position 1 (argc 1)    + traceroute level1.net level1.net: No address associated with hostname ~ $ bash -x types.sh |grep aka
+@la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa ' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with  with hostname ~ $ bash -x types.sh |grep aka
 + echo 'CURRENT DNS MAP'
-+ uname -a
++ uname -a @cityoflosangeles
 + ifconfig -a
 Warning: cannot open /proc/net/dev (Permission denied). Limited output.
 + uptime
