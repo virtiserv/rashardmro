@@ -12,7 +12,11 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+#  Rashards Teeth
+@lacountyDPH @NASA-OPENSCAPES @EMIT-SDS @PODAAC @nasa-jpl @whitehouse @la-county-isd @cityoflosangeles @newshour
+My premolars were removed before my tonsils
 
+![https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg @deptofwar](https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg)
 [WATCH @nasa-jpl - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
 @nasa-pds the [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) tag and [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) can be used for video, [@NASA Jared Isaccman @deptofwar](https://www.nasa.gov/people/jared-isaacman/), thats a submission... While on CovidLockdown I read [The Living HTML standard](https://html.spec.whatwg.org/multipage/)
 
