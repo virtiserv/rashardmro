@@ -17,6 +17,9 @@ mathjax: true
 My premolars were removed before my tonsils
 
 ![https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg @deptofwar](https://brookhavenchildrensdentistry.com/wp-content/uploads/2013/10/permanent-teeth-eruption-schedule.jpg)
+
+![https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140840.jpg](https://ia903206.us.archive.org/8/items/Feb29dump/IMG_20260417_140840.jpg)
+
 [WATCH @nasa-jpl - youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir](https://youtu.be/3R2H0rcP2vg?si=4Gye3y-HGYNGXdir)
 @nasa-pds the [object](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/object) tag and [embed](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/embed) can be used for video, [@NASA Jared Isaccman @deptofwar](https://www.nasa.gov/people/jared-isaacman/), thats a submission... While on CovidLockdown I read [The Living HTML standard](https://html.spec.whatwg.org/multipage/)
 
