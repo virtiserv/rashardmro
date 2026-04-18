@@ -12,7 +12,8 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-@la-county-isd hollyjmitchell coral know the black man somehow [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa ' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with  with hostname ~ $ bash -x types.sh |grep aka
+@la-county-isd hollyjmitchell [coral k
+login.jw.org/en/forgot-username](https://login.jw.org/en/forgot-username) [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa ' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with  with hostname ~ $ bash -x types.sh |grep aka
 + echo 'CURRENT DNS MAP'
 + uname -a @cityoflosangeles
 + ifconfig -a
