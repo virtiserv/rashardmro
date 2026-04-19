@@ -12,7 +12,8 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 ```html
 curl virtiserv.com
-<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>~ $ curl whitehouse.gov
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
+~$ curl whitehouse.gov
 <html>
 <head><title>301 Moved Permanently</title></head>
 <body>
