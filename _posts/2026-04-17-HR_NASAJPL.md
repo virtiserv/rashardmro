@@ -12,6 +12,21 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@nasa-pds @whitehouse ... more later @deptofwar @lmco @blueorigin
+
+```html
+curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>~ $ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
 @la-county-isd hollyjmitchell [coral k
 login.jw.org/en/forgot-username](https://login.jw.org/en/forgot-username) [infamy](https://youtu.be/po_hM90TgD4?si=k2dVShbmVBxCxvI-) @blackgirlscode @nasa-jpl that might be normani old boyfriend trice @nasa ' on position 1 (argc 1)    + traceroute longbeach.gov                      longbeach.gov: No address associated with  with hostname ~ $ bash -x types.sh |grep aka
 + echo 'CURRENT DNS MAP'
