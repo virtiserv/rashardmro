@@ -8,24 +8,50 @@ author: "RashardKelly @nasa-jpl"
 permalink: /Satellites
 ---
 
-
-
-### Books
-
-[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf)
-
-[Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
-
-[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)
-
-[Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf)
-The Story of NASA's Spaceflight Tracking and Data Network
-
-[Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
-
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
+### Books
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) / [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) /[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) / [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+
+
+
+
+## NASA News Conference: 
+Nancy Grace Roman Space Telescope is Complete
+[Watch youtube.com/watch?v=XX4f6dOoi08](youtube.com/watch?v=XX4f6dOoi08)
+Our new flagship telescope is fully assembled. Come find out what it will discover.
+
+We're hosting a news conference at NASA’s Goddard Space Flight Center in Greenbelt, Maryland, to talk about our Nancy Grace Roman Space Telescope, which recently completed construction and is wrapping up prelaunch testing.
+
+Participants include:
+NASA Administrator Jared Isaacman
+Nicky Fox, associate administrator, Science Mission Directorate, NASA Headquarters, Washington
+Jamie Dunn, Roman telescope project manager, NASA Goddard
+Julie McEnery, Roman telescope senior project scientist, NASA Goddard
+
+Named after NASA’s first chief astronomer, the Nancy Grace Roman Space Telescope will have a deep, panoramic view of the cosmos, generating never-before-seen pictures that will revolutionize our understanding of the universe. Roman will also showcase cutting-edge technology, including a test of the most advanced technology ever flown in space to directly image planets around nearby stars, a key step in NASA’s search for life on other worlds.
+
+Learn more: https://www.nasa.gov/news-release/nas...
+
+Credit: NASA
+![https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg @blackgirlscode @newshour @npr @Nasa-jpl](https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg)
+
+
+<div class="tupperware">
+    
+{% for image in site.static_files %}
+    {% if image.path contains 'assets/images/gallery-nancy-grace-ready' | sort: 'date' | reverse %} 
+        <a href="{{ site.baseurl }}{{ image.path }}" target="_blank">
+            <img src="{{ site.baseurl }}{{ image.path }}" alt="" class="img-thumbnail" />
+        </a>
+    {% endif %}
+{% endfor %}
+
+</div>
+
+
+<img   src="https://github.com/user-attachments/assets/449bee36-2f4f-4c20-bbbe-41bf8c01104a" />
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
