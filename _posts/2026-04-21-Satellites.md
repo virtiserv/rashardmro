@@ -10,10 +10,6 @@ permalink: /Satellites
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
-### Books
-[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) / [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) /[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) / [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /
-The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
-
 
 
 
@@ -52,6 +48,22 @@ Credit: NASA
 
 
 <img   src="https://github.com/user-attachments/assets/449bee36-2f4f-4c20-bbbe-41bf8c01104a" />
+
+### Books
+[Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf) / [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) /[How to compete for NASA contracts @blackgirlscode](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) / [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf) /
+The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
+OBJECT                            = MISSION                                   
+  MISSION_NAME                    = "MAGELLAN"                                
+                                                                              
+  OBJECT                          = MISSION_INFORMATION                       
+    MISSION_START_DATE            = 1989-05-04                                
+    MISSION_STOP_DATE             = 1994-10-12                                
+    MISSION_ALIAS_NAME            = "VENUS RADAR MAPPER (VRM)"                
+    MISSION_DESC                  = "                                         
+                                                                              
+    Mission Overview                                                          
+ [https://pds-geosciences.wustl.edu/mgn/mgn-v-rss-1-tracking-v1-old/MG_2601/CATALOG/MISSION.CAT](https://pds-geosciences.wustl.edu/mgn/mgn-v-rss-1-tracking-v1-old/MG_2601/CATALOG/MISSION.CAT)
+
 
 {{ site.time | date: '%B %d, %Y' }} {{ page.date }} pagedate {{ page.date | date: '%B %d, %Y' }} This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.
 
