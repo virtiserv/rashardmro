@@ -51,6 +51,10 @@ Webb Mission reqs [JWST-RQMT-000634](https://spacese.spacegrant.org/uploads/Requ
 <img  alt="image" src="https://github.com/user-attachments/assets/6c724ccb-578b-46b0-a11e-00a70890b271" />
 
 
+Exoplanet Modeling and Analysis Center
+[ emac.gsfc.nasa.gov/](https://emac.gsfc.nasa.gov/)
+<img   alt="image" src="https://github.com/user-attachments/assets/b413619c-3772-41d0-b7ea-676de5bd37f8" />
+
 ### MICRODEVICES LABORATORY 
 2024 | ANNUAL REPORT ::: @BlueOrigin
 CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
