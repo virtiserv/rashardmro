@@ -9,11 +9,6 @@ permalink: /nancygrace
 ---
 
 
-ExoPlanet Resourses
-
-
-<img  alt="image" src="https://github.com/user-attachments/assets/420edf37-e7d3-4003-b6b3-686d1ed1ece6" />
-
 
 
 ## NASA News Conference: 
@@ -45,7 +40,15 @@ LAUNCHING AND DEPLOYING THE JAMES WEBB SPACE TELESCOPE
 Keith A. Parrisha, Carl Starrb @blackgirlscode
 <img  alt="image" src="https://github.com/user-attachments/assets/8413ed1c-a31b-4e3f-a3db-e157d4118f66" />
 
+ExoPlanet Resourses
+[https://seec.gsfc.nasa.gov/Missions/index.html](https://seec.gsfc.nasa.gov/Missions/index.html) @la-county-isd
 
+<img  alt="image" src="https://github.com/user-attachments/assets/420edf37-e7d3-4003-b6b3-686d1ed1ece6" />
+
+
+Webb Mission reqs [JWST-RQMT-000634](https://spacese.spacegrant.org/uploads/Requirements%20Config/JWST%20Mission%20Requirements%20Document.pdf)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6c724ccb-578b-46b0-a11e-00a70890b271" />
 ### MICRODEVICES LABORATORY 
 2024 | ANNUAL REPORT ::: @BlueOrigin
 CLiCK[@nasa-jpl tour](https://www.jpl.nasa.gov/virtual-tour/)
