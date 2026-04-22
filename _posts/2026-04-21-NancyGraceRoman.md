@@ -9,6 +9,13 @@ permalink: /nancygrace
 ---
 
 
+ExoPlanet Resourses
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/420edf37-e7d3-4003-b6b3-686d1ed1ece6" />
+
+
+
 ## NASA News Conference: 
 Nancy Grace Roman Space Telescope is Complete
 [Watch youtube.com/watch?v=XX4f6dOoi08](youtube.com/watch?v=XX4f6dOoi08)
@@ -30,6 +37,13 @@ Credit: NASA
 ![https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg @blackgirlscode @newshour @npr @Nasa-jpl](https://svs.gsfc.nasa.gov/vis/a010000/a014400/a014461/Roman_Mirror_Overlay_Still.jpg)
 
 Vandenberg Space Force Base #GM Vice President JD Vance [@meta link @nasa-jpl @nasa-pds](https://www.facebook.com/munozforsbusd/posts/pfbid02b2ywKYorP9n7Tk1B3A13Ewn2S7sEQCmnJFZkXdh6A5XutAvvsummDGmRcJrCnGfdl) @podaac https://www.facebook.com/SLD30/posts/pfbid0ncWw6DDJCUU29rnQqtRWjcFJERggt2jdCv1N6MRRLEN3kpNc7NiBhWXmeZBx5rj6l Donald J. Trump we got a launch soon https://science.nasa.gov/mission/sentinel-6b/ NASA Jet Propulsion Laboratory UCLA UC Berkeley https://www.spacex.com/launches/sentinel-6b SpaceX https://www.esa.int/Applications/Observing_the_Earth/Copernicus/Sentinel-6/Watch_Sentinel-6B_launch_live_broadcast . . . Secretary Sean Duffy i cannot find isaacman right now buti want Sacramento City Unified School District and County of Santa Barbara Schools to get informed Los Angeles Unified School District Griffith Observatory Congressmember Karen Bass Supervisor Holly J. Mitchell Maxine Waters Jasmine Crockett Normani Brandy https://www.youtube.com/watch?v=fTmIUypawcs Essence hi Latto Copernicus EU NASA Earth Nancy Grace Roman Space Telescope NASA's James Webb Space Telescope
+
+# Launch CRiTEria 
+
+LAUNCHING AND DEPLOYING THE JAMES WEBB SPACE TELESCOPE
+[@nasa-pds ntrs.nasa.gov/api/citations/20220013198/downloads/Parrish_Starr_B6-3-1_R2.pdf](https://ntrs.nasa.gov/api/citations/20220013198/downloads/Parrish_Starr_B6-3-1_R2.pdf)
+Keith A. Parrisha, Carl Starrb @blackgirlscode
+<img  alt="image" src="https://github.com/user-attachments/assets/8413ed1c-a31b-4e3f-a3db-e157d4118f66" />
 
 
 ### MICRODEVICES LABORATORY 
