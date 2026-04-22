@@ -2,7 +2,7 @@
 layout: post
 mermaid: true
 published: true
-title: "ViRTiSERV
+title: "ViRTiSERV"
 image: virtiServ.PNG
 author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
