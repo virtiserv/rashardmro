@@ -10,11 +10,6 @@ permalink: /virtiserv
 
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  //
-[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com) + [@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
-
-![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
-
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
   
   <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
@@ -22,6 +17,15 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
+[<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
+![image](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+// [@letschat@virtiserv.com](mailto:letschat@virtiserv.com) + [@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
+
+
 
 _[Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)_ 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) : 
