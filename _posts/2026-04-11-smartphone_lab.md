@@ -20,8 +20,34 @@ permalink: /smartphone1
 
 
 # DNS
+Latrice, hello madam, I was troubleshooting wifi. We got a letter from spaceforce about [anomolies](https://www.space.com/space-force-domain-awareness-abnormal-observables) @blackgirlscode @la-county-isd somone is using a pulse weapon to force word through me in the library. Im in chinatown. Anyway Latrice you dns providers domain is blocked in this @CityOfLosAngeles library system. I was trying to visit Eric @Meyerweb Meyer on coincidence to get a css reference from ... I mentioned him here [rashardmro/changelog](https://thakarashard.github.io/rashardmro/changelog). His website is on the same infrastructure you are on but yours are serving out of [LAX](https://www.lawa.org/lawa-environment/lawa-mobility) `Server: swg-nginx-proxy-https-3d73b5d81995.signginx.lax` his was denver... The Legalities of the messages i mailed to [LetsChat@vertiserv.com](mailto:virtiserv.com) are expansive, because [certain transactions are illegal beyond state borders](https://www.law.cornell.edu/wex/mann_act) ! So here we have it [@nasa-jpl and @LACountyDPH DignityHealthdare.org](https://www.dignityhealth.org/socal/locations/californiahospital/services/surgery?&utm_source=Horizon&utm_medium=GoogleSearch&utm_campaign=178903953022&utm_content=760767246382&cmp=FYAO_HMI_SRCH_CSH_CARG_CASC_LOSA_CHMC_GNS_NSP_&ef_id=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE:G:s&s_kwcid=AL!12184!3!760767246382!b!!g!!dignity%20health%20hernia%20repair!22730005150!178903953022&gad_source=1&gad_campaignid=22730005150&gbraid=0AAAAAC4mL6bd8v-YrrmSULcMcq5UrNZfM&gclid=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE)
+
+```
+nslookup -type=mx jpl.nasa.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+jpl.nasa.gov    mail exchanger = 20 mxa-0020b901.gslb.pphosted.com.
+jpl.nasa.gov    mail exchanger = 20 mxb-0020b901.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=mx dignityhealth.org
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+dignityhealth.org       mail exchanger = 10 mxb-00116001.gslb.pphosted.com.
+dignityhealth.org       mail exchanger = 10 mxa-00116001.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+hippa
+```
+
+
 [Resources to better understand DNS?](https://www.reddit.com/r/dns/comments/e8hsgz/resources_to_better_understand_dns/?rdt=37811)
-[dns&bind](https://github.com/manjunath5496/Networking-Books/blob/master/n15.pdf) / / [ipv6](https://www.cuchillac.net/archivos/voip/0_uni/media/Oreilly.DNS.and.BIND.on.IPv6.May.2011.pdf) 
+  [dns&bind](https://github.com/manjunath5496/Networking-Books/blob/master/n15.pdf) / / [ipv6](https://www.cuchillac.net/archivos/voip/0_uni/media/Oreilly.DNS.and.BIND.on.IPv6.May.2011.pdf) // @oracle [Oracle Financial Crime and Compliance Management Cloud Service](https://www.oracle.com/financial-services/aml-financial-crime-compliance/cloud-service/) // [TheRegister - There are 10,000 reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ad0a88c8-4758-4716-a08e-f42181356672" />
 
