@@ -19,6 +19,17 @@ permalink: /smartphone1
 </picture>
 
 
+# DNS
+[Resources to better understand DNS?](https://www.reddit.com/r/dns/comments/e8hsgz/resources_to_better_understand_dns/?rdt=37811)
+[dns&bind](https://github.com/manjunath5496/Networking-Books/blob/master/n15.pdf) / / [ipv6](https://www.cuchillac.net/archivos/voip/0_uni/media/Oreilly.DNS.and.BIND.on.IPv6.May.2011.pdf) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad0a88c8-4758-4716-a08e-f42181356672" />
+
+<img  alt="CLOUDFLARE_WHITEHOUSE_EMAIL_tumblr_78059a0290f78dee2335e4f3e1954802_8b8f53cd_1280" src="https://github.com/user-attachments/assets/5ee0beef-9b0e-4d55-aa56-74075152944f" />
+<img   alt="image" src="https://github.com/user-attachments/assets/c8568228-44d4-4c92-9bc4-bf79e4cf2046" />
+
+
+
 ## Donal Duck's Quackshot
 It was over half my life ago i rented this game from a local phramacy with the man i was told was my dad. [_`Blast Processing`_ [[1](https://segaretro.org/Blast_processing)] [[2](https://youtu.be/uxvKmA3Dvqc)] [[3](https://www.reddit.com/r/Games/comments/b7p5lp/segas_legendary_blast_processing_was_real_but/) was a phrase Sega used to market the consoles ablility to accellerate quickly vs a general fast ness thats just is at a neutral level, it sounds like [overClocking](https://www.intel.com/content/www/us/en/gaming/resources/how-to-overclock.html) in the pcworld. Since we are talking expansion slot, the developer was able to modify the chipset to generate the sudden purst of speed famous in [Sonic The HedgeHog](https://archive.org/details/sonikku/Japanese+Sonic+2+Commercial+from+Sonic+Jam+%5BPerfect+Rip%5D.mp4), [@Lemuroid](https://github.com/swordfish90/lemuroid) has the best overlays so i did not retroarch this time. The speed burst are well rendered and I really appreciate the work. . . Like the origional geme is well made, and the art is beautoful and acrylic like @nasa-jpl @blackgirlscode
 
