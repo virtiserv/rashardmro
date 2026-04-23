@@ -45,9 +45,14 @@ Authoritative answers can be found from:
 hippa
 ```
 
+@oracles documentaion for building in the cloud places security on the customer, @deptofwar we cant act like that @blackgirlscode! PAGE3 [https://labs.oracle.com/pls/apex/f?p=LABS:0:101868018114971:APPLICATION_PROCESS=GETDOC_INLINE:::DOC_ID:4542](https://labs.oracle.com/pls/apex/f?p=LABS:0:101868018114971:APPLICATION_PROCESS=GETDOC_INLINE:::DOC_ID:4542)
+
+@nasa-pds 
+<img  alt="image" src="https://github.com/user-attachments/assets/ded1e70a-350b-43c0-8808-fc798f3167a8" />
+
 
 [Resources to better understand DNS?](https://www.reddit.com/r/dns/comments/e8hsgz/resources_to_better_understand_dns/?rdt=37811)
-  [dns&bind](https://github.com/manjunath5496/Networking-Books/blob/master/n15.pdf) / / [ipv6](https://www.cuchillac.net/archivos/voip/0_uni/media/Oreilly.DNS.and.BIND.on.IPv6.May.2011.pdf) // @oracle [Oracle Financial Crime and Compliance Management Cloud Service](https://www.oracle.com/financial-services/aml-financial-crime-compliance/cloud-service/) // [TheRegister - There are 10,000 reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/)
+  [dns&bind](https://github.com/manjunath5496/Networking-Books/blob/master/n15.pdf) / / [ipv6](https://www.cuchillac.net/archivos/voip/0_uni/media/Oreilly.DNS.and.BIND.on.IPv6.May.2011.pdf) // @oracle [Oracle Financial Crime and Compliance Management Cloud Service](https://www.oracle.com/financial-services/aml-financial-crime-compliance/cloud-service/) // [TheRegister - There are 10,000 reasons to doubt Oracle Cloud's security breach denial](https://www.theregister.com/2025/03/25/oracle_breach_update/) // [TheRegister - Oracle Cloud says it's not true someone broke into its login servers and stole data](https://www.theregister.com/2025/03/23/oracle_cloud_customers_keys_credentials/)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/ad0a88c8-4758-4716-a08e-f42181356672" />
 
