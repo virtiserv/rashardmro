@@ -19,7 +19,23 @@ image: Sun_Microsystems_SunFire_X4150_Cluster.jpeg
 
 [@letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 
-@nasa-pds @la-county-isd @newshour ... seems fixed @nassa @whitehouse @deptofwar
+
+
+# 502 Bad Gateway
+
+An upstream server error has occurred. If you believe you are seeing this message in error, please contact your network administrator.
+
+This page is served by [Cisco Secure Access](https://www.cisco.com/site/us/en/products/security/secure-access/index.html).
+Server: swg-nginx-proxy-https-7fe1e2a2f4a6.signginx.den1
+
+
+
+Thu, 23 Apr 2026 02:09:53 GMT
+[lapl.org/branches/central-library/departments/computer-center](https://www.lapl.org/branches/central-library/departments/computer-center)
+
+<img   alt="image @meyerweb https://more.ericmeyeroncss.com/dloads/ @blaCKgirlscode @nasa-pds @la-county-isd @cityoflosangeles @nasa-jpl" src="https://github.com/user-attachments/assets/3d312aa0-f8d9-4cf5-94da-fdbfe06d9dea" />
+
+@nasa-pds @la-county-isd @newshour ... seems fixed @nasa @whitehouse @deptofwar
 The Nancy Grasce Space Telescope SVSpage [svs.gsfc.nasa.gov/gallery/roman/](https://svs.gsfc.nasa.gov/gallery/roman/) is aving issues, at least from here near @longbeachinnovationteam
 
 ```
