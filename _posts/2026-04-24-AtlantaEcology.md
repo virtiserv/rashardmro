@@ -32,11 +32,24 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 {% include nav.html %}
 
 
+[_https://rashardmro.tumblr.com/_](https://rashardmro.tumblr.com/)
+Tumblr
+ Post: https://www.tumblr.com/rashardmro/814816185433686016?source=share + SCREENSHARE: [archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4](https://archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4)
+DirectToVideo https //va.media.tumblr.com/tumblr_te0rb2U9XA1agemft.mp4
+<img alt="image" src="https://github.com/user-attachments/assets/6f9d7da6-c3df-497b-891b-5891937e60f5" />
+
 ##  Gov. Brian Kemp speaks in Brantley County on Highway 82 wildfire
 [youtube.com/@FirstCoastNews](https://www.youtube.com/@FirstCoastNews)
 WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1SbHw) [info@steedamanufacturing.com](mailto:info@steedamanufacturing.com)
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z)
+
 <img alt="image" src="https://github.com/user-attachments/assets/f230b3b1-d1fc-4986-81ee-f1ccf2ebb303" />
+
+https://ia600808.us.archive.org/7/items/nasa-worldview-2024-dec-26-to-2025-jan-14/20261141401-20261141756-GOES19-ABI-SE-FireTemperature-600x600.gif
+https://ia600808.us.archive.org/7/items/nasa-worldview-2024-dec-26-to-2025-jan-14/G19_wfo_jax_FireTemperature_72fr_20260424-1915.gif @firepio@lasvegasnevada.gov @Fire@sdcounty.ca.gov @lafd.records@lacity.org can you fwd these to gov brian kemp @letschat@virtiserv.com @normani@fifthharmonyofficial.com 
+G19_fd_DMW_36fr_20260424-1922.gif	24-Apr-2026 23:25	88.2M
+G19_wfo_jax_DayNightCloudMicroCombo_84fr_20260424-1921.gif	24-Apr-2026 23:25	7.6M
+G19_wfo_jax_FireTemperature_72fr_20260424-1915.gif	24-Apr-2026 23:16	16.8M @HollyJMitchell@bos.lacounty.gov @atlantacouncil@atlantaga.gov @Vamsee.Jagarlamudi@jhuapl.edu @nkordei@valdosta.edu @keishaforgovernor@gmail.com @keishaforgovernor@gmail.com @mmaddox@dekalbcountyga.gov 
 
 <img alt="nasa-worldview-2026 APR 17-to-2026 APR 24" src="https://github.com/user-attachments/assets/23eb9508-cdbe-41b0-a4e2-c3df53ee2b34" />
 
