@@ -31,8 +31,12 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 {% include nav.html %}
 
+-
 
-![ @foratlanta it still looks hot @webb](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.gif) 
+![@foratlanta it still looks hot @webb](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.gif) 
+
+-
+
 [FireTemperature/GOES19-SE-FireTemperature-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.gif)
 [@la-county-isd @fbicyber @stateofcalifornia @blackgirlscode... letschat@virtiserv.com](mailto:letschat@virtiserv.com) I need to get this page to Governor Brian Kemp @foratlanta [MAP - LiNK @cityoflosangeles @nasa-jpl @nasa-pds](https://worldview.earthdata.nasa.gov/?v=-84.15763412273233,29.805119579302765,-80.38225915568688,32.34336602607344&as=2026-04-17-T00%3A00%3A00Z&ae=2026-04-24-T00%3A00%3A00Z&ab=on&t=2026-04-24-T00%3A00%3A00Z) 
 <img  alt="image" src="https://github.com/user-attachments/assets/e43d0b0c-8889-4a20-a516-d265415bba69" />
