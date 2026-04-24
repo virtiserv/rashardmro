@@ -33,13 +33,18 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 <img  alt="nasa-worldview-2026 APR 14-to-2026 APR 24 (3)" src="https://github.com/user-attachments/assets/b0e9fd6a-35be-40df-90ea-59fc2a617580" />
 
-[_https://rashardmro.tumblr.com/_](https://rashardmro.tumblr.com/)
-Tumblr
- Post: https://www.tumblr.com/rashardmro/814816185433686016?source=share + SCREENSHARE: [archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4](https://archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4)
+<img  alt="G19_wfo_jax_DayNightCloudMicroCombo_84fr_20260424-1921" src="https://github.com/user-attachments/assets/320752f4-d90d-4210-a75b-0a8ea82a004b" />
+
+[rashardmro.tumblr.com/_](https://rashardmro.tumblr.com/)
+Tumblr @doug-newman-nasa @blackgirlscode @nasa-giss\
+Post: https://www.tumblr.com/rashardmro/814816185433686016?source=share + 
+SCREENSHARE: [archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4](https://archive.org/download/vid-20260411-163609-170/GEROGiA_WiLDFiRE_MAPPiNG_clideo_editor_da62c58287374e09accefe1bbf697d18.mp4)
 DirectToVideo https //va.media.tumblr.com/tumblr_te0rb2U9XA1agemft.mp4
+
 <img alt="image" src="https://github.com/user-attachments/assets/6f9d7da6-c3df-497b-891b-5891937e60f5" />
 
 [https://wfca.com/fire-map?lng=-83.2224&lat=32.7094&zoom=6.72](https://wfca.com/fire-map?lng=-83.2224&lat=32.7094&zoom=6.72)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/11a8b50e-1e36-425d-8e8c-0cae10a5cfc5" />
 
 ##  Gov. Brian Kemp speaks in Brantley County on Highway 82 wildfire
