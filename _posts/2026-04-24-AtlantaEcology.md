@@ -34,7 +34,8 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 ##  Gov. Brian Kemp speaks in Brantley County on Highway 82 wildfire
 [youtube.com/@FirstCoastNews](https://www.youtube.com/@FirstCoastNews)
-WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1SbHw)
+WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1SbHw) [info@steedamanufacturing.com](mailto:info@steedamanufacturing.com)
+[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z)
 <img alt="image" src="https://github.com/user-attachments/assets/f230b3b1-d1fc-4986-81ee-f1ccf2ebb303" />
 
 <img alt="nasa-worldview-2026 APR 17-to-2026 APR 24" src="https://github.com/user-attachments/assets/23eb9508-cdbe-41b0-a4e2-c3df53ee2b34" />
@@ -57,14 +58,16 @@ WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1S
 [@nasa-jpl MAPlink @doug-newman-nasa @Off-Nominal hello @Blackgirlscode ](https://search.earthdata.nasa.gov/search?ff=Map%20Imagery&lat=30.788784046872063&long=-83.33188701801785&zoom=14.351774127088282) 
 <img  alt="image" src="https://github.com/user-attachments/assets/9ec8f915-f41c-4472-8845-1f0c48992e71" />
 
-[info@steedamanufacturing.com](mailto:info@steedamanufacturing.com)
-[https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z)
+<img   alt="GIOVANNI-output8hrwme1E" src="https://github.com/user-attachments/assets/e080c08b-20e0-480d-bafb-0361faf25b00" />
+
+
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0e069dbf-22b8-45d1-99ed-b14c199bfb70" />
 
 
 [@foratlanta it still looks hot @webb](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.gif) 
 
+<img  alt="GIOVANNI-output5J_7Mzjd" src="https://github.com/user-attachments/assets/a6b09993-27a6-4d64-b5a0-001eab6ea330" />
 
 
 [FireTemperature/GOES19-SE-FireTemperature-600x600.gif](https://cdn.star.nesdis.noaa.gov/GOES19/ABI/SECTOR/se/FireTemperature/GOES19-SE-FireTemperature-600x600.gif)
@@ -75,6 +78,9 @@ WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1S
 ![@la-county-isd @nasa-pds i was playing with girls and got robbed thats my design work @blackgirlscode i was just having fun normani!](https://github.com/user-attachments/assets/1d29a542-48f4-432d-b884-8f741153703f)
 
 <img alt="image @la-county-isd @Cityoflosangeles @foratlanta @whitehouse @nasa-jpl @Nasa-PDS @Nasa-GiSS @blackgirlscode" src="https://github.com/user-attachments/assets/484d94b1-50e7-4eba-bcae-dc79d0e2afed" />
+
+<img  alt="GIOVANNI-output5J_7Mzjd" src="https://github.com/user-attachments/assets/1789735e-387f-4434-bca1-04986f279438" />
+
 
 
 # _NASA’s Artemis II Crew Beams Official Moon Flyby Photos to Earth_
