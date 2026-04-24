@@ -37,6 +37,8 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1SbHw)
 <img alt="image" src="https://github.com/user-attachments/assets/f230b3b1-d1fc-4986-81ee-f1ccf2ebb303" />
 
+<img alt="nasa-worldview-2026 APR 17-to-2026 APR 24" src="https://github.com/user-attachments/assets/23eb9508-cdbe-41b0-a4e2-c3df53ee2b34" />
+
 [https://firms.modaps.eosdis.nasa.gov/map/=FALSECOLOR](https://firms.modaps.eosdis.nasa.gov/map/#m:advanced;d:24hrs,today;l:fires_landsat_landsat,fires_modis_aqua,fires_modis_terra,fires_viirs_noaa20,fires_viirs_noaa21,fires_viirs_snpp,country-outline,terra_srb721,earth;@-81.6,33.9,8.2z)
 <img  alt="image" src="https://github.com/user-attachments/assets/955aac1b-76b1-4fbc-94a2-e454f5254849" />
 
@@ -51,6 +53,7 @@ WATCH [youtube.com/watch?v=uCSOFs1SbHw](https://www.youtube.com/watch?v=uCSOFs1S
 
 [info@steedamanufacturing.com](mailto:info@steedamanufacturing.com)
 [https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z](https://firms.modaps.eosdis.nasa.gov/map/#d:24hrs,24hrs;l:fires_all,countries,noaa21_crtc,earth;@-82.57,31.01,9.79z)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/0e069dbf-22b8-45d1-99ed-b14c199bfb70" />
 
 
