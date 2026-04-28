@@ -18,6 +18,9 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+@nasa [YESTERDAY](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.80/-8575657.16/4707038.61&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default) @la-county-isd 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f7c77a8-3905-4f6b-94ba-a4bac64fd435" />
 
 @whitehouse i hope im in the right place @nasa-jpl [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.84/-8575616.29/4706941.04&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=17.84/-8575616.29/4706941.04&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default) @la-county-isd . . . @longbeachinnovationteam i hope im not bugging youbut im supposed to keep rex in the loop... 
 
