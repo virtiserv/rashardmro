@@ -32,6 +32,11 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 {% include nav.html %}
 
 
+@nasa-jpl moisture index 
+
+<img   alt="BRiAN_KEMP_2026-04-24-00_00_2026-04-24-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/b1340088-f33f-4d5f-9b98-5be9d386a326" />
+
+
 <img  alt="lis_conus-rsoim0-100-sApr 26, 2026 - 23z-eApr 27, 2026 - 18z" src="https://github.com/user-attachments/assets/02b22029-e56c-447a-b686-f37830d7ab1e" />
 
 
