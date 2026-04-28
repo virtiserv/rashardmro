@@ -18,9 +18,19 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+ @TheSpaceDevs [https://ecostress.jpl.nasa.gov/gallerylist share with royal family @nationalarchives](https://ecostress.jpl.nasa.gov/gallerylist) @NASA-GiSS _Georgia wildfires update from Gov. Brian Kemp_ [watch @nasa-jpl @la-county-isd pineland fire @lacountyDPH](https://youtu.be/NaHi381DNxg)
+
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b2a5212-89d1-4602-93ca-7c5d5e361bf9" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/69f89e08-2691-4e4f-b285-c6407de089a9" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/4b7c39bc-dad9-402a-a497-de3667dca60a" />
+
 <img alt="image" src="https://github.com/user-attachments/assets/09351139-c424-46b9-9783-963f839be3ef" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/2c951f59-9a2d-4e53-b219-058e3c9f959d" />
 
 [https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg](https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg)
 <img alt="image" src="https://github.com/user-attachments/assets/93216c9a-45dc-4f42-b4cb-4acba8c8a6a5" />
@@ -33,7 +43,7 @@ date:   2026-04-27 8:51:06
 
 <img alt="image" src="https://github.com/user-attachments/assets/aca6b81c-60ac-4f77-ad26-0f7f09121104" />
 
-@blackgirlscode @howard-university-web-services @BlueOrigin @TheSpaceDevs @NASA-GiSS @emit-sds [FULL SPEECH: King Charles III delivers joint address to Congress](https://youtu.be/WpsgN5iO7qs)[ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default)
+@blackgirlscode @howard-university-web-services @BlueOrigin @TheSpaceDevs [https://ecostress.jpl.nasa.gov/gallerylist](https://ecostress.jpl.nasa.gov/gallerylist) @NASA-GiSS @emit-sds [FULL SPEECH: King Charles III delivers joint address to Congress](https://youtu.be/WpsgN5iO7qs)[ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default)
 [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/0eb469f4-3715-40e3-9b40-776d1c323913" />
