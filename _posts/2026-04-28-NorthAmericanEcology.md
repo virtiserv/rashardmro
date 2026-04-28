@@ -18,6 +18,10 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+
+@blackgirlscode @howard-university-web-services @BlueOrigin @TheSpaceDevs @NASA-GiSS @emit-sds [FULL SPEECH: King Charles III delivers joint address to Congress](https://youtu.be/WpsgN5iO7qs)[https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default) [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+<img  alt="image" src="https://github.com/user-attachments/assets/0eb469f4-3715-40e3-9b40-776d1c323913" />
+
 @nasa [YESTERDAY](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=20.80/-8575657.16/4707038.61&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default) @la-county-isd 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/6f7c77a8-3905-4f6b-94ba-a4bac64fd435" />
