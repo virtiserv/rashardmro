@@ -18,11 +18,20 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+GRACE California Terrestrial Water Storage from 2018-06 to 2023-03.
+[https://gracefo.jpl.nasa.gov/](https://gracefo.jpl.nasa.gov/)
+[_**White House State Dinner for King Charles III & Queen Camilla**_](https://youtu.be/r2caMKmDEVY)
+<img  alt="image" src="https://github.com/user-attachments/assets/fa438eca-6582-4633-8290-d6bf74671813" />
 
-## GRACE measures California water
+
+[<video controls width="100%" height="auto" src="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4" poster="https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_black_v3_20230316_1200_print.jpg" />](https://svs.gsfc.nasa.gov/vis/a030000/a031200/a031231/grace_ca_water_2002-2023_seasonal_1080p.mp4)
+
+ GRACE measures California water 2002-2017
 
 [link](https://svs.gsfc.nasa.gov/30862/)
 NASA’s Gravity Recovery and Climate Experiment (GRACE) mission, launched in 2002, maps changes in Earth's gravity field resulting from the movement of water over the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2002-2017), while red colors represent drier than average conditions. The yellow line in the graph at left shows the interannual variation for area outlined in ywllow on the map, while the fainter gray line in the graph shows variations with the seasonal cycle included.
+
+
 [<video controls width="100%" height="auto" src="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4" poster="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_201701_print.jpg" />](https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4)
 
 
