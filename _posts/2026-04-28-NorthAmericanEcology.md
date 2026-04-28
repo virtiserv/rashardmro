@@ -21,6 +21,7 @@ date:   2026-04-27 8:51:06
 GRACE California Terrestrial Water Storage from 2018-06 to 2023-03.
 [https://gracefo.jpl.nasa.gov/](https://gracefo.jpl.nasa.gov/)
 [_**White House State Dinner for King Charles III & Queen Camilla**_](https://youtu.be/r2caMKmDEVY)
+
 <img  alt="image" src="https://github.com/user-attachments/assets/fa438eca-6582-4633-8290-d6bf74671813" />
 
 
@@ -35,14 +36,17 @@ NASA’s Gravity Recovery and Climate Experiment (GRACE) mission, launched in 20
 [<video controls width="100%" height="auto" src="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4" poster="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_201701_print.jpg" />](https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4)
 
 
+<img  alt="image" src="https://github.com/user-attachments/assets/7a4981d2-b115-4eb4-aa2e-ed8bc095ec5a" />
 
-@esa @usgs [ https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
+[<video controls width="100%" height="auto" src="https://archive.org/download/vid-20260411-163609-170/KingCharles_from_USGS_EARTHDATA_RASHARD_VIRTISERV_VID_20260428_154749_464.mp4" />](https://archive.org/download/vid-20260411-163609-170/KingCharles_from_USGS_EARTHDATA_RASHARD_VIRTISERV_VID_20260428_154749_464.mp4)
+
+@esa @usgs [@alphagov ~ @whitehouse @la-county-isd dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c6edbd6c-757f-462b-a778-b7f38bdbac1d" />
 
  @TheSpaceDevs [https://ecostress.jpl.nasa.gov/gallerylist share with royal family @nationalarchives](https://ecostress.jpl.nasa.gov/gallerylist) @NASA-GiSS _Georgia wildfires update from Gov. Brian Kemp_ [watch @nasa-jpl @la-county-isd pineland fire @lacountyDPH](https://youtu.be/NaHi381DNxg) /// [@CityOfLosAngeles _KarenBass_ royal.uk/news-and-activity/2026-04-28/state-visit-to-the-us-and-bermuda](https://www.royal.uk/news-and-activity/2026-04-28/state-visit-to-the-us-and-bermuda)
 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b2a5212-89d1-4602-93ca-7c5d5e361bf9" />
+ <img  alt="image" src="https://github.com/user-attachments/assets/0b2a5212-89d1-4602-93ca-7c5d5e361bf9" />
 
 
 <img alt="image" src="https://github.com/user-attachments/assets/69f89e08-2691-4e4f-b285-c6407de089a9" />
@@ -54,7 +58,7 @@ NASA’s Gravity Recovery and Climate Experiment (GRACE) mission, launched in 20
 
 <img   alt="image" src="https://github.com/user-attachments/assets/2c951f59-9a2d-4e53-b219-058e3c9f959d" />
 
-[https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg](https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg)
+[youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg](https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg)
 <img alt="image" src="https://github.com/user-attachments/assets/93216c9a-45dc-4f42-b4cb-4acba8c8a6a5" />
 
 
