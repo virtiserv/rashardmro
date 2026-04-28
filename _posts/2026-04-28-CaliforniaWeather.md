@@ -11,6 +11,10 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+
+
+@la-county-isd i assume ms bass in dc @whitehouse [KELP - on the shoreline https://www.youtube.com/watch?v=urKw-hW3100](https://www.youtube.com/watch?v=urKw-hW3100) @cityoflosangeles @CityofSantaMonica hi @blackgirlscode @nasa-jpl
+
 @nasa-jpl @lmco LIVE: SpaceX Starlink 17-27 Launch from Vandenberg! Falcon 9 + 25 Starlink Satellites [watch](https://www.youtube.com/live/C9PsD7HP33w?si=mioSmC9_CwOcYimI)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C9PsD7HP33w?si=DVWsIlVNGpWJ7_kt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
