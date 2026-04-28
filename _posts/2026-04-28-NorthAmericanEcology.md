@@ -18,6 +18,10 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+
+<img alt="image" src="https://github.com/user-attachments/assets/69f89e08-2691-4e4f-b285-c6407de089a9" />
+<img alt="image" src="https://github.com/user-attachments/assets/09351139-c424-46b9-9783-963f839be3ef" />
+
 [https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg](https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg)
 <img alt="image" src="https://github.com/user-attachments/assets/93216c9a-45dc-4f42-b4cb-4acba8c8a6a5" />
 
