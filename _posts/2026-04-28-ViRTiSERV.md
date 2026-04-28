@@ -19,6 +19,7 @@ permalink: /virtiserv
   <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
   
 </picture>
+
 ## Rashard Kelly 
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  //
 [gracefo.jpl.nasa.gov/](https://gracefo.jpl.nasa.gov/) /// [browser.dataspace.copernicus.eu/?zoom](https://browser.dataspace.copernicus.eu/?zoom=9&lat=54.31516&lng=-1.91815&themeId=DEFAULT-THEME&visualizationUrl=U2FsdGVkX18bUQMzkuIpJ88HfRruGzVjy5Coe38ZiLZO8yqxMiUAud%2BV77aGUiDy9DbIlgpLcm1VNQKVKU%2BHyJ7NLgSdy4xtYnPEeeEnxKY1vkbIwoWTmqNgXEoZxZB7&datasetId=S2_L2A_CDAS&fromTime=2026-04-27T00%3A00%3A00.000Z&toTime=2026-04-27T23%3A59%3A59.999Z&layerId=2_FALSE_COLOR&demSource3D=%22MAPZEN%22&cloudCoverage=30&dateMode=SINGLE)
