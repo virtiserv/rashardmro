@@ -18,6 +18,8 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+[https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg](https://youtu.be/KrVBP0fL5VU?si=ezEcsr2e4_AokSIg)
+<img alt="image" src="https://github.com/user-attachments/assets/93216c9a-45dc-4f42-b4cb-4acba8c8a6a5" />
 
 
 [search.earthdata.nasa.gov/search?](https://search.earthdata.nasa.gov/search?q=ecostress&sb[0]=-77.33708%2C38.69771%2C-76.19598%2C39.45188&ff=Map%20Imagery&lat=39.21146109106705&long=-79.12866365897789&zoom=8.014903835909088)
