@@ -19,6 +19,12 @@ date:   2026-04-27 8:51:06
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
 
+
+[search.earthdata.nasa.gov/search?](https://search.earthdata.nasa.gov/search?q=ecostress&sb[0]=-77.33708%2C38.69771%2C-76.19598%2C39.45188&ff=Map%20Imagery&lat=39.21146109106705&long=-79.12866365897789&zoom=8.014903835909088)
+
+[https://github.com/nasa/earthdata-search @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse](https://github.com/nasa/earthdata-search)
+<img  alt="image" src="https://github.com/user-attachments/assets/af323325-f593-49f5-8394-b3271ce3dae1" />
+
 @blackgirlscode @howard-university-web-services @BlueOrigin @TheSpaceDevs @NASA-GiSS @emit-sds [FULL SPEECH: King Charles III delivers joint address to Congress](https://youtu.be/WpsgN5iO7qs)[ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.14/-8570706.69/4703292.86&layers=aqv_tss_20260427_sentinel:1.00:0.00:30.00:default,aqv_chla_20260427_sentinel:1.00:0.00:30.00:default)
 [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
 
