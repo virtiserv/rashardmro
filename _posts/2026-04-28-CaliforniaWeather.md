@@ -11,9 +11,45 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+<img   alt="image" src="https://github.com/user-attachments/assets/3e3127a3-a433-4cc3-9184-6c3ee03ec0e8" />
+
+#gaslighting #datingdisasters #toxicrelationships [WATCH -](https://youtu.be/ZC-pO2C-uNc)
+Could you forgive someone who lied about their identity, immigration status, and intentions for your relationship? That’s the nightmare Kay found herself in. This Dating Disaster is the first part of her shocking true story of betrayal, manipulation, and survival.
+
+
 https://www.youtube.com/live/urKw-hW3100
 
 # King Charles III & Queen Camilla Arrive at the @WhiteHouse
+
+[FULL SPEECH: King Charles III delivers joint address to Congress](https://www.youtube.com/watch?v=WpsgN5iO7qs)
+
+```
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 04-28-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V 4.231.13 Home NASA Accessibility
+NASA Official: Doug Newman
+```
+
+<img alt="image" src="https://github.com/user-attachments/assets/e28a2029-1e4f-4df6-92de-dda61471e5f3" />
+
 [https://www.youtube.com/live/urKw-hW3100?si=Ix6pO0wnp06duQLW](https://www.youtube.com/live/urKw-hW3100?si=Ix6pO0wnp06duQLW)
 @UKSpaceAgency since King Charles is visiting, im going to plot some climate data in that region, @cityoflosangeles @nasa-jpl @nasa @nasa-pds @doug-newman-nasa @foratlanta im going to do some D.C. Water and Land analysis on this page after a quick break @longbeachinnovationTeam  [thakarashard.github.io/rashardmro/nmecology](https://thakarashard.github.io/rashardmro/nmecology) @nytimes @whitehouse [https://www.youtube.com/live/urKw-hW3100 C-SPAN](https://www.youtube.com/live/urKw-hW3100) @USSF-ORBIT ... @voyager-tech-inc idk who saw me crying but i think it was [this](https://www.youtube.com/watch?v=mvyeNaTcLb8), it was one of her times off or a dance partner of hers that snuck into my life and left. The biological connection, whatever happened, thanks, i want to be healthy but your friends hurt my lab a lot... @paramount-engineering @blackgirlscode im just sad i missed it, it was the nail in the coffin `you dont belong` @cityoflosangeles thats y i call you playboy newsom gavin @StateOfCalifornia ... _DNS_iS_CORRUPT_ its not fair!
 
