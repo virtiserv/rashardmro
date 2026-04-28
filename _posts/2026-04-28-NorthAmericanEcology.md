@@ -18,6 +18,15 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+
+## GRACE measures California water
+
+[link](https://svs.gsfc.nasa.gov/30862/)
+NASA’s Gravity Recovery and Climate Experiment (GRACE) mission, launched in 2002, maps changes in Earth's gravity field resulting from the movement of water over the planet. This animation shows how the total amount of water (snow, surface water, soil moisture, and groundwater) varies in space and time, with the passage of dry seasons and wet seasons as well as with flooding, drought, and transport due to water management. Blue colors represent wetter than average conditions (relative to 2002-2017), while red colors represent drier than average conditions. The yellow line in the graph at left shows the interannual variation for area outlined in ywllow on the map, while the fainter gray line in the graph shows variations with the seasonal cycle included.
+[<video controls width="100%" height="auto" src="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4" poster="https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_201701_print.jpg" />](https://svs.gsfc.nasa.gov/vis/a030000/a030800/a030862/grace_ca_water_black_720p.mp4)
+
+
+
 @esa @usgs [ https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D ]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-77.26958%2C38.68629%2C-76.47147%2C39.09954%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-77.26957999801917%2C38.686285260123725%2C-76.47146914194984%2C39.099539213339895%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Atrue%2C%22checkbox%22%3A%220%2C7%2C10%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A1%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 
 <img  alt="image" src="https://github.com/user-attachments/assets/c6edbd6c-757f-462b-a778-b7f38bdbac1d" />
