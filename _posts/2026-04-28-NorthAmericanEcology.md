@@ -18,7 +18,7 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
- @TheSpaceDevs [https://ecostress.jpl.nasa.gov/gallerylist share with royal family @nationalarchives](https://ecostress.jpl.nasa.gov/gallerylist) @NASA-GiSS _Georgia wildfires update from Gov. Brian Kemp_ [watch @nasa-jpl @la-county-isd pineland fire @lacountyDPH](https://youtu.be/NaHi381DNxg)
+ @TheSpaceDevs [https://ecostress.jpl.nasa.gov/gallerylist share with royal family @nationalarchives](https://ecostress.jpl.nasa.gov/gallerylist) @NASA-GiSS _Georgia wildfires update from Gov. Brian Kemp_ [watch @nasa-jpl @la-county-isd pineland fire @lacountyDPH](https://youtu.be/NaHi381DNxg) /// [@CityOfLosAngeles _KarenBass_ royal.uk/news-and-activity/2026-04-28/state-visit-to-the-us-and-bermuda](https://www.royal.uk/news-and-activity/2026-04-28/state-visit-to-the-us-and-bermuda)
 
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0b2a5212-89d1-4602-93ca-7c5d5e361bf9" />
 
