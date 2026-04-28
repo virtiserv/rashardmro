@@ -7,8 +7,9 @@ title: NorthAmericaNEcology @CityOfLosAngeles @Nasa-jpl
 image: nmecology.png
 author: "RashardKelly @nasa-jpl"
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-02-10 8:51:06 
----
+date:   2026-04-27 8:51:06 
+---
+
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
@@ -17,6 +18,7 @@ date:   2026-02-10 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+<img  alt="lis_conus-rsoim0-100-sApr 26, 2026 - 23z-eApr 27, 2026 - 18z" src="https://github.com/user-attachments/assets/02b22029-e56c-447a-b686-f37830d7ab1e" />
 
 # Part 1 - Introduction and Demonstration of STREAM
 <img alt="image" src="https://github.com/user-attachments/assets/d217b5d1-c188-4d43-b290-4975a2ac1d8f" />
