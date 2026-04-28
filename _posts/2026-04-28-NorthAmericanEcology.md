@@ -91,6 +91,32 @@ NASA’s Gravity Recovery and Climate Experiment (GRACE) mission, launched in 20
 
 <img  alt="lis_conus-rsoim0-100-sApr 26, 2026 - 23z-eApr 27, 2026 - 18z" src="https://github.com/user-attachments/assets/02b22029-e56c-447a-b686-f37830d7ab1e" />
 
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+
+```html
+
+~$ curl virtiserv.com
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html>
+
+~$ curl whitehouse.gov
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+~ $
+```
+
+
 # Part 1 - Introduction and Demonstration of STREAM
 <img alt="image" src="https://github.com/user-attachments/assets/d217b5d1-c188-4d43-b290-4975a2ac1d8f" />
 
