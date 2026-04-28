@@ -18,7 +18,7 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
-@UKSpaceAgency hi @eSA [King Charles III](https://en.wikipedia.org/wiki/Talk:Charles_III)
+@UKSpaceAgency hi @eSA [King Charles III](https://en.wikipedia.org/wiki/Talk:Charles_III) // [ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.67/-8581954.20/4692797.94&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.67/-8581954.20/4692797.94&layers=aqv_chla_20260427_sentinel:1.00:0.00:30.00:default)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/9356791b-1152-4ab5-913d-52790fbb5b3e" />
 
