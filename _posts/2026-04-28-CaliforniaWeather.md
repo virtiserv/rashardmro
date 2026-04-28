@@ -11,9 +11,57 @@ mathjax: true
 # Currently Compiling 
 `jekyll.version`  {{ jekyll.version }}
 
+https://www.youtube.com/live/urKw-hW3100
+
+# King Charles III & Queen Camilla Arrive at the @WhiteHouse
+[https://www.youtube.com/live/urKw-hW3100?si=Ix6pO0wnp06duQLW](https://www.youtube.com/live/urKw-hW3100?si=Ix6pO0wnp06duQLW)
+@UKSpaceAgency since King Charles is visiting, im going to plot some climate data in that region, @cityoflosangeles @nasa-jpl @nasa @nasa-pds @doug-newman-nasa @foratlanta im going to do some D.C. Water and Land analysis on this page after a quick break @longbeachinnovationTeam  [thakarashard.github.io/rashardmro/nmecology](https://thakarashard.github.io/rashardmro/nmecology) @nytimes @whitehouse [https://www.youtube.com/live/urKw-hW3100 C-SPAN](https://www.youtube.com/live/urKw-hW3100) @USSF-ORBIT ... @voyager-tech-inc idk who saw me crying but i think it was [this](https://www.youtube.com/watch?v=mvyeNaTcLb8), it was one of her times off or a dance partner of hers that snuck into my life and left. The biological connection, whatever happened, thanks, i want to be healthy but your friends hurt my lab a lot... @paramount-engineering @blackgirlscode im just sad i missed it, it was the nail in the coffin `you dont belong` @cityoflosangeles thats y i call you playboy newsom gavin @StateOcCalifornia ... _DNS_iS_CORRUPT_ its not fair!
 
 
-@la-county-isd i assume ms bass in dc @whitehouse [KELP - on the shoreline https://www.youtube.com/watch?v=urKw-hW3100](https://www.youtube.com/watch?v=urKw-hW3100) @cityoflosangeles @CityofSantaMonica hi @blackgirlscode @nasa-jpl
+```
+C:\Users\PAC>nslookup -type=mx whitehouse.gov /
+*** Can't find server address for '/':
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+whitehouse.gov
+        primary name server = ernest.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2402441130
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\PAC>nslookup -type=ns whitehouse.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+whitehouse.gov  nameserver = wally.ns.cloudflare.com
+whitehouse.gov  nameserver = ernest.ns.cloudflare.com
+
+wally.ns.cloudflare.com internet address = 108.162.192.239
+wally.ns.cloudflare.com internet address = 172.64.32.239
+wally.ns.cloudflare.com internet address = 173.245.58.239
+wally.ns.cloudflare.com AAAA IPv6 address = 2a06:98c1:50::ac40:20ef
+wally.ns.cloudflare.com AAAA IPv6 address = 2606:4700:50::adf5:3aef
+wally.ns.cloudflare.com AAAA IPv6 address = 2803:f800:50::6ca2:c0ef
+ernest.ns.cloudflare.com        internet address = 173.245.59.164
+ernest.ns.cloudflare.com        internet address = 108.162.193.164
+ernest.ns.cloudflare.com        internet address = 172.64.33.164
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2606:4700:58::adf5:3ba4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2803:f800:50::6ca2:c1a4
+ernest.ns.cloudflare.com        AAAA IPv6 address = 2a06:98c1:50::ac40:21a4
+
+C:\Users\PAC>
+```
+
+<img   alt="image" src="https://github.com/user-attachments/assets/3f72a18c-e364-4d95-8e5a-3c531dbb44ab" /> 
+
+@cbs-news-data and i lost a tooth chasing a ghost
+
+@la-county-isd i assume ms bass in dc @whitehouse [KELP - on the shoreline https://www.youtube.com/watch?v=7nrLdR-HN2w&t=1s](https://www.youtube.com/watch?v=7nrLdR-HN2w&t=1s) @cityoflosangeles @CityofSantaMonica hi @blackgirlscode @nasa-jpl [https://www.youtube.com/live/ngkHqo9-5B4?si=1ZChdPHSj150IOZ1](https://www.youtube.com/live/ngkHqo9-5B4?si=1ZChdPHSj150IOZ1)
 
 @nasa-jpl @lmco LIVE: SpaceX Starlink 17-27 Launch from Vandenberg! Falcon 9 + 25 Starlink Satellites [watch](https://www.youtube.com/live/C9PsD7HP33w?si=mioSmC9_CwOcYimI)
 
