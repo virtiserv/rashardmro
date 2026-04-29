@@ -18,6 +18,16 @@ date:   2026-04-27 8:51:06
 
 # Ecology-NorthAMERiCA[!](https://youtu.be/xjEoo14xHRs)
 
+
+
+[https://www.darienlibrary.org/](https://www.darienlibrary.org/)
+
+@esa @usgs [@alphagov ~ @whitehouse @la-county-isdsdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4)
+[Todays Files](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/) 
+
+[<video controls width="100%" height="auto" src="https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4" poster="https://sdo.gsfc.nasa.gov/assets/img/latest/latest_1024_0193.jpg" />](https://sdo.gsfc.nasa.gov/assets/img/dailymov/2026/04/28/20260428_1024_0171.mp4)
+
+
 GRACE California Terrestrial Water Storage from 2018-06 to 2023-03.
 [https://gracefo.jpl.nasa.gov/](https://gracefo.jpl.nasa.gov/)
 [_**White House State Dinner for King Charles III & Queen Camilla**_](https://youtu.be/r2caMKmDEVY)
