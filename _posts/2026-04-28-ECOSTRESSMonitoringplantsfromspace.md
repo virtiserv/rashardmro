@@ -6,6 +6,11 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
+
+
+I dont know what to do with this yet @blackgirlscode [https://app.atlas.co/](https://app.atlas.co/) @stateofcalifornia @la-county-isd
+<img alt="image" src="https://github.com/user-attachments/assets/02ac838f-9498-43ca-8421-dd8df5c41538" />
+
 @nasa @doug-newman-nasa [_Active Outage🔴_](https://www.earthdata.nasa.gov/data/alerts-outages/ecostress-data-processing-issue) // [ Data Release🟩 ](https://www.earthdata.nasa.gov/data/alerts-outages/ecostress-version-3-level-2-data-products-released)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/2708ba45-3dbf-4e7c-9753-ae4573da32a7" />
