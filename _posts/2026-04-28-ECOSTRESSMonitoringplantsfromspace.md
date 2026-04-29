@@ -6,6 +6,10 @@ title: "ECOSTRESS:Monitoring plants from space"
 image: ecostressjplnasagov-eco-booster.jpg
 ---
 
+@nasa @doug-newman-nasa [_Active Outage🔴_](https://www.earthdata.nasa.gov/data/alerts-outages/ecostress-data-processing-issue) // [ Data Release🟩 ](https://www.earthdata.nasa.gov/data/alerts-outages/ecostress-version-3-level-2-data-products-released)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2708ba45-3dbf-4e7c-9753-ae4573da32a7" />
+
 [https://www.youtube.com/watch?v=vYRfQo6JMxc](https://www.youtube.com/watch?v=vYRfQo6JMxc) // https://youtu.be/Vi9OWHZeNCI?si=ReTK6kZYntFx-6mH
 
 [@Nasa Johnson - iss playlist https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx](https://youtube.com/playlist?list=PLTXQuaxXBKKwtqw9fmVw9YnMKxz6FcmWf&si=4RofY24OcifmTpdx)
