@@ -2,7 +2,7 @@
 layout: post
 title:  SavannahEcology
 published: true
-date:   2026-03-17 15:52:06 
+date:   2026-04-30 10:52:06 
 permalink: /savannah
 tags: life family blog hr relationships climate 
 image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
@@ -14,9 +14,15 @@ image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
+[Pine Fire Georgia ? ](https://worldview.earthdata.nasa.gov/?v=-83.41565181885645,30.375860285712882,-81.5741970802516,31.28220128986996&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&tr=fires_overview_2019&t=2026-04-23-T00%3A00%3A00Z)
+
+<img alt="nasa-worldview-2026 APR 18-to-2026 APR 23" src="https://github.com/user-attachments/assets/28aca604-0bf5-477c-b108-0561be18826a" />
+
 
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 ### [Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT) : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) 
+
+
 
 [https://youtu.be/FiGAkDE7s7o?si=yuODGiME6Z6lIRvJ](https://youtu.be/FiGAkDE7s7o?si=yuODGiME6Z6lIRvJ) @nasa-jpl im heavily stalked i dont know if its brandy but that looks like [KevinGates](https://www.billboard.com/music/rb-hip-hop/kevin-gates-father-could-have-cured-aids-1236168449/) @whitehouse @la-county-isd 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/FiGAkDE7s7o?si=jPvmjtoKB9Fok9l-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
