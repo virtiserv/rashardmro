@@ -13,6 +13,13 @@ image: coral495958980-e7820ab0-fa23-421b-8290-13e29f961576.png
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+@podaac @nasa-jpl @blackgirlscode _Data center opposition is growing and impacting key midterm campaigns_
+[@washingtonpost dot cOm/politics/2026/04/23/data-center-opposition-is-growing-impacting-key-midterm-campaigns/](https://www.washingtonpost.com/politics/2026/04/23/data-center-opposition-is-growing-impacting-key-midterm-campaigns/)
+
+<img alt="snapshot-2026-04-20T00_00_00Z" src="https://github.com/user-attachments/assets/12e07361-a0a5-4324-bec6-d71db90c0222" />
+
+<img  alt="nasa-worldview-2026 APR 18-to-2026 APR 23 (3)" src="https://github.com/user-attachments/assets/324c365b-3e31-4e42-acf8-f342d3219bdb" />
+
 
 [Pine Fire Georgia ? ](https://worldview.earthdata.nasa.gov/?v=-83.41565181885645,30.375860285712882,-81.5741970802516,31.28220128986996&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day,VIIRS_NOAA20_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA20_Thermal_Anomalies_375m_Day(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Night(hidden),VIIRS_SNPP_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA20_CorrectedReflectance_BandsM3-I3-M11,VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&tr=fires_overview_2019&t=2026-04-23-T00%3A00%3A00Z)
 
