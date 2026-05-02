@@ -40,6 +40,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![@nasa-pds](https://web.archive.org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
 ![image](https://github.com/user-attachments/assets/e6461ddc-9380-414d-9b85-3971a8026fa4)
 
+<iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 ## Dear Latrice
 [virtiserv](https://www.facebook.com/thevirtiservway/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com) + [@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
