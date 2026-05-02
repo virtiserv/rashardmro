@@ -26,6 +26,21 @@ permalink: /virtiserv
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 
+
+<style>
+  
+.whitebg {background-color:white;}
+  
+</style>
+
+## Wifi [IEEE 802.11b-1999](https://en.wikipedia.org/wiki/IEEE_802.11b-1999)
+
+<IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
+
+![@nasa-pds](https://web.archive.org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![image](https://github.com/user-attachments/assets/e6461ddc-9380-414d-9b85-3971a8026fa4)
+
+
 ## Dear Latrice
 [virtiserv](https://www.facebook.com/thevirtiservway/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com) + [@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
 @blackgirlscode @natgeosociety @whitehouse i wrote  [`gist` .github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab](https://gist.github.com/ThakaRashard/265e98a66ae2a41c5fbafb11000c27ab) a few years ago. I am very embarrassed and humiliated @la-county-isd [Mayor Karen Bass](https://www.congress.gov/member/karen-bass/B001270) @CityOfLosAngeles . . . [@nasa-jpl](https://science.nasa.gov/exoplanets/) and [@nasa-pds](https://pds-geosciences.wustl.edu/missions/mars2020/) [[1](https://astrobiology.com/2026/04/nasas-perseverance-curiosity-panoramas-capture-two-sides-of-mars.html)] [[2](https://pds-imaging.jpl.nasa.gov/tools/atlas/search?gather.common.spacecraft=curiosity,mars_reconnaissance_orbiter,perseverance)] were the best assighnments i could get post jehovahs witnesses... Heacen was the blue sky in acuality and tho i dont know where god is @deptofwar [Pete HegSeth](https://www.war.gov/about/biographies/biography/article/4040890/hon-pete-hegseth/) i know he working! I saw some girls from [dance411](https://www.dance411.com/) at [Denim Day](https://denimday.org/blog/tag/City+Hall) and I have been telling all the stories of y im stranded and my family abanoned me on [my HR page for @nasa-jpl @USnavy](https://github.com/ThakaRashard/rashardmro/blob/master/_posts/2026-04-21-HR_NASAJPL.md) ... The Girls from there have many lives in hollywood .. and i did not have the right stuff and got dissed droped abandoned and mocked [https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=45846](https://www.reddit.com/r/community/comments/125hv8d/how_did_everyone_feel_about_donald_glover_in_the/?rdt=45846) and my body hurts now @whitehouse. I want peace with [Doanld Glover](https://www.youtube.com/watch?v=gNpgig75ML4) and opportunity and reference to explore love with a girl that has not been used by a man... im just to fragile for a gun and pray i can get protection because they are playboy bunnies and needed a prop to get to the next stop, thats y its deja vu showgirls... there is a poster with an artist named ~Tink`, its Brandy Norwood and it says `"`fuck, marry, kill`"` im scared of castration and im sorry i abanoned my post. [I was later dumped](https://www.essence.com/tags/erika-kelly/) and tossed in mental hospital after mental hospital on my way back to @StateOfCalifornia fired repeatedly. The only thing i can say i did unconsensually was a girl was sneaking into my bed. In that era islept with no underwear and when i woke up something warm and brown was under and next to me. One being, and i felt fuzz on my upper thigh and i belive i put my penis in it. Erika the young woman mentioend earlier barely touched me. I belive she had secret relationships befre jehovah dissolved into lies and adultery. The video i made with the vibrator wass rebellion. And I can talk face to face about it and i would like to get access to see my child again after explaining @nasa-jpl corals pediatrician was in pasadena... I forgot her name... more laterr i need to make maps
