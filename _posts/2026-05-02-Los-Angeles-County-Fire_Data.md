@@ -8,6 +8,19 @@ image: shocked-i-know-this.gif
 
 
 
+
+@la-county-isd @nasa-jpl i have a [new perspective](https://worldview.earthdata.nasa.gov/?v=-119.52156774403312,33.51305254164473,-117.05248688151971,34.73859111559019&as=2025-01-05-T00%3A00%3A00Z&ae=2025-01-13-T00%3A00%3A00Z&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,MODIS_Combined_Thermal_Anomalies_Night(hidden),MODIS_Combined_Thermal_Anomalies_Day(hidden),MODIS_Combined_Thermal_Anomalies_All(hidden),MODIS_Aqua_Thermal_Anomalies_Night(hidden),MODIS_Aqua_Thermal_Anomalies_Day(hidden),MODIS_Aqua_Thermal_Anomalies_All(hidden),MODIS_Terra_Thermal_Anomalies_Night(hidden),MODIS_Terra_Thermal_Anomalies_Day(hidden),MODIS_Terra_Thermal_Anomalies_All(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Night(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_Day(hidden),VIIRS_NOAA21_Thermal_Anomalies_375m_All,VIIRS_NOAA21_DayNightBand,NOAA_2025_ERI_WMTS,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor(hidden)&lg=true&al=true&ab=on&t=2025-01-13-T00%3A00%3A00Z) on the fire after last weeks tragedy [in Georgia](https://ra5hard.github.io/atlanta) @cityoflosangeles @CityofSantaMonica @CityOfLosAngeles [KarenBass](https://www.latimes.com/california/story/2026-05-01/2026-california-election-los-angeles-mayor-bass-raman-pratt-miller-huang-voter-guide) @stateofcalifornia [GavinNewsom](https://pasadenanow.com/main/governor-newsom-visits-pasadena-job-training-program), the @NOAAGov data set isolated and this band of night time imagery it looks like the illuminated part is the fire that cancels out like the mountains are light and then go dark 
+_VIIRS NOAA-20 (JPSS-1) 375m, I-Band Active Fire Product NRT (Vector Data)_ [Link](https://www.earthdata.nasa.gov/data/catalog/lancemodis-vj114imgt-nrt-2) @nbcnews @cbs-news-data @datadesk
+
+
+[@blackgirlscode hope yall good @foratlanta](https://somafm.com/player24/station/spacestation)
+
+
+_nasa-worldview-2025 JAN 05-to-2025 JAN 13_
+
+<img alt="nasa-worldview-2025 JAN 05-to-2025 JAN 13" src="https://github.com/user-attachments/assets/9675795c-506c-455d-8cb6-d7dd3fa6b834" />
+
+
 [Overview Maps of 2025 Los Angeles Fires](https://svs.gsfc.nasa.gov/5568/)
 
 ![Overview](https://svs.gsfc.nasa.gov/vis/a000000/a005500/a005568/Overview_HD.png)
