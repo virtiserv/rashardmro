@@ -34,6 +34,10 @@ date:   2026-02-19 8:51:06
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
+[MAPLiNK - @blackgirlscode can u share with nevada ?](https://worldview.earthdata.nasa.gov/?v=-116.81304739105809,35.12672887213639,-113.02309004268949,36.992098504536564&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m,OPERA_L3_DIST-ANN-HLS_Color_Index(disabled=5),OPERA_L2_Radiometric_Terrain_Corrected_SAR_Sentinel-1,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-04-29-T20%3A31%3A11Z) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/90e7d2ce-2c6c-4bef-ac0a-bba1b53cb174" /> @asfadmin
+
 <img alt="image" src="https://github.com/user-attachments/assets/2187dc4a-84b9-469e-a1a9-2a9f30c2fbf7" />
 
 _OLDSiTE_ : [https://web.archive.org/web/20240229051326/https://ecostress.jpl.nasa.gov/news/111anasa-press-release/ecostress-sees-las-vegas-heat](https://web.archive.org/web/20240229051326/https://ecostress.jpl.nasa.gov/news/111anasa-press-release/ecostress-sees-las-vegas-heat) ////// _New Site_ [https://ecostress.jpl.nasa.gov/news/111anasa-press-release/ecostress-sees-las-vegas-heat](https://ecostress.jpl.nasa.gov/news/111anasa-press-release/ecostress-sees-las-vegas-heat)
