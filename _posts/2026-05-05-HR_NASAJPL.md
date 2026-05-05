@@ -12,6 +12,45 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+@nasa-jpl @la-county-isd @foratlanta @newshour
+
+@keishaforgovernor@gmail.com https://thakarashard.github.io/rashardmro/hr . . . 
+ @doug-newman-nasa @nasa-giss @whitehouse
+@douglas.j.newman@nasa.gov @Brennan, Jennifer L. (GSFC-423.0)[ADNET SYSTEMS INC] [Northsidehospital in Atlanta](https://www.visitsandysprings.org/directory/northside-hospital-atlanta/) is where coral iris kelly my child was born, They wanted her to receive bloodtransfusions. I was one of jehovahs witnesses at the time and need my behavior vouched for @letschat@virtiserv.com i denied her blood treatments because i was misguided, but the blooddless ideology saved her life i feel because she is making blood and the test were not that useful in modern neonatal... @chairmanoffice@isro.gov.in my live in spouse of the Time Erika Kelly was on my side. But like all NiCU marriages it dissolved into lies and adultery. She even ran the biggest strip club in atlanta as @keishaforgovernor@gmail.com @HollyJMitchell@bos.lacounty.gov they called it latto city under her rule @executiveoffice@bos.lacounty.gov @Aviris Exp Coord
+
+<img alt="image" src="https://github.com/user-attachments/assets/7fb8ba97-5c0b-4d40-8f08-6ddfd93bc1f4" />
+
+ 
+
+ I dont anticipate a major loss of blood so i need to review current medical practices if i create a child with another woman @normani@fifthharmonyofficial.com im just being real, thats my dirt @letschat@virtiserv.com im so sorry the kids were ding all around us. And i took what the watchtower leadership said to protect my family
+
+
+ <img  alt="image" src="https://github.com/user-attachments/assets/83f9eb03-c635-44dc-abb6-f11888680e8e" />
+
+ @usarmy.hunter.id-readiness.mbx.usag-command-group@army.mil @centcom.macdill.centcom-hq.mbx.family-readiness@mail.mil so sure you dont trust me @operations@wearebgc.org but at least i would not cultivate an environment to presexualize eher @keishaforgovernor@gmail.com i say this in peace and chasity that magic disrupted my fragile intimacy and i now have a missing tooth and laser scabs and arsenic traces on my flesh im sorry i did not know freedom was that offensive because at this point in time if georgia run strip clubs i deserve a second chance based on your dns results alone 
+YOU'RE GOING TO
+
+NASA's SpaceX 34th Commercial Resupply Services Mission Launch
+ORGANIZER MESSAGE
+We’re excited that you’ll be joining us virtually to celebrate the launch of SpaceX's 34th Commercial Resupply Mission for NASA!
+
+You may have seen “you’ve got tickets” above—rest assured, you do! However, this confirmation is your only digital ticket.
+To participate on launch day, simply follow this link: https://plus.nasa.gov/, visit the Eventbrite page, or check any future emails we’ll send about the mission. Please note, in-person or on-center activities are not included with your registration.
+
+Want to share this experience with friends, family, or fellow space enthusiasts? They’re welcome to join too! Just forward them the Virtual Guest web page to register: www.nasa.gov/virtualguest
+
+Less
+15 Registrations sent to
+holetoanotheruniverse40@gmail.comChange
+
+DATE
+Starts on Tuesday, May 12 · 4:16pm PDT
+
+ONLINE EVENT
+You will receive the link to the event content in your order confirmation email, and in a reminder email before the event starts.
+
+View Online Content
+<img  alt="image" src="https://github.com/user-attachments/assets/c6cf0b1c-f926-4598-83aa-dda26f58f8a9" />
 
 @nasa-jpl Coral Iris Kelly 
 
