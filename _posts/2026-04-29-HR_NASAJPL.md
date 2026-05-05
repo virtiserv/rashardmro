@@ -13,6 +13,63 @@ mathjax: true
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 
+@nasa-jpl Coral Iris Kelly 
+
+
+
+```shell
+Microsoft Windows [Version 10.0.19045.6456]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx northside.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+northside.com   MX preference = 10, mail exchanger = mxa-001b4601.gslb.pphosted.com
+northside.com   MX preference = 10, mail exchanger = mxb-001b4601.gslb.pphosted.com
+
+mxa-001b4601.gslb.pphosted.com  internet address = 148.163.156.20
+mxb-001b4601.gslb.pphosted.com  internet address = 148.163.156.20
+
+C:\Users\PAC>nslookup -type=mx fultoncountyga.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+fultoncountyga.gov      MX preference = 10, mail exchanger = mxb-0032a901.gslb.pphosted.com
+fultoncountyga.gov      MX preference = 10, mail exchanger = mxa-0032a901.gslb.pphosted.com
+
+mxb-0032a901.gslb.pphosted.com  internet address = 148.163.141.66
+mxa-0032a901.gslb.pphosted.com  internet address = 148.163.141.66
+
+C:\Users\PAC>nslookup -type=mx dfcs.georgia.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+dfcs.georgia.gov
+        primary name server = sogns5.state.ga.us
+        responsible mail addr = hostmaster.gta.ga.gov
+        serial  = 2004123210
+        refresh = 10800 (3 hours)
+        retry   = 3600 (1 hour)
+        expire  = 2592000 (30 days)
+        default TTL = 900 (15 mins)
+
+C:\Users\PAC>nslookup -type=mx georgia.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+georgia.gov     MX preference = 10, mail exchanger = mxb-003fd101.gslb.pphosted.com
+georgia.gov     MX preference = 10, mail exchanger = mxa-003fd101.gslb.pphosted.com
+
+mxb-003fd101.gslb.pphosted.com  internet address = 205.220.167.182
+mxa-003fd101.gslb.pphosted.com  internet address = 205.220.179.183
+
+C:\Users\PAC>
+
+```
 
 ## Dear Latrice
 [virtiserv](https://www.facebook.com/thevirtiservway/) // [@letschat@virtiserv.com](mailto:letschat@virtiserv.com) + [@letschat@virtiserv.com @nasa-jpl @nasa-pds @la-county-isd @cityoflosangeles @stateofcalifornia](mailto:letschat@virtiserv.com)
