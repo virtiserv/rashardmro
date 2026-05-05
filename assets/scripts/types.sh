@@ -1,21 +1,52 @@
-######################
+#################⁸#####
 echo "CURRENT DNS MAP"
-echo " #NEWS https://www.cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
 uptime
 cal
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns esa.int
+nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
+nslookup -type=mx bet.com
+nslookup -type=ns bet.com
+nslookup -type=mx tiktok.com
+nslookup -type=ns tiktok.com
+nslookup -type=ns facebook.com
+nslookup -type=mx facebook.com
+nslookup -type=ns essence.com
+nslookup -type=mx essence.com
+nslookup -type=ns ebony.com
+nslookup -type=ns ebony.com
 nslookup -type=ns usgs.gov
 nslookup -type=mx usgs.gov
 nslookup -type=ns usps.com
 nslookup -type=ns usps.com
-nslookup -type=mx usps.com
+nslookup -type=mx uspto.com
+nslookup -type=ns uspto.com
 nslookup -type=ns wp1-ext.usps.gov
 nslookup -type=mx wp1-ext.usps.gov
+
+## channels
+nslookup -type=ns cbs.com
+nslookup -type=mx cbs.com
+nslookup -type=any cbs.com
+
+nslookup -type=ns nbc.com
+nslookup -type=mx nbc.com
+nslookup -type=any nbc.com
+
+nslookup -type=ns foxnews.com
+nslookup -type=mx foxnews.com
+nslookup -type=any foxnews.com
+
+nslookup -type=ns abc.com
+nslookup -type=mx abc.com
+nslookup -type=any abc.com
 nslookup -type=mx lacourt.ca.gov
 nslookup -type=ns lacourt.ca.gov
 nslookup -type=ns lacourt.org
@@ -68,12 +99,17 @@ nslookup -type=mx fultoncountyga.gov
 nslookup -type=ns atlantaga.gov
 nslookup -type=mx atlantaga.gov
 nslookup -type=mx whitehouse.gov
-nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
 nslookup -type=mx metro.net
 nslookup -type=ns metro.net
 nslookup -type=ns amtrack.com
 nslookup -type=mx amtrack.com
+nslookup -type=ns bigbluebus.com
+nslookup -type=mx ladottransit.com
+ nslookup -type=ns bigbluebus.com
+nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
+traceroute ladottransit.com
 nslookup -type=ns lapdonline.org
 traceroute lapdonline.org
 nslookup -type=ns lacounty.gov
@@ -149,6 +185,7 @@ traceroute level2.net
 curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
+traceroute esa.int
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
 #whois lacourt.ca.gov
