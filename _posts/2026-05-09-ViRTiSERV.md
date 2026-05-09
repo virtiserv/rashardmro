@@ -8,8 +8,66 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
+## Rashard Kelly ...
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt="logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+## _HiView_ @nasa-pds
+
+[`uahirise.org/hiview/`](uahirise.org/hiview/) [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format
+[@blackgirlscode kim bryant for the girls @howard-university-web-services @apple @la-county-isd uahirise.org/hiview @nasa-pds can you push @whitehouse @commercegov @weather-gov](https://www.uahirise.org/hiview/)
+
+<img alt="mssiewe@Howard.edu" src="https://github.com/user-attachments/assets/d3a06f38-3c31-43ef-bb2d-7896fa550425" />
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Klx3TVvmIHA?si=D864BMdhlD7TL-Ee" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+ @nasa-jpl @blackgirlscode i was just burned somehow my sholder is on fire and my teeth were threatened!!!! @la-county-isd its radio bullying through the headphones high freuaQ KarenBassDaMAyor @CityOfLosAngeles @stateofcalifornia  
+ 
+<img  alt="image" src="https://github.com/user-attachments/assets/e531a71e-17c5-4804-be1a-15b9d7e73511" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/717cacc0-8a7d-4e52-804a-14d8fd0c5a45" />
+
+
+<img   alt="image @nasa-jpl @emit-sds @nasa-openscapes @doug-newman-nasa im watching the graduation @Nbcnews" src="https://github.com/user-attachments/assets/86dc0ad4-5865-4ee1-b25b-d1d992515493" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/286d9c2c-bac3-49f0-9430-045be900b56b" />
+
+<img  alt="image @howard-university-web-services trice will you marry me, id k what to do about normani but i been good! @blackgirlscode" src="https://github.com/user-attachments/assets/ef9b0359-28a2-48c0-a6d5-e81fda70de83" />
+
+
+## _HiView_ @nasa-pds
+
+[`uahirise.org/hiview/`](uahirise.org/hiview/) [letschat@virtiserv.com](mailto:letschat@virtiserv.com)
+
+HiView is a data explorer and image viewing application supporting the JPEG2000 image format
+[@blackgirlscode kim bryant for the girls @howard-university-web-services @apple @la-county-isd uahirise.org/hiview @nasa-pds can you push @whitehouse @commercegov @weather-gov](https://www.uahirise.org/hiview/)
+
+<img alt="mssiewe@Howard.edu" src="https://github.com/user-attachments/assets/d3a06f38-3c31-43ef-bb2d-7896fa550425" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/6f88d18d-f9e7-46c4-8af8-54311e32d867" />
+
+
+@whitehouse it looks like there is standing water to the northwest  @howard-university-web-services . . . @eu-cdse [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.90/-8586867.80/4718556.08&layers=aqv_chla_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=10.90/-8586867.80/4718556.08&layers=aqv_chla_20260503_landsat:1.00:0.00:30.00:default)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/127b2779-42fc-4d83-b3c7-93c4828a2171" />
 
 
 <picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
@@ -22,9 +80,24 @@ permalink: /virtiserv
   
 </picture>
 
-## Rashard Kelly 
-MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+
+`rashad james` [https://youtu.be/Klx3TVvmIHA](https://youtu.be/Klx3TVvmIHA)
+<img  alt="image" src="https://github.com/user-attachments/assets/68360e5c-5ef2-48d2-8d7c-f7a578b11623" />
+
+[https://www.crimemapping.com/map/ca/losangeles @la-county-isd im being harassed in the library @longbeachinnovationteam, i hope i dont lose a `ANOTHERTOOTH`!!!!](https://www.crimemapping.com/map/ca/losangeles) ![https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg](https://lasd.org/wp-content/uploads/2022/12/Sheriff-Luna-240x300.jpg) [https://lasd.org/](https://lasd.org/) @cloudflare i dont know your situation... but there was a lot of gunfire last night @LACMTA area and the @commercegov @trumpcard condition in networking and counterfitting... its just like yo talk to my boss @nasa-jpl im not interested in any contact at all! 
+
+<img alt="image" src="https://github.com/user-attachments/assets/1187d90c-3a94-45cb-9fff-72efa5d46bd0" />
+
+[https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168 @whitehouse hi! @nasa @lmco](https://search.earthdata.nasa.gov/search?lat=38.92221471633313&long=-77.01608820025304&zoom=16.395299004194168)
+<img alt="image" src="https://github.com/user-attachments/assets/81aac354-608a-4b9d-ba76-3558ad364deb" />
+
+@blackgirlscode sorry i missed a pic, it looked like rihanna... [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA)  @howard-university-web-services . . . @eu-cdse howard is not too far from @whitehouse and a lot of people online for the [Graduation](https://commencement.howard.edu/) @esa if you guys need perms for pics today is a good day @nasa @nasa-jpl @nasa-giss @nasa-openscapes @podaac 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/ad3b3904-10ca-4449-ae83-9e43cdf49952" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/ab60f112-9269-4b20-b27d-661bed324582" />
 
 
 [https://cd10.lacity.gov/](https://cd10.lacity.gov/) @la-county-isd here is a korean [@Nmap](https://nmap.org/book/) book [https://www.acornpub.co.kr/book/nmap](https://www.acornpub.co.kr/book/nmap) craft beef fat boy paranoia done infected your library ms bass @cityoflosangeles [ 502 Bad Gateway](https://www.acornpub.co.kr/book/nmap)
