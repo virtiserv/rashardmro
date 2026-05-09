@@ -1187,3 +1187,57 @@ virtiserv.com
 	expire = 604800
 	minimum = 600
 
+karenbass.com	mail exchanger = 5 alt1.aspmx.l.google.com.
+karenbass.com	mail exchanger = 5 alt2.aspmx.l.google.com.
+karenbass.com	mail exchanger = 1 aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt3.aspmx.l.google.com.
+karenbass.com	mail exchanger = 10 alt4.aspmx.l.google.com.
+google.com has address 142.251.116.138
+google.com has address 142.251.116.101
+google.com has address 142.251.116.102
+google.com has address 142.251.116.113
+google.com has address 142.251.116.139
+google.com has address 142.251.116.100
+google.com has IPv6 address 2607:f8b0:4023:1009::66
+google.com has IPv6 address 2607:f8b0:4023:1009::64
+google.com has IPv6 address 2607:f8b0:4023:1009::71
+google.com has IPv6 address 2607:f8b0:4023:1009::8a
+google.com mail is handled by 10 smtp.google.com.
+google.com has HTTP service bindings 1 . alpn="h2,h3"
+google.com	mail exchanger = 10 smtp.google.com.
+google.com	nameserver = ns1.google.com.
+google.com	nameserver = ns2.google.com.
+google.com	nameserver = ns4.google.com.
+google.com	nameserver = ns3.google.com.
+ns3.google.com	internet address = 216.239.36.10
+ns3.google.com	has AAAA address 2001:4860:4802:36::a
+ns2.google.com	internet address = 216.239.34.10
+ns2.google.com	has AAAA address 2001:4860:4802:34::a
+ns4.google.com	internet address = 216.239.38.10
+ns4.google.com	has AAAA address 2001:4860:4802:38::a
+ns1.google.com	internet address = 216.239.32.10
+ns1.google.com	has AAAA address 2001:4860:4802:32::a
+fbi.gov	nameserver = ns-cloud-e2.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e3.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e4.googledomains.com.
+fbi.gov	nameserver = ns-cloud-e1.googledomains.com.
+lacity.org	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.org	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.org	mail exchanger = 1 aspmx.l.google.com.
+lacity.org	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.org	mail exchanger = 5 alt1.aspmx.l.google.com.
+lacity.gov	mail exchanger = 1 aspmx.l.google.com.
+lacity.gov	mail exchanger = 5 alt2.aspmx.l.google.com.
+lacity.gov	mail exchanger = 10 alt4.aspmx.l.google.com.
+lacity.gov	mail exchanger = 10 alt3.aspmx.l.google.com.
+lacity.gov	mail exchanger = 5 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt1.aspmx.l.google.com.
+lapl.org	mail exchanger = 1 aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt4.aspmx.l.google.com.
+lapl.org	mail exchanger = 3 alt3.aspmx.l.google.com.
+lapl.org	mail exchanger = 2 alt2.aspmx.l.google.com.
