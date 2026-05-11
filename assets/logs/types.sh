@@ -53,7 +53,18 @@ dig nbcsports.com ALL
 nslookup -type=ns foxnews.com
 nslookup -type=mx foxnews.com
 nslookup -type=any foxnews.com
-
+## host fifa26     
+host -a fifa.com
+host -a espn.com
+host -a nba.com
+host -a smgov.net
+host -a santamonica.gov
+host -a governmentjobs.com
+host -a usajobs.gov
+host -a ocgov.com
+host -a sanbernardino.gov
+host -a sanbernardino.courts.ca.gov
+traceroute fifa.com
 nslookup -type=ns abc.com
 nslookup -type=mx abc.com
 nslookup -type=any abc.com
