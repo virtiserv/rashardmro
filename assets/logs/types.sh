@@ -1,6 +1,7 @@
 #################⁸#####
-echo "CURRENT DNS MAP"
-echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
+echo "CURRENT DNS MAP @la-county-isd @whitehouse investigate email tracetools"
+date
+echo " #NEWS ra5hard.github.io @nasa-jpl  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 echo "https://archive.org/details/losangelesenormo0000weav #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 uname -a
 ifconfig 
@@ -8,10 +9,14 @@ uptime
 cal
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -type=ns uahirise.org
+nslookup -type=mx uahirise.org
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
+nslookup -type=mx fifthharmony.com
+nslookup -type=ns fifthharmony.com
 nslookup -type=mx bet.com
 nslookup -type=ns bet.com
 nslookup -type=mx tiktok.com
@@ -48,13 +53,7 @@ dig nbcsports.com ALL
 nslookup -type=ns foxnews.com
 nslookup -type=mx foxnews.com
 nslookup -type=any foxnews.com
-nslookup -type=ns spectrum.com
-nslookup -type=mx spectrum.com
-nslookup -type=any spectrum.com
-dig spectrum.com ALL
-nslookup -type=ns thehollywoodtheater.com
-nslookup -type=mx thehollywoodtheater.com
-host google.com
+
 nslookup -type=ns abc.com
 nslookup -type=mx abc.com
 nslookup -type=any abc.com
@@ -199,6 +198,7 @@ curl whitehouse.gov
 traceroute esa.int
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
+echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
 #whois lacourt.ca.gov
 #whois lacourt.org
 #whois whitehouse.gov
