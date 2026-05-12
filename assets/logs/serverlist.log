@@ -7,8 +7,6 @@ uname -a
 ifconfig 
 uptime
 cal
-nslookup -type=ns spacex.com
-nslookup -type=mx spacex.com
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
@@ -66,7 +64,6 @@ host -a usajobs.gov
 host -a spokeo.com
 host -a sanbernardino.gov
 host -a sanbernardino.courts.ca.gov
-traceroute fifa.com
 host -a montebelloca.gov
 host -a library.municode.com
 nslookup -type=ns abc.com
@@ -82,7 +79,6 @@ nslookup -type=ns flylax.com
 nslookup -type=mx flylax.com
 nslookup -type=mx cia.gov
 nslookup -type=ns cia.gov
- traceroute google.com
  nslookup -type=mx google.com     
  nslookup -type=ns google.com
  nslookup -type=ns fbi.gov
@@ -134,9 +130,7 @@ nslookup -type=mx ladottransit.com
 nslookup -type=ns bigbluebus.com
 nslookup -type=mx ladottransit.com
 nslookup -type=mx lapdonline.org
-traceroute ladottransit.com
 nslookup -type=ns lapdonline.org
-traceroute lapdonline.org
 nslookup -type=ns lacounty.gov
 nslookup -type=mx lacounty.gov
 nslookup -type=ns commerce.gov
@@ -147,10 +141,8 @@ nslookup -type=mx  wellsfargo.com
 nslookup -type=ns  wellsfargo.com
 nslookup -type=ns musiccenter.org
 nslookup -type=mx musiccenter.org
-traceroute musiccenter.org
 nslookup -type=ns laopera.org 
 nslookup -type=mx laopera.org 
-traceroute laoperA.org
 nslookup -type=ns fire.ca.gov 
 nslookup -type=ns ca.gov
 nslookup -type=mx ca.gov
@@ -181,36 +173,21 @@ nslookup -type=ns commonspirit.org
 nslookup -type=ns dignityhealth.org
 nslookup -type=mx dignityhealth.org
 ping -c2 dignityhealth.org
-traceroute dignityhealth.org
 nslookup -type=ns starbucks.com
-traceroute  lacounty.gov
 ping -c2 lacounty.gov
-traceroute  fultoncountyga.gov
 ping -c2 fultoncountyga.gov
-traceroute  lacity.gov
 ping -c2 lacity.org
 ping -c2 lacity.gov
-traceroute  lacity.org
-traceroute longbeach.gov
 ping -c2 longbeach.gov
-traceroute whitehouse.gov
 ping -c2 whitehouse.gov
-traceroute nasa.gov
 ping -c2 nasa.gov
 ping -c2 lacourt.org
-traceroute lacourt.org
 ping -c2 lacourt.ca.gov
-traceroute lacourt.ca.gov
 ping -c1 state.gov 
-traceroute state.gov
 ping -c2 level3.net
-traceroute level3.net
-traceroute level1.net
-traceroute level2.net
 curl virtiserv.com
 curl nasa.gov
 curl whitehouse.gov
-traceroute esa.int
 nslookup -type=ns virtiserv.com
 nslookup -type=mx virtiserv.com
 echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html"
@@ -223,4 +200,3 @@ echo " #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.found
 #whois lacounty.gov
 #westernunion
 #usajobs.gov nasaforce
-traceroute en.beidou.gov.cn
