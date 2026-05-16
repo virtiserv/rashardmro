@@ -24,6 +24,15 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+@TheSpaceDevs @nasa-jpl i need to figure out how to contribute between here and the space station there is Solar and Geomagnetic activity that could affect the flight @nasa @blackgirlscode 
+
+```
+Solar Wind Speed: 681 km/sec 
+Solar Wind Magnetic Fields: Bt 4 nT, Bz -1 nT 
+Noon 10.7cm Radio Flux: 109 sfu
+```
+
+![https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg](https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg) ![https://services.swpc.noaa.gov/images/swx-overview-small.gif](https://services.swpc.noaa.gov/images/swx-overview-small.gif)
 
 @howard-university-web-services @blackgirlscode
 `Mary J. Blige - Sincerity (feat. DMX & Nas) {1999}` [Listen](https://youtu.be/b0PhxOv_8D0?si=q8YE_tQBdr2iuhwu)
