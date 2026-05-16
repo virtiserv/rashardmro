@@ -33,12 +33,31 @@ Inbox
 Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
 Attachments
 4:33 PM (0 minutes ago)
-to rashardsdata, Raquel.Monroe@howard.edu, phylicia.rashad@howard.edu, homiehelpline, HollyJMitchell@bos.lacounty.gov, keishaforgovernor@gmail.com, mayor@nola.gov, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, report@cisa.gov, normani@fifthharmonyofficial.com, Normaniofficial@outlook.com, operations@wearebgc.org, communications, dsnnow@jpl.nasa.gov, douglas.j.newman@nasa.gov, jisaacman@shift4.com, jimmyfallon@nbc.com, kathryn@bos.lacounty.gov, brewster.kahle@archive.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me, airbusgroup.web@airbus.com, Secretary.Weber@sos.ca.gov, earthdata-support@nasa.gov, letschat@virtiserv.com, lbpl_reference@lbpl.org, contact.lapdonline@gmail.com, FirstDistrict@bos.lacounty.gov, district5@longbeach.gov, denise.watts, mayor@longbeach.gov, benefits@howard.edu, The, mayor@miamidade.gov
+to rashardsdata, Raquel.Monroe@howard.edu, phylicia.rashad@howard.edu, homiehelpline,
+ HollyJMitchell@bos.lacounty.gov, keishaforgovernor@gmail.com, mayor@nola.gov, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, report@cisa.gov, normani@fifthharmonyofficial.com,
+ Normaniofficial@outlook.com, operations@wearebgc.org, communications, dsnnow@jpl.nasa.gov,
+ douglas.j.newman@nasa.gov, jisaacman@shift4.com, jimmyfallon@nbc.com, kathryn@bos.lacounty.gov,
+ brewster.kahle@archive.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me,
+ airbusgroup.web@airbus.com, Secretary.Weber@sos.ca.gov, earthdata-support@nasa.gov,
+letschat@virtiserv.com, lbpl_reference@lbpl.org, contact.lapdonline@gmail.com,
+FirstDistrict@bos.lacounty.gov, district5@longbeach.gov, denise.watts, mayor@longbeach.gov,
+benefits@howard.edu, The, mayor@miamidade.gov
 
 
 
-@normani@fifthharmonyofficial.com https://youtu.be/SSWjwB_hwaE?si=PbcRhv4wJC7zBZIk are you the real one, who is the dark skin girl that is not kashdoll imani nicole @letschat@virtiserv.com theres a darkskin girl who was in the bed you told me to buy coral... i woke up looking donw at her @phylicia.rashad@howard.edu im sorry @HollyJMitchell@bos.lacounty.gov can you tell erika daddy ? @douglas.j.newman@nasa.gov @keishaforgovernor@gmail.com erika still nasty 
-@mayor@longbeach.gov  if you have a howard grad that is mad im sorry and want to work it out @benefits@howard.edu  @Raquel.Monroe@howard.edu them girls over ran trice and i dont know if she will ever love me but i cannot move forward without her, erika, nicki minaj in behalf of muna ahmed, ellamai @normani@fifthharmonyofficial.com  @Normaniofficial@outlook.com  ... @katyperry@umgstores.com  i said i gave mna aids for attention because i knew she was fucking and erika was the only person i had sex with @homiehelpline@power106.com  @The White House im sorry latrice please forgive me!!!!! @mayor@longbeach.gov @mayor@miamidade.gov  i did not invite that girl in my bed, if anything i could gently call it lust rape
+@normani@fifthharmonyofficial.com https://youtu.be/SSWjwB_hwaE?si=PbcRhv4wJC7zBZIk are you the real one,
+who is the dark skin girl that is not kashdoll imani nicole @letschat@virtiserv.com theres a darkskin girl
+ who was in the bed you told me to buy coral... i woke up looking donw at her @phylicia.rashad@howard.edu
+im sorry @HollyJMitchell@bos.lacounty.gov can you tell erika daddy ? @douglas.j.newman@nasa.gov
+@keishaforgovernor@gmail.com erika still nasty
+
+@mayor@longbeach.gov  if you have a howard grad that is mad im sorry and want to work it out
+@benefits@howard.edu  @Raquel.Monroe@howard.edu them girls over ran trice and i dont know if she will ever
+ love me but i cannot move forward without her, erika, nicki minaj in behalf of muna ahmed, ellamai
+@normani@fifthharmonyofficial.com  @Normaniofficial@outlook.com  ... @katyperry@umgstores.com  i said i
+gave mna aids for attention because i knew she was fucking and erika was the only person i had sex with
+@homiehelpline@power106.com  @The White House im sorry latrice please forgive me!!!!! @mayor@longbeach.gov
+@mayor@miamidade.gov  i did not invite that girl in my bed, if anything i could gently call it lust rape
 ```
 
 @howard-university-web-services @blackgirlscode
