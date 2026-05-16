@@ -24,15 +24,13 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
-@TheSpaceDevs @nasa-jpl i need to figure out how to contribute between here and the space station there is Solar and Geomagnetic activity that could affect the flight @nasa @blackgirlscode 
+@TheSpaceDevs @nasa-jpl i need to figure out how to contribute between here and the space station there is Solar and Geomagnetic activity that could affect the flight @nasa @blackgirlscode ... @commercegov can you guys get this to [FlightOperaTions? @nasa-jsc-robotics @nasa @dhs-gov](https://www.nasa.gov/reference/jsc-spaceflight-operations/) 
 
-```
+```shell
 Solar Wind Speed: 681 km/sec 
 Solar Wind Magnetic Fields: Bt 4 nT, Bz -1 nT 
 Noon 10.7cm Radio Flux: 109 sfu
 ```
-
-![https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg](https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg) ![https://services.swpc.noaa.gov/images/swx-overview-small.gif](https://services.swpc.noaa.gov/images/swx-overview-small.gif)
 
 @howard-university-web-services @blackgirlscode
 `Mary J. Blige - Sincerity (feat. DMX & Nas) {1999}` [Listen](https://youtu.be/b0PhxOv_8D0?si=q8YE_tQBdr2iuhwu)
@@ -40,6 +38,68 @@ Noon 10.7cm Radio Flux: 109 sfu
 
 
 @blackgirlscode @la-county-isd @nasa-pds @Nasa-OPENSCAPES @doug-newman-nasa food is on the way @blueorigin [Expedition74](https://www.nasa.gov/blogs/spacestation/)
+
+```shell
+:Product: 3-Day Forecast
+:Issued: 2026 May 16 1230 UTC
+# Prepared by the U.S. Dept. of Commerce, NOAA, Space Weather Prediction Center
+#
+A. NOAA Geomagnetic Activity Observation and Forecast
+
+The greatest observed 3 hr Kp over the past 24 hours was 6 (NOAA Scale
+G2).
+The greatest expected 3 hr Kp for May 16-May 18 2026 is 5.67 (NOAA Scale
+G2).
+
+NOAA Kp index breakdown May 16-May 18 2026
+
+             May 16       May 17       May 18
+00-03UT       5.67 (G2)    3.00         3.33     
+03-06UT       5.33 (G1)    4.67 (G1)    3.33     
+06-09UT       4.67 (G1)    3.33         2.00     
+09-12UT       3.67         3.00         2.00     
+12-15UT       4.00         3.00         3.00     
+15-18UT       4.00         3.67         3.33     
+18-21UT       4.67 (G1)    3.33         3.33     
+21-00UT       4.33         2.67         3.00     
+
+Rationale: G1-G2 (Minor-Moderate) geomagnetic storms are likely on 16
+May due to the CIR associated with a positive polarity CH HSS. G1
+(Minor) storming levels are likely on 17 May due to the CH HSS
+persistence.
+
+B. NOAA Solar Radiation Activity Observation and Forecast
+
+Solar radiation, as observed by NOAA GOES-19 over the past 24 hours, was
+below S-scale storm level thresholds.
+
+Solar Radiation Storm Forecast for May 16-May 18 2026
+
+              May 16  May 17  May 18
+S1 or greater    5%      5%      5%
+
+Rationale: No S1 (Minor) or greater solar radiation storms are expected.
+No significant active region activity favorable for radiation storm
+production is forecast.
+
+C. NOAA Radio Blackout Activity and Forecast
+
+No radio blackouts were observed over the past 24 hours.
+
+Radio Blackout Forecast for May 16-May 18 2026
+
+              May 16        May 17        May 18
+R1-R2           30%           30%           25%
+R3 or greater    1%            1%            1%
+
+Rationale: There is a decreasing chance for R1-R2 (Minor-Moderate) radio
+blackouts through 18 May due to the flare potential of the regions on
+the Suns visible disk.
+```
+
+![https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg](https://www.spacex.com/assets/images/human-spaceflight/iss/iss_infographic.svg) ![https://services.swpc.noaa.gov/images/swx-overview-small.gif](https://services.swpc.noaa.gov/images/swx-overview-small.gif)
+
+
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Watch Falcon 9 launch Dragon to the <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@Space_Station</a> <a href="https://t.co/TaXjYl6jdX">https://t.co/TaXjYl6jdX</a></p>&mdash; SpaceX (@SpaceX) <a href="https://twitter.com/SpaceX/status/2054699630135259538?ref_src=twsrc%5Etfw">May 13, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
