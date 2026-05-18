@@ -19,7 +19,8 @@ permalink: /smartphone1
 </picture>
 
 
-# my c8 specs @nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
+# my c8 specs 
+@nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
 
 
 ## Termux App Info
@@ -36,7 +37,7 @@ permalink: /smartphone1
 **SE_INFO**: `default:targetSdkVersion=28:complete`  
 **TERMUX_APP_PACKAGE_MANAGER**: `APT`  
 **TERMUX_APP_PACKAGE_VARIANT**: `APT_ANDROID_7`  
-**APK_RELEASE**: `Github`  
+**APK_RELEASE**: `@Github`  
 **SIGNING_CERTIFICATE_SHA256_DIGEST**: `B6DA01480EEFD5FBF2CD3771B8D1021EC791304BDD6C4BF41D3FAABAD48EE5E1`  
 ##
 
