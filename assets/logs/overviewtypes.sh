@@ -18,6 +18,10 @@ nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=ns global.jaxa.jp
 nslookup -type=mx global.jaxa.jp
+nslookup -type=ns navy.mil
+nslookup -type=mx navy.mil
+nslookup -type=ns navy.com
+nslookup -type=mx navy.com
 nslookup -type=ns gov.uk
 nslookup -type=mx gov.uk
 dig whitehouse.gov NS +trace
@@ -60,7 +64,7 @@ nslookup -type=ns karenbass.com
 nslookup -type=mx raulclaros.com
 nslookup -type=ns raulclaros.com
 host raulclaros.com
-traceroute jaxa.jp
+traceroute global.jaxa.jp
 traceroute la28.org
 host la28.org
 nslookup -type=mx la28.org
