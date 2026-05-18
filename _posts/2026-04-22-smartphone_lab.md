@@ -19,6 +19,109 @@ permalink: /smartphone1
 </picture>
 
 
+# my c8 specs @nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
+
+
+## Termux App Info
+
+**APP_NAME**: `Termux`  
+**PACKAGE_NAME**: `com.termux`  
+**VERSION_NAME**: `0.119.0-beta.3`  
+**VERSION_CODE**: `1022`  
+**UID**: `10233`  
+**TARGET_SDK**: `28`  
+**IS_DEBUGGABLE_BUILD**: `true`  
+**SE_PROCESS_CONTEXT**: `u:r:untrusted_app_27:s0:c233,c256,c512,c768`  
+**SE_FILE_CONTEXT**: `u:object_r:app_data_file:s0:c233,c256,c512,c768`  
+**SE_INFO**: `default:targetSdkVersion=28:complete`  
+**TERMUX_APP_PACKAGE_MANAGER**: `APT`  
+**TERMUX_APP_PACKAGE_VARIANT**: `APT_ANDROID_7`  
+**APK_RELEASE**: `Github`  
+**SIGNING_CERTIFICATE_SHA256_DIGEST**: `B6DA01480EEFD5FBF2CD3771B8D1021EC791304BDD6C4BF41D3FAABAD48EE5E1`  
+##
+
+
+
+
+## Termux:Styling App Info
+
+**APP_NAME**: `Termux:Styling`  
+**PACKAGE_NAME**: `com.termux.styling`  
+**VERSION_NAME**: `0.32.1`  
+**VERSION_CODE**: `1000`  
+**UID**: `10233`  
+**TARGET_SDK**: `28`  
+**IS_DEBUGGABLE_BUILD**: `true`  
+**SE_PROCESS_CONTEXT**: `u:r:untrusted_app_27:s0:c233,c256,c512,c768`  
+**SE_FILE_CONTEXT**: `u:object_r:app_data_file:s0:c233,c256,c512,c768`  
+**SE_INFO**: `default:targetSdkVersion=28:complete`  
+**APK_RELEASE**: `Github`  
+**SIGNING_CERTIFICATE_SHA256_DIGEST**: `B6DA01480EEFD5FBF2CD3771B8D1021EC791304BDD6C4BF41D3FAABAD48EE5E1`  
+##
+
+
+## Device Info
+
+### Software
+
+**OS_VERSION**: `4.19.191`  
+**SDK_INT**: `33`  
+**RELEASE**: `13`  
+**ID**: `TP1A.260309.1945`  
+**DISPLAY**: `Stratus_C8_V212`  
+**INCREMENTAL**: `p1rck6985v164P20`  
+**SECURITY_PATCH**: `2026-03-05`  
+**IS_DEBUGGABLE**: `0`  
+**IS_TREBLE_ENABLED**: `true`  
+**TYPE**: `user`  
+**TAGS**: `release-keys`  
+**MAX_PHANTOM_PROCESSES**: - (*Requires `DUMP` and `PACKAGE_USAGE_STATS` permission*)  
+**MONITOR_PHANTOM_PROCS**: `true`  
+**DEVICE_CONFIG_SYNC_DISABLED**: -  
+
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**MODEL**: `Stratus C8`  
+**PRODUCT**: `Stratus_C8`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_ABIS**: `arm64-v8a, armeabi-v7a, armeabi`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+##
+
+
+## Important Links
+
+### GitHub
+
+[Termux](https://github.com/termux/termux-app)  
+[Termux:API](https://github.com/termux/termux-api)  
+[Termux:Boot](https://github.com/termux/termux-boot)  
+[Termux:Float](https://github.com/termux/termux-float)  
+[Termux:Styling](https://github.com/termux/termux-styling)  
+[Termux:Tasker](https://github.com/termux/termux-tasker)  
+[Termux:Widget](https://github.com/termux/termux-widget)  
+[termux-packages](https://github.com/termux/termux-packages)  
+
+### Email
+
+[support@termux.dev](mailto:support@termux.dev)  
+
+### Reddit
+
+[r/termux](https://www.reddit.com/r/termux)  
+
+### Wiki
+
+[Termux Wiki](https://wiki.termux.com)  
+[Termux](https://github.com/termux/termux-app/wiki)  
+[termux-packages](https://github.com/termux/termux-packages/wiki)  
+##
+
 # DNS
 Latrice, hello madam, I was troubleshooting wifi. We got a letter from spaceforce about [anomolies](https://www.space.com/space-force-domain-awareness-abnormal-observables) @blackgirlscode @la-county-isd somone is using a pulse weapon to force word through me in the library. Im in chinatown. Anyway Latrice you dns providers domain is blocked in this @CityOfLosAngeles library system. I was trying to visit Eric @Meyerweb Meyer on coincidence to get a css reference from ... I mentioned him here [rashardmro/changelog](https://thakarashard.github.io/rashardmro/changelog). His website is on the same infrastructure you are on but yours are serving out of [LAX](https://www.lawa.org/lawa-environment/lawa-mobility) `Server: swg-nginx-proxy-https-3d73b5d81995.signginx.lax` his was denver... The Legalities of the messages i mailed to [LetsChat@vertiserv.com](mailto:virtiserv.com) are expansive, because [certain transactions are illegal beyond state borders](https://www.law.cornell.edu/wex/mann_act) ! So here we have it [@nasa-jpl and @LACountyDPH DignityHealthdare.org](https://www.dignityhealth.org/socal/locations/californiahospital/services/surgery?&utm_source=Horizon&utm_medium=GoogleSearch&utm_campaign=178903953022&utm_content=760767246382&cmp=FYAO_HMI_SRCH_CSH_CARG_CASC_LOSA_CHMC_GNS_NSP_&ef_id=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE:G:s&s_kwcid=AL!12184!3!760767246382!b!!g!!dignity%20health%20hernia%20repair!22730005150!178903953022&gad_source=1&gad_campaignid=22730005150&gbraid=0AAAAAC4mL6bd8v-YrrmSULcMcq5UrNZfM&gclid=CjwKCAjw46HPBhAMEiwASZpLRE_Dwq3RNq7hbOGelgc_uxoU5Sf2PY_KAilIzClQi0VgxspVltrUvhoC2rcQAvD_BwE)
 
