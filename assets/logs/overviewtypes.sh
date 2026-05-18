@@ -10,18 +10,22 @@ date
 ulimit -a
 traceroute localhost
 cal
+nslookup -type=mx whitehouse.gov
+nslookup -type=ns whitehouse.gov
+nslookup -type=mx war.gov
+nslookup -type=ns war.gov
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
 nslookup -type=ns uahirise.org
 nslookup -type=mx uahirise.org
-nslookup -type=ns esa.int
-nslookup -type=mx esa.int
-nslookup -type=ns global.jaxa.jp
-nslookup -type=mx global.jaxa.jp
 nslookup -type=ns navy.mil
 nslookup -type=mx navy.mil
 nslookup -type=ns navy.com
 nslookup -type=mx navy.com
+nslookup -type=ns esa.int
+nslookup -type=mx esa.int
+nslookup -type=ns global.jaxa.jp
+nslookup -type=mx global.jaxa.jp
 nslookup -type=ns gov.uk
 nslookup -type=mx gov.uk
 dig whitehouse.gov NS +trace
@@ -30,8 +34,6 @@ host trumpcard.gov
 host commerce.gov
 host usgs.gov
 host pbs.org
-nslookup -type=mx whitehouse.gov
-nslookup -type=ns whitehouse.gov
 nslookup -type=ns usps.com
 nslookup -type=mx usps.com
 dig usps.com ANY
