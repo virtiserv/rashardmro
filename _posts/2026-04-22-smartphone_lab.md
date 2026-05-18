@@ -18,6 +18,7 @@ permalink: /smartphone1
   
 </picture>
 
+[https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/](https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/)
 
 # my c8 specs 
 @nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
