@@ -56,7 +56,7 @@ Non-authoritative answer:
 ;deptofwar.gov.                 IN    A
 
 ;; AUTHORITY SECTION:
-gov.                    286     IN    SOA      a.ns.gov. dns.cloudflare.com. 1779154215 3600 900 604800 300
+gov.                    286     IN    SOA      a.ns.gov. dns. @cloudflare .com. 1779154215 3600 900 604800 300
 
 ;; Query time: 40 msec
 ;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
