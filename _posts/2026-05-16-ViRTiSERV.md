@@ -24,6 +24,50 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+@whitehouse @nasa-jpl @usnavy @dhs-gov @deptofwar ...
+
+
+```
+~ $ host deptofwar.gov
+~ $ host war.gov
+war.gov has address 173.223.234.204
+war.gov has address 173.223.234.202
+war.gov has IPv6 address 2600:1406:6c00::172d:c29
+war.gov has IPv6 address 2600:1406:6c00::172d:c23
+~ $ nslookup deptofwar.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find deptofwar.gov: No answer
+
+~ $ dig deptofwar.gov
+
+; <<>> DiG 9.20.22 <<>> deptofwar.gov
+;; global options: +cmd
+;; Got answer:
+;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 36434
+;; flags: qr rd ra ad; QUERY: 1, ANSWER: 0, AUTHORITY: 1, ADDITIONAL: 1
+
+;; OPT PSEUDOSECTION:
+; EDNS: version: 0, flags:; udp: 512
+;; QUESTION SECTION:
+;deptofwar.gov.                 IN    A
+
+;; AUTHORITY SECTION:
+gov.                    286     IN    SOA      a.ns.gov. dns.cloudflare.com. 1779154215 3600 900 604800 300
+
+;; Query time: 40 msec
+;; SERVER: 8.8.8.8#53(8.8.8.8) (UDP)
+;; WHEN: Mon May 18 18:34:31 PDT 2026
+;; MSG SIZE  rcvd: 101
+
+~ $
+```
+
+
+
 [<video controls src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
 
 
