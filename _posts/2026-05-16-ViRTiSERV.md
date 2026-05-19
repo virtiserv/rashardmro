@@ -25,6 +25,37 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+<div class="tupperware">
+    
+<img  alt="tumblr_16752e39cdb6194a4f62060027db7b9c_0f969229_1280" src="https://github.com/user-attachments/assets/5192df30-4d07-49cd-a186-4bfafd7f009e" />
+
+<img alt="tumblr_a77499e4be0dcfcd54484bb0394183cb_6560fc27_1280" src="https://github.com/user-attachments/assets/05f3722f-4519-439a-b7fa-3bc049d902a6" />
+
+
+</div>
+
+
+## SpaceX Dragon Docks to Station Filled with New Science Experiments
+[ReAD](https://www.nasa.gov/blogs/spacestation/2026/05/17/spacex-dragon-docks-to-station-filled-with-new-science-experiments/) _`May 17, 2026: International Space Station Configuration. Six spaceships are parked at the space station including the SpaceX CRS-34 Dragon, the SpaceX Crew-12 Dragon, Northrop Grumman’s Cygnus XL, the Soyuz MS-28 crew ship, and the Progress 94 and 95 resupply ships'_ [@NASA ON @x](https://x.com/NASASpaceOps/status/1938339542366335343?s=20)
+
+@nasa-pds @nasa 
+My sleep was disrupted a lot for this leg of [Expedition 74](https://www.flickr.com/photos/nasa2explore/albums/72177720327960048/with/55268131033) I got what i could and learned I can check on the flight path next time i have downtime after separation @deptofwar @blueorigin @TheSpaceDevs 
+[Tumblr Docking](https://rashardmro.tumblr.com/post/816912772915953664/linkedin-offficial-brandybrandybrandy-pass-to) // [SpaceX Dragon, Cargo Mission on @tumblr](https://rashardmro.tumblr.com/post/816864352725532672/live-abc7-eyewitness-news) //// @natgeosociety contact [Karen Bass](https://www.congress.gov/member/karen-bass/B001270) and make sure se saw [ `LA92` youtu.be/uaotkHlHJwo?si=NYSX0dyvp05kZCng](https://youtu.be/uaotkHlHJwo?si=NYSX0dyvp05kZCng) as it was intended to be presented @foxnews @cbsnewsdata @washingtonpost @blackgirlscode 
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">LIVE: After Wednesday&#39;s launch attempt was postponed due to inclement weather, tune in for today&#39;s live coverage of our next cargo resupply mission to the <a href="https://twitter.com/Space_Station?ref_src=twsrc%5Etfw">@Space_Station</a>. Liftoff is scheduled for 6:05pm ET (2205 UTC). <a href="https://t.co/yss9zNq5TJ">https://t.co/yss9zNq5TJ</a></p>&mdash; NASA (@NASA) <a href="https://twitter.com/NASA/status/2055404338537771141?ref_src=twsrc%5Etfw">May 15, 2026</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<img  alt="tumblr_a9bcd1114ed43360c663b55c85dad7cc_ad69853a_1280" src="https://github.com/user-attachments/assets/c2fa8737-dff4-461a-8f79-d7a04dbbe03c" />
+<img   alt="tumblr_25f59dbcaedee93c4410238325e18a74_dd57c280_1280" src="https://github.com/user-attachments/assets/ca8df425-5319-490d-8a1e-f185dc90e955" />
+<img   alt="tumblr_150232662716286d6b8688769930eeaa_d7728859_1280" src="https://github.com/user-attachments/assets/ab06687d-e590-4775-857a-ff325c574b65" />
+<img   alt="tumblr_a664cd806974df500bcbf712603777db_cd7d23e0_1280" src="https://github.com/user-attachments/assets/21be6093-0512-43c7-b43a-1da6cb768ac0" />
+<img  alt="tumblr_b43b930e5be7863c383dc566233fe290_552f5adc_1280" src="https://github.com/user-attachments/assets/53550bb8-40ce-4a80-aa49-33346c935a9b" />
+<img   alt="tumblr_98afd2388f02f22b0a4dd4c8030c1115_3a182a87_1280 (1)" src="https://github.com/user-attachments/assets/13962fff-c8da-4dca-85fa-0199bbe3e877" />
+<img   alt="tumblr_174bd7c2fc311df8ce92ffb48637555e_b1a6d772_1280" src="https://github.com/user-attachments/assets/6136d6bc-c1fa-46bd-ba33-9322a3505806" />
+
+
+
+[<video controls src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
+
 @whitehouse @nasa-jpl @usnavy @dhs-gov @deptofwar ...
 
 
@@ -67,8 +98,6 @@ gov.                    286     IN    SOA      a.ns.gov. dns. @cloudflare .com. 
 ```
 
 
-
-[<video controls src="https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4" />](https://sdo.gsfc.nasa.gov/assets/img/latest/mpeg/latest_1024_0193.mp4)
 
 
 @nasa `https://mail.google.com/mail/u/0/#sent/KtbxLwHQBSrjGQKJWmXhBhbxQnQSkclShg` @blackgirlscode
