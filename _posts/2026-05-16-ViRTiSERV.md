@@ -25,6 +25,26 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+[Madden Screens on android](https://rashardmro.tumblr.com/post/816827131037401088) // [NatGeoSociety - _LA92_@CityOfLosAngeles @Blackgirlscode @dhs-gov @icegov](https://rashardmro.tumblr.com/post/816918203134541824/la-92-full-documentary-national-geographic?is_related_post=1)
+<img alt="tumblr_47c08880567a0dbb9b587bcfb30b443d_74c737c5_1280" src="https://github.com/user-attachments/assets/ef60ee5d-35f4-43d8-b856-b2aadec36c4f" />
+
+
+PSP 
+<img  alt="tumblr_09763d15c01ccc690b762038726ecdd3_abf9d015_1280" src="https://github.com/user-attachments/assets/a9b26184-7162-4e8d-9977-4ae7c0f869f3" />
+
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+
+
+
+
 [@nasa-pds @usgs @la-county-isd - > Gallery code on @codepen](https://codepen.io/thakarashard/pen/MWMGKga) Look at the fork tree
 
 <img  alt="image" src="https://github.com/user-attachments/assets/cde1c32c-0c68-486d-afd1-4dbfece2552c" />
