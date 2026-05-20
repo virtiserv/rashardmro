@@ -18,6 +18,25 @@ permalink: /smartphone1
   
 </picture>
 
+<div class="border"> </div>
+
+<div class="vert-container">
+
+  <div class="vert-items"> <a href="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png"> <img src="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png" /></a>
+  </div>
+
+  <div class="vert-items"> <a href="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/tumblr_ffad01a5efeab38bd059ca55252599d8_b4ac91b9_1280.png"> <img src="https://raw.githubusercontent.com/ThakaRashard/ricothaka/refs/heads/master/assets/images/android528/pulstar.png" /></a>
+  </div>
+
+</div>
+
+<div class="vert-container">
+  <div class="vert-items"> <a href="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/deban.png?raw=true"> <img src="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/deban.png?raw=true" /></a>
+  </div>
+  <div class="vert-items"> <a href="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/lbpl.jpg?raw=true"> <img src="https://github.com/ThakaRashard/ricothaka/blob/master/assets/images/android528/lbpl.jpg?raw=true" /></a>
+  </div>
+</div>
+<div class="border"> </div>
 
 [ @la-county-isd @stateofcalifornia prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
