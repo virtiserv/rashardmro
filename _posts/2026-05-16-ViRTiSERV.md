@@ -860,4 +860,43 @@ Artemis 2 LIVE: Astronauts begin stowing their gear for return Wednesday, April 
 <img  alt="image" src="https://github.com/user-attachments/assets/7d71c9cc-8559-4d4c-bd40-3da58be2492c" />
 
 
+
+
+# RoverInventory
+| Year | Rover| HomePAge |
+| ---- | ------------- | ---- |
+| xxxx | Opportunity | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Spirit | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/) |
+| xxxx | Curiosity | [Info](https://www.jpl.nasa.gov/missions/mars-science-laboratory-curiosity-rover-msl/) |
+| xxxx | Sojourner | [Info](https://www.jpl.nasa.gov/missions/mars-exploration-rover-opportunity-mer/) |
+| xxxx | Perseverance | [Info](https://science.nasa.gov/mission/mars-2020-perseverance/) |
+| xxxx | PathFinDer| [Info](https://photojournal.jpl.nasa.gov/spacecraft/Mars+Pathfinder+Rover) |
+    
+
+![ROVERWHEELS](https://upload.wikimedia.org/wikipedia/commons/1/10/H_rover-comp_wheels_02.jpg)
+![Sorjourner](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/PIA01551.jpg/1024px-PIA01551.jpg)  
+
+# Mars Reconnaissance Orbiter 
+>Jim Taylor, Dennis K. Lee, and Shervin Shambayati 
+## 6.1 Mission Overview
+The Mars Reconnaissance Orbiter (MRO) [1, 2] has a suite of instruments
+making observations at Mars, and it provides data-relay services for Mars
+landers and rovers. MRO was launched on August 12, 2005. The orbiter
+successfully went into orbit around Mars on March 10, 2006 and began
+reducing its orbit altitude and circularizing the orbit in preparation for the
+science mission. The orbit changing was accomplished through a process called 
+[<img src="http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png" alt="Thanks for SPaceforce Donald, Thanks for Protecting Oaklands girls like Erika so she still have her oakland grandchild re: constancia, bernadette" />](http://www.spaceopedia.com/wp-content/uploads/2016/11/Mars_Reconnaissance_Orbiter-insignia.png) 
+aerobraking, in preparation for the “science mission” starting in November
+2006, followed by the “relay mission” starting in November 2008. MRO
+participated in the Mars Science Laboratory touchdown and surface mission
+that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nasa.gov/monograph/series13/DeepCommo_Chapter6--141029.pdf) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the surface of Mars for a long period of time. [ActiveMission - DoD](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/)
+
+
+[SDO_LAB_BLOGSPOT](https://sdoisgo.blogspot.com/2025/08/new-ai-model-based-on-sdo-data.html) [BLOG](https://sdoisgo.blogspot.com/p/the-sun-now.html) [@nasa-jpl](https://sdo.gsfc.nasa.gov/) @nasa-develop @GEOS-ESM
+
+<img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
+
+![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
+
+
 [πhttps://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI](https://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI) // [https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8](https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8) // [https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6](https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6) @whitehouse @nasa-jpl @la-county-isd
