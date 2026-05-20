@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "smartphone_lab @nasa-jpl"
-date:   2026-04-22 15:38:06 -0800
+date:   2026-05-20 05:38:06 -0800
 categories: android linux gaming smartphone_lab handheld
 published: true
 image: C8RenderHeader_03.webp
@@ -22,9 +22,11 @@ permalink: /smartphone1
 [ @la-county-isd @stateofcalifornia prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
 <img alt="tumblr_20314efa840849119aa130534117d035_f3195337_1280" src="https://github.com/user-attachments/assets/5228474c-bb6f-4dcf-882d-2ac2e5d25163" />
-[ @whitehouse @CityOfLosAngeles @blackgirlscode prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
+
+[@whitehouse @CityOfLosAngeles @blackgirlscode prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf](prisonpolicy.org/scans/council_canadian_academics/The%20Health%20Effects%20of%20Conducted%20Energy%20Weapons.pdf)
 
 [@CityOfLosAngeles @nasa-jpl pubmed.ncbi.nlm.nih.gov/33576818/ @NIHGOV](https://pubmed.ncbi.nlm.nih.gov/33576818/)
+
 <img  alt="tumblr_ec60c5d536f6ff51dfae060c429d867a_f4c89e6c_1280" src="https://github.com/user-attachments/assets/c2fc86ff-1bff-4d52-a8d2-1fe34749e0cb" />
 
 <img  alt="image" src="https://github.com/user-attachments/assets/74509e8b-f820-49ba-9f9d-08196ac6504c" />
