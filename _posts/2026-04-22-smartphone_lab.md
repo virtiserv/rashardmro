@@ -20,6 +20,47 @@ permalink: /smartphone1
 
 [https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/](https://www.reddit.com/r/cybersecurity_help/comments/1hvy0vy/what_is_a_captive_portal_login/)
 
+### Hardware
+
+**MANUFACTURER**: `Cloud Mobile`  
+**BRAND**: `Cloud_Mobile`  
+**BOARD**: `W20_X65`  
+**HARDWARE**: `mt6765`  
+**DEVICE**: `Stratus_C8`  
+**SUPPORTED_32_BIT_ABIS**: `armeabi-v7a, armeabi`  
+**SUPPORTED_64_BIT_ABIS**: `arm64-v8a`  
+
+@nasa @activision <img  alt=" @nasa @activision tumblr_a721b5f901f41436c7a3d577177af3d8_d634f14b_1280" src="https://github.com/user-attachments/assets/f9dbbc0f-5a10-40dc-b43c-386e78c7acfb" />
+
+
+[Madden Screens on android](https://rashardmro.tumblr.com/post/816827131037401088) // [NatGeoSociety - _LA92_@CityOfLosAngeles @Blackgirlscode @dhs-gov @icegov](https://rashardmro.tumblr.com/post/816918203134541824/la-92-full-documentary-national-geographic?is_related_post=1)
+<img alt="tumblr_47c08880567a0dbb9b587bcfb30b443d_74c737c5_1280" src="https://github.com/user-attachments/assets/ef60ee5d-35f4-43d8-b856-b2aadec36c4f" />
+
+
+PSP 
+<img  alt="tumblr_09763d15c01ccc690b762038726ecdd3_abf9d015_1280" src="https://github.com/user-attachments/assets/a9b26184-7162-4e8d-9977-4ae7c0f869f3" />
+
+
+SNES 
+<img  alt="tumblr_30dabd9981efe3ea0ff33e8291ecea62_70d3e949_1280" src="https://github.com/user-attachments/assets/db8dff63-b0dd-497b-9982-1ecac905f957" />
+<img  alt="tumblr_58436a88d92fe9d628d5bbe1352f38a0_2d083e14_1280" src="https://github.com/user-attachments/assets/b69235a7-e50c-4a00-b28e-3cbb66961ac2" />
+<img   alt="tumblr_74f1b71e972dd6a477fd2214bd7567a6_a5136724_1280" src="https://github.com/user-attachments/assets/a62cd177-116d-41be-af43-4866bfffc43f" />
+
+
+
+[@nasa-pds @usgs @la-county-isd - > Gallery code on @codepen](https://codepen.io/thakarashard/pen/MWMGKga) Look at the fork tree
+
+<img  alt="image" src="https://github.com/user-attachments/assets/cde1c32c-0c68-486d-afd1-4dbfece2552c" />
+
+<div class="tupperware">
+    
+<img  alt="tumblr_16752e39cdb6194a4f62060027db7b9c_0f969229_1280" src="https://github.com/user-attachments/assets/5192df30-4d07-49cd-a186-4bfafd7f009e" />
+
+<img alt="tumblr_a77499e4be0dcfcd54484bb0394183cb_6560fc27_1280" src="https://github.com/user-attachments/assets/05f3722f-4519-439a-b7fa-3bc049d902a6" />
+
+
+</div>
+
 # my c8 specs 
 @nasa-jpl @linkedin @CityOfLosAngeles @blackgirlscode
 
