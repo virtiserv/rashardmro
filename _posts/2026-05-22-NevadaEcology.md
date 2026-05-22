@@ -33,8 +33,13 @@ date:   2026-02-19 8:51:06
 # Rashard Kelly 
  MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+## Nevada State Treasurer's Office 
+@la-county-isd they are our neigbors if they are corrupt we are in grave danger @blackgirlscode so-and-so say she dont want the strip or the pole no mo, i wanna settle anyway @whitehouse 
 
+[Zach Conine](https://nast.org/leadership/hon-zach-conine/) - Treasurer [https://www.nevadatreasurer.gov/](https://www.nevadatreasurer.gov/)
 <img  alt="image" src="https://github.com/user-attachments/assets/79186167-55f3-4f5d-ba9e-1ee4acd277c3" />
+
+![https://www.nevadatreasurer.gov/uploadedImages/treasurernvgov/content/Home/Features/Front%20Page%20Headshot.jpg](https://www.nevadatreasurer.gov/uploadedImages/treasurernvgov/content/Home/Features/Front%20Page%20Headshot.jpg) 
 
 ```shell
 
@@ -78,6 +83,35 @@ d247845b.ess.barracudanetworks.com      internet address = 209.222.82.252
 d247845a.ess.barracudanetworks.com      internet address = 209.222.82.255
 d247845a.ess.barracudanetworks.com      internet address = 209.222.82.253
 d247845a.ess.barracudanetwork
+
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        MX preference = 10, mail exchanger = mx0.topicbox.com
+nast.org        MX preference = 10, mail exchanger = mx1.topicbox.com
+
+mx0.topicbox.com        internet address = 103.168.172.232
+mx1.topicbox.com        internet address = 103.168.172.233
+
+> nast.org
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+nast.org        nameserver = ns-90-c.gandi.net
+nast.org        nameserver = ns-28-b.gandi.net
+nast.org        nameserver = ns-29-a.gandi.net
+
+ns-90-c.gandi.net       internet address = 217.70.187.91
+ns-90-c.gandi.net       AAAA IPv6 address = 2604:3400:aaac::5b
+ns-28-b.gandi.net       internet address = 213.167.230.29
+ns-28-b.gandi.net       AAAA IPv6 address = 2001:4b98:aaab::1d
+ns-29-a.gandi.net       internet address = 173.246.100.30
+ns-29-a.gandi.net       AAAA IPv6 address = 2001:4b98:aaaa::1e
+>
+
 ```
 
 
