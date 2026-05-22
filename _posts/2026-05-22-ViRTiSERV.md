@@ -35,6 +35,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012145pv.jpg](https://tile.loc.gov/storage-services/service/pnp/habshaer/ca/ca1200/ca1261/photos/012145pv.jpg)
 
+[Nasa-jpl giftshop @la-county-isd @CityOfLosAngeles @blackgirlscode](https://thejplstore.com/?customer_posted=true#newsletter-signup-sections--17028863099104__header)
+<img  alt="image" src="https://github.com/user-attachments/assets/c265e33f-9e3e-4364-9260-e04cff20d175" />
+
 
 ## About the United States Space Force
 [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png" alt="Thanks for SPaceforce Donald, Thanks for SMALL BUSiNESS assistance from @Nasa @nasa-jpl @howard-university-web-services @whitehouse virtiserv latrice United States Space Force" />](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Logo_of_the_United_States_Space_Force.png/250px-Logo_of_the_United_States_Space_Force.png) [The U.S. Space Force](https://www.spaceforce.mil/About-Us/) was established on Dec. 20, 2019, creating the first new branch of the armed services since 1947. The establishment of the USSF resulted from widespread recognition that space is a national security imperative. When combined with the growing threat posed by strategic competitors in space, it became clear that there was a need for a military service focused solely on pursuing superiority in the space domain. [US SPACE Force 101 - PDF](https://www.spaceforce.mil/Portals/2/Documents/SF101/ussf_101_glossy_FINAL_e-version.pdf)
