@@ -24,6 +24,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+@la-county-isd 
+
+<iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
 [https://www.jpl.nasa.gov/universe/archive/un9801.pdf](https://www.jpl.nasa.gov/universe/archive/un9801.pdf)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/1bac7504-1abd-4f0a-ad5f-b3d66d575396" />
@@ -241,7 +246,7 @@ to rashardsdata, Raquel.Monroe@howard.edu, phylicia.rashad@howard.edu, homiehelp
  HollyJMitchell@bos.lacounty.gov, keishaforgovernor@gmail.com, mayor@nola.gov, centcom.macdill.centcom-hq.mailbox.community-relations@mail.mil, report@cisa.gov, normani@fifthharmonyofficial.com,
  Normaniofficial@outlook.com, operations@wearebgc.org, communications, dsnnow@jpl.nasa.gov,
  douglas.j.newman@nasa.gov, jisaacman@shift4.com, jimmyfallon@nbc.com, kathryn@bos.lacounty.gov,
- brewster.kahle@archive.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me,
+ brewster.kahle@.org, katyperry, karen.bass47@gmail.com, sholaday, yourvoice@bbc.co.uk, me,
  airbusgroup.web@airbus.com, Secretary.Weber@sos.ca.gov, earthdata-support@nasa.gov,
 letschat@virtiserv.com, lbpl_reference@lbpl.org, contact.lapdonline@gmail.com,
 FirstDistrict@bos.lacounty.gov, district5@longbeach.gov, denise.watts, mayor@longbeach.gov,
@@ -477,7 +482,7 @@ cecelia.ns.cloudflare.com       AAAA IPv6 address = 2803:f800:50::6ca2:c287
 C:\Users\PAC>
 
 ```
-<iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+<iframe src="https://.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
 
@@ -766,7 +771,7 @@ wally.ns.cloudflare.com	has AAAA address 2803:f800:50::6ca2:c0ef
 
 <IMG class="whitebg" src="https://upload.wikimedia.org/wikipedia/commons/8/8c/2.4_GHz_Wi-Fi_channels_%28802.11b%2Cg_WLAN%29.svg" />   
 
-![@nasa-pds](https://web.archive.org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
+![@nasa-pds](https://web..org/web/20250224170213/photojournal.jpl.nasa.gov/jpegMod/PIA13236_modest.jpg)
 ![image](https://github.com/user-attachments/assets/e6461ddc-9380-414d-9b85-3971a8026fa4)
 
 <iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
