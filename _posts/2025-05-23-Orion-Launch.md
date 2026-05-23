@@ -2,7 +2,7 @@
 layout: post
 title:  "Orion/Artemis @nasa @r-spaceX @raytheonbbn"
 published: true
-date:   2026-05-13 01:47:06 -0800
+date:   2026-05-23 00:47:06 -0800
 tags: nsn ecostress crew11 iss
 image: Orion_dimensions_pillars.png
 permalink: /artemis2
@@ -16,6 +16,11 @@ Landed Safely
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/efd84d70-79f3-4b89-9af8-cc925d0a8e48)
 ![ezgif com-animated-gif-maker](https://github.com/user-attachments/assets/ca63a399-badc-4b60-83a5-c7cd6702ac8e)
 
+@NASA’s Artemis II Crew Flies Around the Moon ([Watch the Official @nasa Broadcast](https://www.youtube.com/watch?v=z-j1uxBmis0)) 
+[MotorWorld - Watch](https://www.youtube.com/watch?v=9j3wxCpcB_g) // [NasaSpaceFlight - Watch](https://www.youtube.com/watch?v=Fbpd2YB8seo)
+~~@NASA's Artemis II Live Views from Kennedy Space CenteR~~
+~~Live Views~~ [LAUNCHED](https://youtu.be/nrVnsO_rdew) ::: [Radio](https://session.wefunkradio.com/radio/play) 
+
 
 - Jump to  [`news`](#news)
 - Jump to  [`launch-weather`](#launch-weather)
@@ -26,10 +31,10 @@ Landed Safely
 - Jump to  [`kelp-Data`](#kelp-data)
 - Jump to  [`Rashards-Status`](#Rashards-Status)
 
-[`HOME⬆️`](#Artemis2)
+
 
 [https://melodymaddox.com/](https://melodymaddox.com/)
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/817408311039262720" data-did="03711209a79f89294e0c3eeb701802cf9db01d77"><a href="https://rashardmro.tumblr.com/post/817408311039262720">https://rashardmro.tumblr.com/post/817408311039262720</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
 <div class="tupperware" markdown="1">
  
@@ -78,7 +83,7 @@ The Voyager Neptune travel guide
 The event at the museum starts at 4 p.m. Guests will gather in the museum's Pavilion of Flight at least one hour before the splashdown to watch the live broadcast of Orion's return. - [Artemis II mission trajectory](https://svs.gsfc.nasa.gov/5632/) // [San Diego-based Navy ship, divers and helicopters to recover Artemis II crew](https://fox5sandiego.com/news/local-news/san-diego-based-navy-ship-divers-and-helicopters-to-recover-artemis-ii-crew/) @foxnews
 
 
-<img width="1024" height="763" alt="image" src="https://github.com/user-attachments/assets/b0f0e759-49e0-4fa6-bacd-ecf264bde9a5" />
+<img  alt="image" src="https://github.com/user-attachments/assets/b0f0e759-49e0-4fa6-bacd-ecf264bde9a5" />
 
 NASA’s Artemis II Daily News Conference (April 7, 2026) [WATCH](https://youtu.be/5YWATA3d5dU?t=2938) @nasa-jpl @blackgirlscode @SANDAG @CityofSantaMonica
 
@@ -134,7 +139,7 @@ Providing novel capabilities to characterize the space radiation environment for
 
 ![https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png](https://science.gsfc.nasa.gov/674/M2M_Logo_Transparent.png)
 
-
+[`HOME⬆️`](#Artemis2)
 
 ## NASA’s Artemis II Crew Flies Around the Moon
 _(Official Broadcast)_
