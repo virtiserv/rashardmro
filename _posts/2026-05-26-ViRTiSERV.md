@@ -24,6 +24,12 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+[static.uahirise.org/epo/hicards/](https://static.uahirise.org/epo/hicards/)
+[https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100](https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8e36cb9c-f58d-4893-8fac-c63364becc2a" />
+
+
 @la-couty-isd @nasa-jpl something you should know about github is that here in @CityOfLosAngeles (county) etc something about the dns config makes it throw 200 errors when you add too many embeds, its not a normal limitation, its a bug @jekyll @nasa-pds @blackgirlscode it does not seem to behave that way with the `object` tag
 
 [https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100](https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100)
