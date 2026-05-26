@@ -29,7 +29,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <img  alt="image" src="https://github.com/user-attachments/assets/8e36cb9c-f58d-4893-8fac-c63364becc2a" />
 
-
+[https://youtu.be/SNN4CW7c5Ho?si=TZLZv0sY_u-Pamfr @nasa space race @blackgirlscode history](https://youtu.be/SNN4CW7c5Ho?si=TZLZv0sY_u-Pamfr)
 @la-couty-isd @nasa-jpl something you should know about github is that here in @CityOfLosAngeles (county) etc something about the dns config makes it throw 200 errors when you add too many embeds, its not a normal limitation, its a bug @jekyll @nasa-pds @blackgirlscode it does not seem to behave that way with the `object` tag
 
 [https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100](https://codepen.io/thakarashard/pen/LEpzdmY?editors=1100)
