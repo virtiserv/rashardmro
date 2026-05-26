@@ -25,6 +25,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+@blackgirlscode 
+
+<object class="scroller" data="https://eyes.nasa.gov/curiosity/" type="text/html"></object>
+
 @la-county-isd 
 
 <iframe src="https://archive.org/embed/vid-20260411-163609-170" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
