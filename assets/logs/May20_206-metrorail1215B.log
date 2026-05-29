@@ -7622,4 +7622,175 @@ traceroute to level3.net (4.68.80.110), 30 hops max, 60 byte packets
 24  * * *
 25  * * *
 26  * * *
-27  *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level1.net (54.243.117.197), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  1.657 ms  1.554 ms  1.405 ms
+ 2  172.26.96.161 (172.26.96.161)  37.409 ms  36.699 ms  35.883 ms
+ 3  107.72.231.252 (107.72.231.252)  37.322 ms  39.205 ms  38.335 ms
+ 4  * * *
+ 5  12.83.179.49 (12.83.179.49)  46.459 ms  45.229 ms  44.316 ms
+ 6  la2ca408me9.ip.att.net (12.122.128.133)  34.774 ms  33.817 ms  37.969 ms
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+traceroute to level2.net (198.51.100.91), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  1.772 ms  2.388 ms  1.973 ms
+ 2  172.26.96.161 (172.26.96.161)  33.320 ms  32.281 ms  33.793 ms
+ 3  107.72.231.252 (107.72.231.252)  33.518 ms 107.72.231.228 (107.72.231.228)  37.435 ms  36.963 ms
+ 4  * * *
+ 5  12.83.179.49 (12.83.179.49)  41.890 ms  40.952 ms  32.696 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+<!DOCTYPE html><html><head><script>window.onload=function(){window.location.href="/lander"}</script></head></html><html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+<html>
+<head><title>301 Moved Permanently</title></head>
+<body>
+<center><h1>301 Moved Permanently</h1></center>
+<hr><center>nginx</center>
+</body>
+</html>
+traceroute to esa.int (178.32.232.86), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  2.651 ms  1.827 ms  1.788 ms
+ 2  172.26.96.161 (172.26.96.161)  29.948 ms  34.144 ms  33.846 ms
+ 3  107.72.231.252 (107.72.231.252)  44.876 ms  31.913 ms 107.72.231.228 (107.72.231.228)  42.877 ms
+ 4  * * *
+ 5  12.83.179.49 (12.83.179.49)  50.725 ms  49.730 ms  48.957 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+virtiserv.com	nameserver = ns29.domaincontrol.com.
+virtiserv.com	nameserver = ns30.domaincontrol.com.
+
+Authoritative answers can be found from:
+ns30.domaincontrol.com	internet address = 173.201.72.15
+ns29.domaincontrol.com	internet address = 97.74.104.15
+ns30.domaincontrol.com	has AAAA address 2603:5:2281::f
+ns29.domaincontrol.com	has AAAA address 2603:5:2181::f
+
+Server:		8.8.8.8
+Address:	8.8.8.8#53
+
+Non-authoritative answer:
+*** Can't find virtiserv.com: No answer
+
+Authoritative answers can be found from:
+virtiserv.com
+	origin = ns29.domaincontrol.com
+	mail addr = dns.jomax.net
+	serial = 2024102401
+	refresh = 28800
+	retry = 7200
+	expire = 604800
+	minimum = 600
+
+ #NEWS ra5hard.github.io  && cnn.com/2001/TECH/industry/09/11/akamai.founder/index.html
+traceroute to en.beidou.gov.cn (123.127.200.28), 30 hops max, 60 byte packets
+ 1  cp.local.tld (192.168.10.1)  2.079 ms  4.042 ms  2.338 ms
+ 2  172.26.96.161 (172.26.96.161)  30.215 ms  34.590 ms  33.565 ms
+ 3  107.72.231.228 (107.72.231.228)  37.098 ms  41.311 ms 107.72.231.252 (107.72.231.252)  39.872 ms
+ 4  * * *
+ 5  12.83.179.49 (12.83.179.49)  38.635 ms  37.041 ms  40.983 ms
+ 6  la2ca408me9.ip.att.net (12.122.128.133)  39.611 ms  44.132 ms  42.547 ms
+ 7  * * 12.249.203.14 (12.249.203.14)  245.222 ms
+ 8  219.158.97.205 (219.158.97.205)  213.654 ms  212.329 ms  210.704 ms
+ 9  * 219.158.111.221 (219.158.111.221)  238.446 ms *
+10  219.158.113.126 (219.158.113.126)  223.752 ms * *
+11  219.158.19.69 (219.158.19.69)  298.975 ms *  219.612 ms
+12  * 219.158.16.85 (219.158.16.85)  252.546 ms 219.158.16.89 (219.158.16.89)  221.779 ms
+13  * 202.96.12.2 (202.96.12.2)  232.412 ms 124.65.194.18 (124.65.194.18)  254.595 ms
+14  125.33.187.78 (125.33.187.78)  220.531 ms 202.106.37.50 (202.106.37.50)  242.437 ms 125.33.187.78 (125.33.187.78)  226.490 ms
+15  61.148.115.82 (61.148.115.82)  312.222 ms  311.377 ms  314.768 ms
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *

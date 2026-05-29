@@ -27,14 +27,19 @@ nslookup -type=mx home.treasury.gov
 nslookup -type=ns home.treasury.gov
 nslookup -type=ns treasurer.ca.gov
 nslookup -type=mx treasurer.ca.gov
+
 nslookup -type=ns navy.mil
 nslookup -type=mx navy.mil
 nslookup -type=ns navy.com
 nslookup -type=mx navy.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
-nslookup -type=ns spacetelescope.or
-nslookup -type=mx spacetelescope.or
+nslookup -type=ns spacetelescope.org
+
+nslookup -type=mx spacetelescope.org
+traceroute reelecthydee.com
+nslookup -type=ns reelecthydee.com  
+nslookup -type=mx reelecthydee.com
 nslookup -type=ns global.jaxa.jp
 nslookup -type=mx global.jaxa.jp
 nslookup -type=ns gov.uk
@@ -72,6 +77,10 @@ nslookup -type=ns si.edu
 host -a si.edu
 nslookup -type=mx ice.gov
 nslookup -type=ns ice.gov
+traceroute ethics.lacity.gov
+nslookup -type=mx ethics.lacity.gov
+nslookup -type=ns ethics.lacity.gov
+
 nslookup -type=mx karenbass.com
 nslookup -type=ns karenbass.com
 nslookup -type=mx raulclaros.com
