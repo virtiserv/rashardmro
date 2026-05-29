@@ -12,7 +12,32 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
-<img   alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+## Housing 
+@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse
+<img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
+**From**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
+**Sent**: Friday, May 29, 2026 1:50 PM
+**To**: holetoanotheruniverse@gmail.com
+**Cc**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
+**Subject**: Next Steps for Interim Housing Referral
+
+ 
+```
+Good afternoon Rashard,
+Thank you for taking the time to speak with me this afternoon regarding the interim housing referral. As discussed, we will need to have a few authorization forms signed. We can meet with you on Monday at 11:00 a.m. At  Culver City Hall, located at 9770 Culver Blvd, Culver City, CA 90232.
+
+Please feel free to contact us at the phone number below if you have any questions. We look forward to meeting with you.
+ 
+Warm Regards,
+Culver City Mobile Crisis Team
+Human Services and Crisis Intervention Division
+Office: (310) 253-5770 - Fax: (310) 253-5785
+```
+
+<img  alt="@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse " src="https://github.com/user-attachments/assets/e21cb77e-dafb-46fa-a510-0e74915c429e" />
+
+<img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
 
 
 @doug-newman-nasa someone sent me this, i think its [latrice @blackgirlscode @howard-university-web-services](https://archive.org/download/postpostpostpostpost/04%20It%27s%20Oh%20So%20Quiet.m4a) [archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @disney idk if shes chloe baily](https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) @ksc-newsroom@mail.nasa.gov @nasa @la-county-isd 
