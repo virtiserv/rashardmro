@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Notes for @nasa-jpl HR"
-published: true
+published: false
 permalink: /hr
 tags: earth hr NearSpaceNetwork gds 
 image: womeninscience.jpg
