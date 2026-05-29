@@ -14,6 +14,42 @@ mathjax: true
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 
+## Housing [PIP.District5@culvercity.org @cityoflosangeles @StateOfCalifornia](mailto:PIP.District5@culvercity.org)
+@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse . . . @CityOfSantaMonica idk if you check github but i wanted to get [Officer Destiny King](https://www.zoominfo.com/p/Destinee-King/3419657428) this page, it has all the notes i want to take to @cia @fbicyber @nasa-jpl hr 
+<img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
+**From**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
+**Sent**: Friday, May 29, 2026 1:50 PM
+**To**: holetoanotheruniverse@gmail.com
+**Cc**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
+**Subject**: Next Steps for Interim Housing Referral
+
+ 
+```
+Good afternoon Rashard,
+Thank you for taking the time to speak with me this afternoon regarding the interim housing referral. As discussed, we will need to have a few authorization forms signed. We can meet with you on Monday at 11:00 a.m. At  Culver City Hall, located at 9770 Culver Blvd, Culver City, CA 90232.
+
+Please feel free to contact us at the phone number below if you have any questions. We look forward to meeting with you.
+ 
+Warm Regards,
+Culver City Mobile Crisis Team
+Human Services and Crisis Intervention Division
+Office: (310) 253-5770 - Fax: (310) 253-5785
+```
+
+<img  alt="@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse " src="https://github.com/user-attachments/assets/e21cb77e-dafb-46fa-a510-0e74915c429e" />
+
+<img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
+
+@doug-newman-nasa someone sent me this, i think its [latrice @blackgirlscode @howard-university-web-services](https://archive.org/download/postpostpostpostpost/04%20It%27s%20Oh%20So%20Quiet.m4a) [archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @disney idk if shes chloe baily](https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4) @ksc-newsroom@mail.nasa.gov @nasa @la-county-isd 
+https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 
+@douglas.j.newman@nasa.gov @jisaacman@shift4.com
+[https://melodymaddox.com/](https://melodymaddox.com/)
+
+
+@nasa-jpl all municipalities need to share dns sources with the public @cisa @lacmta @whitehouse @nasa-develop @blackgirlscode @cityoflosangeles @foratlanta treason @newshour 
+
 # General B. Chance Saltzman [bio](https://www.spaceforce.mil/biographies/display/article/2329659/b-chance-saltzman/)
 im reporting to you bc you were stationed in Los Angeles and i am active mission mars @nasa-jpl, I was one of jehovahs witnesses. But during the [2026 AFA graduating class in Colorado Springs](https://www.youtube.com/watch?v=3LgMjFihHU8) when the grads took thier vow i raised my hand and took mine to defend the constitution @StateOfCalifornia this does not work with the Jehovahs Witness belife system and im trying to reduce war in my life @La-County-Isd @DeptOfWar . . . [@USnavy  jose pi](https://moriassociates.com/contact-us/)  and i have a sorted but not past, they hired me! And it was not practical to visit mori... thats all i can say, and now since i have been departnered i need to have a clear path for my growth to continue in a less pain full trajectory @CityOfLosAngeles @ForAtlanta @BlackgirlsCode @Howard-University_web-Services
 
