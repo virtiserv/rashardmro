@@ -13,6 +13,8 @@ mathjax: true
 
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/dcce777c-35bf-4531-b648-27dfa497f0f6" />
+<img  alt="image" src="https://github.com/user-attachments/assets/d29774ab-9494-4b77-bbdf-c79bbbc6d0df" />
 
 ## Housing [PIP.District5@culvercity.org @cityoflosangeles @StateOfCalifornia](mailto:PIP.District5@culvercity.org)
 @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse . . . @CityOfSantaMonica idk if you check github but i wanted to get [Officer Destiny King](https://www.zoominfo.com/p/Destinee-King/3419657428) this page, it has all the notes i want to take to @cia @fbicyber @nasa-jpl hr 
@@ -46,6 +48,48 @@ Office: (310) 253-5770 - Fax: (310) 253-5785
 https://archive.org/download/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 
 @douglas.j.newman@nasa.gov @jisaacman@shift4.com
 [https://melodymaddox.com/](https://melodymaddox.com/)
+
+```shell
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+3:00 PM (5 minutes ago)
+to douglas.j.newman@nasa.gov, betpressinfo@bet.net, normani@fifthharmonyofficial.com, Mobile, GBI.CrimeLab@gbi.ga.gov, customer_services_dfcs@dhs.ga.gov, denise.watts@sccpss.com, housingandhumanservices, dekalbwaterops@dekalbcountyga.gov, city.clerk, jisaacman@shift4.com, ksc-newsroom@mail.nasa.gov, jplnewsroom@jpl.nasa.gov, HollyJMitchell@bos.lacounty.gov, The, Whs, kathryn@bos.lacounty.gov, keishaforgovernor@gmail.com, atlantacouncil@atlantaga.gov, gina.n.anderson@nasa.gov
+
+@jisaacman@shift4.com @ksc-newsroom@mail.nasa.gov https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @jplnewsroom@jpl.nasa.gov as you can see @HollyJMitchell@bos.lacounty.gov @The White House @Whs Pentagon Esd Mbx Secrev Pete JPL and BET have the same company managing email this is CRAZY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @kathryn@bos.lacounty.gov @keishaforgovernor@gmail.com @atlantacouncil@atlantaga.gov @gina.n.anderson@nasa.gov 
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+
+C:\Users\PAC>nslookup -type=mx bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+
+C:\Users\PAC>
+
+---------- Forwarded message ---------
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Date: Fri, May 29, 2026 at 2:46 PM
+Subject: Delivery Status Notification (Failure)
+To: <holetoanotheruniverse40@gmail.com>
+```
 
 
 @nasa-jpl all municipalities need to share dns sources with the public @cisa @lacmta @whitehouse @nasa-develop @blackgirlscode @cityoflosangeles @foratlanta treason @newshour 
