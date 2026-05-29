@@ -13,7 +13,7 @@ mathjax: true
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
 ## Housing [PIP.District5@culvercity.org @cityoflosangeles @StateOfCalifornia](mailto:PIP.District5@culvercity.org)
-@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse
+@blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse . . . @CityOfSantaMonica idk if you check github but i wanted to get [Officer Destiny King](https://www.zoominfo.com/p/Destinee-King/3419657428) this page, it has all the notes i want to take to @cia @fbicyber @nasa-jpl hr 
 <img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
 
 **From**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
