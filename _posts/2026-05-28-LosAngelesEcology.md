@@ -31,6 +31,12 @@ date:   2026-04-04 1:51:06
 
 {% endhighlight %}
 
+
+@blackgirlscode @nasa-jpl @la-county-isd
+ [https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif)
+
+![https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif](https://cdn.star.nesdis.noaa.gov/GOES18/ABI/CONUS/DMW/GOES18-ABI-CONUS-DMW.gif)
+
 SPECIAL - Rules, Elections, and Intergovernmental Relations Committee - 5/28/26
 [`WATCH`📺](https://www.youtube.com/live/9uswpIZQdBQ?si=HT2rIq37og9fXArG)
 https://www.youtube.com/live/9uswpIZQdBQ?si=HT2rIq37og9fXArG //// @earthdata-support@nasa.gov can you guys push this out @usarmy.irwin.ntc.mbx.ft-irwin-pao@army.mil https://www.youtube.com/@LACityClerk @la-county-isd hi @executiveoffice@bos.lacounty.gov @dsnnow@jpl.nasa.gov @letschat@virtiserv.com @normani@fifthharmonyofficial.com 
