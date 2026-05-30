@@ -13,6 +13,7 @@ image: shocked-i-know-this.gif
 [https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/](https://science.nasa.gov/earth/earth-observatory/fire-chars-santa-rosa-island/)
 <img  alt="image" src="https://github.com/user-attachments/assets/7f571a9d-3090-455b-b39f-4aba4b8909f1" />
 <img  alt="image @blackgirlscode @nasa-jpl" src="https://github.com/user-attachments/assets/e433c4f8-8e1f-4439-8860-834c28b0466f" />
+<img alt="image" src="https://github.com/user-attachments/assets/2ec9471d-9333-45d4-bfed-b109af6d36fc" />
 
 <img  alt="nasa-worldview-2026 MAY 11-to-2026 MAY 21" src="https://github.com/user-attachments/assets/b31bd3d0-0fbf-4159-b81d-adf5eef022f8" />
 
