@@ -11,7 +11,7 @@ image: shocked-i-know-this.gif
 [@nasa-jpl @FEMA @la-county-isd @CityOfLOSANGELES @CityofSantaMonica](https://get.frantzlawgroup.com/los-angeles-wildfires/?utm_term=la%20county%20wildfire&utm_campaign=KB+-+Search+-+LA+County+Wildfire&utm_source=adwords&utm_medium=ppc&hsa_acc=3145810664&hsa_cam=22100286930&hsa_grp=170534171702&hsa_ad=728564297411&hsa_src=g&hsa_tgt=kwd-2391223258520&hsa_kw=la%20county%20wildfire&hsa_mt=b&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=22100286930&gbraid=0AAAAAo6zI4kVdtXMCd7STzX2IdhOtbmEg&gclid=Cj0KCQjwlerQBhDMARIsAB16H-VIfXWcWJjgOFVrdcImDUdGi9Xz73teIV5CVg4o-E_HXMbZ0HimLA4aAoNKEALw_wcB)
 <img   alt="image" src="https://github.com/user-attachments/assets/20fa95d3-adec-40d7-a56d-8f100ad5ab12" />
 
-[Mr. Zone 6 - by Gucci Mane](https://archive.org/details/mr-zone-6-gucci-mane/04+-+Georgia+s+Most+Wanted.mp3)
+[Mr. Zone 6 - by Gucci Mane @ForAtlanta @BlackGirlsCode ](https://archive.org/details/mr-zone-6-gucci-mane/04+-+Georgia+s+Most+Wanted.mp3)
 [rashardmro.tumblr.com/post/801242206701830144/los-angeles-thermal-anomolies](https://rashardmro.tumblr.com/post/801242206701830144/los-angeles-thermal-anomolies)
 <img alt="image" src="https://github.com/user-attachments/assets/aefbf8fd-f039-4177-8e80-a68b5e07126f" />
 
