@@ -4,6 +4,11 @@ title: "/var/log"
 permalink: /var/log
 ---
 
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+
 
 @cityoflosangeles @longbeachinnovationteam @blackgirlscode @nasa-giss @nasa-develop @doug-newman-nasa
 ```shell
