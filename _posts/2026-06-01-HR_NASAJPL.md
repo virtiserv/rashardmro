@@ -32,6 +32,7 @@ mathjax: true
 <iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 _la92_ _@natgeosociety_
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
@@ -39,6 +40,7 @@ Over twenty-five years after the verdict in the Rodney King trial sparked severa
 
 ## Housing [PIP.District5@culvercity.org @cityoflosangeles @StateOfCalifornia](mailto:PIP.District5@culvercity.org)
 @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse . . . @CityOfSantaMonica idk if you check github but i wanted to get [Officer Destiny King](https://www.zoominfo.com/p/Destinee-King/3419657428) this page, it has all the notes i want to take to @cia @fbicyber @nasa-jpl hr 
+
 <img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
 
 **From**: Mobile Crisis Team <mobilecrisisteam@culvercity.org>
