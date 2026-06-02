@@ -12,6 +12,28 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+<img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
+ /> _The Living Bible_ [read - bible gateway](https://www.biblegateway.com/passage/?search=romans%2013&version=TLB)
+**13** Obey the government, for God is the one who has put it there. There is no government anywhere that God has not placed in power. 2 So those who refuse to obey the laws of the land are refusing to obey God  , and punishment will follow. 3 For the policeman does not frighten people who are doing right; but those doing evil will always fear him. So if you don’t want to be afraid, keep the laws and you will get along well. 4 The policeman is sent by God to help you. But if you are doing something wrong, of course you should be afraid, for he will have you punished. He is sent by God for that very purpose. 5 Obey the laws, then, for two reasons: first, to keep from being punished, and second, just because you know you should.
+
+6 Pay your taxes too, for these same two reasons. For government workers need to be paid so that they can keep on doing God’s work, serving you. 7 Pay everyone whatever he ought to have: pay your taxes and import duties gladly, obey those over you, and give honor and respect to all those to whom it is due.
+
+8 Pay all your debts except the debt of love for others—never finish paying that! For if you love them, you will be obeying all of God’s laws, fulfilling all his requirements. 9 If you love your neighbor as much as you love yourself you will not want to harm or cheat him, or kill him or steal from him. And you won’t sin with his wife or want what is his, or do anything else the Ten Commandments say is wrong. All ten are wrapped up in this one, to love your neighbor as you love yourself. 10 Love does no wrong to anyone. That’s why it fully satisfies all of God’s requirements. It is the only law you need.
+
+11 Another reason for right living is this: you know how late it is; time is running out. Wake up, for the coming of the Lord is nearer now than when we first believed. 12-13 The night is far gone, the day of his return[a] will soon be here. So quit the evil deeds of darkness and put on the armor of right living, as we who live in the daylight should! Be decent and true in everything you do so that all can approve your behavior. Don’t spend your time in wild parties and getting drunk or in adultery and lust or fighting or jealousy. 14 But ask the Lord Jesus Christ to help you live as you should, and don’t make plans to enjoy evil.
+
+<img  alt="image-1" src="https://github.com/user-attachments/assets/79bb417c-e119-4ac4-ba32-fda37a1ee95c" />
+
+
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+_la92_ _@natgeosociety_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
+
+
 ## Housing [PIP.District5@culvercity.org @cityoflosangeles @StateOfCalifornia](mailto:PIP.District5@culvercity.org)
 @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta @nasa @nasa-jpl @deptofwar @whitehouse . . . @CityOfSantaMonica idk if you check github but i wanted to get [Officer Destiny King](https://www.zoominfo.com/p/Destinee-King/3419657428) this page, it has all the notes i want to take to @cia @fbicyber @nasa-jpl hr 
 <img alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd @nasa-pds the phone number worked, im applying for interim housing monday @doug-newman-nasa @foratlanta" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
