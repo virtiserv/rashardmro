@@ -9,6 +9,48 @@ permalink: /var/log
 <img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 
+```shell
+
+Rashard Iman Kelly <holetoanotheruniverse40@gmail.com>
+3:00 PM (5 minutes ago)
+to douglas.j.newman@nasa.gov, betpressinfo@bet.net, normani@fifthharmonyofficial.com, Mobile, GBI.CrimeLab@gbi.ga.gov, customer_services_dfcs@dhs.ga.gov, denise.watts@sccpss.com, housingandhumanservices, dekalbwaterops@dekalbcountyga.gov, city.clerk, jisaacman@shift4.com, ksc-newsroom@mail.nasa.gov, jplnewsroom@jpl.nasa.gov, HollyJMitchell@bos.lacounty.gov, The, Whs, kathryn@bos.lacounty.gov, keishaforgovernor@gmail.com, atlantacouncil@atlantaga.gov, gina.n.anderson@nasa.gov
+
+@jisaacman@shift4.com @ksc-newsroom@mail.nasa.gov https://dn710109.ca.archive.org/0/items/tumblr_rtxuqxFIjQ1zhx4f1/trunkmusic.mp4 @jplnewsroom@jpl.nasa.gov as you can see @HollyJMitchell@bos.lacounty.gov @The White House @Whs Pentagon Esd Mbx Secrev Pete JPL and BET have the same company managing email this is CRAZY!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!! @kathryn@bos.lacounty.gov @keishaforgovernor@gmail.com @atlantacouncil@atlantaga.gov @gina.n.anderson@nasa.gov 
+
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=mx jpl.nasa.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxa-0020b901.gslb.pphosted.com
+jpl.nasa.gov    MX preference = 20, mail exchanger = mxb-0020b901.gslb.pphosted.com
+
+mxa-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+mxb-0020b901.gslb.pphosted.com  internet address = 67.231.147.103
+
+C:\Users\PAC>nslookup -type=mx bet.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+bet.com MX preference = 10, mail exchanger = mxb-00262c01.gslb.pphosted.com
+bet.com MX preference = 10, mail exchanger = mxa-00262c01.gslb.pphosted.com
+
+mxb-00262c01.gslb.pphosted.com  internet address = 148.163.152.163
+mxa-00262c01.gslb.pphosted.com  internet address = 148.163.148.230
+
+C:\Users\PAC>
+
+---------- Forwarded message ---------
+From: Mail Delivery Subsystem <mailer-daemon@googlemail.com>
+Date: Fri, May 29, 2026 at 2:46 PM
+Subject: Delivery Status Notification (Failure)
+To: <holetoanotheruniverse40@gmail.com>
+```
+
 
 @cityoflosangeles @longbeachinnovationteam @blackgirlscode @nasa-giss @nasa-develop @doug-newman-nasa
 ```shell
@@ -452,6 +494,22 @@ message in error, please contact your network administrator.
 
 
 ```
+
+@nasa-jpl all municipalities need to share dns sources with the public @cisa @lacmta @whitehouse @nasa-develop @blackgirlscode @cityoflosangeles @foratlanta treason @newshour 
+
+# General B. Chance Saltzman [bio](https://www.spaceforce.mil/biographies/display/article/2329659/b-chance-saltzman/)
+im reporting to you bc you were stationed in Los Angeles and i am active mission mars @nasa-jpl, I was one of jehovahs witnesses. But during the [2026 AFA graduating class in Colorado Springs](https://www.youtube.com/watch?v=3LgMjFihHU8) when the grads took thier vow i raised my hand and took mine to defend the constitution @StateOfCalifornia this does not work with the Jehovahs Witness belife system and im trying to reduce war in my life @La-County-Isd @DeptOfWar . . . [@USnavy  jose pi](https://moriassociates.com/contact-us/)  and i have a sorted but not past, they hired me! And it was not practical to visit mori... thats all i can say, and now since i have been departnered i need to have a clear path for my growth to continue in a less pain full trajectory @CityOfLosAngeles @ForAtlanta @BlackgirlsCode @Howard-University_web-Services
+
+[General B. Chance Saltzman - media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG](https://media.defense.gov/2025/Jun/26/2003743861/1200/1200/0/250624-F-KN215-0019.JPG) 
+
+<img alt="image" src="https://github.com/user-attachments/assets/a7ac9f68-5346-4474-8d5f-882477fcc906" />
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/7e9db159-dbf6-44b1-9277-d1ef0dc50cd3" />
+
+
+<img   alt="image @nasa-jpl it has a phone number but im still testing the waters @blackgirlscode @la-county-isd" src="https://github.com/user-attachments/assets/f938508f-d91b-4a2e-b8b8-4fb4023d377b" />
+
 
 ---
 
