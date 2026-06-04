@@ -24,6 +24,48 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+## Rashard Kelly 
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+
+<img width="250" alt="image-2 @la-county-isd @nasa-jpl " src="https://github.com/user-attachments/assets/9803b209-8a03-4c66-9f5d-69d8fd357a1b" style="float:right" 
+ /> _The Living Bible_
+**13** Obey the government, for God is the one who has put it there. There is no government anywhere that God has not placed in power. 2 So those who refuse to obey the laws of the land are refusing to obey God  , and punishment will follow. 3 For the policeman does not frighten people who are doing right; but those doing evil will always fear him. So if you don’t want to be afraid, keep the laws and you will get along well. 4 The policeman is sent by God to help you. But if you are doing something wrong, of course you should be afraid, for he will have you punished. He is sent by God for that very purpose. 5 Obey the laws, then, for two reasons: first, to keep from being punished, and second, just because you know you should.
+
+6 Pay your taxes too, for these same two reasons. For government workers need to be paid so that they can keep on doing God’s work, serving you. 7 Pay everyone whatever he ought to have: pay your taxes and import duties gladly, obey those over you, and give honor and respect to all those to whom it is due.
+
+8 Pay all your debts except the debt of love for others—never finish paying that! For if you love them, you will be obeying all of God’s laws, fulfilling all his requirements. 9 If you love your neighbor as much as you love yourself you will not want to harm or cheat him, or kill him or steal from him. And you won’t sin with his wife or want what is his, or do anything else the Ten Commandments say is wrong. All ten are wrapped up in this one, to love your neighbor as you love yourself. 10 Love does no wrong to anyone. That’s why it fully satisfies all of God’s requirements. It is the only law you need.
+
+11 Another reason for right living is this: you know how late it is; time is running out. Wake up, for the coming of the Lord is nearer now than when we first believed. 12-13 The night is far gone, the day of his return[a] will soon be here. So quit the evil deeds of darkness and put on the armor of right living, as we who live in the daylight should! Be decent and true in everything you do so that all can approve your behavior. Don’t spend your time in wild parties and getting drunk or in adultery and lust or fighting or jealousy. 14 But ask the Lord Jesus Christ to help you live as you should, and don’t make plans to enjoy evil.
+
+<img  alt="image-1" src="https://github.com/user-attachments/assets/79bb417c-e119-4ac4-ba32-fda37a1ee95c" />
+
+
+
+JPL and the Space Age: Destination Moon [@nasa @whitehouse @blackgirlscode @nasa-jpl @stateofcalifornia @cityoflosangeles](https://youtu.be/UupndWl0G_I?si=uH9-o3RXaLqwpRUH) // [PDF @nasasTheSunand HEliosphere n Three Dimensions](https://stereo.gsfc.nasa.gov/img/stdt.pdf) // 
+@la-county-isd @cityoflosangeles @stateofcalifornia [@nasa-jpl](https://www.jpl.nasa.gov/news/interstellar-glaciers-nasas-spherex-maps-vast-galactic-ice-regions/?utm_source=iContact&utm_medium=email&utm_campaign=1-nasajpl&utm_content=spherex20260415) @blackgirlscode
+![STEREO (Solar TErrestrial RElations Observatory) ](https://stereo.gsfc.nasa.gov/img2/stereo_gsfc_01.gif)
+[STEREO 3D Images and Movies @nasa-jpl](https://stereo.gsfc.nasa.gov/gallery/3dimages.shtml) [readAbout the STEREO Mission](https://stereo.gsfc.nasa.gov/mission/mission.shtml)
+
+
+# Splashdown 101:
+Joint Team to Recover Crew, Orion After Moon Missions
+[splashdown](https://www.nasa.gov/missions/artemis/artemis-2/splashdown-101-joint-team-to-recover-crew-orion-after-moon-missions/)
+![https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400](https://www.nasa.gov/wp-content/uploads/2024/02/ksc-20240225-ph-kaa01-0071orig.jpg?resize=600,400)
+@blackgirlscode t.i. on with MrsKing [link](https://youtu.be/mxAFTk3BBys?si=_wUhbyw0dMaw6nK5) @nasa-jpl @blackgirlscode 
+Basic Writing Skills w/ Cicely Tyson (1988) [WATCH](https://youtu.be/UnX47Odz3z4)
+
+```html
+<iframe src="https://archive.org/embed/Rashardkellyshandpoisoned" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
+
+_la92_ _@natgeosociety_
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uaotkHlHJwo?si=xQRkP0-9Agj42A2M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+```
+Over twenty-five years after the verdict in the Rodney King trial sparked several days of protests and violence in Los Angeles, LA92 immerses viewers in that tumultuous period through stunning and rarely-seen footage. Produced by Oscar winner Simon Chinn and Emmy winner Jonathan Chinn and directed by Oscar winners Dan Lindsay and TJ Martin, the film brings a fresh perspective to a pivotal moment and adds perspective to what we are seeing in the world today. https://on.natgeo.com/3cliwfe
+
 _Hubble_ 94
 <img  alt="image" src="https://github.com/user-attachments/assets/839cadfc-4a48-4847-9084-7d9fcd41352f" />
 
