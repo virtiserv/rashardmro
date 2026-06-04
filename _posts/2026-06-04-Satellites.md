@@ -43,7 +43,11 @@ karenbass.com   nameserver = conrad.ns.cloudflare.com.                karenbass.
 
 [@nasa-pds  @la-county-isd ra5hard.github.io/](https://ra5hard.github.io/) 
 <img  alt="image" src="https://github.com/user-attachments/assets/5aacf9ec-d5c6-45e2-b4ba-e3a9711c256d" />
+![https://www.nasa.gov/wp-content/uploads/2026/05/e2b-pia26775-surface-color-m4kzus7e.png?resize=1024,764](https://www.nasa.gov/wp-content/uploads/2026/05/e2b-pia26775-surface-color-m4kzus7e.png?resize=1024,764)
 
+![https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Psyche_insignia.svg/500px-Psyche_insignia.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Psyche_insignia.svg/500px-Psyche_insignia.svg.png)
+[FLYBY @GOOGLE RESULTS @MAXAR @BLACKGIRLSCODE @NASA-JPL](https://www.google.com/search?sca_esv=1ebdc27bd3b18e70&rlz=1C1GCEJ_enUS1217US1217&sxsrf=ANbL-n43ZQfteFhh36KwoDg1G2LFSFYwUQ:1780615419910&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKp0UJuhqwKhR0QUhF54-6jIYFfWbU_Clyew-1Wh7zkL7FFfeQ8UTZRt91soqZupfwP9rhHHpG3jwJoUyrB_BepJd-0zqgS7qzlyJRMR4naJ4SASKqlodef4hS7a1IsYg_DcqEl1h7dsFG6TT19NZD0rTtGIRHLsboTWJ6nhg26iFzVIObXxjL28oLjHIMuBHJGcRgzYg&q=PSYCHE+NASA+MARS&sa=X&ved=2ahUKEwiujdes3e6UAxWoJ0QIHXiaGXkQtKgLegQIEhAB&biw=1920&bih=945&dpr=1#sv=CAMSVhoyKhBlLVFlQk9wRHV0YjN4YWxNMg5RZUJPcER1dGIzeGFsTToObTZZWHJDQTJpbjBuUU0gBCocCgZtb3NhaWMSEGUtUWVCT3BEdXRiM3hhbE0YADABGAcg5YPcowJKCBABGAEgASgB) [https://psyche.ssl.berkeley.edu/](https://psyche.ssl.berkeley.edu/) // [space.com @nasa-pds](https://www.space.com/astronomy/mars/no-this-isnt-a-solar-eclipse-its-an-image-of-mars-captured-by-nasas-asteroid-bound-psyche-probe)  
+<img alt="image" src="https://github.com/user-attachments/assets/0e3d5807-d8e0-4c2e-af55-5cc755c6a725" />
 
 
 <img  alt="image" src="https://github.com/user-attachments/assets/5192ff90-61f8-4714-849f-f8d7e819124e" />
