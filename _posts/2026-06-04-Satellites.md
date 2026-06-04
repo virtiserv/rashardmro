@@ -16,6 +16,9 @@ permalink: /Satellites
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
 [pds-engineering.jpl.nasa.gov/](https://pds-engineering.jpl.nasa.gov/) /// [
 NASA's MAVEN Mission Update (June 3, 2026) - youtube.com/live/4WALToxcMjo?si=HTocEOxJ7n0oLER1](https://www.youtube.com/live/4WALToxcMjo?si=HTocEOxJ7n0oLER1)
+<img  alt="image  @nasa-pds hi @nasa-jpl image " src="https://github.com/user-attachments/assets/955d2729-2f5c-4a7c-8ee3-9cf8e0090117" />
+<img  alt="image  @nasa-pds hi @nasa-jpl image " src="https://github.com/user-attachments/assets/9aa214ac-8795-4879-a53d-0c8f479a0058" />
+
 <img   alt=" @nasa-pds hi @nasa-jpl image" src="https://github.com/user-attachments/assets/74bd510b-542e-4f3b-8eba-63104a7e1109" />
 
 
