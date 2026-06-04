@@ -14,7 +14,8 @@ permalink: /Satellites
 
 [https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf](https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf)
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
-[pds-engineering.jpl.nasa.gov/](https://pds-engineering.jpl.nasa.gov/)
+[pds-engineering.jpl.nasa.gov/](https://pds-engineering.jpl.nasa.gov/) /// [
+NASA's MAVEN Mission Update (June 3, 2026) - youtube.com/live/4WALToxcMjo?si=HTocEOxJ7n0oLER1](https://www.youtube.com/live/4WALToxcMjo?si=HTocEOxJ7n0oLER1)
 <img   alt=" @nasa-pds hi @nasa-jpl image" src="https://github.com/user-attachments/assets/74bd510b-542e-4f3b-8eba-63104a7e1109" />
 
 
