@@ -29,6 +29,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[@blackgirlscode @deptofwar @ussf-orbit](https://youtu.be/iVrfaZos0OY?si=vdoiXUYHESlcGjVv)
+
 [The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
 
 ### Related Tweets
