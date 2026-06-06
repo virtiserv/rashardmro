@@ -29,6 +29,24 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+[The DoD Cyber Workforce Framework (DCWF)](https://dodcio.defense.gov/Cyber-Workforce/DCWF/) @nasa @nasa-jpl @cityoflosangeles @stateofcalifornia The DoD Cyber Workforce Framework establishes the DoD’s authoritative lexicon based on the work an individual is performing, not their position titles, occupational series, or designator. [ReadMore](https://public.cyber.mil/wid/dcwf/) @facebook @meta [here is the directive to patch today](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) @blackgirlscode [SHARe DOD INSTRUCTION 8510.01 RISK MANAGEMENT FRAMEWORK FOR DOD SYSTEMS](https://www.esd.whs.mil/Portals/54/Documents/DD/issuances/dodi/851001p.pdf) 
+
+### Related Tweets
+- [#its_Rashard iSigned up for the #ECOSTRESS_WORKSHOP #NASAJPL PasadenaFD](https://x.com/RicoThaka/status/1835051975114998091)
+- [#Akire Uhave #FaceToFaceHistory with @B2K @marqueshouston!he works for 911LAPD today](https://x.com/MooNLOVER404/status/1834654762064863649) I wrote @normani a mushy note an #the_nigga_forced_me_to submit a #FingerPrint! and called me #Transient! *there was twitter rhythm in the detainiment*
+[@uspto those #Perl sites are blocked  @LAPublicLibrary http://appft.uspto.gov and http://pdfaiw.uspto.gov @esa @nickyjenner1 @nasamars #Help #XML](https://x.com/MooNLOVER404/status/1834668119840981019)
+[Ms Karen Bass I got the Covid Patents from pdfaiw.uspto.gov](https://x.com/RicoThaka/status/1833658284961882433)
+[My History NASAJPL+JEHOVAHSWiTNESSES](https://x.com/MooNLOVER404/status/1740842550393712971)
+[VanishingFamily](https://x.com/MooNLOVER404/status/1740840534099525978)
+[NASAJPL on HOLLYWOOD WALK OF FAME](https://x.com/MooNLOVER404/status/1761520866612187488)
+[Rumatoid Authritis ,,, is it Chemwar?](https://x.com/RicoThaka/status/1729962943025148011) 
+[LA COUNTY MAPPiNG DATA](https://x.com/RicoThaka/status/1832207566585393420)
+
+### History of Los Angeles County, California, with illustrations descriptive of its scenery, residences, fine blocks and manufactories 
+
+[PDF](https://dn720109.ca.archive.org/0/items/historyoflosange00wils/historyoflosange00wils.pdf) 
+
+<iframe src="https://archive.org/embed/historyoflosange00wils" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 <iframe src="https://archive.org/embed/136339277" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen=""></iframe>
 
