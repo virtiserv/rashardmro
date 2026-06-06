@@ -11,6 +11,45 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+[<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4)
+
+@deptofwar you are reporting your primary nameserver is in asia!!!!!!!!!!!!!!!!!!!!!!! @nasa-jpl
+
+```shell
+
+Microsoft Windows [Version 10.0.26200.8457]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -type=ns war.gov
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+war.gov nameserver = asia2.akam.net
+war.gov nameserver = eur6.akam.net
+war.gov nameserver = ns1-95.akam.net
+war.gov nameserver = use2.akam.net
+war.gov nameserver = use9.akam.net
+war.gov nameserver = asia3.akam.net
+war.gov nameserver = ns1-116.akam.net
+war.gov nameserver = usc5.akam.net
+
+asia2.akam.net  internet address = 95.101.36.64
+eur6.akam.net   internet address = 2.22.230.64
+ns1-95.akam.net internet address = 193.108.91.95
+ns1-95.akam.net AAAA IPv6 address = 2600:1401:2::5f
+use2.akam.net   internet address = 96.7.49.64
+use9.akam.net   internet address = 72.246.46.65
+asia3.akam.net  internet address = 23.211.61.64
+ns1-116.akam.net        internet address = 193.108.91.116
+ns1-116.akam.net        AAAA IPv6 address = 2600:1401:2::74
+usc5.akam.net   internet address = 96.7.50.65
+usc5.akam.net   AAAA IPv6 address = 2600:1480:d000::41
+
+C:\Users\PAC>
+```
+
+
 @nasa-pds @whitehouse @la-county-isd @longbeachinnovationteam
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cIKHZI-Bm30?si=OI2IeSNexAyng_8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -325,6 +364,7 @@ Land Processes DAAC (LP DAAC) @nasa-jpl @blackgirlscode @cbsla @cbsnews [map](ht
 
 </div>
 
+<img alt="image" src="https://github.com/user-attachments/assets/e9c6e01b-b2d2-4b80-8b9a-b1d8b786e8b9" />
 
 
 Los Angeles - Long Beach Harbors, CA
