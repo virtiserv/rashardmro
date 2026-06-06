@@ -10,6 +10,12 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+
+@nasa-pds @whitehouse @la-county-isd @longbeachinnovationteam
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cIKHZI-Bm30?si=OI2IeSNexAyng_8h" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 [@nasa-jpl @la-county-isd @cityoflosangeles https://www.longbeach.gov/lgb](https://www.longbeach.gov/lgb)
 <img  alt="2026-05-19-00_00_2026-05-19-23_59_Sentinel-2_L2A_Moisture_index" src="https://github.com/user-attachments/assets/5bf3699c-a868-45b3-a29c-2c4941fe56e7" />
 
