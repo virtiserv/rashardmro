@@ -13,6 +13,10 @@ image: LongBeachEcostress.png
 
 [<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4)
 
+<img  alt="image" src="https://github.com/user-attachments/assets/7a0609dd-96dd-488b-ae8e-e61d3ccef195" />
+
+[<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/WHiTEHOUSE_DNS_KiM_BRYANT_BLACKGiRLSCODE_ViRTiSERV_LATRiCE_RASHARDNASAJPL_KARENBASS_Recording_2026-05-22_112037.mp4)
+
 @deptofwar you are reporting your primary nameserver is in asia!!!!!!!!!!!!!!!!!!!!!!! @nasa-jpl
 
 ```shell
