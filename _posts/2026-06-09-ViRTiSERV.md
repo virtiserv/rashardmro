@@ -35,7 +35,15 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2333947382&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/nasa" title="NASA" target="_blank" style="color: #cccccc; text-decoration: none;">NASA</a> · <a href="https://soundcloud.com/nasa/houston-we-have-a-podcast-the" title="Houston We Have a Podcast: The Future of Deep Space Communication" target="_blank" style="color: #cccccc; text-decoration: none;">Houston We Have a Podcast: The Future of Deep Space Communication</a></div>
 
 
-## SentineL2
+
+# SentineL2
+<img  alt="image" src="https://github.com/user-attachments/assets/5ef28594-adf2-44c3-93f1-02416a513384" />
+
+
+[LONGBEACH MOiSTURE INDEX @la-county-isd @commercegov](https://github.com/ThakaRashard/rashardmro/commit/f0f4299c8445d725a48365c9c22539175969fe02)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5efa0d8e-86b9-4a01-83ad-cac88da8727d" />
+
 [Falsecolor](https://ia601505.us.archive.org/28/items/longbeach_202605/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_False_color.png) // [TrueColor @eu-cdse @nasa-jpl](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_True_color.png) @nasa-jpl @usgs @la-county-isd @blackgirlscode 
 <img  alt="image" src="https://github.com/user-attachments/assets/c9cb9784-d0df-49a3-8da8-82918818039e" />
 
