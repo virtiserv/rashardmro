@@ -11,10 +11,12 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/818891744266551297" data-did="f060216bbd1362f6f0ce17b98af06e2ef5ec55d0"><a href="https://rashardmro.tumblr.com/post/818891744266551297">https://rashardmro.tumblr.com/post/818891744266551297</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
+
  ## OPERA Vegetation Disturbance Status (Color Index)
 [JUNe 4th Map - `click`](https://worldview.earthdata.nasa.gov/?v=-118.49120477168918,33.61758248086002,-117.84416001620338,33.936049821450695&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden,opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9-0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&s=-118.1813,33.7717&t=2026-06-04-T01%3A16%3A54Z)
 
-
+ <div class="tumblr-post" data-href="https://embed.tumblr.com/embed/post/w1-4nQbFNq_M02iOR1eYKg/818891030499868672" data-did="db9829093a290cdb4085c59220f00b5f406ae3aa"><a href="https://rashardmro.tumblr.com/post/818891030499868672">https://rashardmro.tumblr.com/post/818891030499868672</a></div>  <script async src="https://assets.tumblr.com/post.js"></script>
 
  <img alt="image" src="https://github.com/user-attachments/assets/5eb623f3-a30c-4105-8eef-753018563757" />
 
