@@ -11,6 +11,15 @@ image: LongBeachEcostress.png
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
 
+ ## OPERA Vegetation Disturbance Status (Color Index)
+[JUNe 4th Map - `click`](https://worldview.earthdata.nasa.gov/?v=-118.49120477168918,33.61758248086002,-117.84416001620338,33.936049821450695&l=Reference_Labels_15m(hidden),Reference_Features_15m(hidden),Coastlines_15m(hidden,opacity=0.67),OPERA_L3_DIST-ALERT-HLS_Color_Index(disabled=9-0),HLS_L30_Nadir_BRDF_Adjusted_Reflectance(hidden),HLS_S30_Nadir_BRDF_Adjusted_Reflectance(hidden),Land_Water_Map&lg=true&tr=land_disturbance&s=-118.1813,33.7717&t=2026-06-04-T01%3A16%3A54Z)
+
+
+
+ <img alt="image" src="https://github.com/user-attachments/assets/5eb623f3-a30c-4105-8eef-753018563757" />
+
+
+
 [<video controls width="100%" height="auto" src="https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4" />](https://ia903206.us.archive.org/8/items/Feb29dump/VID_20260606_140038_445.mp4)
 
 <img  alt="image" src="https://github.com/user-attachments/assets/7a0609dd-96dd-488b-ae8e-e61d3ccef195" />
