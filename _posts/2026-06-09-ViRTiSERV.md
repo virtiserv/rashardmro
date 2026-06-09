@@ -29,6 +29,22 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1e00b03-e886-4fb1-8e0a-abcee0f8fe20" />
+
+
+
+
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg](https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/2bd998a4-69ec-4504-8515-f19f866519e2" />
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A141301615&color=%23e4002b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djevildee" title="DJEVILDEE" target="_blank" style="color: #cccccc; text-decoration: none;">DJEVILDEE</a> · <a href="https://soundcloud.com/djevildee/the-drunk-mix-w-lord-sear-feat" title="THE DRUNK MIX W LORD SEAR FEAT DJ EVIL DEE, MR WALT &amp; CRAZY DJ BAZARRO 03/07/14 !!!" target="_blank" style="color: #cccccc; text-decoration: none;">THE DRUNK MIX W LORD SEAR FEAT DJ EVIL DEE, MR WALT &amp; CRAZY DJ BAZARRO 03/07/14 !!!</a></div>
+
+
 [Uplink-Downlink A History of the Deep Space Network 1957–1997](https://www.nasa.gov/wp-content/uploads/2023/04/sp-4227.pdf)
 // [Deep Space Telecommunications Systems Engineering 1982](https://ntrs.nasa.gov/api/citations/19830013955/downloads/19830013955.pdf)//
 [Read You Loud and Clear!](https://ntrs.nasa.gov/api/citations/20080020389/downloads/20080020389.pdf) // [How to compete for NASA contracts](https://ntrs.nasa.gov/api/citations/19930021455/downloads/19930021455.pdf) The Story of NASA's Spaceflight Tracking and Data Network [Satellite Data Explorer](https://csdap.earthdata.nasa.gov/) 
