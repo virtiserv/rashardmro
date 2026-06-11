@@ -8,29 +8,42 @@ author: "RashardKelly @nasa-jpl"
 permalink: /virtiserv
 ---
 
-## Rashard Kelly ...
-MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+## _Rashard Kelly_ 
+ _[MRO](https://www.uahirise.org/hipod/) JUNO iSS_ [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla @nasa-pds hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
-<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
-  
-  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
-  
-  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
-  
-  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
-  
-</picture>
-
-![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
-![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+<iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
 
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A330002361&color=%23d92906&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hiphop-mixes" title="hiphopmixes" target="_blank" style="color: #cccccc; text-decoration: none;">hiphopmixes</a> · <a href="https://soundcloud.com/hiphop-mixes/dj-premier-s-michael-jackson-tribute-mix" title="DJ Premier ´s  Michael Jackson Tribute Mix" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier ´s  Michael Jackson Tribute Mix</a></div>
+
+# Question:
+Why are they crashing the [_Galileo_](https://www.youtube.com/watch?v=aezcXjKYZkM) [satellite ? @blackgirlscode fbicyber @nasa-pds @la-county-isd](https://starchild.gsfc.nasa.gov/docs/StarChild/glossary_level2/glossary_text.html#satellite)?
+
+---
+
+### Answer:
+The Galileo satellite was launched from Space Shuttle Atlantis during the STS-34 mission in 1989. It took five years to reach Jupiter, where it has remained for the past 9 years. At one point, it released a small probe which dove into the Jovian atmosphere and sent back valuable data to scientists about the composition, speed, density, and temperature of our solar system's largest planet. Galileo has now completed 34 orbits of Jupiter and is running low on the fuel it needs to remain in contact with scientists on Earth. The decision was made to have the spacecraft plunge into the dense layers of Jupiter's atmosphere on September 20, 2003. Friction between the satellite and the atmospheric gases will cause the craft to be crushed and start to burn. In the end, it will get so hot and feel so much atmospheric pressure that it will totally disintegrate and vaporize.
+
+The Galileo satellite collected data for 6 years longer than planned. In addition to the information collected about the atmosphere of Jupiter, it detected evidence of underground salt water oceans on Jupiter's moons Europa, Ganymede and Callisto, and examined the active volcanoes on the moon Io. In fact, Galileo's own discoveries doomed it to the fate it will have this month. Given the environment found on Europa, scientists feared that if they just left the satellite in orbit, it might one day collide with that moon and contaminate it with microbes from Earth. They felt it was a chance they could not take. [starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html](https://starchild.gsfc.nasa.gov/docs/StarChild/questions/question61.html)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/e937a9d2-b8ee-44ac-8695-b00c718209e5" />
 
 
-![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+![https://starchild.gsfc.nasa.gov/Images/StarChild/questions/gal_deploy.jpg @nasa-pds @blackgirlscode trice](https://starchild.gsfc.nasa.gov/Images/StarChild/questions/gal_deploy.jpg)
 
-<iframe width="1920" height="1080" frameborder="0" loading="lazy" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; web-share" allowfullscreen src="https://commons.wikimedia.org/wiki/File:The_Santa_Rosa_Island_and_Sandy_Fires_Burn_in_Southern_California_(CIRA_2026-05-19_-_nolabels).webm?embedplayer=true" />
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A330002361&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hiphop-mixes" title="hiphopmixes" target="_blank" style="color: #cccccc; text-decoration: none;">hiphopmixes</a> · <a href="https://soundcloud.com/hiphop-mixes/dj-premier-s-michael-jackson-tribute-mix" title="DJ Premier ´s  Michael Jackson Tribute Mix" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier ´s  Michael Jackson Tribute Mix</a></div>
+
+
+
+<img  alt="image" src="https://github.com/user-attachments/assets/3b1e210e-7a4c-4481-9499-713fb481d30b" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/919f123e-e415-4687-a185-16dd8660c688" />
+
+<img   alt="image" src="https://github.com/user-attachments/assets/7fa05a5a-9178-472e-a413-a5bda2ef0d98" />
+<img  alt="image" src="https://github.com/user-attachments/assets/1af76367-362f-4a04-a58b-ce03f9265da1" />
+
+
+<iframe  width="100%" height="auto" frameborder="0" loading="lazy" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; web-share" allowfullscreen src="https://commons.wikimedia.org/wiki/File:The_Santa_Rosa_Island_and_Sandy_Fires_Burn_in_Southern_California_(CIRA_2026-05-19_-_nolabels).webm?embedplayer=true" />
+	
 
 @VSCO _`OVERViEW`_
 @nasa-jpl @vsco 
@@ -1252,6 +1265,29 @@ that began in August 2012 (Chapter 7). [ReadMore - PDF](https://descanso.jpl.nas
 <img width="684" height="105" alt="image" src="https://github.com/user-attachments/assets/fd4a3823-1c3d-4051-8f25-003336ae4846" />
 
 ![SDO_LAB](https://blogger.googleusercontent.com/img/a/AVvXsEhd_5O18StndQkOzfW5Bj4HOZArLhRSuuBxpURSeb_M8m8u4y9pxewLqGGY01NcAfml5D0lGigJcVL4WvQZdyzaAbQV5dfaOhFiOpo0zZSRZ7t2EwKvY12ElaR5BTHpYBi9one6Lm8laTlLG5ArMOOJ0VVGuy4-y763v4RrXnTs5dN_YbsqlkKAiTn_=s1080)
+
+
+
+## Rashard Kelly ...
+MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
+
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
 
 [πhttps://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI](https://www.youtube.com/live/fF6jx00L3pQ?si=uHs4aWXlyqFFxHLI) // [https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8](https://youtu.be/4Wgn4W3ign0?si=JTjZe4-G6cpEEW_8) // [https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6](https://youtu.be/4Wgn4W3ign0?si=8igV0co6-forEnd6) @whitehouse @nasa-jpl @la-county-isd
