@@ -7,7 +7,7 @@ title: Atlanta Ecology @emit-sds @Nasa-jpl
 image: atlanta_oli_2020127.jpg
 author: "RashardKelly @nasa-jpl"
 categories: Atlanta ecology ecostress space dsn nsn climate weather
-date:   2026-03-27 10:51:06 
+date:   2026-06-13 10:51:06 
 ---
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
@@ -31,6 +31,59 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 
 {% include nav.html %}
 
+
+
+@thakasErikaselassie_kelly
+​​hi
+
+
+@thakasErikaselassie_kelly
+​​its rashard kelly the jehovah witness who let them know i could not preach anymore . . .@nasajpl hired me and thats where they get their pics from
+
+
+@jhpmacd9755
+​​Looks sorta dead is it gonna fill up
+
+
+@super123hola123
+​
+
+#3
+​can't believe I live like 20 minutes away and haven't gone
+
+
+@thakasErikaselassie_kelly
+​​the festivities n la kinda similar im n longbeach an they pretty chill @lagalaxy errbody kinda distant after muna died, i told @KatyPerry i gave muna aids for attention and to say erika nasty @normani
+
+
+@thakasErikaselassie_kelly
+​​@lagalaxy at that pint i only had sex with one girl @AlamedaCountyCA was real about my shit, erika a fake jehovah witness and all i work for @nasa now!
+
+
+@thakasErikaselassie_kelly
+​​@AlamedaCountyCA i told @katyperry i gave this girl that had cancer and snuck in my bed aids...it was suicide socially & i want to say sorry publically @howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​@AlamedaCountyCA i told @katyperry i gave this girl that had cancer tht snuck in my bed aids...it was suicide socially & i want to say sorry publically @howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​@nasajpl @AlamedaCountyCA i told @katyperry i gave this girl that had cancer tht snuck in my bed aids...@howarduniversity tell tricec im sorry for lying
+
+
+@thakasErikaselassie_kelly
+​​Trice_ee @dance411 im sorry for lying that i had aids, ppl was distracting me at work
+
+Welcome to live chat! Remember to guard your privacy and abide by our community guidelines.
+Learn more
+
+@thakasErikaselassie_kelly
+​​@dance411 iDid not give muna aids lookup long beach origins on @munilong iThink thats her or @Rihanna and it was a lie any jehovahwitness could be sduced by @beatlabusa692 @repkarenbass @nasajpl @abc7
+
+
+@thakasErikaselassie_kelly
+​​@Itskeishalancebottoms @dance411 iDid not give muna aids i only had sex with one girl and a blowjob @kashdoll or @brandy broke in my house @power106 @hot97 tell trice im sorry foy lying LANA @ktla
 
 [https://www.youtube.com/watch?v=Klx3TVvmIHA](https://www.youtube.com/watch?v=Klx3TVvmIHA) // [https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default](https://ladsweb.modaps.eosdis.nasa.gov/stream/map#map=13.38/-8573519.79/4708382.67&layers=aqv_tss_20260503_landsat:1.00:0.00:30.00:default)
 <img  alt="image" src="https://github.com/user-attachments/assets/d8ba9c80-9946-44b2-b737-017ac169e48b" />
