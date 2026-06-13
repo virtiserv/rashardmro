@@ -15,9 +15,11 @@ permalink: /Satellites
 @nasa-pds Hi i did a github account for [that acountant i met](https://www.facebook.com/thevirtiservway/) back in atlanta. And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
 
 ` Deep Space Network Services Catalog` [download - pdf](https://nasa.gov/wp-content/uploads/2023/09/dsn-services-catalog.pdf)
+`NSN Services Catalog` [download - pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png)
 
+[nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
 <img   alt="image @virtiserv " src="https://github.com/user-attachments/assets/0c656455-d173-426e-be9e-84c153652c32" />
 
 
