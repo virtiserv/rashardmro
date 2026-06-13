@@ -8,7 +8,7 @@ image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 mathjax: true
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-04-04 1:51:06 
+date:   2026-06-13 0:51:06 
 ---
 
 [https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW](https://youtu.be/7TRStCd7qYU?si=uJIOw1ndI3ZhCTMW) + @nasa-jpl [https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC](https://youtu.be/ZY-Iu2QZQfE?si=LdzQ7OaG1RItNyuC)
@@ -30,6 +30,15 @@ date:   2026-04-04 1:51:06
 4 # UNiVERSE#####@blackgirlscode#####is Trice_GLORiLLA#####
 
 {% endhighlight %}
+
+
+@CityOfLosAngeles
+Is Hilda Solis Lady Pink ? @lacounty-isd @stateofcalifornia @whitehouse @nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/e1e049b9-fae0-478d-b22a-07842f919a32" />
+<img  alt="image" src="https://github.com/user-attachments/assets/cd8ea0f7-8a06-4fc5-ba5a-58ac645e1e8d" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/17b6a1d6-12d1-4ee5-a29b-0e39cc7309d2" />
 
 
 @blackgirlscode @nasa-jpl @la-county-isd
