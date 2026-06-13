@@ -13,6 +13,62 @@ permalink: /virtiserv
 
 <iframe src="https://archive.org/embed/longbeach_202605" width="560" height="384" frameborder="0" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen></iframe>
 
+@CityOfLosAngeles
+Is Hilda Solis Lady Pink ? @lacounty-isd @stateofcalifornia @whitehouse @nasa-jpl
+<img  alt="image" src="https://github.com/user-attachments/assets/e1e049b9-fae0-478d-b22a-07842f919a32" />
+<img  alt="image" src="https://github.com/user-attachments/assets/cd8ea0f7-8a06-4fc5-ba5a-58ac645e1e8d" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/17b6a1d6-12d1-4ee5-a29b-0e39cc7309d2" />
+
+![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
+
+# Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
+
+## Mission Commitment Timeline
+This timeline details how the mission commitment process is integrated with a mission’s project life cycle. [nasa.gov/directorates/space-operations/space-communications-and-navigation-scan-program/scan-services-and-scheduling](https://www.nasa.gov/directorates/space-operations/space-communications-and-navigation-scan-program/scan-services-and-scheduling/)
+
+@blackgirlscode i dont know who has this account but @nasa-jpl @nasa-pds i know i can communcate to family services how i am still emplyed from Perseverance alone! 
+
+![ @virtiserv nasa.gov/wp-content/uploads/2025/12/mission-commitment-process-2.png](https://www.nasa.gov/wp-content/uploads/2025/12/mission-commitment-process-2.png)
+
+<img  alt=" image @nasa @whitehouse @deptofwar youtu.be/iAnTEJaoF7E?t=51 " src="https://github.com/user-attachments/assets/c193825c-def4-4748-a4aa-a1b307e22ba7" />
+
+@CityOfLosAngeles check on @La-County-ISD @nasa-jpl @nasa-pds all the repos vanished from public view ... they had a commandline git tutorial i was following and wanted to print today @StateOfCalifornia @Blackgirlscode [Happy Saturday](https://youtu.be/iAnTEJaoF7E) [Atlanta](https://www.youtube.com/channel/UCRQ6wJbGwbF9Wmvp5HfT7Pg)
+
+​<img alt=" @nasa-jpl @foratlanta @cityoflosangeles" src="https://github.com/user-attachments/assets/e6ae0062-feb3-4f3d-8224-ec4cf6168c77" />
+
+
+​hi im really normal who did i offend in field service keisha? y did erika steal coral and my foodstamp card ? https://rashardiman.github.io/rashardmro/checking_in @repkarenbass @Itskeishalancebottoms
+![@thakasErikaselassie_kelly
+​​hi im really normal who did i offend in field service keisha? y did erika steal coral and my foodstamp card ? https://rashardiman.github.io/rashardmro/checking_in @repkarenbass @Itskeishalancebottoms](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6e7c5fb-3e1c-4a4e-97a3-a5a17e86de15" />
+
+
+
+@virtiserv Hi i did a github account for [the business](facebook.com/thevirtiservway/). And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
+
+` Deep Space Network Services Catalog` [download - pdf](https://nasa.gov/wp-content/uploads/2023/09/dsn-services-catalog.pdf)
+`NSN Services Catalog` [download - pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png)
+
+[nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
+<img   alt="image @virtiserv " src="https://github.com/user-attachments/assets/0c656455-d173-426e-be9e-84c153652c32" />
+
+![upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/960px-OSI_Model_v1.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/960px-OSI_Model_v1.svg.png)
+
+<img alt="image" src="https://github.com/user-attachments/assets/3d725b12-a91a-4cfe-994a-3abb79d2529e" />
+
+
+![https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg](https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg)
+
+![https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png)
+
 ---
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A330002361&color=%23d92906&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/hiphop-mixes" title="hiphopmixes" target="_blank" style="color: #cccccc; text-decoration: none;">hiphopmixes</a> · <a href="https://soundcloud.com/hiphop-mixes/dj-premier-s-michael-jackson-tribute-mix" title="DJ Premier ´s  Michael Jackson Tribute Mix" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier ´s  Michael Jackson Tribute Mix</a></div>
