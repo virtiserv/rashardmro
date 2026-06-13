@@ -12,7 +12,7 @@ permalink: /Satellites
 
 
 
-@nasa-pds Hi i did a github account for [that acountant i met](https://www.facebook.com/thevirtiservway/) back in atlanta. And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
+@nasa-pds Hi i did a github account for [that acountant i met](facebook.com/thevirtiservway/) back in atlanta. And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
 
 ` Deep Space Network Services Catalog` [download - pdf](https://nasa.gov/wp-content/uploads/2023/09/dsn-services-catalog.pdf)
 `NSN Services Catalog` [download - pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
@@ -22,6 +22,7 @@ permalink: /Satellites
 [nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf](nasa.gov/wp-content/uploads/2025/08/nsn-services-brochure.pdf)
 <img   alt="image @virtiserv " src="https://github.com/user-attachments/assets/0c656455-d173-426e-be9e-84c153652c32" />
 
+![upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/960px-OSI_Model_v1.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/OSI_Model_v1.svg/960px-OSI_Model_v1.svg.png)
 
 <img alt="image" src="https://github.com/user-attachments/assets/3d725b12-a91a-4cfe-994a-3abb79d2529e" />
 
