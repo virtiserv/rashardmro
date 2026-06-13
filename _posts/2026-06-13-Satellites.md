@@ -10,17 +10,24 @@ permalink: /Satellites
 
 # Rashard Kelly NasaJpl MRO JUNO iSS
 
-![https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png)
+
 
 @nasa-pds Hi i did a github account for [that acountant i met](https://www.facebook.com/thevirtiservway/) back in atlanta. And in working to clear my self of the issues from covid lockdown gossip i saw that its still helpdesk! @nasa-jpl @blackgirlscode i cannot be contained in any building and need unblocked internet @la-county-isd @cityoflosangeles @StateOfCalifornia
+
 ` Deep Space Network Services Catalog` [download - pdf](https://nasa.gov/wp-content/uploads/2023/09/dsn-services-catalog.pdf)
 
 ![https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Osi-model-jb.svg/960px-Osi-model-jb.svg.png)
+
+<img   alt="image @virtiserv " src="https://github.com/user-attachments/assets/0c656455-d173-426e-be9e-84c153652c32" />
+
 
 <img alt="image" src="https://github.com/user-attachments/assets/3d725b12-a91a-4cfe-994a-3abb79d2529e" />
 
 
 ![https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg](https://www.nasa.gov/wp-content/uploads/2026/05/sm.jpg)
+
+![https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png](https://pds-atmospheres.nmsu.edu/data_and_services/atmospheres_data/MAVEN/images/maven_logo.png)
+
 
 [https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf](https://atmos.nmsu.edu/data_and_services/atmospheres_data/MAVEN/logs/Mission%20and%20spacecraft%20description.pdf)
 [DOWNLOAD_PDF](https://mars.nasa.gov/files/mep/Mars_Exploration_Program_Future_Plan.pdf)
