@@ -42,7 +42,11 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 ```shell
 Setting up krb5 (1.22.2) ...
 Setting up dnsutils (9.20.23) ...
-~ $ host -a citycouncil.atlantaga.gov  Trying "citycouncil.atlantaga.gov"     ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2793
+
+~ $ host -a citycouncil.atlantaga.gov  Trying "citycouncil.atlantaga.gov"     ;;
+
+ ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2793
+
 ;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
 
 ;; QUESTION SECTION:
