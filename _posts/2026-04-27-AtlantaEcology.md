@@ -32,6 +32,81 @@ _Martin Luther King Jr. came of age in one of the fastest growing cities in the 
 {% include nav.html %}
 
 
+# DNS
+## Atlanta Municipal Audit @nasa
+
+
+@blackgirlscode
+@nasa-jpl @cisagov @foratlanta @deptofwar @fbicyber @atf-web @dhs-gov @whitehouse @la-county-isd @cityoflosangeles @nasa-pds @stateofcalifornia 
+
+```shell
+Setting up krb5 (1.22.2) ...
+Setting up dnsutils (9.20.23) ...
+~ $ host -a citycouncil.atlantaga.gov  Trying "citycouncil.atlantaga.gov"     ;; ->>HEADER<<- opcode: QUERY, status: NOERROR, id: 2793
+;; flags: qr rd ra; QUERY: 1, ANSWER: 1, AUTHORITY: 0, ADDITIONAL: 0
+
+;; QUESTION SECTION:
+;citycouncil.atlantaga.gov.     IN    ANY
+
+;; ANSWER SECTION:
+citycouncil.atlantaga.gov. 10353 IN   CNAME    citycouncil.atlantaga.gov.granicusgovaccess.net.
+
+Received 104 bytes from 8.8.8.8#53 in 24 ms
+~ $ nslookup -type=mx citycouncil.atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+citycouncil.atlantaga.gov       canonical name = citycouncil.atlantaga.gov.granicusgovaccess.net.
+citycouncil.atlantaga.gov.granicusgovaccess.net        canonical name = san-e2.granicusgovaccess.net.edgekey.net.
+san-e2.granicusgovaccess.net.edgekey.net       canonical name = e15752.dscb.akamaiedge.net.
+
+Authoritative answers can be found from:
+dscb.akamaiedge.net
+        origin = n0dscb.akamaiedge.net
+        mail addr = hostmaster.akamai.com
+        serial = 1781549679
+        refresh = 1000
+        retry = 1000
+        expire = 1000
+        minimum = 1800
+
+~ $ nslookup -type=mx atlantaga.gov    Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   mail exchanger = 0 mxb-003fa601.gslb.pphosted.com.
+atlantaga.gov   mail exchanger = 0 mxa-003fa601.gslb.pphosted.com.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns atlantaga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+atlantaga.gov   nameserver = cmtu.mt.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns2.cl.bellsouth.net.
+atlantaga.gov   nameserver = cbru.br.ns.els-gms.att.net.
+atlantaga.gov   nameserver = ns3.cl.bellsouth.net.
+atlantaga.gov   nameserver = ns1.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $ nslookup -type=ns fultoncountyga.gov
+Server:         8.8.8.8
+Address:        8.8.8.8#53
+
+Non-authoritative answer:
+fultoncountyga.gov      nameserver = ns1.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns3.cl.bellsouth.net.
+fultoncountyga.gov      nameserver = ns2.cl.bellsouth.net.
+
+Authoritative answers can be found from:
+
+~ $
+
+```
 
 @thakasErikaselassie_kelly
 ​​hi
