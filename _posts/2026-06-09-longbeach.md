@@ -10,7 +10,18 @@ image: LongBeachEcostress.png
 ## Rashard Kelly 
  MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt @ForAtlanta - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) 
 
+# @Nasa-jpl hi @spaceexplorationtechnologies CRS34 departure confirmation @youtube [https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz](https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz)
 
+```shell
+spacex.com      mail exchanger = 5 mxb-003ea501.gslb.gpphosted.com.
+
+spacex.com      mail exchanger = 5 mxa-003ea501.gslb.gpphosted.com.
+
+```
+
+<iframe width="649" height="360" src="https://www.youtube.com/embed/k0Mg3vQtudc?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
+
+https://www.youtube.com/live/fu-t3Om6DIA?is=ZHtXK2lI8y3rCyVz 
 ## SentineL2
 [Falsecolor](https://ia601505.us.archive.org/28/items/longbeach_202605/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_False_color.png) // [TrueColor @eu-cdse @nasa-jpl](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/2026-06-08-00_00_2026-06-08-23_59_Sentinel-2_L2A_True_color.png) @nasa-jpl @usgs @la-county-isd @blackgirlscode 
 <img  alt="image" src="https://github.com/user-attachments/assets/c9cb9784-d0df-49a3-8da8-82918818039e" />
