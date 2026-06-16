@@ -11,6 +11,11 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+
+@nasa-jpl [https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/](https://thakarashard.github.io/BUBBLEGUMPOP_TiNASHE/)
+About [Tinashe](https://www.tinashenow.com/home)., using the above repo i was keeping record of saving a playlist i began in atlanta with them [at the studio](https://www.dance411.com/) , they would talk to me from my floor! They were hiding under my home! @doug-newman-nasa @blackgirlscode @whitehouse 
+
 <img alt="image @doug-newman-nasa @AndreGueretNASA ... hi andre @blackgirlscode and virtiserv are businesses etc that came to link at our SBO @nasa-jpl... they are pretty so im attacked an impersonated a lot, just a warning @nasa-openscapes @la-county-isd @nasa-pds @nasa-develop" src="https://github.com/user-attachments/assets/04c90641-d5b5-4674-81da-bf6e9f46d8cc" />
 
 
