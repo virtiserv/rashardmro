@@ -13,6 +13,12 @@ permalink: /virtiserv
 
 
 
+
+@nasa-jpl @lacountyDPH @la-county-isd @whitehouse @deptofwar @boeing @blackgirlscode @cityoflosangeles [ doxing ? @nasa-openscapes @doug-newman-nasa_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4](https://ia601704.us.archive.org/31/items/2025-12-20-00-00-2025-12-20-23-59-sentinel-2-l-2-a-true-color/00_iii_ARSET-Floods2026FLOODDATAPRODUCT_ARSET_CLASS_WEBiNAR_NOT_ATTENDED_HOLLYJMiTCHELL_KARENBASS_ViRTiSERvLATRiCE_Recording2026-06-18%20111458%20-%20Copy.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/8f1618f1-21ca-4958-b00a-2f516b735a40" />
+
+
 [<video controls  src="https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4" />](https://ia903200.us.archive.org/10/items/Rashardkellyshandpoisoned/0_teslacoilsnormaniismissing.mp4)
 
 
