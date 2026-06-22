@@ -19,25 +19,52 @@ host -a whitehouse.gov
 host -a war.gov
 nslookup -type=mx war.gov
 nslookup -type=ns war.gov
+nslookup -type=ns earthdata.nasa.gov  
+nslookup -type=mx earthdata.nasa.gov 
 nslookup -type=ns jpl.nasa.gov
 nslookup -type=mx jpl.nasa.gov
+nslookup -q=mx firms.modaps.eosdis.nasa.gov
+nslookup -q=ns firms.modaps.eosdis.nasa.gov
 nslookup -type=ns uahirise.org
-nslookup -type=mx uahirise.org
+nslookup -type=mx uahirise.orgho
+host trumpcard.gov  
+host commerce.gov
+host virtiserv.com
 nslookup -type=mx home.treasury.gov
 nslookup -type=ns home.treasury.gov
+nslookup -type=mx trumpcard.gov
+nslookup -type=ns trumpcard.gov
+
+nslookup -type=mx commerce.gov
+nslookup -type=ns commerce.gov
 nslookup -type=ns treasurer.ca.gov
 nslookup -type=mx treasurer.ca.gov
-
+nslookup -type=mx treasury.gov
+nslookup -type=ns treasury.gov
+nslookup -type=mx women.ca.gov
+nslookup -type=ns women.ca.gov
+nslookup -type=mx water.noaa.gov
+nslookup -type=ns water.noaa.gov
+nslookup -type=ns droughtmonitor.unl.edu 
+nslookup -type=mx droughtmonitor.unl.edu 
+nslookup -type=ns spaceweather.gov
+nslookup -type=mx spaceweather.gov
+nslookup -type=ns ncei.noaa.gov
+nslookup -type=mx ncei.noaa.gov
 nslookup -type=ns navy.mil
 nslookup -type=mx navy.mil
 nslookup -type=ns navy.com
 nslookup -type=mx navy.com
+nslookup -type=ns hollyjmitchell.com
+
+nslookup -type=mx hollyjmitchell.com
 nslookup -type=ns esa.int
 nslookup -type=mx esa.int
 nslookup -type=ns spacetelescope.org
 
 nslookup -type=mx spacetelescope.org
 traceroute reelecthydee.com
+traceroute hollyjmitchell.com
 nslookup -type=ns reelecthydee.com  
 nslookup -type=mx reelecthydee.com
 nslookup -type=ns global.jaxa.jp
@@ -46,6 +73,11 @@ nslookup -type=ns gov.uk
 nslookup -type=mx gov.uk
 dig whitehouse.gov NS +trace
 host whithouse.gov
+host -a ecostress.jpl.nasa.gov
+
+nslookup -type=ns ecostress.jpl.nasa.gov
+nslookup -type=mx ecostress.jpl.nasa.gov
+traceroute trumpcard.gov
 host trumpcard.gov
 host commerce.gov
 host usgs.gov
@@ -72,9 +104,16 @@ nslookup -type=mx congress.gov
 nslookup -type=ns congress.gov
 nslookup -type=mx dhs.gov
 nslookup -type=ns dhs.gov
+nslookup -type=mx cia.gov
+nslookup -type=ns cia.gov
+
+nslookup -type=mx boeing.com
+nslookup -type=ns boeing.com
 nslookup -type=mx si.edu
 nslookup -type=ns si.edu
 host -a si.edu
+host -a boeing.com
+dig +trace ice.gov
 nslookup -type=mx ice.gov
 nslookup -type=ns ice.gov
 traceroute ethics.lacity.gov
