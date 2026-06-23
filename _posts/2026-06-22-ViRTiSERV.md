@@ -21,9 +21,44 @@ permalink: /virtiserv
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
-
+# Insight data collection
+[@nasa-jpl @la-county-isd insight PRES RELEASE @CityOFloSANGELES @stateofcalifornia _`jpl.nasa.gov/news/press_kits/insight`_](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/)
 [@blackgirlscode _`_NoBeef_`_ _eyes.nasa.gov/apps/experience-insight/InSight.html](https://eyes.nasa.gov/apps/experience-insight/InSight.html) // [@Usatoday NASA launches $1 billion InSight probe mission to Mars](https://www.usatoday.com/picture-gallery/news/2018/05/05/nasa-launches-1-billion-insight-probe-mission-to-mars/34588189/)
 [https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*)
+
+<img alt="image" src="https://github.com/user-attachments/assets/d30b6120-0ac3-48e8-9562-7e86615c091e" />
+
+```
+Overview Fields
+Bundle Id
+insight_cameras
+Collection Id
+data
+File Name
+C000M1436_724026383CPG_F0000_0200M2.VIC
+Instrument
+ICC
+Mission
+nsyt
+PDS Standard
+pds4
+Product Creation Time
+2023-02-06T21:13:27Z
+Product Id
+urn:nasa:pds:insight_cameras:data:c000m1436_724026383cpg_f0000_0200m
+Product Type
+CPG
+Spacecraft
+insight_lander
+Start Time
+2022-12-11T10:28:39.090Z
+Stop Time
+2022-12-11T10:28:39.326Z
+Target
+mars
+Uri
+atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/1436/mipl/rdr/icc/C000M1436_724026383CPG_F0000_0200M2.VIC
+```
 
 <img  alt="D000M0295_622717173EJP_F0000_0250M2" src="https://github.com/user-attachments/assets/77344910-79bb-4201-915e-e46e6ba0d881" />
 <img alt="D000M0004_596886883EJP_F0000_0541M4" src="https://github.com/user-attachments/assets/97eb28b8-c719-4f8e-9190-2dce88961564" />
@@ -36,6 +71,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4 @nasa-pds](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4)
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4)
 
+
+![https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png](https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png)
 [https://water.noaa.gov/about/rfc](https://water.noaa.gov/about/rfc)
 [https://droughtmonitor.unl.edu/](https://droughtmonitor.unl.edu/)
 [https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard](https://www.spaceweather.gov/communities/space-weather-enthusiasts-dashboard)
