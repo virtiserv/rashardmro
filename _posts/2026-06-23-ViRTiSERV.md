@@ -21,6 +21,11 @@ permalink: /virtiserv
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+
+# MArs on EYE.nasa.gov
+[https://eyes.nasa.gov/apps/solar-system/#/mars](https://eyes.nasa.gov/apps/solar-system/#/mars)
+<img   alt="image" src="https://github.com/user-attachments/assets/fe0782a8-5e6a-44ca-a7e6-4c60c2749878" />
+
 # Spirit Rover
 One of two rovers launched in 2003 to explore Mars and search for signs of ancient water, Spirit far outlasted her planned 90-day mission. [@nasa-jpl read more @deptofwar @cityoflosangeles](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
 <img alt="image" src="https://github.com/user-attachments/assets/1c7d0c6b-0446-4c96-96a2-93b3ac6b24f6" />
