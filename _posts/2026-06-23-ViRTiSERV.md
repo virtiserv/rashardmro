@@ -21,6 +21,12 @@ permalink: /virtiserv
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+# Spirit Rover
+One of two rovers launched in 2003 to explore Mars and search for signs of ancient water, Spirit far outlasted her planned 90-day mission. [@nasa-jpl read more @deptofwar @cityoflosangeles](https://www.jpl.nasa.gov/missions/mars-exploration-rover-spirit-mer-spirit/)
+<img alt="image" src="https://github.com/user-attachments/assets/1c7d0c6b-0446-4c96-96a2-93b3ac6b24f6" />
+
+<img  alt="2f319371241fflb27mp1214r0m1 img" src="https://github.com/user-attachments/assets/bcb299b4-83f6-48f1-8321-ddc45775beee" />
+
 @nasa-pds the last time spirit talked was 2012 ? [https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img) 
 <img  alt="image" src="https://github.com/user-attachments/assets/36117d84-7785-4716-a095-cdafb960f181" />
 
@@ -30,6 +36,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 <img  alt="2f319371918sflb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/08529501-1725-496f-9b56-9910193b53c0" />
 
+<img   alt="image" src="https://github.com/user-attachments/assets/56c9d406-14e3-4d1b-b5ae-35d36f4f8dfc" />
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A905357275&color=%23d8d8d8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-509969798" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-509969798/jay-electronica-act-ii-the-patents-of-nobility-full-album" title="Jay Electronica - Act II The Patents Of Nobility (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Act II The Patents Of Nobility (Full Album)</a></div>
