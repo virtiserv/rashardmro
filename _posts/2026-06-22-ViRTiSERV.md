@@ -22,10 +22,10 @@ permalink: /virtiserv
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 # Insight data collection
-
+[NASA InSight: The Science and Engineering of a Mars Lander - Watch](https://www.youtube.com/watch?v=LWvN4n3reIU)
 <img  alt="image" src="https://github.com/user-attachments/assets/5f85b423-224c-4e86-84d4-b15ad1c987c9" />
 
-@nasa-jpl i was told this was supposed to stay on to be a weather becon?! Can we turn it back on Mrs Bass @La-county-isd @CityOfLosAngeles [MrNEwsom](https://ktla.com/news/local-news/governor-newsom-declares-state-of-emergency-for-boyle-heights-warehouse-fire/)? @nasa @lmco @stateofcalifornia @usatoday 
+@nasa-jpl i was told this was supposed to stay on to be a weather becon?! Can we turn it back on Mrs Bass @La-county-isd @CityOfLosAngeles [MrNEwsom](https://ktla.com/news/local-news/governor-newsom-declares-state-of-emergency-for-boyle-heights-warehouse-fire/)? @nasa @lmco @stateofcalifornia @usatoday [Lindsey Horvath wins WeHo city council seat 2011 - watch](https://youtu.be/l3FnAVgXJFo?si=q7HiAV08z8nAJjlo)
 
 _https://science.nasa.gov/mission/insight/_
 
