@@ -21,6 +21,17 @@ permalink: /virtiserv
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+
+[https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*)
+
+<img  alt="D000M0295_622717173EJP_F0000_0250M2" src="https://github.com/user-attachments/assets/77344910-79bb-4201-915e-e46e6ba0d881" />
+<img alt="D000M0004_596886883EJP_F0000_0541M4" src="https://github.com/user-attachments/assets/97eb28b8-c719-4f8e-9190-2dce88961564" />
+
+<img src="https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/data/sol/0298/mipl/edr/icc/C000M0298_622996997EJP_F0000_0800M2.JPG"/>
+
+[@nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&fq=ATLAS_`MISSION_NAME`%3A `insight` &q=*%3A*&start=3888](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&fq=ATLAS_MISSION_NAME%3Ainsight&q=*%3A*&start=3888)
+![8686_Mars-InSight-Solar-Panels-Open-pia196641.jpg @nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/3/8/38686_Mars-InSight-Solar-Panels-Open-pia196641.jpg)
+
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4 @nasa-pds](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4)
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4)
 
