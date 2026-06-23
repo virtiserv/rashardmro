@@ -46,6 +46,8 @@ One of two rovers launched in 2003 to explore Mars and search for signs of ancie
 opportunity 
 ![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3447/solar_panels_on_rover_seen_from_above.jpeg?w=1238&h=968&fit=clip&crop=faces%2Cfocalpoint](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/solar/internal_resources/3447/solar_panels_on_rover_seen_from_above.jpeg)
 
+<img  alt="ezgif com-animated-gif-maker" src="https://github.com/user-attachments/assets/020708d6-5fb5-4916-99a1-77169635c0f5" />
+
 <img alt="1n128285132mrd0000p1500r0m1 img" src="https://github.com/user-attachments/assets/c3d25ec0-0a49-4865-9bc2-ab649d449e65" />
 
 
