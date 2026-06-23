@@ -23,6 +23,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 # Insight data collection
 
+<img  alt="image" src="https://github.com/user-attachments/assets/5f85b423-224c-4e86-84d4-b15ad1c987c9" />
 
 @nasa-jpl i was told this was supposed to stay on to be a weather becon?! Can we turn it back on Mrs Bass @La-county-isd @CityOfLosAngeles [MrNEwsom](https://ktla.com/news/local-news/governor-newsom-declares-state-of-emergency-for-boyle-heights-warehouse-fire/)? @nasa @lmco @stateofcalifornia @usatoday 
 
