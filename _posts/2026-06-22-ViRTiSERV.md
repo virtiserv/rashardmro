@@ -90,12 +90,15 @@ _launch_presskit.pdf_
 <img alt="image" src="https://github.com/user-attachments/assets/9b8c0632-8bdc-41fd-8606-874845aea084" />
 
 
+
 <img  alt="18-mission-current-InSight_adj height-700" src="https://github.com/user-attachments/assets/57537b9b-1830-47fe-86af-3fb224d28491" />
 
 ![8686_Mars-InSight-Solar-Panels-Open-pia196641.jpg @nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/3/8/38686_Mars-InSight-Solar-Panels-Open-pia196641.jpg)
 
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4 @nasa-pds](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4)
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153638.mp4)
+
+![https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/InSight_Mission_Logo_%28transparent%29.png/960px-InSight_Mission_Logo_%28transparent%29.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/InSight_Mission_Logo_%28transparent%29.png/960px-InSight_Mission_Logo_%28transparent%29.png) 
 
 
 ![https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png](https://upload.wikimedia.org/wikipedia/commons/3/3e/InSight_mission_patch_v1.png)
