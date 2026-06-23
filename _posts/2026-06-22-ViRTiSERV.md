@@ -22,6 +22,17 @@ permalink: /virtiserv
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 # Insight data collection
+
+
+@nasa-jpl i was told this was supposed to stay on to be a weather becon?! Can we turn it back on Mrs Bass @La-county-isd @CityOfLosAngeles [MrNEwsom](https://ktla.com/news/local-news/governor-newsom-declares-state-of-emergency-for-boyle-heights-warehouse-fire/)? @nasa @lmco @stateofcalifornia @usatoday 
+
+_https://science.nasa.gov/mission/insight/_
+
+_Occurred 4 years ago_
+_Interior Exploration using Seismic Investigations, Geodesy and Heat Transport (InSight)_
+
+<img alt="image" src="https://github.com/user-attachments/assets/e331bd66-80b8-4bac-8404-21ffab840fe7" />
+
 [@nasa-jpl @la-county-isd insight PRES RELEASE @CityOFloSANGELES @stateofcalifornia _`jpl.nasa.gov/news/press_kits/insight`_](https://www.jpl.nasa.gov/news/press_kits/insight/launch/facts/)
 [@blackgirlscode _`_NoBeef_`_ _eyes.nasa.gov/apps/experience-insight/InSight.html](https://eyes.nasa.gov/apps/experience-insight/InSight.html) // [@Usatoday NASA launches $1 billion InSight probe mission to Mars](https://www.usatoday.com/picture-gallery/news/2018/05/05/nasa-launches-1-billion-insight-probe-mission-to-mars/34588189/)
 [https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*)
@@ -71,6 +82,9 @@ atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/1436/mipl/rdr/icc/C000M
 _launch_presskit.pdf_
 [jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
 <img alt="image" src="https://github.com/user-attachments/assets/9b8c0632-8bdc-41fd-8606-874845aea084" />
+
+
+<img  alt="18-mission-current-InSight_adj height-700" src="https://github.com/user-attachments/assets/57537b9b-1830-47fe-86af-3fb224d28491" />
 
 ![8686_Mars-InSight-Solar-Panels-Open-pia196641.jpg @nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/3/8/38686_Mars-InSight-Solar-Panels-Open-pia196641.jpg)
 
