@@ -66,6 +66,12 @@ atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/1436/mipl/rdr/icc/C000M
 <img src="https://planetarydata.jpl.nasa.gov/img/data/nsyt/insight_cameras/data/sol/0298/mipl/edr/icc/C000M0298_622996997EJP_F0000_0800M2.JPG"/>
 
 [@nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&fq=ATLAS_`MISSION_NAME`%3A `insight` &q=*%3A*&start=3888](https://pds-imaging.jpl.nasa.gov/search/?fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&fq=ATLAS_MISSION_NAME%3Ainsight&q=*%3A*&start=3888)
+
+
+_launch_presskit.pdf_
+[jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf](https://www.jpl.nasa.gov/news/press_kits/insight/launch/download/mars_insight_launch_presskit.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/9b8c0632-8bdc-41fd-8606-874845aea084" />
+
 ![8686_Mars-InSight-Solar-Panels-Open-pia196641.jpg @nasa-jpl  @nasa-pds im sharing insight wiith latrice, it looks like someone shut it off](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/downloadable_items/3/8/38686_Mars-InSight-Solar-Panels-Open-pia196641.jpg)
 
 [https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4 @nasa-pds](https://ia903101.us.archive.org/22/items/Julyhotpepper/VID_20250704_153702.mp4)
