@@ -24,7 +24,11 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 @nasa-pds the last time spirit talked was 2012 ? [https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img](https://pds-imaging.jpl.nasa.gov/tools/atlas/record?uri=atlas:pds3:mer:spirit:/mer2ho_0xxx/data/sol0001/edr/2r126468012edn0000p1002l0m1.img) 
 <img  alt="image" src="https://github.com/user-attachments/assets/36117d84-7785-4716-a095-cdafb960f181" />
 
+<img  alt="2f319371918esfb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/aaf0af09-0116-4a18-a1d5-884aab7baacd" />
+
+
 <img  alt="2r126625320dnl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/1d6e80b4-dc1f-4bec-a503-5f96443891e5" />
+<img  alt="2r126625320rsl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/447695d5-fc4b-4f24-9740-05a739f53693" />
 
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A905357275&color=%23d8d8d8&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/josh-calhoun-509969798" title="josh calhoun" target="_blank" style="color: #cccccc; text-decoration: none;">josh calhoun</a> · <a href="https://soundcloud.com/josh-calhoun-509969798/jay-electronica-act-ii-the-patents-of-nobility-full-album" title="Jay Electronica - Act II The Patents Of Nobility (Full Album)" target="_blank" style="color: #cccccc; text-decoration: none;">Jay Electronica - Act II The Patents Of Nobility (Full Album)</a></div>
