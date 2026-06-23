@@ -35,6 +35,7 @@ One of two rovers launched in 2003 to explore Mars and search for signs of ancie
 <img  alt="2r126625320dnl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/1d6e80b4-dc1f-4bec-a503-5f96443891e5" />
 <img  alt="2r126625320rsl0200p1002r0m1 img" src="https://github.com/user-attachments/assets/447695d5-fc4b-4f24-9740-05a739f53693" />
 <img  alt="2f319371918esfb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/aaf0af09-0116-4a18-a1d5-884aab7baacd" />
+<img  alt="2f318929944rsdb27mp1214r0m1 img" src="https://github.com/user-attachments/assets/79dea292-f090-4735-bfa7-08a7b1117dfb" />
 
 <img  alt="2f319371918sflb27mp1162l0m1 img" src="https://github.com/user-attachments/assets/08529501-1725-496f-9b56-9910193b53c0" />
 
