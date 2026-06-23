@@ -1602,7 +1602,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
-
+![https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/18-mission-current-InSight_adj.height-700.png)
 
 ![mc](https://web.archive.org/web/20060622000110im_/http://mpfwww.jpl.nasa.gov/martianchronicle/martianchron5/masthead5.gif)
 
