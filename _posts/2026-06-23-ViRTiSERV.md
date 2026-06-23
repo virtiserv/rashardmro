@@ -31,7 +31,7 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 <img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
 
 [nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
-nssdc.gsfc.nasa.gov/planetary domain transfer 
+nssdc.gsfc.nasa.gov/planetary domain transfer [https://lookup.icann.org/whois/en?q=nssdc.gsfc.nasa.gov&t=a @nasa-pds](https://lookup.icann.org/whois/en?q=nssdc.gsfc.nasa.gov&t=a) / / / [https://lasp.colorado.edu/mariner9/137-2/nssdc/](https://lasp.colorado.edu/mariner9/137-2/nssdc/)
 [Solar System Exploration Data Services Office 690.1](https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/)
 
 `https://www.nasa.gov/nssdc/` = _The NASA Space Science Data Coordinated Archive website is temporarily offline for maintenance._ since [_Winter 2025_](https://www.fire.ca.gov/incidents/2025) @nasa-jpl @nasa-pds @nasagiss @nasa-pds @lmco @blackgirlscode [KimBryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant#:~:text=Kimberly%20Bryant%20is%20the%20Founder,a%20concentration%20on%20entrepreneurial%20concepts.) [[1](https://www.reddit.com/r/technology/comments/rnycxw/black_girls_code_founder_suspended_in/)] [[2](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] [[3](https://www.linkedin.com/in/kimberlybryant)] [[4](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] +++ [https://lasp.colorado.edu/mariner9/137-2/nssdc/](https://lasp.colorado.edu/mariner9/137-2/nssdc/) /// 
