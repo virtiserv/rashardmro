@@ -22,7 +22,7 @@ permalink: /virtiserv
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
 # Insight data collection
-[NASA InSight: The Science and Engineering of a Mars Lander - Watch](https://www.youtube.com/watch?v=LWvN4n3reIU)
+[NASA InSight: The Science and Engineering of a Mars Lander - Watch](https://www.youtube.com/watch?v=LWvN4n3reIU) //// [adventuredragon.com/adventure-nerd/send-your-name-to-mars `2015`](adventuredragon.com/adventure-nerd/send-your-name-to-mars/)
 <img  alt="image" src="https://github.com/user-attachments/assets/5f85b423-224c-4e86-84d4-b15ad1c987c9" />
 
 @nasa-jpl i was told this was supposed to stay on to be a weather becon?! Can we turn it back on Mrs Bass @La-county-isd @CityOfLosAngeles [MrNEwsom](https://ktla.com/news/local-news/governor-newsom-declares-state-of-emergency-for-boyle-heights-warehouse-fire/)? @nasa @lmco @stateofcalifornia @usatoday [Lindsey Horvath wins WeHo city council seat 2011 - watch](https://youtu.be/l3FnAVgXJFo?si=q7HiAV08z8nAJjlo)
@@ -71,6 +71,11 @@ mars
 Uri
 atlas:pds4:nsyt:insight_lander:/insight_cameras/data/sol/1436/mipl/rdr/icc/C000M1436_724026383CPG_F0000_0200M2.VIC
 ```
+
+_`!!! DONOT DECOMM THIS URL plZ!`_ @deptofwar @nasa @lmco @nasa-jpl hi @la-county-isd @cityoflosangeles i wanted you to see i workd today thats y i mentioned you 
+[https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Ainsight&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=3912](https://pds-imaging.jpl.nasa.gov/search/?fq=ATLAS_MISSION_NAME%3Ainsight&fq=-ATLAS_THUMBNAIL_URL%3Abrwsnotavail.jpg&q=*%3A*&start=3912)
+<img   alt="image" src="https://github.com/user-attachments/assets/258b7375-db08-43c1-aba7-e11d3e8beabc" />
+
 
 <img  alt="D000M0295_622717173EJP_F0000_0250M2" src="https://github.com/user-attachments/assets/77344910-79bb-4201-915e-e46e6ba0d881" />
 <img alt="D000M0004_596886883EJP_F0000_0541M4" src="https://github.com/user-attachments/assets/97eb28b8-c719-4f8e-9190-2dce88961564" />
