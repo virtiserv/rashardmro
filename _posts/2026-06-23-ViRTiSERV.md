@@ -21,6 +21,36 @@ permalink: /virtiserv
 ## Rashard Kelly ...
 MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/) . . . @ucla hi from [Remote @Nasa-JPL](https://holetoanotheruniverse40.github.io/compiling/) // [virtiserv](https://www.facebook.com/thevirtiservway/)  // @esa @usgs @alphagov ~ @whitehouse @la-county-isd @UKSpaceAgency hi @eSA @blackgirlscode @eu-cdse
 
+<picture itemprop="productionCompany" itemtype="https://schema.org/Organization">
+  
+  <source src="https://ecostress.jpl.nasa.gov/logo.png" type="image/png" />
+  
+  <source src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" type="image/png" />
+  
+  <img itemprop="countryOfOrigin" itemtype="https://schema.org/Country" alt=" @deptofwar logo @nasa-jpl https://ecostress.jpl.nasa.gov/logo.png" src="https://github.com/user-attachments/assets/ca25b7f2-76f1-42b6-8882-9d0f09fc6363" />
+  
+</picture>
+
+![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
+![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
+
+
+![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+[https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+<img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
+
+[nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
+nssdc.gsfc.nasa.gov/planetary domain transfer 
+[Solar System Exploration Data Services Office 690.1](https://science.gsfc.nasa.gov/solarsystem/dataarchives/projects/232/)
+
+`https://www.nasa.gov/nssdc/` = _The NASA Space Science Data Coordinated Archive website is temporarily offline for maintenance._ since [_Winter 2025_](https://www.fire.ca.gov/incidents/2025) @nasa-jpl @nasa-pds @nasagiss @nasa-pds @lmco @blackgirlscode [KimBryant](https://obamawhitehouse.archives.gov/champions/tech-inclusion/kimberly-bryant#:~:text=Kimberly%20Bryant%20is%20the%20Founder,a%20concentration%20on%20entrepreneurial%20concepts.) [[1](https://www.reddit.com/r/technology/comments/rnycxw/black_girls_code_founder_suspended_in/)] [[2](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] [[3](https://www.linkedin.com/in/kimberlybryant)] [[4](https://peopleofcolorintech.com/articles/black-girls-code-founder-kimberly-bryant-announces-amicable-resolution-with-the-organization/)] +++ [https://lasp.colorado.edu/mariner9/137-2/nssdc/](https://lasp.colorado.edu/mariner9/137-2/nssdc/) /// 
+<img  alt="image" src="https://github.com/user-attachments/assets/10a33e49-68d7-429b-82ff-d265193a9f9d" />
+<img  alt="image" src="https://github.com/user-attachments/assets/403b2e62-7bf1-417d-b76e-af6659f46c15" />
+
+<img  alt="image" src="https://github.com/user-attachments/assets/53107313-7911-463f-95c6-eb9a19762a1c" />
+
+
+@blackgirlscode @la-county-isd @nasa-pds @Nasa-OPENSCAPES @doug-newman-nasa food is on the way @blueorigin [Expedition74](https://www.nasa.gov/blogs/spacestation/)
 
 # MArs on EYE.nasa.gov
 [https://eyes.nasa.gov/apps/solar-system/#/mars](https://eyes.nasa.gov/apps/solar-system/#/mars)
