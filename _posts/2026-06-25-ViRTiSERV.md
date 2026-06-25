@@ -26,7 +26,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal | The Lana Rundown` [Watch](https://youtu.be/kmU09zbyjWE?t=178)
-@whitehouse @foratlanta @stateofcalifornia ... @blackgirlscode pass this to LANA `@hot97 lana read this b4 any more coverage` - [youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4](https://youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4)  centcom.mil/CENTCOM-AOR/Iran/ @deptofwar 
+@whitehouse @foratlanta @stateofcalifornia ... @blackgirlscode pass this to LANA `@hot97 lana read this b4 any more coverage` -  [centcom.mil/CENTCOM-AOR/Iran/ @deptofwar](centcom.mil/CENTCOM-AOR/Iran/) [
+The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal  youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4](https://youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4) 
 <img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
 
 
