@@ -41,7 +41,7 @@ Contingency Plan
 
 
 
-`Israel Facing New Genocide Claims: What You Need to Know | The Lana Rundown` - [watch](https://youtu.be/uo0TXVS7j4c)
+`Israel Facing New Genocide Claims: What You Need to Know | The Lana Rundown` - [watch](https://youtu.be/uo0TXVS7j4c) //// [hydroviewer.geoglows.org/#lon=-83.43&lat=33.14&zoom=8.07&definition=](https://hydroviewer.geoglows.org/#lon=-83.43&lat=33.14&zoom=8.07&definition=)
 
 <img   alt="image" src="https://github.com/user-attachments/assets/18498baf-29ae-42ae-bf23-aa91b9e0885a" />
 
