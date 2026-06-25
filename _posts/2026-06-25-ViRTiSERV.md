@@ -25,6 +25,25 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+
+# Jelly Fish Over LA
+friends of @blackgirlscode `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal` - [watch](https://youtu.be/kmU09zbyjWE?t=2)
+
+[Elon Musk](https://www.tesla.com/elon-musk) co-founded and leads [Tesla, SpaceX](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html), Neuralink and The Boring Company. @nasa-jpl @nasa-pds
+
+[<video controls  src="https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4" />](https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4)
+
+
+part 2 
+Tracking with my cell as well
+
+[<video controls  src="https://ia800106.us.archive.org/16/items/skywatching_202605/00STarlink17-45%20part%202VID_20260624_203707_097.mp4" />](https://ia800106.us.archive.org/16/items/skywatching_202605/00STarlink17-45%20part%202VID_20260624_203707_097.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5b388a5f-e5bc-4e38-9297-ac2c89a0b881" />
+
+[TrackingStarman -whereisroadster.com](https://www.whereisroadster.com/)
+
 `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal | The Lana Rundown` [Watch](https://youtu.be/kmU09zbyjWE?t=178)
 @whitehouse @foratlanta @stateofcalifornia ... @blackgirlscode pass this to LANA `@hot97 lana read this b4 any more coverage` -  
 
