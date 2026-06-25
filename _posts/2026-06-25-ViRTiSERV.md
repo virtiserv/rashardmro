@@ -26,8 +26,52 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
 
+@nasa-jpl @howard-university-web-services @nasa-pds 
+Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
+ // [ARSET-Floods2026-part2-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part2-exercise.pdf) // [ARSET-Floods2026-part3-exercise_0.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part3-exercise_0.pdf)
+++++++++ [docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1](https://docs.google.com/forms/d/e/1FAIpQLScHFpBQPj4cYbs59U11BnE_qGorQQlKI2fKJQML5pgQLaL1vQ/viewform?pli=1) @cityoflosangeles @stateofcalifornia @foratlanta @newshour @nbcnews [vsco.co/rashardsartu/gallery](https://vsco.co/rashardsartu/gallery)
+
+
+```
+Homework: Monitoring and Predicting Floods Using Earth Observations for Planning and Preparedness 
+This homework includes questions from all 3 parts of the training series. You might want to record your answers on a sheet of paper or word document before submitting them here. You will not be able to save your answers and return to complete this form at a later time.
+
+To receive a certificate of completion, you must have attended all 3 parts and have completed this homework by July 9, 2026. Once you submit the homework, you will receive an email with a copy of your responses.
+
+Once you click submit, you can click "View Score" to see how you did.
+```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/b04cb68b-b741-4b2f-8116-cc0c0a7598d4" />
+
+
+
+[vsco.co/earthdatarashard/gallery @fbicyber ](https://vsco.co/earthdatarashard/gallery)
+
+[Mars rover mated with Atlas 5 launcher after teams deal with coronavirus cases](https://spaceflightnow.com/2020/07/09/mars-rover-mated-with-atlas-5-launcher-after-teams-deal-with-coronavirus-cases/)
+![https://spaceflightnow.com/wp-content/uploads/2020/07/KSC-20200618-PH-CMM01_0006large.jpg](https://spaceflightnow.com/wp-content/uploads/2020/07/KSC-20200618-PH-CMM01_0006large.jpg)
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/sld45Patch.png)
+
+![https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png](https://45thweathersquadron.nebula.spaceforce.mil/assets/images/45wspatch.png)
+
+[jpl.nasa.gov/news/press_kits/mro-arrival.pdf <~ @letschat@virtiserv.com ](jpl.nasa.gov/news/press_kits/mro-arrival.pdf)
+[https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro](https://arcnav.psi.edu/urn:nasa:pds:context:instrument_host:spacecraft.mro)
+
+![https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png](https://upload.wikimedia.org/wikipedia/commons/2/26/Mars_Reconnaissance_Orbiter_-_MOI_Flight_Ops_Team_Patch.png)
+
+[https://historicspacecraft.com/Rockets_SpaceX.html](https://historicspacecraft.com/Rockets_SpaceX.html) @nasa-pds @nasa-jpl @blackgirlscode 
+
+![https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png](https://upload.wikimedia.org/wikipedia/commons/6/6b/Mars_Reconnaissance_Orbiter_insignia.png)
+
+![https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png](https://d2pn8kiwq2w21t.cloudfront.net/images/27-mission-current-MRO.height-700.png)
+
+![https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg](https://assets.science.nasa.gov/dynamicimage/assets/science/psd/mars/resources/detail_files/2/5/25068_MarsPerseverance-Launch-Red-Circle-Logo-Black-Text-Side-Stacked-web.jpg)
+
+
 ![https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif](https://web.archive.org/web/19970519060142im_/http://nssdc.gsfc.nasa.gov/logo/nssdc_logo_bg.gif) 
+
 [https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/ 1997 @nasa-giss @nasa-jpl](https://web.archive.org/web/19970519060142/http://nssdc.gsfc.nasa.gov/)
+
 <img   alt="image" src="https://github.com/user-attachments/assets/3f7bea67-3d5b-4142-8134-6db3b6f9e640" />
 
 [nssdc.gsfc.nasa.gov/planetary](nssdc.gsfc.nasa.gov/planetary)
