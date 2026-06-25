@@ -32,6 +32,17 @@ Contingency Plan
 
 [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/) 
 
+@la-county-isd 
+The Blue dots are [Settlements or townships in data expression](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) the other dots are in this legend, click on them and learn more about the water source, The [@Usgs WaterDashboard]() can tell you more about the amount of moving water for forcasts and estimaTES	
+<img width="270" height="296" alt="image" src="https://github.com/user-attachments/assets/139ebf4f-de2c-4845-888f-ca0a625227fc" />
+[https://worldview.earthdata.nasa.gov/?v=-121.72257298848386,31.270982012806073,-113.94941629915307,36.55762460266793&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_DayNightBand,VIIRS_NOAA21_CorrectedReflectance_BandsM3-I3-M11,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-06-13-T00%3A00%3A00Z](https://worldview.earthdata.nasa.gov/?v=-121.72257298848386,31.270982012806073,-113.94941629915307,36.55762460266793&l=Reference_Labels_15m,Reference_Features_15m(hidden),Coastlines_15m(hidden),GRUMP_Settlements,GRanD_Reservoirs,GRanD_Dams,VIIRS_NOAA21_DayNightBand,VIIRS_NOAA21_CorrectedReflectance_BandsM3-I3-M11,OCI_PACE_True_Color(hidden),VIIRS_NOAA21_CorrectedReflectance_TrueColor(hidden),VIIRS_NOAA20_CorrectedReflectance_TrueColor(hidden),VIIRS_SNPP_CorrectedReflectance_TrueColor(hidden),MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor&lg=true&t=2026-06-13-T00%3A00%3A00Z)
+
+Center For International Earth Science Information Network-CIESIN-Columbia University, International Food Policy Research Institute-IFPRI, The World Bank, and Centro Internacional De Agricultura Tropical-CIAT. “Global Rural-Urban Mapping Project, Version 1 (GRUMPv1): Settlement Points.” Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC), 2011. [doi:10.7927/H4M906KR](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00). Date Accessed: [2026-06-25](https://www.youtube.com/watch?v=EmdlCOY4Fjc)
+
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/50438898-f79a-402c-8047-44b76e4f5395" />
+
 
 // [JPL Annual Reports](https://www.jpl.nasa.gov/who-we-are/annual-reports/)
 
