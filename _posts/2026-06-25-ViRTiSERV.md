@@ -25,6 +25,10 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+`The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal | The Lana Rundown` [Watch](https://youtu.be/kmU09zbyjWE?t=178)
+@whitehouse @foratlanta @stateofcalifornia ... @blackgirlscode pass this to LANA `@hot97 lana read this b4 any more coverage` - [youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4](https://youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4)  centcom.mil/CENTCOM-AOR/Iran/ @deptofwar 
+<img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
+
 
 @la-county-isd @cityoflosangeles @stateofcalifornia 
 Hearing on 2025 Urban Water Management Plans and Water Shortage
