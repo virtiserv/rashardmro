@@ -7,7 +7,7 @@ image: virtiservO4wPromises01.jpg
 author: "RashardKelly @nasa-jpl"
 permalink: /lagroundwater
 ---
-
+@La-County-isd @cityoflosangeles  [_`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
 [ecostress.jpl.nasa.gov/team @la-county-isd @nasa-openscapes @nasa-giss](https://ecostress.jpl.nasa.gov/team)
 [https://nasagrace.unl.edu/](https://nasagrace.unl.edu/)
 [https://grace.jpl.nasa.gov/applications/groundwater/](https://grace.jpl.nasa.gov/applications/groundwater/)
@@ -21,8 +21,12 @@ permalink: /lagroundwater
 // [JPL Annual Reports](https://www.jpl.nasa.gov/who-we-are/annual-reports/)
 
 [U.S. Spacewalk Preview News Conference (June 25, 2026)](https://www.youtube.com/live/QNNfhTwmYso?si=rn-Tv2PBEMZYBcnb)
+@la-county-isd @cityoflosangeles @stateofcalifornia 
+Hearing on 2025 Urban Water Management Plans and Water Shortage
+Contingency Plan
 
-<img  alt="image" src="https://github.com/user-attachments/assets/d1d47229-7f87-44ac-91b0-fc84d5182224" />
+[@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/) 
+
 
 @nasa-jpl @howard-university-web-services @nasa-pds 
 Trice, this is my homework [[ARSET-Floods2026-part1-exercise.pdf](https://www.earthdata.nasa.gov/s3fs-public/2026-06/ARSET-Floods2026-part1-exercise.pdf) 
@@ -38,12 +42,15 @@ To receive a certificate of completion, you must have attended all 3 parts and h
 
 Once you click submit, you can click "View Score" to see how you did.
 ```
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d1d47229-7f87-44ac-91b0-fc84d5182224" />
 <img alt="image" src="https://github.com/user-attachments/assets/dde95bee-a390-4fa2-8fff-0f63e323eb15" />
 
 
 [dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-121.71753%2C32.19886%2C-114.09302%2C36.47872%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-121.71752929687501%2C32.19885712788491%2C-114.09301757812501%2C36.47872381162467%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D @usgs the county can use some help understanding aquifers im just scetching a report @blackgirlscode @nasa-jpl @cityoflosangeles]( https://dashboard.waterdata.usgs.gov/app/nwd/en/?aoi=bbox-%5B-121.71753%2C32.19886%2C-114.09302%2C36.47872%5D&view=%7B%22basemap%22%3A%22EsriImagery2%22%2C%22bounds%22%3A%22-121.71752929687501%2C32.19885712788491%2C-114.09301757812501%2C36.47872381162467%22%2C%22insetMap%22%3Afalse%2C%22panel%22%3A%7B%22id%22%3A%22ViewerLayers%22%2C%22open%22%3Afalse%2C%22checkbox%22%3A%220%2C10%2C17%2C19%2C21%2C22%2C23%22%2C%22hiddenSubgroup%22%3A%22%22%2C%22range%22%3A%220%3A1.0%2C1%3A1.0%2C2%3A1.0%2C3%3A1.0%2C4%3A1.0%2C5%3A1.0%2C6%3A1.0%2C7%3A1.0%2C8%3A0.8%2C9%3A0.3%2C10%3A0.5%2C11%3A0.5%2C12%3A0.5%2C13%3A0.5%2C14%3A0.5%2C15%3A0.5%2C16%3A0.5%2C17%3A1.0%2C18%3A1.0%2C19%3A1.0%2C20%3A1.0%22%2C%22select%22%3A%220%3A0%2C1%3A0%2C2%3A0%2C3%3A0%2C4%3A0%2C5%3A0%2C6%3A0%2C7%3A0%2C8%3A0%2C9%3A0%2C10%3A0%2C11%3A0%2C12%3A0%2C13%3A0%2C14%3A0%2C15%3A0%2C16%3A0%2C17%3A0%2C18%3A0%2C19%3A0%22%7D%7D )
 
 <img alt="image" src="https://github.com/user-attachments/assets/982d2de4-a28a-494e-9aea-ed5e1ea859c0" />
+
 @blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
 
 <img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
@@ -53,11 +60,7 @@ Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc
 @la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
 
 
-@la-county-isd @cityoflosangeles @stateofcalifornia 
-Hearing on 2025 Urban Water Management Plans and Water Shortage
-Contingency Plan
 
-[@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/) 
 
 @la-county-isd 
 The Blue dots are [Settlements or townships in data expression](https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-grumpv1-stlmnt-1.00) the other dots are in this legend, click on them and learn more about the water source, The [@Usgs WaterDashboard]() can tell you more about the amount of moving water for forcasts and estimaTES	
