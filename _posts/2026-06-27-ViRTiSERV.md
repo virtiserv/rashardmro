@@ -29,6 +29,14 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 
 
+hello @blackgirlscode @howard-university-web-services
+@usarmy.benning.imcom.mbx.pao@army.mil @benefits@howard.edu @phylicia.rashad@howard.edu @normani@fifthharmonyofficial.com @operations@wearebgc.org @letschat@virtiserv.com can u guys check on dsn and shoot your findings to @answers@usgs.gov and @earthdata-support@nasa.gov + @dsnnow@jpl.nasa.gov @ROC@jpl.nasa.gov 
+https://scan-now.gsfc.nasa.gov/scan @smallbusiness.programsoffice@jpl.nasa.gov 
+https://eyes.nasa.gov/apps/dsn-now/dsn.html
+https://www.earthdata.nasa.gov/data/alerts-outages @HollyJMitchell@bos.lacounty.gov who knows who the rump shakers jacking up for, im loosening my grip @jisaacman@shift4.com  -rashard @nasa-jpl @nasa-openscapes @nasa-pds
+<img alt="image @blackgirlscode" src="https://github.com/user-attachments/assets/6a5f7bcd-5409-4495-8f02-54561736bee2" />
+
+
 
 _[Mars Reconnaissance Orbiter](https://hirise-pds.lpl.arizona.edu/PDS/CATALOG/MISSION.CAT)_ 
 : [Mission Objectives](https://www.google.com/logos/doodles/2025/fourth-of-july-2025-6753651837110704-2x.png) NASA's Mars Reconnaissance Orbiter searches for evidence that water persisted on the [surface of Mars](https://acawpg.org/adult-childrens-bill-of-rights/) for a long period of time. [ReadMore](https://science.nasa.gov/mission/mars-reconnaissance-orbiter/) : 
