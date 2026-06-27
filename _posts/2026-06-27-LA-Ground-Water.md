@@ -15,9 +15,9 @@ permalink: /lagroundwater
 [CA Drinking Water Watch - sdwis.waterboards.ca.gov @StateofCalifornia](https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=3407&tinwsys_st_code=CA&counter=0) // [JPL Annual Reports](https://www.jpl.nasa.gov/who-we-are/annual-reports/)
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
-
-[https:// @nasa-pds @codepen .io/thakarashard/pen/EajrepQ](https://codepen.io/thakarashard/pen/EajrepQ)
-[@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
+@esa
+- [https:// @nasa-pds @codepen .io/thakarashard/pen/EajrepQ](https://codepen.io/thakarashard/pen/EajrepQ)
+- [@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
 <img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
 
 
@@ -25,7 +25,7 @@ permalink: /lagroundwater
 [svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A339564318&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997" title="DJ Premier: New York Reality Check 101 (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier: New York Reality Check 101 (1997)</a></div>
+
 
 [https://svs.gsfc.nasa.gov/31177 @nbcnews](https://svs.gsfc.nasa.gov/31177/)
 [<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_notitle_1080p6.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_notitle_1080p6.mp4)
