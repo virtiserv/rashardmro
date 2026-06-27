@@ -25,8 +25,31 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+
+## Drought Planning @CityOfLosANgeles
+[svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
 
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay; encrypted-media" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A339564318&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/selectabwoy" title="Selectabwoy" target="_blank" style="color: #cccccc; text-decoration: none;">Selectabwoy</a> · <a href="https://soundcloud.com/selectabwoy/dj-premier-new-york-reality-check-101-1997" title="DJ Premier: New York Reality Check 101 (1997)" target="_blank" style="color: #cccccc; text-decoration: none;">DJ Premier: New York Reality Check 101 (1997)</a></div>
+
+[https://svs.gsfc.nasa.gov/31177 @nbcnews](https://svs.gsfc.nasa.gov/31177/)
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_notitle_1080p6.mp4" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031177/grace_ca_water_200205-202202_notitle_1080p6.mp4)
+
+Relative Wetness Root Zone Versus Groundwater Comparison
+Released Monday, April 24, 2023
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005098/root_n_grnd.1080p30.mp4" />](https://svs.gsfc.nasa.gov/vis/a000000/a005000/a005098/root_n_grnd.1080p30.mp4)
+
+Two Decades of Soil Moisture from Space
+Released Monday, February 10, 2025
+[https://svs.gsfc.nasa.gov/31176/](https://svs.gsfc.nasa.gov/31176/)
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.webm" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031176/GRACE_US_7D_RTZSM_GWS_040_1080p10.webm)
+
+Monitoring Global Groundwater from Space
+Released Monday, February 10, 2025
+
+[<video controls  src="https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031178/GRACE_GLOBAL_7D_RTZSM_030_1080p10.webm" />](https://svs.gsfc.nasa.gov/vis/a030000/a031100/a031178/GRACE_GLOBAL_7D_RTZSM_030_1080p10.webm)
 
 
 hello @blackgirlscode @howard-university-web-services
