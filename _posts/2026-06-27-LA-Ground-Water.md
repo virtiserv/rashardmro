@@ -23,7 +23,7 @@ permalink: /lagroundwater
 [U.S. Spacewalk Preview News Conference (June 25, 2026)](https://www.youtube.com/live/QNNfhTwmYso?si=rn-Tv2PBEMZYBcnb)
 @la-county-isd @cityoflosangeles @stateofcalifornia 
 Hearing on 2025 Urban Water Management Plans and Water Shortage
-Contingency Plan
+Contingency Plan [@la-county-isd agenda item 5 5.](https://assets-us-01.kc-usercontent.com/0234f496-d2b7-00b6-17a4-b43e949b70a2/a257c57e-fc0a-42f8-b960-7def804864d2/Agenda%20062326_links.pdf#page=6) im starting here, as scratch space [bos.lacounty.gov/board-meeting-agendas](https://bos.lacounty.gov/board-meeting-agendas/) 
 
 
 
