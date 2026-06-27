@@ -11,6 +11,7 @@ permalink: /lagroundwater
 [ecostress.jpl.nasa.gov/team @la-county-isd @nasa-openscapes @nasa-giss](https://ecostress.jpl.nasa.gov/team)
 [https://nasagrace.unl.edu/](https://nasagrace.unl.edu/)
 [https://grace.jpl.nasa.gov/applications/groundwater/](https://grace.jpl.nasa.gov/applications/groundwater/)
+[CA Drinking Water Watch - sdwis.waterboards.ca.gov @StateofCalifornia](https://sdwis.waterboards.ca.gov/PDWW/JSP/WaterSystemDetail.jsp?tinwsys_is_number=3407&tinwsys_st_code=CA&counter=0)
 
 
 
