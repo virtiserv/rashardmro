@@ -69,6 +69,31 @@ Tracking with my cell as well
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
 
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6e7c5fb-3e1c-4a4e-97a3-a5a17e86de15" />
+
+
+<img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
+
+@blackgirlscode [file for coral erika normani and latrice sartu kashdoll @nasa-jpl @nasa-pds _`FireyCoalz`_](https://github.com/ThakaRashard/thakarashard.github.io/blob/master/docs/a03dd638-f433-4765-bb5c-8b7ef733e74b.pdf)
+
+<img alt="image" src="https://github.com/user-attachments/assets/e75406bd-c7fd-46ed-94e6-10bc64e46c0b" />
+<img src="https://1000logos.net/wp-content/uploads/2021/04/FreeBSD-logo-500x281.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Red_Hat_Logo_2019.svg">
+<img src="https://avatars.githubusercontent.com/u/55198424?s=600&v=4">
+<img src="https://www.kindpng.com/picc/m/100-1000670_transparent-background-google-chrome-chromebook-logo-hd-png.png">
+<img src="https://www.training-hipaa.net/wp-content/uploads/2015/10/MicrosoftCertifiedProfessional.jpg">
+<img src="https://www.redhat.com/cms/managed-files/styles/xlarge/s3/Asset-Red_Hat-Frame-1%20copy%203-RGB.jpg?itok=kUHl_2PV">
+<img alt="image" src="https://github.com/user-attachments/assets/9b598b17-2649-4b8b-906c-f179951c5598" />
+
+<img alt="image" src="https://github.com/user-attachments/assets/977e64a8-9b3b-47cf-a3e8-83656260b0d4" />
+
+
+
+
+![https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg](https://csrc.nist.gov/CSRC/media/images/svg/nist-logo.svg)
+Computer Security Resource Center [man-in-the-middle attack (MitM)](https://csrc.nist.gov/glossary/term/man_in_the_middle_attack)
+@la-county-isd @blackgirlscode @nasa-jpl [email @usnistgov](https://mail.google.com/mail/u/0/#sent/KtbxLrjNdDszjzkLQVlTHsXPGjbDBFJJNB) @vsco @voyager-tech-inc @googleworkspace  @Whitehouse @dhs-gov 
+
 
 @la-county-isd @cityoflosangeles @stateofcalifornia 
 Hearing on 2025 Urban Water Management Plans and Water Shortage
