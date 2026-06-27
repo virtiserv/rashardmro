@@ -96,8 +96,193 @@ Tracking with my cell as well
 
 <img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/a6e7c5fb-3e1c-4a4e-97a3-a5a17e86de15" />
+<img  alt="image" src="https://github.com/user-attachments/assets/a6e7c5fb-3e1c-4a4e-97a3-a5a17e86de15" />
 
+@la-county-isd the dns hella corrupt for nation of islam, somone could get orders to kill us ... @nasa-jpl like a lot of shit like allied dns @deptofwar @nasa-pds @whitehouse
+
+```shell
+Microsoft Windows [Version 10.0.26200.7171]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\PAC>nslookup -q=all finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+finalcall.com   internet address = 104.18.26.117
+finalcall.com   internet address = 104.18.27.117
+finalcall.com   AAAA IPv6 address = 2606:4700::6812:1b75
+finalcall.com   AAAA IPv6 address = 2606:4700::6812:1a75
+
+C:\Users\PAC>nslookup -q=all new.finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+new.finalcall.com       internet address = 104.18.26.117
+new.finalcall.com       internet address = 104.18.27.117
+new.finalcall.com       AAAA IPv6 address = 2606:4700::6812:1a75
+new.finalcall.com       AAAA IPv6 address = 2606:4700::6812:1b75
+
+C:\Users\PAC>nslookup -q=mx new.finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+finalcall.com
+        primary name server = brit.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2407780513
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\PAC>nslookup -q=ns new.finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+finalcall.com
+        primary name server = brit.ns.cloudflare.com
+        responsible mail addr = dns.cloudflare.com
+        serial  = 2407780513
+        refresh = 10000 (2 hours 46 mins 40 secs)
+        retry   = 2400 (40 mins)
+        expire  = 604800 (7 days)
+        default TTL = 1800 (30 mins)
+
+C:\Users\PAC>nslookup -q=mx finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+finalcall.com   MX preference = 10, mail exchanger = _dc-mx.7158d1edf0c4.finalcall.com
+
+_dc-mx.7158d1edf0c4.finalcall.com       internet address = 104.130.79.120
+
+C:\Users\PAC>nslookup -q=ns finalcall.com
+Server:  LBPADC2.lbpa.local
+Address:  192.168.129.12
+
+Non-authoritative answer:
+finalcall.com   nameserver = brit.ns.cloudflare.com
+finalcall.com   nameserver = dion.ns.cloudflare.com
+
+brit.ns.cloudflare.com  internet address = 108.162.192.78
+brit.ns.cloudflare.com  internet address = 173.245.58.78
+brit.ns.cloudflare.com  internet address = 172.64.32.78
+brit.ns.cloudflare.com  AAAA IPv6 address = 2606:4700:50::adf5:3a4e
+brit.ns.cloudflare.com  AAAA IPv6 address = 2a06:98c1:50::ac40:204e
+brit.ns.cloudflare.com  AAAA IPv6 address = 2803:f800:50::6ca2:c04e
+dion.ns.cloudflare.com  internet address = 173.245.59.156
+dion.ns.cloudflare.com  internet address = 172.64.33.156
+dion.ns.cloudflare.com  internet address = 108.162.193.156
+dion.ns.cloudflare.com  AAAA IPv6 address = 2803:f800:50::6ca2:c19c
+dion.ns.cloudflare.com  AAAA IPv6 address = 2606:4700:58::adf5:3b9c
+dion.ns.cloudflare.com  AAAA IPv6 address = 2a06:98c1:50::ac40:219c
+
+C:\Users\PAC>
+```
+
+<img  alt="@nbcnews @cbs-news-data @nfl clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf @blackgirlscode @nasa-pds @nasa-jpl @whitehouse" src="https://github.com/user-attachments/assets/9414c4fc-4049-4be4-a424-b0afdab9c7f7" />
+
+@nbcnews @cbs-news-data there needs to be public education on choosing sex partners, new emplyees need to read our constitution about [reproductive freedom](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CONS&sectionNum=SEC.%201.1.&article=I) to ensure they are not stopping girls from choosing a partner [2019 - pdf @stateofcalifornia](https://www.senate.ca.gov/sites/senate.ca.gov/files/california_constitution_2019-20_0.pdf) /// [Proposition 3, titled Constitutional Right to Marry](https://en.wikipedia.org/wiki/2024_California_Proposition_3)
+
+* California Constitution - CONS
+
+ARTICLE I DECLARATION OF RIGHTS [SECTION 1 - SEC. 32]  ( Article 1 adopted 1879. )
+  
+# SEC. 1.1.  
+The state shall not deny or interfere with an individual’s reproductive freedom in their most intimate decisions, which includes their fundamental right to choose to have an abortion and their fundamental right to choose or refuse contraceptives. This section is intended to further the constitutional right to privacy guaranteed by Section 1, and the constitutional right to not be denied equal protection guaranteed by Section 7. Nothing herein narrows or limits the right to privacy or equal protection.
+
+_(Sec. 1.1 added Nov. 8, 2022, by Prop. 1. Res.Ch. 97, 2022. Effective December 21, 2022.)_
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7tl6DN51nwg?si=2gJKoCiGW-BAHuhI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+`_clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf#page=167_`
+
+<img  alt="image" src="https://github.com/user-attachments/assets/9ae1ac86-71f5-4fe1-b140-54478d86b82e" />
+
+[clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf](https://clerk.assembly.ca.gov/sites/clerk.assembly.ca.gov/files/2023-24_Constitution_Final_wCover.pdf)
+<img alt="image" src="https://github.com/user-attachments/assets/6bfe2d63-b12f-4d9f-b6cc-16dffde18293" />
+
+# Create a URL to open a PDF file at a specific page
+[ @cityoflosangeles plz share @stateofcalifornia @nasa-jpl helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat](https://helpx.adobe.com/acrobat/kb/link-html-pdf-page-acrobat.html)
+
+To target an HTML link to a specific page in a PDF file, add **`#page=[page number]`** to the end of the link URL.
+
+For example, this HTML tag opens page 4 of a PDF file named myfile.pdf:
+
+```html
+<A HREF="http://www.example.com/myfile.pdf#page=4">
+```
+
+<img  alt="Open a PDF file to a specific page" src="https://github.com/user-attachments/assets/377db953-a778-498b-bac6-c457e6b3b262" />
+
+
+@nasa-openscapes its brutal at billie jean in long beach, the itching!!!!!!!! @longbeachinnovationteam @la-county-isd @nasa-pds @blackgirlscode [@ForAtlanta ra5hard.github.io/checking_in](https://ra5hard.github.io/checking_in)
+<img  alt="image" src="https://github.com/user-attachments/assets/7183a46a-806e-4d7e-ab42-a2f5c14ec47c" />
+
+```
+Profile Information
+Name: Rashard I Kelly
+Username: rashardkelly
+Email Address: holetoanotheruniverse40@gmail.com
+Organization: Mars Reconnocinse Orbiter #NasaJPL #La_CanaDa_FlintRidge Los Angeles County California
+Country: United States
+Member Since: 08-24-2024
+Last Authentication: 06-20-2026
+Federated User: False
+Application Creator: False
+User Type: Science Team
+Study Area: Atmospheric Aerosols
+Affiliation: Government
+Allow Email Notifications from Applications: True
+Agreed To Meris EULA: True
+Agreed To Sentinel-3 EULA: True
+Protection and maintenance of user profile information is described in NASA's Web Privacy Policy
+
+For questions regarding the EOSDIS Earthdata Login, please contact Earthdata Support
+
+
+V jun19-hotfix-1 Home NASA Accessibility
+NASA Official: Doug Newman @doug-newman-nasa @nasa-pds @nasa-openscapes
+ @la-county-isd @emit-sds @blackgirlscode @virtiserv
+```
+![@nasa-jpl @nasa-pds @doug-newman-nasa @nasa-openscapes @USSF-ORBiT](https://github.com/user-attachments/assets/aaa58505-ea24-4ce3-bbcc-97088fe4eaeb)
+[https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.browse.png)
+![https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png](https://hirise-pds.lpl.arizona.edu/PDS/EXTRAS/ANAGLYPH/ESP/ORB_012500_012599/ESP_012516_1330_ESP_012239_1330/ESP_012516_1330_ESP_012239_1330_RED.thumb.png)
+
+
+# Jelly Fish Over LA
+friends of @blackgirlscode `The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal` - [watch](https://youtu.be/kmU09zbyjWE?t=2)
+
+[Elon Musk](https://www.tesla.com/elon-musk) co-founded and leads [Tesla, SpaceX](https://www.nytimes.com/2026/06/17/business/spacex-tesla-merger-elon-musk.html), Neuralink and The Boring Company. @nasa-jpl @nasa-pds 
+
+[<video controls  src="https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4" />](https://ia800106.us.archive.org/16/items/skywatching_202605/00STstarlink%2017-45%20part1_SPACEXJELLYFISH%201VID_20260624_203326_997.mp4)
+
+
+part 2 
+Tracking with my cell as well
+
+[<video controls  src="https://ia800106.us.archive.org/16/items/skywatching_202605/00STarlink17-45%20part%202VID_20260624_203707_097.mp4" />](https://ia800106.us.archive.org/16/items/skywatching_202605/00STarlink17-45%20part%202VID_20260624_203707_097.mp4)
+
+<img alt="image" src="https://github.com/user-attachments/assets/5b388a5f-e5bc-4e38-9297-ac2c89a0b881" />
+
+[TrackingStarman -whereisroadster.com](https://www.whereisroadster.com/)
+
+`The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal | The Lana Rundown` [Watch](https://youtu.be/kmU09zbyjWE?t=178)
+@whitehouse @foratlanta @stateofcalifornia ... @blackgirlscode pass this to LANA `@hot97 lana read this b4 any more coverage` -  
+
+[centcom.mil/CENTCOM-AOR/Iran/ @deptofwar](https://www.centcom.mil/CENTCOM-AOR/Iran/)
+
+[The Truth Behind Iran’s "Jellyfish" Drones & Jared Kushner’s Albania Deal  youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4](https://youtu.be/kmU09zbyjWE?si=SyzZw8dqaLtRQGc4) 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/d2bfbe75-1019-4123-ad3f-063ae0b04d6e" />
+
+[Falcon 9 Crew Dragon Launch Weather Criteria](https://www.nasa.gov/wp-content/uploads/2021/07/falcon9_crewdragon_launch_weather_criteria_fact_sheet.pdf)
+[Falcon 9 Dragon Launch Weather Criteria](https://web.archive.org/web/20210109114451/https://www.nasa.gov/pdf/649911main_051612_falcon9_weather_criteria.pdf)
+[Launch commit criteria - Wikipedia](https://en.wikipedia.org/wiki/Launch_commit_criteria#Falcon_9)
 
 <img alt="image" src="https://github.com/user-attachments/assets/4ac8a87f-4e4c-4c26-a168-f6a021d961aa" />
 
