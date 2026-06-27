@@ -8,4 +8,4 @@ author: "RashardKelly @nasa-jpl"
 permalink: /lagroundwater
 ---
 
-[ecostress.jpl.nasa.gov/team](https://ecostress.jpl.nasa.gov/team)
+[ecostress.jpl.nasa.gov/team @la-county-isd @nasa-openscapes @nasa-giss](https://ecostress.jpl.nasa.gov/team)
