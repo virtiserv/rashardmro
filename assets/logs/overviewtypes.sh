@@ -7,7 +7,7 @@ uname -a
 ifconfig 
 uptime
 date
-ulimit -a
+
 traceroute localhost
 cal
 nslookup -type=mx spacex.com
@@ -63,7 +63,14 @@ nslookup -type=mx esa.int
 nslookup -type=ns spacetelescope.org
 
 nslookup -type=mx spacetelescope.org
+
 traceroute reelecthydee.com
+nslookup -type=ns healthebay.org
+nslookup -type=mx healthebay.org
+nslookup -type=mx issinfo.net
+nslookup -type=ns issinfo.net
+nslookup -type=mx aquariumofpacific.org
+nslookup -type=ns aquariumofpacific.org
 traceroute hollyjmitchell.com
 nslookup -type=ns reelecthydee.com  
 nslookup -type=mx reelecthydee.com
