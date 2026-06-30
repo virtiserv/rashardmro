@@ -8,9 +8,12 @@ image: losangelesecostreess.png
 author: "RashardKelly @nasa-jpl"
 mathjax: true
 categories: LA eco ecostress space dsn nsn climate weather
-date:   2026-06-23 0:51:06 
+date:   2026-06-30 0:51:06 
 ---
 
+
+[@cityoflosnangeles @nasa-jpl @dhs-gov @commercegov](https://lamag.com/lahistory/l-s-26th-mayor-excellent-mustache-also-wildly-corrupt/)
+<img  alt="image" src="https://github.com/user-attachments/assets/08f5da69-37ca-4ee2-8bdc-b7c1927aa894" />
 
 
 # Earthdata Overview
