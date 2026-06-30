@@ -30,6 +30,12 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 <img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
 
 
+
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-penalty-kick-72-6753651837111290.2-law.gif)
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a7b2c8fa-5741-43e8-a532-0efe75971693" />
+
+
 ## Drought Planning @CityOfLosANgeles
 [svs.gsfc.nasa.gov/](https://svs.gsfc.nasa.gov/)
 [<img src="https://web.archive.org/web/20060104192812im_/http://mars.jpl.nasa.gov/mro/images/mro_banner.jpg">]( https://web.archive.org/web/20060108092026/http://mars.jpl.nasa.gov/mro/)
