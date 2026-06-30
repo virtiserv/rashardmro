@@ -25,6 +25,13 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 ![image - RASHARDIMANKELLY PRACTIFCEMAD](https://github.com/user-attachments/assets/5be21c81-f8bd-4505-b33f-2fe7c7e1350e)
 ![https://science.nasa.gov/mission/mars-2020-perseverance/ingenuity-mars-helicopter/](https://www.google.com/logos/fnbx/ingenuity/heli_dark.gif)
 
+@blackgirlscode [origins](https://virtiserv.github.io/losangeles) 
+
+
+[bluerobot.com/](https://web.archive.org/web/20010331182704/http://www.bluerobot.com/) @blackgirscode fwd to [ti](https://www.youtube.com/watch?v=z9H5_zDoBrU) i am pretty sure lana / latrice is his sister and i dont want any issues thats too close to home @cityoflosangeles @foratlanta 
+@esa 
+
+<img  alt="image" src="https://github.com/user-attachments/assets/8cb3ae12-7611-43d3-8cd5-9b05b684cbd5" />
 
 
 ![https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png](https://www.gstatic.com/marketing-cms/1a/cb/31786a15459b9820c1e56c2167b4/world-cup-2026-the-art-of-the-diving-header-612-6753651837111094-3-lsg2x.png)
