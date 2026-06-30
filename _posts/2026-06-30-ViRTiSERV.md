@@ -28,7 +28,9 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 @blackgirlscode [origins](https://virtiserv.github.io/losangeles) 
 
 
-[bluerobot.com/](https://web.archive.org/web/20010331182704/http://www.bluerobot.com/)
+[bluerobot.com/](https://web.archive.org/web/20010331182704/http://www.bluerobot.com/) @blackgirscode fwd to [ti](https://www.youtube.com/watch?v=z9H5_zDoBrU) i am pretty sure lana / latrice is his sister and i dont want any issues thats too close to home @cityoflosangeles @foratlanta 
+@esa 
+
 <img  alt="image" src="https://github.com/user-attachments/assets/8cb3ae12-7611-43d3-8cd5-9b05b684cbd5" />
 
 
