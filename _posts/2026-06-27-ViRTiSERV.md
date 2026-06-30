@@ -27,6 +27,8 @@ MRO JUNO iSS [_ECOSTRESS_](https://ecostress.jpl.nasa.gov/gallerylist) [ALt - gi
 
 ![https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png](https://www.gstatic.com/marketing-cms/76/98/95a17d6a4cc3a343b0d31e49829d/world-cup-2026-the-art-of-the-curler-623-6753651837111123-lsg2x.png)
 
+![https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-the-art-of-the-curler-623-6753651837111123.2-2xa.gif)
+
 ![https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif](https://www.google.com/logos/doodles/2026/world-cup-2026-knee-slide-6753651837111127-2xa.gif)
 
 [@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
