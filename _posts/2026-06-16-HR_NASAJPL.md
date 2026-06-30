@@ -11,6 +11,44 @@ mathjax: true
 
 # Rashard Kelly NasaJpl MRO JUNO iSS [ALt - github.com/kellyrashardiman/kellyrashardiman.github.io](https://github.com/kellyrashardiman/kellyrashardiman.github.io/tree/master) + [homepage alt - kellyrashardiman.github.io](https://kellyrashardiman.github.io/)
 
+
+
+[virtiserv.github.io/losangeles](https://virtiserv.github.io/losangeles)
+
+<img  alt="image" src="https://github.com/user-attachments/assets/a8bbce55-4e6a-4240-bb72-beace71d3848" />
+
+
+<div class="tupperware">
+    
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+<p>
+    <a href="https://jigsaw.w3.org/css-validator/check/referer">
+        <img style="border:0;width:88px;height:31px"
+            src="https://jigsaw.w3.org/css-validator/images/vcss-blue"
+            alt="Valid CSS!" />
+    </a>
+</p>
+
+</div>
+
+<img alt="image" src="https://github.com/user-attachments/assets/b3343d94-0501-430c-982c-1c1f20587b0c" />
+
+
+[@nasa-jpl gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872 @nasa-develop](https://gist.github.com/ThakaRashard/6e5a7cd9f653ce8bbfa8b0e4db60d872)
+<img  alt="image" src="https://github.com/user-attachments/assets/a7d87fec-0558-4294-9237-d5c2c5ef2963" />
+
+
+
+<img   alt="image" src="https://github.com/user-attachments/assets/a7b2c8fa-5741-43e8-a532-0efe75971693" />
+
+
 ## Judge Mike Jacobs
 [https://www.youtube.com/@judgemikejacobs](https://www.youtube.com/@judgemikejacobs)
 Judge Mike Jacobs has served on the State Court of DeKalb County since June 2015.
