@@ -1,6 +1,13 @@
 
 
 # @nasa-pds /@nasa-jpl its [WorldSpaceWeek](https://www.worldspaceweek.org/) @CityOfLosAngeles @NBCNEWS
+
+
+### NASA’s [InSight Records Monster Quake](https://www.iris.edu/hq/sis/insight) on Mars [@nasa-jpl `READ`](https://www.nasa.gov/missions/insight/nasas-insight-records-monster-quake-on-mars/)
+![https://www.nasa.gov/wp-content/uploads/2022/05/pia25044-1-1041.jpg](https://www.nasa.gov/wp-content/uploads/2022/05/pia25044-1-1041.jpg) 
+
+![https://www.google.com/logos/doodles/2026/space-week-2026-day-3-6753651837111377-2xa.gif](https://www.google.com/logos/doodles/2026/space-week-2026-day-3-6753651837111377-2xa.gif)
+
 @Google i hope that came out right [doodles.google/doodle/`space-week-2026-day-1`/](https://doodles.google/doodle/space-week-2026-day-1/)
 
 ![https://www.google.com/logos/doodles/2026/space-week-2026-day-1-6753651837111155-2xa.gif](https://www.google.com/logos/doodles/2026/space-week-2026-day-1-6753651837111155-2xa.gif)
